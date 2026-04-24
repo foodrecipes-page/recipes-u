@@ -1,0 +1,65 @@
+{
+  "title": "Umami Air-Popped Pork Tenderloin",
+  "description": "A light Syrian-inspired dish featuring air-fried pork tenderloin with umami flavors that are both chewy and paleo-friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork Tenderloin",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Umami Seasoning Mix",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "Trim any excess fat from the pork tenderloin.",
+    "Cut the tenderloin into bite-sized chunks if desired for a more snackable size.",
+    "Season both sides of the meat with umami seasoning mix, salt, and pepper evenly.",
+    "Place the seasoned tenderloin in the air fryer basket. Cook for 12-15 minutes or until fully cooked through (internal temperature reaches at least 145°F).",
+    "Let rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "pork",
+    "air-fryer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 7,
+    "carbs": 4,
+    "fat": 3
+  },
+  "slug": "umami-air-popped-pork-tenderloin",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-air-popped-pork-tenderloin",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:46:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "paleo",
+    "region": null
+  }
+}
