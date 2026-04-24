@@ -1,0 +1,71 @@
+{
+  "title": "Umami Crisp Vesy",
+  "description": "A low-carb workout delight featuring Umami flavors and a crispy texture from air-frying Tunisian cheese with an optional drizzle of sweet V Sterbottensost for added sweetness.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb",
+    "ketogenic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "V Sterbottensost Cheese",
+      "amount": "1 oz"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Coconut Oil or Avocado Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C).",
+    "In a small bowl, mix together all-purpose flour and V Sterbottensost cheese.",
+    "Add garlic powder and salt, stirring until evenly combined.",
+    "Using your hands, shape the mixture into bite-sized balls or patties.",
+    "Place the cheese balls in the air fryer basket and cook for 12-15 minutes, turning halfway through cooking time to ensure even crispiness.",
+    "Optional: Drizzle with V Sterbottensost sauce before serving for extra sweetness."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "umami",
+    "air-fry",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 97,
+    "protein": 2.4,
+    "carbs": 10.5,
+    "fat": 6.8
+  },
+  "slug": "umami-crisp-vesy-low-carb-workout-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crisp-vesy-low-carb-workout-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T22:43:00Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "air-fry",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "low-carb",
+    "region": null
+  }
+}

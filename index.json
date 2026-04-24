@@ -1,9 +1,15 @@
-{
-  "version": 1,
-  "shard": "u",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'u''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-u@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "umami-crisp-vesy-low-carb-workout-delight",
+    "title": "Umami Crisp Vesy",
+    "tags": [
+      "tunisian",
+      "umami",
+      "air-fry",
+      "low-carb"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 20,
+    "shard": "u"
+  }
+]
