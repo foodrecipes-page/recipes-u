@@ -1,0 +1,73 @@
+{
+  "title": "Umami Farfallini",
+  "description": "A nostalgic Polish dish featuring crumbly farfalle pasta, air-fried to perfection and made paleo-friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Farfalle pasta",
+      "amount": "100g"
+    },
+    {
+      "name": "Coconut flour crumbs",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "Mix the farfalle pasta with the coconut flour crumbs, apple cider vinegar, cumin, salt, and pepper until evenly coated.",
+    "Shape the mixture into small balls or patties.",
+    "Air-fry for 6-8 minutes or until golden brown and crispy on all sides.",
+    "Serve immediately as a snack or side dish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "crumbly",
+    "nostalgic",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 9,
+    "carbs": 16,
+    "fat": 7
+  },
+  "slug": "umami-farfallini",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-farfallini",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:40:41Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "air-fry",
+    "primaryIngredient": "farfalle",
+    "diet": "paleo",
+    "region": null
+  }
+}
