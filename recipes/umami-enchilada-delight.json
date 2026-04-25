@@ -1,0 +1,92 @@
+{
+  "title": "Umami Enchilada Delight",
+  "description": "A light and crowd-pleasing Thai dish featuring an umami-rich enchilada sauce, made nut-free-friendly for a wider audience.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chickpea Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Vegetable Oil or Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Umami Flavoring (like oyster sauce)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine chickpea flour and water to form a smooth batter. Mix until there are no lumps.",
+    "Heat vegetable oil or coconut oil in a non-stick skillet over medium heat. Pour the batter into the pan and spread it out evenly using a spatula.",
+    "Cook for 2-3 minutes on each side, flipping once, until golden brown. Set aside to cool slightly.",
+    "In another skillet, sauté garlic and onion with red curry paste until fragrant. Stir in umami flavoring, paprika, cumin powder, salt, and sugar.",
+    "Add cooked chickpea flour cakes to the skillet. Mix well to coat all sides with sauce. Continue cooking for an additional 2-3 minutes or until fully heated through.",
+    "Serve hot over rice or as a side dish. Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "enchilada",
+    "thai",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "umami-enchilada-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-enchilada-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:49:14Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "temper",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "nut-free",
+    "region": null
+  }
+}

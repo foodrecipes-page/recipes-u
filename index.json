@@ -75,5 +75,18 @@
     "cuisine": "Thailand",
     "totalTimeMin": 30,
     "shard": "u"
+  },
+  {
+    "slug": "umami-enchilada-delight",
+    "title": "Umami Enchilada Delight",
+    "tags": [
+      "umami",
+      "enchilada",
+      "thai",
+      "nut-free"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
+    "shard": "u"
   }
 ]
