@@ -1,0 +1,85 @@
+{
+  "title": "Umami Flaky Potato Crumble",
+  "description": "This French-inspired dish is a perfect solo-dinner option featuring a flaky potato crumble topped with a creamy chive dip, all slow-cooked to perfection for an indulgent yet sugar-free meal.",
+  "cuisine": "French",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 large russet potatoes",
+      "amount": "each"
+    },
+    {
+      "name": "1 cup sour cream",
+      "amount": "cup"
+    },
+    {
+      "name": "4 tablespoons butter",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "each"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh chives for garnish (optional)",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Halve the potatoes lengthwise and scoop out some of the flesh, leaving a half-inch thick wall.",
+    "Rub olive oil into the hollowed-out potato halves and sprinkle with salt. Place cut-side down on a baking sheet.",
+    "Bake for 45 minutes or until tender. Remove from oven and let cool slightly.",
+    "In a large bowl, mix together sour cream, butter, lemon juice, minced garlic, and remaining salt. Mix well.",
+    "Gently stuff the potato hollows with the creamy mixture. Return to baking sheet and bake for an additional 15 minutes or until golden brown on top.",
+    "Serve hot as is or with a side of fresh chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "flaky",
+    "soured-cream",
+    "chive-dip",
+    "slow-cook",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 17,
+    "fat": 13
+  },
+  "slug": "umami-flaky-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-flaky-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:40:21Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "slow-cook",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Potato",
+    "descriptor": "Umami Flaky",
+    "dishForm": "Crumble"
+  }
+}

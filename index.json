@@ -144,6 +144,21 @@
     "shard": "u"
   },
   {
+    "slug": "umami-flaky-potato-crumble",
+    "title": "Umami Flaky Potato Crumble",
+    "tags": [
+      "umami",
+      "flaky",
+      "soured-cream",
+      "chive-dip",
+      "slow-cook",
+      "sugar-free-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "u"
+  },
+  {
     "slug": "umami-fold-english-muffin-bowl",
     "title": "Umami Fold English Muffin Bowl",
     "tags": [
