@@ -1,0 +1,63 @@
+{
+  "title": "Unwaxed Lemon Affair",
+  "description": "A bitter and dense dish featuring an unwaxed lemon as its star ingredient, with a touch of romantic Saudi Arabian flair suitable for low-sodium diets.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unwaxed lemon",
+      "amount": "1",
+      "notes": "Choose a lemon with a subtle bitterness and dense consistency."
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "a few",
+      "notes": "For garnish only, add to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed for added zing"
+    }
+  ],
+  "instructions": [
+    "Slice the lemon thinly and place in a bowl. Add fresh mint leaves.",
+    "Squeeze 2 tablespoons of lime juice over the sliced lemon, ensuring it evenly coats all surfaces.",
+    "Taste test to adjust the amount of lime juice for your desired level of bitterness and acidity."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "unwaxed-lemon",
+    "bitter",
+    "romantic-saudia-arabian",
+    "dairy-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 15,
+    "protein": 0.3,
+    "carbs": 2.7,
+    "fat": 0.4
+  },
+  "slug": "unwaxed-lemon-affair",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/unwaxed-lemon-affair",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:39:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "whisk",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
