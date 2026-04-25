@@ -1,0 +1,71 @@
+{
+  "title": "Umami Crumbly Norwegian Polish Sausage Crock Pot Cumble",
+  "description": "A whole30-friendly, sick-day dish featuring crumbly sausage that's perfect for a quick, comforting meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Norwegian Polish Sausage",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Umami Flavored Broth or Broth Powder",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your crock pot to low.",
+    "Place the sausage slices in a single layer at the bottom of the crock pot, leaving some space around them for expansion.",
+    "Add chopped onion and minced garlic over the sausages. Stir gently.",
+    "Sprinkle umami flavored broth or powder evenly over the vegetables and sausages to keep everything moist and tender during cooking.",
+    "Cover and cook on low for 4-6 hours, turning off heat at least once more halfway through the process to allow any excess liquid to evaporate slightly. This will help create a crumbly texture.",
+    "Remove from crock pot after cooking, let cool slightly before serving. Use fork to shred sausage into bite-sized pieces and serve with your favorite toppings like sour cream or avocado."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 6,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "crumbly",
+    "sick-day",
+    "norwegian",
+    "polish-sausage"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "umami-crumbly-norwegian-polish-sausage-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crumbly-norwegian-polish-sausage-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:51:04Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "fry",
+    "primaryIngredient": "polish sausage",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Polish Sausage",
+    "descriptor": "Umami Crumbly",
+    "dishForm": "Crumble"
+  }
+}
