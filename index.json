@@ -35,5 +35,19 @@
     "cuisine": "Brazilian",
     "totalTimeMin": 20,
     "shard": "u"
+  },
+  {
+    "slug": "umami-crunchy-solo",
+    "title": "Umami Crunchy Solo",
+    "tags": [
+      "umami",
+      "crispy",
+      "solo-dinner",
+      "massaman-curry",
+      "quinoa"
+    ],
+    "cuisine": "Thailand",
+    "totalTimeMin": 30,
+    "shard": "u"
   }
 ]

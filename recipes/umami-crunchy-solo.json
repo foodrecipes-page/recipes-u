@@ -1,0 +1,81 @@
+{
+  "title": "Umami Crunchy Solo",
+  "description": "This egg-free solo dinner dish features a flavorful blend of massaman curry paste and other aromatic ingredients like shallots, garlic, and tomatoes to create a crispy, savory side.",
+  "cuisine": "Thailand",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup cooked quinoa",
+      "amount": "",
+      "notes": "Cooked according to package directions"
+    },
+    {
+      "name": "1 cup roasted peanuts",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups shredded carrots",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chopped cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons finely diced cucumber",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup roasted red peppers, diced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup fresh basil leaves, chopped",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the cooked quinoa, roasted peanuts, shredded carrots, cilantro, cucumber, red peppers, and basil leaves.",
+    "Drizzle with a small amount of vegetable oil to enhance flavors and crispiness. Toss gently until all ingredients are evenly coated and combined.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper. Bake at 375°F (190°C) for about 20 minutes or until crunchy and lightly golden."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "crispy",
+    "solo-dinner",
+    "massaman-curry",
+    "quinoa"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "umami-crunchy-solo",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crunchy-solo",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:09:15Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "egg-free",
+    "region": null
+  }
+}
