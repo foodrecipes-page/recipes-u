@@ -1,0 +1,74 @@
+{
+  "title": "Umami Delight One-Pot with Dill Pickle and Dumplings",
+  "description": "A low-fat-friendly Moroccan-inspired one-pot dish featuring umami flavors from soy sauce and dark miso, complemented by the sharpness of dill pickles and the flaky texture of dumplings.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup chicken or vegetable broth"
+    },
+    {
+      "name": "2 tablespoons low-sodium soy sauce"
+    },
+    {
+      "name": "1 tablespoon dark miso"
+    },
+    {
+      "name": "2 cups shredded carrots"
+    },
+    {
+      "name": "1/4 cup finely chopped dill pickles"
+    },
+    {
+      "name": "8 dumplings (gluten-free if needed)"
+    },
+    {
+      "name": "1 lemon, juiced and zested"
+    }
+  ],
+  "instructions": [
+    "Heat the broth in a large pot over medium heat.",
+    "Add soy sauce and miso, stirring until fully dissolved.",
+    "Add carrots and dill pickles; stir to combine.",
+    "Gently drop dumplings into the soup, making sure not to overcrowd the pot.",
+    "Reduce heat to low, cover, and simmer for about 10 minutes or until dumplings are cooked through and vegetables are tender.",
+    "Squeeze in lemon juice, add lemon zest at last and stir well.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "one-pot",
+    "dumplings",
+    "low-fat",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 9,
+    "carbs": 38,
+    "fat": 10
+  },
+  "slug": "umami-delight-one-pot-with-dill-pickle-and-dumplings",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-delight-one-pot-with-dill-pickle-and-dumplings",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:06:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "dum",
+    "primaryIngredient": "dill pickles",
+    "diet": "low-fat",
+    "region": null
+  }
+}
