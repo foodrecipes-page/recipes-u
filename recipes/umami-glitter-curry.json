@@ -1,0 +1,84 @@
+{
+  "title": "Umami Glitter Curry",
+  "description": "A show-off Chinese dish featuring Thai green curry paste with umami flavors and a flaky texture, made without nuts for a nut-free-friendly option.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai Green Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": "For added umami flavor"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": "Organic and low-fat for healthier option"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "3 tablespoons",
+      "notes": "To add depth of flavor"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 teaspoons",
+      "notes": "For sweetness to balance the umami flavors"
+    },
+    {
+      "name": "Thai Fish (or other firm white fish)",
+      "amount": "4 pieces",
+      "notes": "About 100g each"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2 stalks, chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Fresh Lemongrass",
+      "amount": "5-6 stalks, minced",
+      "notes": "To add freshness and umami flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large frying pan over medium-high heat. Add coconut milk to the wok.",
+    "Season with Thai Green Curry Paste, Fish Sauce, and Sugar. Stir well until all ingredients are evenly distributed in the coconut milk.",
+    "Add fish pieces to the curry sauce. Cover the pan with a lid and cook for about 5 minutes on each side or until fish is cooked through.",
+    "Remove fish from the pan and set aside. Keep cooking the sauce for another minute, then stir in minced green onions and lemongrass.",
+    "Return the fish pieces to the pan along with any accumulated juices that may have formed during cooking. Cook for an additional 2 minutes or until heated evenly throughout.",
+    "Garnish with fresh green onions before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "umami",
+    "glitter",
+    "chinese",
+    "flaky",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "umami-glitter-curry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-glitter-curry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:29:20Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "ferment",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "nut-free",
+    "region": null
+  }
+}

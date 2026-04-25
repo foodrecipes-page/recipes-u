@@ -131,6 +131,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-glitter-curry",
+    "title": "Umami Glitter Curry",
+    "tags": [
+      "umami",
+      "glitter",
+      "chinese",
+      "flaky",
+      "nut-free"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "u"
+  },
+  {
     "slug": "umami-velvet-adventurous-flaxie",
     "title": "Umami Velvet Adventurous Flaxie",
     "tags": [
