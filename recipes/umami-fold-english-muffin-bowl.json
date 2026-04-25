@@ -1,0 +1,79 @@
+{
+  "title": "Umami Fold English Muffin Bowl",
+  "description": "A post-workout Korean-inspired dish featuring nut-free-friendly English muffins folded into a bowl for easy consumption.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "English Muffin",
+      "amount": "4 pieces",
+      "notes": "Ensure they are nut-free if required."
+    },
+    {
+      "name": "Chickpea Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Umami Seasoning (or Soy Sauce)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "To taste, fresh parsley and dill"
+    },
+    {
+      "name": "Butter or Olive Oil for Cooking",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix together chickpea flour, water, umami seasoning, and vegetable oil in a bowl.",
+    "Stir until the mixture is smooth without any lumps. The consistency should be similar to pancake batter.",
+    "Heat butter or olive oil in a small skillet over medium heat.",
+    "Once hot, pour the mixed dough into the pan and spread evenly to form two oval-shaped muffins.",
+    "Fold each muffin half way down its length while still in the skillet. Let them cook for about 2 minutes per side until golden brown and crispy on the outside.",
+    "Carefully transfer folded muffins onto a baking sheet lined with parchment paper or directly into an oven-safe container to cool.",
+    "Top cooked muffins with fresh herbs like parsley and dill, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "nut-free",
+    "english-muffin-bowl",
+    "korean-inspired"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 3.7,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "umami-fold-english-muffin-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-fold-english-muffin-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:57:45Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "english muffins",
+    "diet": "nut-free",
+    "region": null
+  }
+}
