@@ -1,0 +1,91 @@
+{
+  "title": "Umami Broil Braise with Bouquet Garni",
+  "description": "This French-inspired dish combines umami flavors and crispy textures for a crowd-pleasing meal that's easy to prepare.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "1 lb (450g)",
+      "notes": "Marinated for extra flavor"
+    },
+    {
+      "name": "Watercress leaves",
+      "amount": "6-8 leaves",
+      "notes": "For garnish and to add freshness"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "2 slices",
+      "notes": "Freshly grated for brightness"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 pieces",
+      "notes": "Sliced thinly for extra umami"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 tbsp",
+      "notes": "For tenderizing the meat and adding acidity"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp",
+      "notes": "For searing and browning"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tsp",
+      "notes": "To add depth of flavor to the marinade"
+    },
+    {
+      "name": "Bouquet garni",
+      "amount": "",
+      "notes": "A mix of herbs tied in a cheesecloth, used for infusing the liquid"
+    }
+  ],
+  "instructions": [
+    "Marinate pork tenderloin with olive oil, brown sugar, and red wine vinegar for at least 30 minutes.",
+    "Preheat oven to 425°F (218°C).",
+    "Coat a broiler pan with olive oil. Place marinated pork on top.",
+    "Braise the meat in the preheated oven for about 10-15 minutes until it reaches an internal temperature of 135°F (57°C) or rare, then let rest at room temperature.",
+    "While resting, make a reduction by simmering marinade with garlic and lemon zest. Strain into a small bowl.",
+    "Preheat broiler to high heat. Brush the surface of rested pork with some of the reduction mixture and sprinkle with brown sugar.",
+    "Broil until the skin is golden and crispy, about 2-3 minutes.",
+    "Arrange watercress leaves on serving platter, place braise-broiled pork tenderloin on top, drizzle with remaining reduction mixture, and garnish with remaining herb bouquet garni."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "umami",
+    "crispy",
+    "crowd-pleaser",
+    "french",
+    "dish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "umami-broil-braise-with-bouquet-garni",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-broil-braise-with-bouquet-garni",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:31:22Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "broil",
+    "primaryIngredient": "bouquet garni",
+    "diet": "dash",
+    "region": null
+  }
+}
