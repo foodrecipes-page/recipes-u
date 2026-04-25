@@ -23,5 +23,17 @@
     "cuisine": "Tunisian",
     "totalTimeMin": 20,
     "shard": "u"
+  },
+  {
+    "slug": "umami-crunchy-pao-verde",
+    "title": "Umami Crunchy Pao Verde",
+    "tags": [
+      "umami",
+      "crunchy",
+      "pao verde"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 20,
+    "shard": "u"
   }
 ]
