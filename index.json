@@ -26,6 +26,18 @@
     "shard": "u"
   },
   {
+    "slug": "umami-comfort-buns",
+    "title": "Umami Comfort Buns",
+    "tags": [
+      "umami",
+      "comfort_buns",
+      "diabetic-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-crisp-vesy-low-carb-workout-delight",
     "title": "Umami Crisp Vesy",
     "tags": [

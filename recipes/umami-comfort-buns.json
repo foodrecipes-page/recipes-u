@@ -1,0 +1,75 @@
+{
+  "title": "Umami Comfort Buns",
+  "description": "These diabetic-friendly comfort buns are a light and comforting Greek dish featuring a delightful umami flavor profile that pairs perfectly with savory snacks or breakfasts.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "8 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large mixing bowl, cream together the butter and sugar until light and fluffy.",
+    "Beat in the egg whites and vanilla extract until fully combined.",
+    "Gradually add the flour while continuing to mix until just combined. The mixture should be slightly crumbly but not dry.",
+    "Divide the dough into 8 equal parts and shape them into small round buns using your hands or a rolling pin.",
+    "Place each bun on a greased baking sheet lined with parchment paper.",
+    "Bake for approximately 12-15 minutes or until golden brown. Do not overbake as they can become dry.",
+    "Let the buns cool slightly before serving. They are best served warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "comfort_buns",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 207,
+    "protein": 4,
+    "carbs": 19,
+    "fat": 5
+  },
+  "slug": "umami-comfort-buns",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-comfort-buns",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:37:22Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "buns",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
