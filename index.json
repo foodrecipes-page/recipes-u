@@ -77,6 +77,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-egg-heimat",
+    "title": "Umami-Egg-Heimat",
+    "tags": [
+      "umami",
+      "tender",
+      "nostalgic",
+      "german",
+      "low-carb"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 20,
+    "shard": "u"
+  },
+  {
     "slug": "umami-enchilada-delight",
     "title": "Umami Enchilada Delight",
     "tags": [

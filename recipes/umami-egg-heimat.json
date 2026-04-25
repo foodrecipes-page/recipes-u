@@ -1,0 +1,71 @@
+{
+  "title": "Umami-Egg-Heimat",
+  "description": "A low-carb friendly, nostalgic German dish featuring tender eggs cooked with umami elements and a touch of nostalgia.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Low-fat sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh herbs (like chives or parsley)",
+      "amount": "handful"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3 whole, minced finely"
+    },
+    {
+      "name": "Coarse salt and black pepper",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Whisk eggs with low-fat sour cream until combined.",
+    "Add finely minced garlic to the egg mixture.",
+    "Season gently with coarse salt and freshly ground black pepper.",
+    "In a small saucepan, warm up fresh herbs like chives or parsley for garnish, ensuring they do not wilt too much.",
+    "Pour the egg mixture into hot, pre-warmed dishes (avoiding boiling water).",
+    "Garnish each dish with warm chopped herbs before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "tender",
+    "nostalgic",
+    "german",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 9,
+    "carbs": 3,
+    "fat": 8
+  },
+  "slug": "umami-egg-heimat",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-egg-heimat",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:28:54Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "rest",
+    "primaryIngredient": "eggs",
+    "diet": "low-carb",
+    "region": null
+  }
+}
