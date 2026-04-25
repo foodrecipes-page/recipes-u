@@ -88,5 +88,18 @@
     "cuisine": "Thai",
     "totalTimeMin": 30,
     "shard": "u"
+  },
+  {
+    "slug": "unsalted-pistachio-crumble-keto",
+    "title": "Fermented Unsalted Pistachio Crumble",
+    "tags": [
+      "unsalted-pistachio",
+      "fermented-dessert",
+      "crumble",
+      "russian-dish"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
