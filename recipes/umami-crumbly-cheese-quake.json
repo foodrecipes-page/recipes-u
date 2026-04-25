@@ -1,0 +1,64 @@
+{
+  "title": "Umami Crumbly Cheese Quake",
+  "description": "A quick-fix British dish featuring liquid cheese in a whole30-friendly crumbly texture suitable for breakfast or snack time.",
+  "cuisine": "British",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flaxseeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine milk and cream cheese in a bowl. Stir in vanilla extract.",
+    "Stir in flaxseeds until mixture coats the back of a spoon but doesn't become gluey.",
+    "Transfer to a baking dish or ramekin, smooth top if desired, then chill for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "umami",
+    "quick-fix",
+    "british-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 8
+  },
+  "slug": "umami-crumbly-cheese-quake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crumbly-cheese-quake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:56:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "bake",
+    "primaryIngredient": "liquid cheese",
+    "diet": "whole30",
+    "region": null
+  }
+}
