@@ -1,0 +1,93 @@
+{
+  "title": "Umami Velvet Adventurous Flaxie",
+  "description": "A velvety and adventurous Jamaican dish featuring flax eggs as a unique ingredient in this jain-friendly recipe, perfect for breakfast.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups of water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup of flaxseeds",
+      "amount": "",
+      "notes": "Soaked for at least 8 hours"
+    },
+    {
+      "name": "1/4 cup of cornstarch",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons of olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 garlic clove, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup of spinach leaves",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "6 slices of bread, toasted",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender, combine soaked flaxseeds with water and cornstarch. Blend until smooth.",
+    "Heat olive oil in a pan over medium heat. Add minced garlic and cook for 1 minute.",
+    "Pour in the flax mixture while stirring continuously to avoid lumps. Simmer for about 2 minutes.",
+    "Stir in chopped spinach and salt, then remove from heat.",
+    "Serve hot on top of toasted bread slices."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "velvety",
+    "adventurous",
+    "jamaican",
+    "flaxie",
+    "toast",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "umami-velvet-adventurous-flaxie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-velvet-adventurous-flaxie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:56:00Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "toast",
+    "primaryIngredient": "flax eggs",
+    "diet": "jain",
+    "region": null
+  }
+}
