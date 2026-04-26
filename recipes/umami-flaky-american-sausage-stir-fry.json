@@ -1,0 +1,85 @@
+{
+  "title": "Umami Flaky American Sausage Stir-fry",
+  "description": "A post-workout meal featuring umami-flavored American sausages in a stir-fry dish that is whole30-friendly and low-carb.",
+  "cuisine": "American",
+  "diet": [
+    "whole30",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Umami Flavored American Sausage",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Bell Peppers, sliced",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onions, finely chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shallots, finely sliced",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Water chestnuts, quartered",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Add sausages and cook until they are golden brown on all sides, about 5 minutes per side. Remove from pan to plate.",
+    "In the same skillet, add shallots and garlic. Cook for 1 minute until fragrant.",
+    "Add sliced onions and bell peppers to the pan. Stir-fry for 3-4 minutes or until vegetables start to soften.",
+    "Push vegetables to one side of the skillet, then return sausages and water chestnuts to the other side. Let them cook together for another minute or so.",
+    "Drizzle a bit more oil into the skillet if needed, add a splash of soy sauce (or tamari), and stir well until evenly coated with sauce.",
+    "Remove from heat and serve hot with steamed rice or cauliflower mash as accompaniment."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "flaky",
+    "post-workout",
+    "american-dish",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 462,
+    "protein": 27,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "umami-flaky-american-sausage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-flaky-american-sausage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:10:19Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "sausages",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "sausage",
+    "descriptor": "Umami Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
