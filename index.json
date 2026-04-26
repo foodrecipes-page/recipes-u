@@ -296,6 +296,18 @@
     "shard": "u"
   },
   {
+    "slug": "umami-rich-thai-chicken-stir-fry",
+    "title": "Umami Rich Thai Chicken Stir-fry",
+    "tags": [
+      "umami",
+      "thai",
+      "indulgent"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 22,
+    "shard": "u"
+  },
+  {
     "slug": "umami-silky-romantic-australian-peanut-stir-fry",
     "title": "Umami Silky Romantic Australian Peanut Stir-fry",
     "tags": [

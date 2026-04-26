@@ -1,0 +1,88 @@
+{
+  "title": "Umami Rich Thai Chicken Stir-fry",
+  "description": "An indulgent and dense Thai dish featuring chicken bouillon powder, simmered with vegetables for a rich and savory flavor profile.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "200g",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 tablespoons",
+      "notes": "For umami flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons",
+      "notes": "Light soy for a milder taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 stalk",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "Chopped into thin strips"
+    },
+    {
+      "name": "lime leaves (optional)",
+      "amount": "2",
+      "notes": "For added freshness and umami flavor"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-5",
+      "notes": "Minced for the aroma and depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add chicken strips, soy sauce, chicken bouillon powder, and lime leaves (if using). Stir-fry until chicken is cooked through, about 5 minutes.",
+    "Add red bell pepper and green onions. Continue to stir-fry for another minute.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "thai",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "umami-rich-thai-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-rich-thai-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:33:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "temper",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Umami Rich",
+    "dishForm": "Stir-fry"
+  }
+}
