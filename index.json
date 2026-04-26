@@ -296,6 +296,22 @@
     "shard": "u"
   },
   {
+    "slug": "umami-parm-regg-indian-stir-fry",
+    "title": "Umami Parm Regg Indian Stir-fry",
+    "tags": [
+      "umami",
+      "crisp",
+      "monsoon indian",
+      "kashmiri",
+      "parmigiano-reggiano",
+      "sous-vide",
+      "kosher-friendly"
+    ],
+    "cuisine": "Indian (Kashmiri)",
+    "totalTimeMin": 60,
+    "shard": "u"
+  },
+  {
     "slug": "umami-rich-thai-chicken-stir-fry",
     "title": "Umami Rich Thai Chicken Stir-fry",
     "tags": [
