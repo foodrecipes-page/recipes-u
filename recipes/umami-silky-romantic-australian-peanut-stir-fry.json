@@ -1,0 +1,86 @@
+{
+  "title": "Umami Silky Romantic Australian Peanut Stir-fry",
+  "description": "A silky and romantic twist on an umami-rich dish featuring peanut cookies and a tempering technique for a smooth texture.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peanut Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion, Chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Cloves, Minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Chili Flakes (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add chopped onion and minced garlic to the pan and stir-fry for about 3 minutes until translucent.",
+    "Pour in water, soy sauce, and peanut butter. Stir well until smooth and the sauce starts to thicken slightly.",
+    "Stir in broccoli florets and chili flakes if using, then cook for another 5-7 minutes or until vegetables are tender but still crisp.",
+    "Reduce heat to medium-low, continue to stir-fry for an additional minute to combine all flavors."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "silky",
+    "romantic",
+    "australian",
+    "peanut-cookies",
+    "tempering",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 38,
+    "fat": 22
+  },
+  "slug": "umami-silky-romantic-australian-peanut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-silky-romantic-australian-peanut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:48:23Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "peanut cookies",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "peanut",
+    "descriptor": "Umami Silky Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
