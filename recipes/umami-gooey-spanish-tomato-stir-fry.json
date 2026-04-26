@@ -1,0 +1,106 @@
+{
+  "title": "Umami Gooey Spanish Tomato Stir-fry",
+  "description": "A one-pot dish featuring gooey tomatoes, coriander leaves, and dumplings in a savory sauce, perfect for a quick dinner.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "frozen works well"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1 handful",
+      "notes": "fresh is recommended for best flavor"
+    },
+    {
+      "name": "dumplings (optional)",
+      "amount": "8-10 pieces",
+      "notes": "egg-free dumplings"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "palm oil or vegetable oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "regular or gluten-free if necessary"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1 tablespoon",
+      "notes": "for extra umami flavor"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": "adjust for desired sweetness"
+    }
+  ],
+  "instructions": [
+    "Chop onions finely and mince garlic cloves.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add onions and cook until translucent, about 3 minutes.",
+    "Add chopped tomatoes (or defrosted frozen ones) to the pan along with salt and pepper. Cook for an additional 5 minutes, stirring occasionally.",
+    "If using dumplings, add them now and stir well. If not using dumplings, continue with the next step.",
+    "In a small bowl, mix soy sauce, fish sauce (if used), sugar, and water or vegetable broth to create a glaze. Add this mixture over the tomatoes in the pan.",
+    "Stir-fry everything together until the tomatoes are tender and the sauce has thickened slightly, about 5-7 minutes more.",
+    "Garnish with fresh coriander leaves before serving.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "umami",
+    "gooey",
+    "spanish",
+    "stir-fry",
+    "coriander",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "umami-gooey-spanish-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-gooey-spanish-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:47:46Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "dum",
+    "primaryIngredient": "coriander leaves",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Tomato",
+    "descriptor": "Umami Gooey",
+    "dishForm": "Stir-fry"
+  }
+}

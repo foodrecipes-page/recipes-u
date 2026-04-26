@@ -200,6 +200,21 @@
     "shard": "u"
   },
   {
+    "slug": "umami-gooey-spanish-tomato-stir-fry",
+    "title": "Umami Gooey Spanish Tomato Stir-fry",
+    "tags": [
+      "umami",
+      "gooey",
+      "spanish",
+      "stir-fry",
+      "coriander",
+      "egg-free"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 30,
+    "shard": "u"
+  },
+  {
     "slug": "umami-velvet-adventurous-flaxie",
     "title": "Umami Velvet Adventurous Flaxie",
     "tags": [
