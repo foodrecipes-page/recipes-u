@@ -1,0 +1,117 @@
+{
+  "title": "Umami Silk Saudian Quinoa Stir-fry",
+  "description": "A low-carb-friendly meal-prep dish combining quinoa with umami flavors for a silky texture and vibrant taste profile.",
+  "cuisine": "Saudia Arabian",
+  "diet": [
+    "low-carb",
+    "ketogenic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Instant Yeast",
+      "amount": "1/2 tsp",
+      "notes": "For added umami flavor"
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "Precooked for meal prep"
+    },
+    {
+      "name": "Shallots",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 cup, julienned",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup",
+      "notes": "Light soy sauce for umami boost"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add shallots and minced garlic, sauté for about 2 minutes until fragrant.",
+    "Fold in cooked quinoa and cook for another minute to incorporate flavors.",
+    "Add sliced carrots and bell peppers, tossing well with the mixture.",
+    "Mix in soy sauce, fish sauce, lemon juice, salt, and pepper. Stir until combined.",
+    "Reduce heat to low and simmer for about 10 minutes or until vegetables are tender.",
+    "Serve hot as a side dish or over rice for a full meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "saudi-arabian",
+    "stir-fry",
+    "silky",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9,
+    "carbs": 8,
+    "fat": 13
+  },
+  "slug": "umami-silk-saudian-quinoa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-silk-saudian-quinoa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:57:14Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "steam",
+    "primaryIngredient": "instant yeast",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Saudian",
+    "mainIngredient": "quinoa",
+    "descriptor": "Umami Silk",
+    "dishForm": "Stir-fry"
+  }
+}
