@@ -225,6 +225,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-flaky-festive-falafel-stir-fry",
+    "title": "Umami Flaky Festive Falafel Stir-fry",
+    "tags": [
+      "umami",
+      "flaky",
+      "festive",
+      "falafel",
+      "stir-fry"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
     "slug": "umami-flaky-lazy-sunday-casabe-stir-fry",
     "title": "Umami Flaky Lazy-Sunday Casabe Stir-fry",
     "tags": [

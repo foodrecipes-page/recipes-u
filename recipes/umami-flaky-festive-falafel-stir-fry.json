@@ -1,0 +1,93 @@
+{
+  "title": "Umami Flaky Festive Falafel Stir-fry",
+  "description": "This Umami Flaky Festive Falafel Stir-fry is a delightful pescatarian-friendly Chinese dish featuring crispy falafel, aromatic vegetables, and a savory sauce that makes it an essential addition to any festive meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Broccoli",
+      "amount": "1 cup florets"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 small, any color"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon (optional)"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Steam the falafel for about 5 minutes until crispy. Drain and set aside.",
+    "Dice the onion, broccoli florets, bell pepper into bite-sized pieces.",
+    "Mince the garlic finely.",
+    "Heat olive oil in a wok or large skillet over medium heat. Add minced garlic and cook until fragrant (about 30 seconds).",
+    "Add diced vegetables to the pan and stir-fry for about 5 minutes, until they start to soften.",
+    "Mix together soy sauce and fish sauce (if using) with the water in a small bowl. Stir into the vegetables.",
+    "Gently fold in steamed falafel pieces. Cook for an additional 2-3 minutes, ensuring that all ingredients are heated through.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "flaky",
+    "festive",
+    "falafel",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "umami-flaky-festive-falafel-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-flaky-festive-falafel-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:52:13Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "steam",
+    "primaryIngredient": "falafel",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Falafel",
+    "descriptor": "Umami Flaky Festive",
+    "dishForm": "Stir-fry"
+  }
+}
