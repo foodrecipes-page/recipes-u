@@ -1,0 +1,85 @@
+{
+  "title": "Umami Dense Jamaican Snapper Fish Stir-fry",
+  "description": "This umami-packed dish features a hangover-cure-friendly Jamaican-style snapper fish stir-fry that is perfect for breakfast or lunch.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Snapper Fish",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell Peppers (red and yellow)",
+      "amount": "2 each"
+    },
+    {
+      "name": "Kaffir Lime Leaves",
+      "amount": "3"
+    },
+    {
+      "name": "Leaves of Thai Basil",
+      "amount": "6-8"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper, black",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a wok or large frying pan over medium-high heat.",
+    "Add snapper fish and sauté until golden brown on both sides.",
+    "Add sliced garlic and stir for about 30 seconds until fragrant.",
+    "Add onion, bell peppers, kaffir lime leaves, Thai basil leaves, salt, and pepper. Stir well to combine.",
+    "Stir fry for another 5 minutes or until vegetables are tender but still crisp.",
+    "Serve hot with rice or quinoa as a base."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami-dense",
+    "jamaican-fish-stir-fry",
+    "hangover-cure-friendly"
+  ],
+  "nutrition": {
+    "calories": 365,
+    "protein": 27,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "umami-dense-jamaican-snapper-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-dense-jamaican-snapper-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:19:13Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "rest",
+    "primaryIngredient": "snapper fish",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Snapper Fish",
+    "descriptor": "Umami Dense",
+    "dishForm": "Stir-fry"
+  }
+}
