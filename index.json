@@ -131,6 +131,21 @@
     "shard": "u"
   },
   {
+    "slug": "umami-dense-adventurous-tofu-stir-fry",
+    "title": "Umami Dense Adventurous Tofu Stir-fry",
+    "tags": [
+      "umami",
+      "dense",
+      "adventurous",
+      "vietnamese",
+      "orange-zest",
+      "boil-free"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-dense-ethiopian-wheat-stir-fry",
     "title": "Umami Dense Ethiopian Wheat Stir-fry",
     "tags": [

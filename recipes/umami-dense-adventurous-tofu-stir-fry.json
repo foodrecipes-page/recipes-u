@@ -1,0 +1,94 @@
+{
+  "title": "Umami Dense Adventurous Tofu Stir-fry",
+  "description": "A low-calorie-friendly Vietnamese dish featuring orange zest and dense texture, infused with umami flavors suitable for a mealtime snack.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block (about 200g)",
+      "notes": "grated or cubed"
+    },
+    {
+      "name": "orange zest",
+      "amount": "3 pieces",
+      "notes": "from a medium-sized orange"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated finely"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium or tamari for a gluten-free option"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "to balance flavors"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "a pinch",
+      "notes": "optional, adds heat and depth"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large frying pan over medium-high heat.",
+    "Add minced garlic and grated ginger; cook for about 30 seconds until fragrant.",
+    "Fold in the block of tofu, pressing it slightly to ensure even cooking. Sauté for 2-3 minutes on each side.",
+    "Sprinkle soy sauce, brown sugar, and red pepper flakes into the pan with the tofu. Stir well to coat.",
+    "Add orange zest pieces to the mix. Cover and simmer gently for about 10 minutes until the liquid is absorbed by the tofu and flavors are evenly distributed.",
+    "Remove from heat once fully cooked. Serve hot as a snack or light meal accompaniment."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "dense",
+    "adventurous",
+    "vietnamese",
+    "orange-zest",
+    "boil-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "umami-dense-adventurous-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-dense-adventurous-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:43:19Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "orange zest",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Umami Dense Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
