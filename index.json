@@ -131,6 +131,19 @@
     "shard": "u"
   },
   {
+    "slug": "umami-dense-ethiopian-wheat-stir-fry",
+    "title": "Umami Dense Ethiopian Wheat Stir-fry",
+    "tags": [
+      "umami",
+      "dense",
+      "quick-fix",
+      "ethiopian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-dense-jamaican-snapper-fish-stir-fry",
     "title": "Umami Dense Jamaican Snapper Fish Stir-fry",
     "tags": [

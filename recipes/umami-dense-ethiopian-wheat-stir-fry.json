@@ -1,0 +1,87 @@
+{
+  "title": "Umami Dense Ethiopian Wheat Stir-fry",
+  "description": "A quick-fix ethiopian dish featuring gluten-free wheat and a spicy sauce made with umami flavor for a dense and flavorful meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 pieces"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2 medium, chopped finely"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1-2 pieces"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan, add chopped garlic and chili peppers. Sauté for about 30 seconds.",
+    "Add wheat to the pan, stir-fry for 5 minutes until golden brown on all sides.",
+    "Pour tomato sauce over the wheat, mix well to coat the grains evenly.",
+    "Stir in turmeric powder and salt. Mix again thoroughly.",
+    "Add water (2 tbsp) to the mixture, let it simmer for about 3-4 minutes or until you notice some water has been absorbed.",
+    "Once the liquid is mostly absorbed, add bay leaves, stir once more and turn off the heat.",
+    "Serve hot as a side dish with injera bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "dense",
+    "quick-fix",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 216,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 5
+  },
+  "slug": "umami-dense-ethiopian-wheat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-dense-ethiopian-wheat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:31:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "chilli sauce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Wheat",
+    "descriptor": "Umami Dense",
+    "dishForm": "Stir-fry"
+  }
+}
