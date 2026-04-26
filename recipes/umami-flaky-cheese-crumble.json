@@ -1,0 +1,80 @@
+{
+  "title": "Umami Flaky Cheese Crumble",
+  "description": "A unique dish inspired by the flavors of monsoon season in the Middle East, featuring a blend of Cajun spices and keto-friendly ingredients to create a flaky cheese crumble.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Keto Mozzarella Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cajun Seasoning Blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond Meal",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "In a mixing bowl, combine all ingredients.",
+    "Mix well until the mixture is crumbly and evenly distributed among the ingredients.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper.",
+    "Bake for about 15 minutes or until golden brown.",
+    "Remove from oven and allow to cool before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "flaky",
+    "monsoon",
+    "middle-eastern",
+    "cayenne-pepper",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 2
+  },
+  "slug": "umami-flaky-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-flaky-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:35:49Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "grill",
+    "primaryIngredient": "cajun",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Cheese",
+    "descriptor": "Umami Flaky",
+    "dishForm": "Crumble"
+  }
+}
