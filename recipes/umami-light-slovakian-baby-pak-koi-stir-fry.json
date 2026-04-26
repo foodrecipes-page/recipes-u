@@ -1,0 +1,89 @@
+{
+  "title": "Umami Light Slovakian Baby Pak Koi Stir-fry",
+  "description": "A light and flavorful monsoon-inspired dish featuring tender baby pak koi, gently stir-fried with umami-rich ingredients.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby Pak Koi",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Scallions (Green Onions)",
+      "amount": "20 cm, finely sliced"
+    },
+    {
+      "name": "Diced Ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Whipped Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Sukhovatka (Salted Fermented Husk), finely ground",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Shrimp Paste (Tomato Sauce)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Stock or Vegetable Stock",
+      "amount": "50 ml"
+    },
+    {
+      "name": "Pepper Corns",
+      "amount": "3-4, ground to powder"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large frying pan over medium-high heat.",
+    "Add whisked garlic and ginger. Sauté for about 1 minute until fragrant.",
+    "Lower the heat slightly and add scallions, stir-fry for another 2 minutes.",
+    "Gently incorporate diced baby pak koi into the pan, cooking for about 3-4 minutes on each side or until cooked through but still tender.",
+    "Pour in sukhovatka (salted fermented husk), shrimp paste, and fish stock. Stir well to combine all ingredients.",
+    "Simmer gently for an additional 2-3 minutes ensuring flavors meld together without boiling over too quickly.",
+    "Season with pepper corn powder if needed, taste test and adjust seasoning as required.",
+    "Serve immediately while the dish is still warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "light",
+    "monsoon",
+    "slovakian",
+    "baby pak koi",
+    "stir-fry",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 3,
+    "fat": 12
+  },
+  "slug": "umami-light-slovakian-baby-pak-koi-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-light-slovakian-baby-pak-koi-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:49:35Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "whisk",
+    "primaryIngredient": "baby pak koi",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "baby pak koi",
+    "descriptor": "Umami Light",
+    "dishForm": "Stir-fry"
+  }
+}
