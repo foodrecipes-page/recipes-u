@@ -1,0 +1,90 @@
+{
+  "title": "Umami Silky Italian Fennel Sausage Polish Dish",
+  "description": "This gluten-free Italian fennel sausage dish is perfect for a cozy date night with its silky texture and umami flavor.",
+  "cuisine": "Italian-Polish Fusion",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian Fennel Sausages",
+      "amount": "10 oz"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Chicken Stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pecorino Romano Cheese",
+      "amount": "1/4 cup, grated",
+      "notes": "For serving"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a skillet, sauté garlic and onion until translucent.",
+    "Add fennel sausage to the skillet and cook for about 5 minutes or until golden brown.",
+    "Mix in fresh thyme, chicken stock, red wine vinegar, and olive oil. Bring to a simmer.",
+    "Transfer mixture to an oven-safe dish. Top with grated pecorino romano cheese.",
+    "Bake for 15-20 minutes or until the cheese is melted and bubbly.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "silky",
+    "date-night",
+    "italian-fennel-sausage",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 18,
+    "fat": 14
+  },
+  "slug": "umami-silky-italian-fennel-sausage-polish-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-silky-italian-fennel-sausage-polish-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:44:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "rest",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Fennel Sausages",
+    "descriptor": "Umami Silky",
+    "dishForm": "Polish Dish"
+  }
+}
