@@ -308,6 +308,19 @@
     "shard": "u"
   },
   {
+    "slug": "umami-silky-argentinian-tomato-stir-fry",
+    "title": "Umami Silky Argentinian Tomato Stir-fry",
+    "tags": [
+      "umami",
+      "silky",
+      "argentinian",
+      "mediterranean-friendly"
+    ],
+    "cuisine": "Argentine-Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-silky-romantic-australian-peanut-stir-fry",
     "title": "Umami Silky Romantic Australian Peanut Stir-fry",
     "tags": [

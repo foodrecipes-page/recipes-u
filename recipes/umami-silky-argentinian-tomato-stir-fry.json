@@ -1,0 +1,98 @@
+{
+  "title": "Umami Silky Argentinian Tomato Stir-fry",
+  "description": "A Mediterranean-friendly meal-prep dish featuring umami elements with a hint of spice, perfect for quick weeknight dinners.",
+  "cuisine": "Argentine-Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3-4"
+    },
+    {
+      "name": "Kalamata Olives, pitted and halved",
+      "amount": "10-15"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "Pecorino Romano Cheese Cubes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Capers, rinsed and drained",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil for brushing on tomatoes",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice onions and mince garlic. Halve olives, if they are not already halved.",
+    "Toast thyme leaves in a dry skillet over medium heat for about 1 minute or until fragrant; keep aside.",
+    "Heat olive oil in a large pan on medium-high heat. Add sliced tomatoes, onion, and minced garlic. Cook for about 5 minutes or until the vegetables start to soften.",
+    "Add red chili flakes, Worcestershire sauce, olives, capers, and thyme leaves. Stir well and cook for an additional 2-3 minutes.",
+    "Pour the mixture into a baking dish lined with parchment paper. Drizzle some olive oil on top of the tomatoes. Roast in the preheated oven for about 15 minutes or until tomatoes are tender and slightly golden.",
+    "Sprinkle pecorino cheese cubes over the cooked tomato mix and bake for an additional 2-3 minutes until cheese is melted and bubbly.",
+    "Serve hot as a meal-prep option. This can be prepared ahead of time, refrigerated for up to three days or frozen for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "silky",
+    "argentinian",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "umami-silky-argentinian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-silky-argentinian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:03:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tomato",
+    "descriptor": "Umami Silky",
+    "dishForm": "Stir-fry"
+  }
+}
