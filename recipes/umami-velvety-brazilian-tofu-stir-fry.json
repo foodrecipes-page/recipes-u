@@ -1,0 +1,98 @@
+{
+  "title": "Umami Velvety Brazilian Tofu Stir-fry",
+  "description": "A one-pot dish featuring umami-rich tofu stir-fried with oregano and smoked paprika in a sugar-free sauce, perfect for a quick dinner or snack.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 block firm tofu",
+      "amount": "unspecified (usually around 200g)",
+      "notes": "Grated finely"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "one medium-sized",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "4 cloves garlic",
+      "amount": "3-4 pieces whole, crushed or minced finely",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons oregano leaves",
+      "amount": "freshly chopped",
+      "notes": "For extra smokiness, consider using smoked oregano"
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "unspecified but usually about 1/4 teaspoon",
+      "notes": "Can be replaced with regular paprika if desired"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "about 2 tablespoons",
+      "notes": "Use fresh for best flavor, omit for sugar-free version"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "unspecified but usually about 1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dash of black pepper",
+      "amount": "unspecified but usually about a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Grate the tofu and place in a large mixing bowl.",
+    "Chop the onion, garlic, and prepare other ingredients. Add them to the mixing bowl with the tofu.",
+    "Sprinkle salt and pepper over the mixture. Mix well to combine.",
+    "Transfer the mixture into an oven-safe baking dish. Spread evenly.",
+    "Drizzle lime juice over the dish. Bake for about 25 minutes or until golden brown on top and cooked through.",
+    "Meanwhile, prepare a sugar-free sauce by mixing oregano leaves, smoked paprika, salt, pepper, and any optional remaining lime juice in a small bowl. Mix well to form a paste.",
+    "After baking, stir the sauce into the dish evenly and let it cook for an additional 5 minutes or until heated through and velvety-smooth.",
+    "Serve hot as a main dish with rice or quinoa on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "velvety",
+    "brazilian",
+    "tofu",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "umami-velvety-brazilian-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-velvety-brazilian-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:50:20Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "smoke",
+    "primaryIngredient": "oregano",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Umami Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
