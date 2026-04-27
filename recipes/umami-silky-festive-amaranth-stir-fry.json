@@ -1,0 +1,74 @@
+{
+  "title": "Umami Silky Festive Amaranth Stir-fry",
+  "description": "A festive Jamaican dish featuring umami-rich amaranth stir-fried with a savory blend of plant-based ingredients including Sriracha and tadka, perfect for a light dinner or snack.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Amaranth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sriracha Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red bell pepper, sliced",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium-high heat. Add amaranth and stir fry until lightly browned.",
+    "In the same pan, add minced garlic and diced onion, sauté for about 2 minutes.",
+    "Add red bell pepper and stir for another minute. Pour in Sriracha sauce and toss well to combine all ingredients.",
+    "To finish, drizzle a tadka with mustard seeds, cumin, and crushed roasted peanuts, swirling it into the dish for a vibrant flavor.",
+    "Season to taste with salt and lemon juice if desired. Serve hot as a vegan dinner or snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "umami",
+    "silky",
+    "festive",
+    "amaranth",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "umami-silky-festive-amaranth-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-silky-festive-amaranth-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:23:00Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "tadka",
+    "primaryIngredient": "sriracha",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Amaranth",
+    "descriptor": "Umami Silky Festive",
+    "dishForm": "Stir-fry"
+  }
+}
