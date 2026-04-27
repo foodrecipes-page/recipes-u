@@ -1,0 +1,97 @@
+{
+  "title": "Umami Creamy Romantic Vine Leaves Stir-fry",
+  "description": "This whole30-friendly Umami and creamy dish features a unique twist on traditional Ethiopian cuisine with vine leaves as its star ingredient.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "10-20 fresh or dried"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "4-5 fresh, minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the vine leaves by rinsing them thoroughly.",
+    "Heat a pot with coconut milk, thyme, garlic, onion, ginger, and fish sauce (if using). Simmer for about 10 minutes until flavors meld together.",
+    "Add tomato puree and basil, continue simmering for an additional 5-7 minutes. The mixture should be thickened slightly but not soupy.",
+    "Slowly stir in heavy cream while continuously stirring to prevent burning. Season with salt and pepper as needed.",
+    "Serve the dish hot over cooked rice or as a side dish. Garnish with fresh herbs like cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "umami",
+    "creamy",
+    "romantic",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 30
+  },
+  "slug": "umami-creamy-romantic-vine-leaves-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-creamy-romantic-vine-leaves-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:58:32Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "vine leaves",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "vine leaves",
+    "descriptor": "umami creamy romantic",
+    "dishForm": "Stir-fry"
+  }
+}
