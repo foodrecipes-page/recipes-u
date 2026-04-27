@@ -267,6 +267,22 @@
     "shard": "u"
   },
   {
+    "slug": "umami-flaky-light-thai-basmati-rice-crumble",
+    "title": "Umami Flaky Light Thai Basmati Rice Crumble",
+    "tags": [
+      "umami",
+      "flaky",
+      "light",
+      "thai",
+      "basmati",
+      "rice",
+      "crumble"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 15,
+    "shard": "u"
+  },
+  {
     "slug": "umami-flaky-potato-crumble",
     "title": "Umami Flaky Potato Crumble",
     "tags": [

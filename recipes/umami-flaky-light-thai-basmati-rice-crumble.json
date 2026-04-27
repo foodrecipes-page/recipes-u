@@ -1,0 +1,81 @@
+{
+  "title": "Umami Flaky Light Thai Basmati Rice Crumble",
+  "description": "A low-calorie-friendly dish featuring umami-flavored light Thai basmati rice crumble that's perfect for a breakfast or snack.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Umami Cure (Optional)",
+      "notes": "Use a mix of soy sauce, fish sauce, and sake for an umami boost."
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cumin Seeds",
+      "notes": "For added depth of flavor.",
+      "amount": "A pinch"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add basmati rice and cook until dry, stirring occasionally to prevent sticking.",
+    "If using Umami Cure, mix it into the rice now for extra umami flavor.",
+    "Stir in coconut milk, turmeric powder, and cumin seeds. Cook for 2-3 minutes or until liquid is absorbed.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "flaky",
+    "light",
+    "thai",
+    "basmati",
+    "rice",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 17,
+    "fat": 3
+  },
+  "slug": "umami-flaky-light-thai-basmati-rice-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-flaky-light-thai-basmati-rice-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:10:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "basmati rice",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Basmati Rice",
+    "descriptor": "Umami Flaky Light",
+    "dishForm": "Crumble"
+  }
+}
