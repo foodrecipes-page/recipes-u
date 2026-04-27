@@ -1,0 +1,103 @@
+{
+  "title": "Umami Crunchy Chinese Sweet Potato Stir-fry",
+  "description": "A diabetic-friendly Chinese dish featuring umami flavors and a crunchy texture from sweet potatoes in a savory sauce.",
+  "cuisine": "Chinese (Hunan)",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 medium",
+      "notes": "preferably steamed and thinly sliced for crispiness"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-5",
+      "notes": "minced finely"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 medium",
+      "notes": "finely chopped for garnish"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "regular or low sodium, optional"
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1 teaspoon",
+      "notes": "for added umami and depth of flavor"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 teaspoon",
+      "notes": "to balance the savory flavors"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1-2 teaspoons",
+      "notes": "optional for extra crunchiness and flavor"
+    },
+    {
+      "name": "Peanuts (crushed)",
+      "amount": "3 tablespoons",
+      "notes": "for added crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or large frying pan over high heat. Make sure it's very hot before adding oil.",
+    "Slice the sweet potatoes into thin rounds, around 1/8 inch thick, and steam them for about 5 minutes until they are tender but still crisp.",
+    "In a small bowl, mix soy sauce with any optional fish sauce if you're using it. Set aside.",
+    "Add sesame oil to the hot wok or pan, followed by sliced green onions and minced garlic. Stir-fry for about 1 minute until fragrant.",
+    "Add the steamed sweet potatoes to the stir-fry and toss them in the onion-garlic mixture for another minute.",
+    "Pour the sauce over the sweet potatoes and mix well to coat them evenly. Cook for an additional 2 minutes, stirring occasionally.",
+    "Sprinkle crushed peanuts on top of the sweet potatoes and scallions just before serving.",
+    "Serve hot with a side of steamed green vegetables or brown rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "crunchy",
+    "meal-prep",
+    "chinese",
+    "hunan",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "umami-crunchy-chinese-sweet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crunchy-chinese-sweet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:00:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "steam",
+    "primaryIngredient": "starch",
+    "diet": "diabetic-friendly",
+    "region": "hunan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Umami Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}

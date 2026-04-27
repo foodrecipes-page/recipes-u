@@ -147,6 +147,21 @@
     "shard": "u"
   },
   {
+    "slug": "umami-crunchy-chinese-sweet-potato-stir-fry",
+    "title": "Umami Crunchy Chinese Sweet Potato Stir-fry",
+    "tags": [
+      "umami",
+      "crunchy",
+      "meal-prep",
+      "chinese",
+      "hunan",
+      "stir-fry"
+    ],
+    "cuisine": "Chinese (Hunan)",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
     "slug": "umami-crunchy-pao-verde",
     "title": "Umami Crunchy Pao Verde",
     "tags": [
