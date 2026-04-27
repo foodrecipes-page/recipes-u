@@ -1,0 +1,95 @@
+{
+  "title": "Umami Light Egyptian Baby Pak Koi Stir-fry",
+  "description": "A light and flavorful dish featuring tender baby pak koi in a rich umami sauce, perfect for midnight cravings.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby Pak Koi",
+      "amount": "100g",
+      "notes": "Frozen baby pak koi can be used as a substitute."
+    },
+    {
+      "name": "Vegetable Stock (Bone Broth)",
+      "amount": "200ml",
+      "notes": "Ensure it's at least 74°C before serving to ensure safety."
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Umami Compound B",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce (low sodium)",
+      "amount": "30ml"
+    },
+    {
+      "name": "Water or Vegetable Stock",
+      "amount": "150ml"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "few leaves",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the baby pak koi by thawing it if frozen, rinse under cold water, pat dry with paper towels.",
+    "In a small saucepan, heat olive oil over medium heat. Add tomato paste and garlic powder, stirring for about 1 minute until fragrant.",
+    "Gradually add vegetable stock (bone broth) while whisking continuously to prevent lumps from forming. Once the mixture is smooth, reduce heat to low.",
+    "In a small bowl, mix umami compound B with soy sauce; pour into the saucepan along with water or vegetable stock, and bring to a simmer.",
+    "Add salt and pepper to taste, then gently toss in the baby pak koi until coated. Cook for about 2-3 minutes or until tender but still firm to touch.",
+    "Garnish with fresh basil leaves before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami-light",
+    "egyptian-dish",
+    "baby-pak-koi-stir-fry",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 12,
+    "carbs": 4,
+    "fat": 8
+  },
+  "slug": "umami-light-egyptian-baby-pak-koi-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-light-egyptian-baby-pak-koi-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:27:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "slow-cook",
+    "primaryIngredient": "baby pak koi",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "baby pak koi",
+    "descriptor": "umami light",
+    "dishForm": "Stir-fry"
+  }
+}
