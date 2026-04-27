@@ -1,0 +1,66 @@
+{
+  "title": "Umami Flaky Indulgent Uruguayan Bread Crumble",
+  "description": "This keto-friendly bread crumble combines white bread and dum into a decadent blend that's perfect for breakfast or dessert.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "White Bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Dum",
+      "amount": "2 tablespoons",
+      "notes": "Use keto-friendly dum"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Crush the bread into small pieces using a food processor.",
+    "Combine bread crumbs with dum in a mixing bowl and mix well.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper.",
+    "Bake for 8-10 minutes or until golden brown.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "flaky",
+    "indulgent",
+    "uruguayan",
+    "bread",
+    "crumble",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 8
+  },
+  "slug": "umami-flaky-indulgent-uruguayan-bread-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-flaky-indulgent-uruguayan-bread-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:19:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "white bread",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "bread",
+    "descriptor": "Umami Flaky Indulgent",
+    "dishForm": "Crumble"
+  }
+}
