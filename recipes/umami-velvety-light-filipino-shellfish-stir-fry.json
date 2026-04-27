@@ -1,0 +1,100 @@
+{
+  "title": "Umami Velvety Light Filipino Shellfish Stir-fry",
+  "description": "A light and velvety dish featuring a seafood stock base that is dairy-free-friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp, peeled and deveined",
+      "amount": "12-15 pieces"
+    },
+    {
+      "name": "Clams",
+      "amount": "1 cup (shredded or in halves)"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2-3 cloves"
+    },
+    {
+      "name": "Green onions, sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 can (8 oz)"
+    },
+    {
+      "name": "Tahini sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce, low sodium",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add onion and garlic, sauté until softened (about 3 minutes).",
+    "Add shrimp and clams to the skillet; stir-fry for about 2-3 minutes or until the seafood is opaque.",
+    "Stir in vegetable broth, fish sauce, soy sauce, and red pepper flakes. Bring to a simmer.",
+    "Blend tahini with water to create a smooth paste (about 1 tablespoon of water per 1 tablespoon tahini), then stir into the dish.",
+    "Reduce heat to low and let cook for another 2-3 minutes or until the broth thickens slightly.",
+    "Garnish with green onions before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "velvety",
+    "light",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 618,
+    "protein": 40,
+    "carbs": 52,
+    "fat": 39
+  },
+  "slug": "umami-velvety-light-filipino-shellfish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-velvety-light-filipino-shellfish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:18:33Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "blanch",
+    "primaryIngredient": "seafood stock",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Shellfish",
+    "descriptor": "Umami Velvety Light",
+    "dishForm": "Stir-fry"
+  }
+}

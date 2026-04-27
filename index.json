@@ -653,6 +653,19 @@
     "shard": "u"
   },
   {
+    "slug": "umami-velvety-light-filipino-shellfish-stir-fry",
+    "title": "Umami Velvety Light Filipino Shellfish Stir-fry",
+    "tags": [
+      "umami",
+      "velvety",
+      "light",
+      "filipino"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "unsalted-pistachio-crumble-keto",
     "title": "Fermented Unsalted Pistachio Crumble",
     "tags": [
