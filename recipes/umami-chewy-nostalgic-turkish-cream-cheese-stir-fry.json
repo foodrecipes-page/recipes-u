@@ -1,0 +1,100 @@
+{
+  "title": "Umami Chewy Nostalgic Turkish Cream Cheese Stir-fry",
+  "description": "A hearty and umami-rich dish featuring chewy cream cheese as the star ingredient in a light broil-based stir-fry that transports you to nostalgic Turkish cuisine.",
+  "cuisine": "Turkish",
+  "diet": [
+    "plant-based-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "100g"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "100g",
+      "notes": "fully plant-based, vegan cream cheese"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6",
+      "notes": "minced for added umami flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "medium",
+      "notes": "finely chopped to enhance the dish's texture and taste"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "slivered to match the texture of cream cheese"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to broil setting.",
+    "Chop the chicken breast into small, bite-sized pieces and finely chop the onion. Slit each bell pepper into thin strips.",
+    "Mix minced garlic with olive oil and sprinkle over the chopped ingredients (chicken, onion, and bell peppers). Season lightly with salt and black pepper.",
+    "Transfer the seasoned mixture onto a baking sheet lined with parchment paper.",
+    "Spread out evenly to create uniform pieces for better broiling. Broil until golden brown spots appear on top, about 10 minutes.",
+    "In another pan, melt cream cheese over low heat while adding lemon juice and tomato paste. Stir well until fully combined into a smooth sauce.",
+    "Drizzle the creamy sauce over the toasted chicken mixture and serve immediately."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "chewy",
+    "nostalgic",
+    "turkish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 682,
+    "protein": 30,
+    "carbs": 49,
+    "fat": 25
+  },
+  "slug": "umami-chewy-nostalgic-turkish-cream-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-chewy-nostalgic-turkish-cream-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:59:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "cream cheese",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Cream Cheese",
+    "descriptor": "Umami Chewy Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}

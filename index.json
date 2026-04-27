@@ -39,6 +39,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-chewy-nostalgic-turkish-cream-cheese-stir-fry",
+    "title": "Umami Chewy Nostalgic Turkish Cream Cheese Stir-fry",
+    "tags": [
+      "umami",
+      "chewy",
+      "nostalgic",
+      "turkish",
+      "stir-fry"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-chewy-spanish-lamb-leg-stir-fry",
     "title": "Umami Chewy Spanish Lamb Leg Stir-fry",
     "tags": [
