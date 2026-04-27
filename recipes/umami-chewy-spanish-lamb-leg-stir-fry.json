@@ -1,0 +1,98 @@
+{
+  "title": "Umami Chewy Spanish Lamb Leg Stir-fry",
+  "description": "This lazy Sunday dish features a chewy Umami flavor from miso paste and a tandoor-style searing to add depth of flavor to the vegan-friendly lamb leg.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Leg",
+      "amount": "1 (3-4 lb)",
+      "notes": "Ensure it's properly rested and sliced into bite-sized pieces."
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tbsp",
+      "notes": "Use a mild variety for less intense Umami flavor or try out some Korean or Japanese varieties."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin if you have it, regular otherwise for a vegan substitute."
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup",
+      "notes": "For added texture and flavor"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed for best taste"
+    },
+    {
+      "name": "Shallots",
+      "amount": "3 slices",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Vegetable Stock or Water",
+      "amount": "1 cup",
+      "notes": "For cooking the lamb"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Place sliced lamb leg in a baking dish and sprinkle miso paste evenly over it.",
+    "Mash garlic cloves with a pinch of salt, then spread this mix on top of the miso-covered lamb.",
+    "Drizzle olive oil over the lamb and toss to coat evenly. Season generously with salt and freshly ground black pepper if desired.",
+    "Bake for about 30 minutes or until golden brown and cooked through (internal temperature should reach 145°F/63°C).",
+    "While the lamb is baking, in a separate pan on medium heat, add olive oil, minced shallots, and minced garlic. Stir-fry until translucent.",
+    "Add chopped sesame seeds to the stir-fried mixture for added crunch.",
+    "When the lamb is done, remove from oven and let it rest for about 10 minutes before slicing into pieces.",
+    "Serve hot with a drizzle of lime juice over the sliced lamb leg."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy sunday",
+    "umami",
+    "spain",
+    "chewy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 618,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 29
+  },
+  "slug": "umami-chewy-spanish-lamb-leg-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-chewy-spanish-lamb-leg-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:07:32Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "tandoor",
+    "primaryIngredient": "lamb leg",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "lamb leg",
+    "descriptor": "Umami Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
