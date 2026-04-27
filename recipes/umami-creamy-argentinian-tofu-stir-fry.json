@@ -1,0 +1,102 @@
+{
+  "title": "Umami Creamy Argentinian Tofu Stir-fry",
+  "description": "A cozy vegan-friendly dish featuring an umami-rich creamy tofu stir-fry using vegetable stock cube and air-fried for a satisfying texture.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (about 200g)",
+      "notes": "Choose firm or extra-firm tofu."
+    },
+    {
+      "name": "Vegetable Stock Cube",
+      "amount": "3-4 cubes"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8 pieces",
+      "notes": "Use fresh for best flavor."
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "2-3 small, thinly sliced"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "1 cup, fresh or frozen"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Nutritional Yeast (for topping)",
+      "amount": "½ - 1 tablespoon"
+    },
+    {
+      "name": "Water or Vegan Milk to Thin Sauce",
+      "notes": "Adjust as needed for desired consistency"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer at 200°C (400°F).",
+    "Drain and pat dry the tofu with paper towels. Slice into thin pieces.",
+    "Mix all ingredients except nutritional yeast and water in a large bowl. Add sliced tofu, gently toss to combine.",
+    "Pour mixture into prepared air fryer basket. Cook for 15-20 minutes until golden brown.",
+    "Reduce heat to 160°C (320°F) and cook for an additional 5-7 minutes or until thickened slightly.",
+    "Add sliced tomatoes and balsamic vinegar, stir gently and let simmer for another minute. Remove from heat.",
+    "Garnish with nutritional yeast if desired before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "umami",
+    "creamy",
+    "stir-fry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "umami-creamy-argentinian-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-creamy-argentinian-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:16:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "air-fry",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tofu",
+    "descriptor": "Umami Creamy",
+    "dishForm": "Stir-fry"
+  }
+}

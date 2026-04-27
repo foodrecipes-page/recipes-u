@@ -65,6 +65,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-creamy-argentinian-tofu-stir-fry",
+    "title": "Umami Creamy Argentinian Tofu Stir-fry",
+    "tags": [
+      "argentinian",
+      "umami",
+      "creamy",
+      "stir-fry",
+      "vegan"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-creamy-indulgent-american-banana-stir-fry",
     "title": "Umami Creamy Indulgent American Banana Stir-fry",
     "tags": [
