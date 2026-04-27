@@ -383,6 +383,19 @@
     "shard": "u"
   },
   {
+    "slug": "umami-greek-tofu-stir-fry",
+    "title": "Umami Greek Tofu Stir-fry",
+    "tags": [
+      "umami",
+      "tender",
+      "greek-dish",
+      "vegetable-shortening-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
     "slug": "umami-light-slovakian-baby-pak-koi-stir-fry",
     "title": "Umami Light Slovakian Baby Pak Koi Stir-fry",
     "tags": [

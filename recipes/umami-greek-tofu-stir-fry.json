@@ -1,0 +1,83 @@
+{
+  "title": "Umami Greek Tofu Stir-fry",
+  "description": "A tender umami-rich dish featuring a blend of vegetables and tofu in a flavorful sauce made with vegetable shortening for a low-calorie-friendly meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (about 200g)",
+      "notes": "Silken tofu is recommended for this dish."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely for better flavor extraction."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves (minced)",
+      "notes": "Fresh garlic adds umami and depth of flavor."
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "For a touch of heat, can be adjusted to taste."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "3 tablespoons fresh lemon juice (optional)",
+      "notes": "Can be omitted for those preferring less citrusy flavor."
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup (low-fat, optional)",
+      "notes": "For a creamy texture and to enhance umami taste."
+    }
+  ],
+  "instructions": [
+    "Prepare tofu by pressing it with paper towels for about 30 minutes.",
+    "Heat vegetable shortening in a large skillet over medium heat. Add onion and garlic; sauté until softened, about 5 minutes.",
+    "Add red pepper flakes and lemon juice (if using). Stir well to combine with the vegetables.",
+    "Once the mixture is fragrant, add sliced tofu and stir-fry for another 2-3 minutes, ensuring the tofu gets evenly coated by the sauce.",
+    "Serve hot with a side of your favorite salad or steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "tender",
+    "greek-dish",
+    "vegetable-shortening-friendly"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 19,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "umami-greek-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-greek-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:15:35Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "cure",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Tofu",
+    "descriptor": "Umami",
+    "dishForm": "Stir-fry"
+  }
+}
