@@ -51,6 +51,21 @@
     "shard": "u"
   },
   {
+    "slug": "umami-creamy-indulgent-american-banana-stir-fry",
+    "title": "Umami Creamy Indulgent American Banana Stir-fry",
+    "tags": [
+      "umami",
+      "creamy",
+      "indulgent",
+      "american-dish",
+      "apple-cider-vinegar",
+      "bananas"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-crisp-vesy-low-carb-workout-delight",
     "title": "Umami Crisp Vesy",
     "tags": [
