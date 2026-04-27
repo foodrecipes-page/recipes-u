@@ -1,0 +1,76 @@
+{
+  "title": "Umami Crumbly Peruvian Dates Creme Brûlée",
+  "description": "A rich and indulgent dessert perfect for date nights, featuring creamy dates baked with almond milk and topped with a crispy caramelized sugar crust.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups (470ml) unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "3 ripe dates, pitted and chopped",
+      "amount": "3"
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1 tablespoon ground almonds (for topping)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Heat almond milk in a saucepan over medium heat until warm but not boiling.",
+    "Add chopped dates, sugar, and salt to the hot milk. Stir gently to combine.",
+    "Pour mixture into individual ramekins or small ovenproof dishes.",
+    "Bake at 350°F (175°C) for about 20 minutes, or until the custard is just set but still a bit jiggly in the center.",
+    "Remove from oven and let cool slightly before topping with ground almonds.",
+    "For caramelization: Place each crumble on a baking sheet lined with parchment paper. Sprinkle some granulated sugar over the top of each and drizzle lightly with water to create steam for caramelizing. Bake at 425°F (218°C) until golden brown, about 7-10 minutes per side.",
+    "Serve immediately while warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "plant-based",
+    "dessert",
+    "peruvian",
+    "date-night",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 352,
+    "protein": 6,
+    "carbs": 41,
+    "fat": 9
+  },
+  "slug": "umami-crumbly-peruvian-dates-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crumbly-peruvian-dates-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:59:21Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "bake",
+    "primaryIngredient": "double cream",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Dates",
+    "descriptor": "Umami Crumbly",
+    "dishForm": "Crumble"
+  }
+}
