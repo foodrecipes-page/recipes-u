@@ -341,6 +341,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-flaky-russian-stir-fry",
+    "title": "Umami Flaky Russian Stir-fry",
+    "tags": [
+      "umami",
+      "flaky",
+      "russian",
+      "stir-fry",
+      "paleo-friendly"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-fold-english-muffin-bowl",
     "title": "Umami Fold English Muffin Bowl",
     "tags": [
