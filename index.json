@@ -693,6 +693,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-velvety-mushroom-french-stir-fry",
+    "title": "Umami Velvety Mushroom French Stir-fry",
+    "tags": [
+      "umami",
+      "velvety",
+      "one-pot",
+      "french",
+      "plant-based"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
     "slug": "unsalted-pistachio-crumble-keto",
     "title": "Fermented Unsalted Pistachio Crumble",
     "tags": [

@@ -1,0 +1,100 @@
+{
+  "title": "Umami Velvety Mushroom French Stir-fry",
+  "description": "A one-pot French dish featuring velvety mushrooms and sherry for a umami-rich flavor profile, served as an elegant yet approachable main course.",
+  "cuisine": "French",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "150g"
+    },
+    {
+      "name": "Button Mushrooms",
+      "amount": "200g"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup (sliced)"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves (minced)"
+    },
+    {
+      "name": "Sherry Wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Stock Cube",
+      "amount": "1 cube"
+    },
+    {
+      "name": "Fresh Thyme Leaves",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "3 tbsp (optional, for added umami)"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F.",
+    "Slice the shiitake mushrooms into thin rounds.",
+    "Dice button mushrooms and onions. Chop garlic finely.",
+    "In a large oven-safe skillet, heat olive oil over medium-high heat.",
+    "Add red onion and garlic; sauté until softened, about 5 minutes.",
+    "Stir in shiitake mushrooms and add vegetable stock cube. Let it simmer for another minute.",
+    "Pour in sherry wine and let reduce slightly, then stir through nutritional yeast (if using).",
+    "Fold thyme leaves into the skillet mixture.",
+    "Place skillet in preheated oven and roast until edges of mushrooms start to brown, about 15 minutes.",
+    "Remove from oven, season with salt and pepper. Serve hot as a main dish or side.",
+    "For added flavor, drizzle with melted vegan butter before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "umami",
+    "velvety",
+    "one-pot",
+    "french",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 327,
+    "protein": 19,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "umami-velvety-mushroom-french-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-velvety-mushroom-french-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:52:55Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "rest",
+    "primaryIngredient": "sherry",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Mushroom",
+    "descriptor": "Umami Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
