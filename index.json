@@ -509,6 +509,19 @@
     "shard": "u"
   },
   {
+    "slug": "umami-light-paleo-chicken-stir-fry",
+    "title": "Umami Light Paleo Chicken Stir-fry",
+    "tags": [
+      "paleo",
+      "umami",
+      "stir-fry",
+      "light"
+    ],
+    "cuisine": "Saudia Arab",
+    "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
     "slug": "umami-light-slovakian-baby-pak-koi-stir-fry",
     "title": "Umami Light Slovakian Baby Pak Koi Stir-fry",
     "tags": [

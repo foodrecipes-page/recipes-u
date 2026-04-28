@@ -1,0 +1,107 @@
+{
+  "title": "Umami Light Paleo Chicken Stir-fry",
+  "description": "A show-off dish featuring light and umami flavors with the perfect blend of chicken stock cube for a paleo-friendly twist.",
+  "cuisine": "Saudia Arab",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "boneless chicken thigh",
+      "amount": "100g"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "150g"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 slices"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "paleo-friendly soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "distilled water",
+      "amount": "50ml"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Slice the chicken into bite-sized pieces and season with salt and pepper.",
+    "Dice the onion, bell peppers, zucchini, and broccoli florets. Chop the garlic finely.",
+    "In a mixing bowl, combine paleo-friendly soy sauce, apple cider vinegar, distilled water, and chili flakes. Whisk well until smooth.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat. Add chicken pieces to sear for about 5 minutes per side or until golden brown. Remove from pan and set aside.",
+    "In the same pan, add another tablespoon of olive oil if needed. Stir-fry onions, garlic, and chili flakes for about 1 minute until fragrant.",
+    "Add sliced zucchini and broccoli to the pan, tossing with the onion mixture for a few minutes until they start to wilt slightly.",
+    "Return chicken pieces to the pan along with any accumulated juices. Pour the seasoned liquid over all ingredients in the pan. Mix well so that every piece of chicken is coated with the sauce.",
+    "Transfer the stir-fry mix into an oven-safe dish and bake for 10 minutes or until most vegetables are tender.",
+    "Finish off by adding bell peppers on top of the chicken, reduce heat to low-medium, cover and cook for another 5-7 minutes. Adjust seasoning as needed.",
+    "Garnish with fresh herbs (optional) before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paleo",
+    "umami",
+    "stir-fry",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 31,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "umami-light-paleo-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-light-paleo-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:01:44Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Paleo",
+    "mainIngredient": "Chicken",
+    "descriptor": "Umami Light",
+    "dishForm": "Stir-fry"
+  }
+}
