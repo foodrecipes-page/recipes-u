@@ -12,6 +12,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-australian-yogurt-stir-fry",
+    "title": "Umami Australian Yogurt Stir-fry",
+    "tags": [
+      "umami",
+      "tender",
+      "energizing",
+      "australian",
+      "gluten-free-friendly"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-broil-braise-with-bouquet-garni",
     "title": "Umami Broil Braise with Bouquet Garni",
     "tags": [

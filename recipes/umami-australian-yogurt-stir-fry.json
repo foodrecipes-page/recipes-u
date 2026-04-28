@@ -1,0 +1,81 @@
+{
+  "title": "Umami Australian Yogurt Stir-fry",
+  "description": "A tender and energizing gluten-free-friendly dish featuring full fat yogurt in a vibrant steam-based stir-fry.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Full Fat Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh Herbs (parsley, chives)",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Gluten-Free Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Pepper Corns",
+      "amount": "A few crushed"
+    },
+    {
+      "name": "Steamed Vegetables (broccoli, mushrooms)",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat a pan with vegetable broth and add herbs. Sauté the garlic until fragrant.",
+    "Add pepper corns to the pan for an extra kick of umami flavor.",
+    "Stir in full fat yogurt, soy sauce, and steam vegetables. Mix well until the mixture is smooth and creamy.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "tender",
+    "energizing",
+    "australian",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "umami-australian-yogurt-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-australian-yogurt-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:31:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "steam",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Umami",
+    "dishForm": "Stir-fry"
+  }
+}
