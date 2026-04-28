@@ -1,0 +1,103 @@
+{
+  "title": "Umami Crispy Malaysian Flour Stir-fry",
+  "description": "A quick and satisfying post-workout meal featuring a rich blend of umami flavors and crispy white flour, perfect for those following a fodmap-friendly diet.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 tablespoons vegan butter",
+      "amount": "tbsp",
+      "notes": "Vegan for a lactose-free option"
+    },
+    {
+      "name": "1/4 cup gluten-free flour mix",
+      "amount": "cup",
+      "notes": "Use low FODMAP variety if necessary"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "1/8 teaspoon black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "cup",
+      "notes": "For frying and stir-frying"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": "Can be omitted for a thinner sauce or smoother texture"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup soy sauce",
+      "amount": "cup",
+      "notes": "Use low sodium if desired"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon fish sauce (optional)",
+      "amount": "",
+      "notes": "For a savory umami boost, use low sodium or FODMAP-friendly variety"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mix the flour with salt and pepper in a shallow dish.",
+    "Heat 2 tablespoons of oil in a wok or large skillet over medium heat. Dip each piece of gluten-free flour mix into the flour mixture, coat evenly on both sides, then fry for about 30 seconds until golden and crispy. Transfer to a paper towel-lined plate to drain excess oil.",
+    "In the same pan, add remaining 2 tablespoons of oil, followed by chopped onion (if using) and minced garlic. Sauté until fragrant, around 1-2 minutes.",
+    "Pour in soy sauce and lime juice, stirring well to combine all ingredients. Add optional fish sauce for extra umami flavor if desired.",
+    "Once your tofu/fry mix is ready, stir-fry it into the sauce mixture until well coated and heated through.",
+    "Spoon the sauce over the crispy flour pieces and toss gently to coat evenly. Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "crispy",
+    "post-workout",
+    "malaysian",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 12,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "umami-crispy-malaysian-flour-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crispy-malaysian-flour-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:28:23Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "simmer",
+    "primaryIngredient": "white flour",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "flour",
+    "descriptor": "Umami Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
