@@ -454,6 +454,19 @@
     "shard": "u"
   },
   {
+    "slug": "umami-ginger-french-stir-fry",
+    "title": "Umami Ginger French Stir-fry",
+    "tags": [
+      "umami",
+      "festive",
+      "french",
+      "paleo-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
     "slug": "umami-glitter-curry",
     "title": "Umami Glitter Curry",
     "tags": [
