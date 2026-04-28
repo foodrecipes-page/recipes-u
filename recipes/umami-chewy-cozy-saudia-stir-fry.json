@@ -1,0 +1,95 @@
+{
+  "title": "Umami Chewy Cozy Saudi Stir-fry",
+  "description": "A raw-friendly umami and chewy Saudi Arabian stir-fry featuring sake to add depth of flavor, ideal for a cozy dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "10 oz",
+      "notes": "Fresh or frozen, peeled and deveined"
+    },
+    {
+      "name": "Kombu seaweed",
+      "amount": "2 sheets",
+      "notes": "For umami flavor"
+    },
+    {
+      "name": "Raw onion",
+      "amount": "1/4 cup",
+      "notes": "Sliced finely for color and texture"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "6 oz",
+      "notes": "Diced thinly, stems removed for chewiness"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Pressed to release flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For umami and depth of flavor"
+    },
+    {
+      "name": "Sake",
+      "amount": "1/4 cup",
+      "notes": "To deglaze the pan for added complexity"
+    },
+    {
+      "name": "Raw spinach",
+      "amount": "3 cups",
+      "notes": "Washed and chopped finely for freshness"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine kombu seaweed with soy sauce and set aside.",
+    "Heat sesame oil in a non-stick pan over medium-high heat. Add pressed garlic cloves and cook until fragrant, about 30 seconds.",
+    "Add shrimp to the pan and stir-fry for about 2 minutes or until pinked all over. Transfer to a plate, keeping the pan warm.",
+    "In the same pan, add sliced raw onion and shiitake mushrooms. Cook for about 5 minutes until vegetables soften slightly.",
+    "Pour in sake and kombu seaweed mixture. Stir quickly to combine ingredients and scrape any brown bits from the bottom of the pan.",
+    "Return shrimp to the pan with vegetable mixture. Stir to combine everything evenly.",
+    "Add raw spinach to the stir-fry, toss gently, ensuring it wilts without overcooking.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "cozy",
+    "saudi-arabian",
+    "stir-fry",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 21,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "umami-chewy-cozy-saudia-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-chewy-cozy-saudia-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:28:05Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "knead",
+    "primaryIngredient": "sake",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Umami Chewy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}

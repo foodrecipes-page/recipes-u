@@ -26,6 +26,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-chewy-cozy-saudia-stir-fry",
+    "title": "Umami Chewy Cozy Saudi Stir-fry",
+    "tags": [
+      "umami",
+      "cozy",
+      "saudi-arabian",
+      "stir-fry",
+      "raw-friendly"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-chewy-japanese-celery-stir-fry",
     "title": "Umami Chewy Japanese Celery Stir-fry",
     "tags": [
