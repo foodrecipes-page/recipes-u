@@ -1,0 +1,88 @@
+{
+  "title": "Umami Tender Tunisian Lamb Stir-fry",
+  "description": "This dish features tender lamb meat marinated with umami-rich ingredients and served over steamed dill pickles for a refreshing meal-prep option.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb chops",
+      "amount": "4 pieces",
+      "notes": "Choose cuts with less fat, such as the eye of mutton or shoulder"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For searing and stir-frying"
+    },
+    {
+      "name": "Dill pickles",
+      "amount": "8 slices",
+      "notes": "Choose whole ones for easier cutting"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 pieces",
+      "notes": "Skin on, minced for added flavor"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "For enhancing the umami taste"
+    },
+    {
+      "name": "Oregano leaves",
+      "amount": "1 tablespoon",
+      "notes": "Fresh or dried, depending on preference"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "To taste",
+      "notes": "Seasoning for balance"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C) and lightly grease a baking sheet.",
+    "Marinate lamb chops with olive oil, minced garlic, tomato paste, salt, and pepper for at least 30 minutes. Optionally add oregano during marinating.",
+    "Slice dill pickles into thin rounds to use as an accompaniment or garnish after cooking.",
+    "Sear lamb chops in a non-stick pan until golden brown on both sides; about 2-3 minutes per side.",
+    "Transfer seared lamb to the greased baking sheet. Add more olive oil if necessary, then add minced garlic and sauté for another minute.",
+    "Return lamb to the pan, reduce heat to medium, cover with a lid or foil, and cook until tender, about 15-20 minutes.",
+    "Serve hot with steamed dill pickles as a side dish. Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian-dish",
+    "umami-friendly",
+    "meal-prep",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 390,
+    "protein": 26,
+    "carbs": 8,
+    "fat": 15
+  },
+  "slug": "umami-tender-tunisian-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-tender-tunisian-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:42:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "steam",
+    "primaryIngredient": "dill pickles",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Umami Tender",
+    "dishForm": "Stir-fry"
+  }
+}

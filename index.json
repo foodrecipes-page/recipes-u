@@ -637,6 +637,19 @@
     "shard": "u"
   },
   {
+    "slug": "umami-tender-tunisian-lamb-stir-fry",
+    "title": "Umami Tender Tunisian Lamb Stir-fry",
+    "tags": [
+      "tunisian-dish",
+      "umami-friendly",
+      "meal-prep",
+      "dash-friendly"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 75,
+    "shard": "u"
+  },
+  {
     "slug": "umami-velvet-adventurous-flaxie",
     "title": "Umami Velvet Adventurous Flaxie",
     "tags": [
