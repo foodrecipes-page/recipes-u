@@ -1,0 +1,99 @@
+{
+  "title": "Umami Tender Russian Tomato Stir-fry",
+  "description": "This crowd-pleasing dish features baby plum tomatoes and a savory umami flavor profile in a quick pressure-cook method that makes it gluten-free-friendly.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby plum tomatoes",
+      "amount": "1 cup halved"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "6-8 slices"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 small pieces thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4 minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 teaspoon grated"
+    },
+    {
+      "name": "gluten-free soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1-2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pressure cooker over medium-high heat.",
+    "Add shiitake mushrooms, garlic, and ginger. Stir-fry for about 2 minutes until fragrant.",
+    "Add halved baby plum tomatoes to the pot. Cook for another 3-5 minutes or until they start to soften slightly.",
+    "Pour in soy sauce, rice vinegar, and sesame oil. Stir well to combine.",
+    "Season with salt and pepper to taste.",
+    "Pressure-cook on high pressure for about 1 minute (adjust cooking time based on your cooker model).",
+    "Let the pressure release naturally for a few minutes before opening the lid.",
+    "Garnish with sliced green onions just before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "umami",
+    "tender",
+    "crowd-pleaser",
+    "russian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 9,
+    "carbs": 7,
+    "fat": 5
+  },
+  "slug": "umami-tender-russian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-tender-russian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:13:30Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "tomato",
+    "descriptor": "Umami Tender",
+    "dishForm": "Stir-fry"
+  }
+}
