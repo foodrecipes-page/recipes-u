@@ -1,0 +1,89 @@
+{
+  "title": "Umami Silky Festive Allspice Stir-fry",
+  "description": "This low-carb-friendly festive dish features a savory marinade of ground allspice and umami-rich ingredients to create a silky texture in your favorite stir-fry.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground allspice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water chestnuts",
+      "amount": "30 grams (about 1 oz)"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 tablespoons thinly sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium, finely chopped"
+    }
+  ],
+  "instructions": [
+    "Marinate water chestnuts and green onions in a mixture of allspice, ginger paste, soy sauce, and lime juice for at least 30 minutes.",
+    "Heat sesame oil in a wok over medium-high heat. Add finely chopped bell peppers and stir-fry until tender-crisp.",
+    "Remove marinated water chestnuts and green onions from the marinade, then add to the wok with the peppers. Stir-fry for another minute.",
+    "Stir in the remaining marinade and cook for an additional 1-2 minutes or until well combined.",
+    "Garnish with extra sesame seeds if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 5,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "umami",
+    "silky",
+    "festive",
+    "slovakian",
+    "allspice",
+    "marinated",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 11,
+    "fat": 10
+  },
+  "slug": "umami-silky-festive-allspice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-silky-festive-allspice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:41:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "marinate",
+    "primaryIngredient": "ground allspice",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Allspice",
+    "descriptor": "Umami Silky Festive",
+    "dishForm": "Stir-fry"
+  }
+}
