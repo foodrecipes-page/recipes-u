@@ -1,0 +1,85 @@
+{
+  "title": "Umami Flaky Adventurous Spanish Chia Seed Crumble",
+  "description": "This innovative chia seed crumble combines umami flavors with a spicy kick and is nut-free-friendly, perfect for adding adventurous flair to breakfast or dessert dishes.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1/4 cup dried umami mushrooms",
+      "amount": "",
+      "notes": "For a rich umami flavor"
+    },
+    {
+      "name": "1/2 teaspoon ground cayenne pepper (hot chilli powder)",
+      "amount": "",
+      "notes": "To add spice and adventure"
+    },
+    {
+      "name": "1 tablespoon apple cider vinegar",
+      "amount": "",
+      "notes": "Helps in fermenting process if using active dry yeast instead of ferment"
+    },
+    {
+      "name": "2 tablespoons chia seeds",
+      "amount": "",
+      "notes": "A thickener and umami source"
+    },
+    {
+      "name": "1/4 cup unsweetened almond milk (or any dairy-free alternative)",
+      "amount": "",
+      "notes": "Soaks the seeds to activate their natural gel-forming properties"
+    },
+    {
+      "name": "2 tablespoons maple syrup",
+      "amount": "",
+      "notes": "For sweetness and depth of flavor"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "",
+      "notes": "To balance flavors"
+    }
+  ],
+  "instructions": [
+    "Soak the chia seeds in almond milk until they form a gel, about 5 minutes. If using active dry yeast for fermenting instead, mix with umami mushrooms, cayenne pepper, and apple cider vinegar; let sit overnight covered.",
+    "In a small bowl, combine maple syrup, salt, and soaked chia seeds. Mix well to create an even consistency.",
+    "Preheat your oven to 350°F (175°C). Line a baking sheet with parchment paper.",
+    "Press the mixture into a thin layer on the prepared pan. Bake for about 20-25 minutes or until golden brown and crispy.",
+    "Let it cool slightly before serving as a delicious dessert crumble."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "umami-flaky",
+    "adventurous-spanish",
+    "chocolate-chia-seed-crumble"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 6
+  },
+  "slug": "umami-flaky-adventurous-spanish-chia-seed-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-flaky-adventurous-spanish-chia-seed-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:40:04Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "ferment",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Chia Seeds",
+    "descriptor": "Umami Flaky Adventurous",
+    "dishForm": "Crumble"
+  }
+}
