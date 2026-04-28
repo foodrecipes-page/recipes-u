@@ -1,0 +1,114 @@
+{
+  "title": "Umami Malaysian Tagliatelle Braise",
+  "description": "This show-off dish features umami-rich tagliatelle braised in a flavorful Malay-inspired sauce with tender vegetables and meat, perfect for dinner.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tagliatelle",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Ground Beef or Chicken",
+      "amount": "150g",
+      "notes": "For meat lovers"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Shallots, finely chopped",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Carrots, peeled and sliced into rounds",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Celery stalks, finely chopped",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Papaya, diced (optional)",
+      "amount": "100g",
+      "notes": "For sweetness"
+    },
+    {
+      "name": "Kaffir Lime Leaves",
+      "amount": "2",
+      "notes": "For aroma and flavor"
+    },
+    {
+      "name": "Fish Sauce (Kecapi Putih or Kicap Putih)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "50ml",
+      "notes": "For creaminess and richness"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce (Shoyu)",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add shallots, carrots, and celery. Sauté until vegetables are soft.",
+    "Fold in ground meat and cook until browned on all sides.",
+    "Stir in tomato paste, soy sauce, fish sauce, coconut milk, and papaya (if using).",
+    "Bring to a simmer, then reduce heat to low and let the mixture reduce slightly. Add kaffir lime leaves and let them infuse for about 5 minutes.",
+    "Taste and adjust seasoning if necessary. Stir in the chopped noodles and continue to cook until all liquid is absorbed and the sauce coats evenly over the noodles.",
+    "Remove from heat, garnish with fresh herbs like coriander or mint (optional), serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "umami",
+    "malaian",
+    "braise",
+    "tagliatelle",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 31,
+    "carbs": 68,
+    "fat": 24
+  },
+  "slug": "umami-malaysian-tagliatelle-braise",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-malaysian-tagliatelle-braise",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:23:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "tagliatelle",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tagliatelle",
+    "descriptor": "umami juicy show-off",
+    "dishForm": "braise"
+  }
+}
