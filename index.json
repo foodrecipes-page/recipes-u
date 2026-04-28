@@ -521,6 +521,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-gooey-romantic-slovakian-tomato-stir-fry",
+    "title": "Umami Gooey Romantic Slovakian Tomato Stir-fry",
+    "tags": [
+      "umami",
+      "romantic",
+      "slovenian",
+      "stir-fry",
+      "dairy-free"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 45,
+    "shard": "u"
+  },
+  {
     "slug": "umami-gooey-spanish-tomato-stir-fry",
     "title": "Umami Gooey Spanish Tomato Stir-fry",
     "tags": [

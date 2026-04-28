@@ -1,0 +1,93 @@
+{
+  "title": "Umami Gooey Romantic Slovakian Tomato Stir-fry",
+  "description": "This dairy-free dish combines garam masala with a blend of tomatoes and other aromatic vegetables to create a rich and savory meal that is perfect for romantic evenings.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 large ripe tomatoes",
+      "amount": "sliced"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1/4 cup diced mushrooms",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp garam masala",
+      "amount": "finely ground"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "freshly squeezed"
+    },
+    {
+      "name": "2 tbsp nutritional yeast",
+      "amount": "unsweetened, crumbled"
+    },
+    {
+      "name": "2 tbsp maple syrup or agave nectar (optional)",
+      "amount": ""
+    },
+    {
+      "name": "6 oz vegan mozzarella cheese",
+      "amount": "shredded"
+    },
+    {
+      "name": "1/4 tsp cayenne pepper",
+      "amount": "for added heat, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat a skillet over medium-high heat and add olive oil. Add onions and sauté until translucent.",
+    "Add garlic and mushrooms, cook for another minute.",
+    "Stir in garam masala, lemon juice, nutritional yeast, maple syrup if using, cayenne pepper (if adding), and tomatoes. Bring to a simmer.",
+    "Pour the tomato mixture into an oven-safe dish, spread out evenly, and top with shredded vegan mozzarella cheese.",
+    "Bake in preheated oven for 20-25 minutes or until the cheese is bubbly and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "romantic",
+    "slovenian",
+    "stir-fry",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "umami-gooey-romantic-slovakian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-gooey-romantic-slovakian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:11:02Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "garam masala",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Umami Gooey Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
