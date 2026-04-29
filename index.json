@@ -748,6 +748,19 @@
     "shard": "u"
   },
   {
+    "slug": "umami-slovakian-broccoli-stir-fry",
+    "title": "Umami Slovakian Broccoli Stir-fry",
+    "tags": [
+      "slovakian",
+      "stir-fry",
+      "broccoli",
+      "umami"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 22,
+    "shard": "u"
+  },
+  {
     "slug": "umami-tender-raw-friendly-irish-quinoa-stir-fry",
     "title": "Umami Tender Raw-Friendly Irish Quinoa Stir-fry",
     "tags": [

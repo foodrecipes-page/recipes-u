@@ -1,0 +1,84 @@
+{
+  "title": "Umami Slovakian Broccoli Stir-fry",
+  "description": "This sugar-free-friendly brunch-mood Slovakian dish features tender stir-fried broccoli and vegetables for a healthy and tasty meal.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spring onions (scallions)",
+      "amount": "2-3 stalks",
+      "notes": "white and green parts separated, green part finely chopped for color contrast"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp (optional)"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Wash and cut the broccoli into small pieces.",
+    "Prepare spring onions by separating white and green parts, chopping the green part finely for color contrast.",
+    "Mince the garlic cloves finely.",
+    "Heat oil in a wok or frying pan over medium-high heat. Add chopped spring onion whites first, followed by minced garlic and chili flakes (if using).",
+    "Once the mixture is fragrant, add broccoli florets to the pan. Season with salt as needed.",
+    "Cook until the vegetables are tender-crisp, about 5-7 minutes.",
+    "Sprinkle sesame seeds on top of the dish for a crunchy touch and garnish if desired.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "stir-fry",
+    "broccoli",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 4
+  },
+  "slug": "umami-slovakian-broccoli-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-slovakian-broccoli-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:59:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "stir-fry",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Umami",
+    "dishForm": "Stir-fry"
+  }
+}
