@@ -761,6 +761,22 @@
     "shard": "u"
   },
   {
+    "slug": "umami-silkycelery-stir-fry",
+    "title": "Umami Silkycelery Stir-fry",
+    "tags": [
+      "umami",
+      "silky",
+      "quick-fix",
+      "portuguese",
+      "celery",
+      "stir-fry",
+      "low-sodium"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
     "slug": "umami-slovakian-broccoli-stir-fry",
     "title": "Umami Slovakian Broccoli Stir-fry",
     "tags": [

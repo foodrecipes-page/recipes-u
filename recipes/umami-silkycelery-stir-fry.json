@@ -1,0 +1,82 @@
+{
+  "title": "Umami Silkycelery Stir-fry",
+  "description": "A quick-fix Portuguese dish featuring silky celery cooked in a low-sodium deglazed sauce for a umami burst.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "1 medium stalks"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 medium bulb"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a wok or large skillet over medium-high heat. Add onions and garlic, cooking until translucent.",
+    "Add celery stalks and stir-fry for about 5 minutes, until they start to soften but are still crisp.",
+    "Deglaze the pan with tomato paste, allowing it to brown slightly before adding lemon juice and low-sodium soy sauce.",
+    "Reduce heat to medium and simmer until the sauce thickens, stirring occasionally. The cooking time should be around 10-15 minutes total.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "silky",
+    "quick-fix",
+    "portuguese",
+    "celery",
+    "stir-fry",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2.8,
+    "carbs": 9.5,
+    "fat": 7
+  },
+  "slug": "umami-silkycelery-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-silkycelery-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:32:05Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "celery",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "celery",
+    "descriptor": "Umami Silky",
+    "dishForm": "Stir-fry"
+  }
+}
