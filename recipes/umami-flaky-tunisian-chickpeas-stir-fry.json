@@ -1,0 +1,87 @@
+{
+  "title": "Umami Flaky Tunisian Chickpeas Stir-fry",
+  "description": "A vegan-friendly meal-prep dish featuring umami flavors and allspice to create a crispy, flaky texture with a quick stir-fry.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can chickpeas",
+      "amount": "14 oz (397g)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "2 tbsp soy sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp allspice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add chickpeas, soy sauce, salt, lime juice, and garlic. Stir well to combine.",
+    "Reduce heat to medium and add allspice. Stir continuously for about 5 minutes until the mixture is fragrant and slightly thickened.",
+    "Serve hot as a side dish or over rice.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "flaky",
+    "tunisian",
+    "stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 158,
+    "protein": 3.9,
+    "carbs": 26.5,
+    "fat": 7
+  },
+  "slug": "umami-flaky-tunisian-chickpeas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-flaky-tunisian-chickpeas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:06:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "deglaze",
+    "primaryIngredient": "allspice",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Umami Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
