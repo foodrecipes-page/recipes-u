@@ -1,0 +1,92 @@
+{
+  "title": "Umami Rich British Parmesan Cheese Salad",
+  "description": "This low-carb-friendly umami-rich salad features marinated parmesan cheese and perfectly seasoned with parma ham for a romantic twist on traditional dishes.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb",
+    "creamy"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Marinated Parmesan Cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "Parmigiano Reggiano Cheese (grated)",
+      "amount": "25g",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Pitted Prunes",
+      "amount": "3 slices",
+      "notes": "optional for added sweetness and texture"
+    },
+    {
+      "name": "Parma Ham",
+      "amount": "100g",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Fresh Herbs (parsley, chives)",
+      "amount": "a few sprigs",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Prepare the marinated parmesan cheese according to package instructions, or use store-bought if preferred.",
+    "Mix together olive oil and red wine vinegar in a small bowl until emulsified. Add salt and pepper to taste.",
+    "Arrange the grated Parmesan on a baking sheet and brush evenly with the dressing. Bake for 5-7 minutes or until the cheese is golden brown and melts slightly.",
+    "Gently reheat prunes if using, then place them atop the baked parmesan slices in the center of each serving plate.",
+    "Top each slice with thin slices of parma ham. Garnish with fresh herbs.",
+    "Serve immediately for best texture and flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "rich",
+    "low-carb",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 21,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "umami-rich-british-parmesan-cheese-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-rich-british-parmesan-cheese-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:23:48Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "marinate",
+    "primaryIngredient": "parma ham",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Parmesan cheese",
+    "descriptor": "Umami Rich",
+    "dishForm": "Salad"
+  }
+}

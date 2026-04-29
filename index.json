@@ -649,6 +649,19 @@
     "shard": "u"
   },
   {
+    "slug": "umami-rich-british-parmesan-cheese-salad",
+    "title": "Umami Rich British Parmesan Cheese Salad",
+    "tags": [
+      "umami",
+      "rich",
+      "low-carb",
+      "british"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-rich-thai-chicken-stir-fry",
     "title": "Umami Rich Thai Chicken Stir-fry",
     "tags": [
