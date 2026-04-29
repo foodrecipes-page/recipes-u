@@ -577,6 +577,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-juicy-argentinian-beef-stir-fry",
+    "title": "Umami Juicy Argentinian Beef Stir-fry",
+    "tags": [
+      "umami",
+      "juicy",
+      "argentinian",
+      "keto-friendly",
+      "stir-fry"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-light-egyptian-baby-pak-koi-stir-fry",
     "title": "Umami Light Egyptian Baby Pak Koi Stir-fry",
     "tags": [

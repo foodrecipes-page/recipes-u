@@ -1,0 +1,106 @@
+{
+  "title": "Umami Juicy Argentinian Beef Stir-fry",
+  "description": "This dish is a brunch-friendly Argentinean meal that features umami flavors and juicy beef alongside tomato puree for added depth.",
+  "cuisine": "Argentine",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "200g",
+      "notes": "Grill- or pan-seared to medium-rare"
+    },
+    {
+      "name": "Keto-friendly tomato puree",
+      "amount": "3 tbsp",
+      "notes": "Pre-made for keto-friendly options"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped finely, optional for added flavor and color"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "Minced for enhanced umami taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "Freshly squeezed for extra zing"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "10-15",
+      "notes": "Halved, to add a pop of color and freshness"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2",
+      "notes": "For the final layer and umami boost"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "To sauté and finish the dish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning the beef and veggies"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For finishing the dish"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat, add olive oil, and sauté chopped onion until translucent.",
+    "Add minced garlic to the skillet, stirring for about 1 minute until fragrant.",
+    "Season beef with salt and pepper on both sides. Grill or pan-sear until cooked to your desired level (medium-rare). Remove from heat and let rest.",
+    "In the same skillet, reduce heat to medium, add tomato puree, cherry tomatoes, and a squeeze of fresh lemon juice. Stir-fry for 2-3 minutes until the mixture starts to thicken slightly.",
+    "Slice the rested beef into strips and distribute them evenly in the pan with the tomato sauce. Let it sit over low heat for about 1 minute on each side to allow flavors to meld together.",
+    "In a separate bowl, combine egg yolks and salt. Season with pepper before pouring over the top of the stir-fry mixture. Gently fold the yolk mixture into the beef until evenly distributed.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "umami",
+    "juicy",
+    "argentinian",
+    "keto-friendly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 41,
+    "carbs": 28,
+    "fat": 27
+  },
+  "slug": "umami-juicy-argentinian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-juicy-argentinian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T11:49:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "tomato puree",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Beef",
+    "descriptor": "Umami Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
