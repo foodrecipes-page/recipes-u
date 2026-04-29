@@ -1,0 +1,95 @@
+{
+  "title": "Umami Quinoa Vietnamese Pilaf",
+  "description": "A light and tender Vietnamese dish featuring mixed grains with umami flavors, cooked in a Paleo-friendly manner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Farro",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Brown Rice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "8 oz sliced"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 bunch, trimmed and diced"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa, farro, and brown rice under cold water.",
+    "In a pressure cooker, combine rinsed grains with vegetable broth and umami seasoning. Cook according to manufacturer's instructions until done.",
+    "Sauté minced garlic in a pan over medium heat until fragrant, add shiitake mushrooms, and sauté for another 2-3 minutes.",
+    "Add snow peas to the pan and cook for an additional minute or two until heated through.",
+    "Toss cooked grains with prepared vegetables and sauce (if using). Serve hot.",
+    "Optional: Drizzle a bit of fish sauce over the top if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "tender",
+    "light-vietnamese-dish",
+    "mixed-grain",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 9
+  },
+  "slug": "umami-quinoa-vietnamese-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-quinoa-vietnamese-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T15:05:14Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "pressure-cook",
+    "primaryIngredient": "mixed grain",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "quinoa",
+    "descriptor": "Umami",
+    "dishForm": "Pilaf"
+  }
+}
