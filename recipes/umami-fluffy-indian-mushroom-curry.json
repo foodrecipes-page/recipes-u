@@ -1,0 +1,110 @@
+{
+  "title": "Umami Fluffy Indian Mushroom Curry",
+  "description": "A rich and indulgent Indian curry featuring roasted mushrooms and a deep umami flavor, made vegan-friendly with a chicken stock cube alternative. This dish is perfect for a special occasion or a cozy night in.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegan chicken stock cube",
+      "amount": "1 cube",
+      "notes": "dissolved in 1 cup hot water"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the mushrooms with a little oil and roast for 20-25 minutes, or until tender and lightly browned.",
+    "In a large pan, heat some oil over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger to the pan and cook for 1-2 minutes, or until fragrant.",
+    "Stir in the curry powder and garam masala and cook for 1 minute.",
+    "Add the tomato puree, coconut milk, and dissolved stock cube to the pan. Bring to a simmer.",
+    "Add the roasted mushrooms to the pan and stir to combine.",
+    "Reduce the heat to low and let the curry simmer for 10-15 minutes, or until the sauce has thickened and the flavors have melded together.",
+    "Season the curry with salt to taste.",
+    "Garnish with chopped cilantro and serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "mushroom-curry",
+    "umami-flavors",
+    "vegan-friendly",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "umami-fluffy-indian-mushroom-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-fluffy-indian-mushroom-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:04:29Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "roast",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "umami fluffy",
+    "dishForm": "Curry"
+  }
+}

@@ -527,6 +527,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-fluffy-indian-mushroom-curry",
+    "title": "Umami Fluffy Indian Mushroom Curry",
+    "tags": [
+      "indian-cuisine",
+      "mushroom-curry",
+      "umami-flavors",
+      "vegan-friendly",
+      "comfort-food"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 60,
+    "shard": "u"
+  },
+  {
     "slug": "umami-fluffy-mediterranean-dum-stir-fry",
     "title": "Umami Fluffy Mediterranean Dum Stir-fry",
     "tags": [
