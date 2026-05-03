@@ -736,6 +736,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-gooey-kenyan-lamb-stew",
+    "title": "Umami Gooey Kenyan Lamb Stew",
+    "tags": [
+      "kenyan-cuisine",
+      "lamb-stew",
+      "fodmap-friendly",
+      "comfort-food",
+      "special-occasion"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 190,
+    "shard": "u"
+  },
+  {
     "slug": "umami-gooey-romantic-slovakian-tomato-stir-fry",
     "title": "Umami Gooey Romantic Slovakian Tomato Stir-fry",
     "tags": [
