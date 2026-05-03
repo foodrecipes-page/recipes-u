@@ -1,0 +1,105 @@
+{
+  "title": "Unbelievably Rich German Challots Wrap",
+  "description": "A rich and chewy German dish featuring challots, ssam-wrap, and low-carb-friendly ingredients, perfect for a sick day. This dish is a twist on traditional German cuisine with a Korean-inspired wrap.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "challots",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4",
+      "notes": "low-carb"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat and add the sliced pork sausage.",
+    "Cook the sausage until browned, about 5 minutes.",
+    "Add the chopped challots to the skillet and cook until they are softened, about 5 minutes.",
+    "Add the sauerkraut, caraway seeds, salt, and pepper to the skillet and stir to combine.",
+    "Cook for an additional 2 minutes, until the sauerkraut is heated through.",
+    "Warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by spooning the sausage and challot mixture onto the center of each wrap.",
+    "Top each wrap with shredded cheese and a drizzle of melted butter.",
+    "Fold the bottom edge of each wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "low-carb",
+    "ssam-wrap",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "unbelievably-rich-german-challots-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unbelievably-rich-german-challots-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:25:24Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "challots",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "challots",
+    "descriptor": "Unbelievably rich",
+    "dishForm": "Wrap"
+  }
+}
