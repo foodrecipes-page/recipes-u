@@ -1,0 +1,114 @@
+{
+  "title": "Umami Chewy Ethiopian Cannellini Beans Stew",
+  "description": "A comforting, nut‑free Ethiopian-inspired bean stew that delivers deep umami flavor and a pleasantly chewy texture, perfect for a quick sick‑day meal.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "Used for sautéing and marinating"
+    },
+    {
+      "name": "Canned cannellini beans",
+      "amount": "1 cup",
+      "notes": "Drain and rinse before marinating"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Berbere spice mix",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1",
+      "notes": "For aroma"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Low‑sodium vegetable broth",
+      "amount": "1 ½ cups"
+    },
+    {
+      "name": "Salt & pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the canned cannellini beans with 1 tablespoon olive oil, 2 tablespoons berbere spice mix, 1 teaspoon smoked paprika, and a pinch each of salt and pepper. Let the beans marinate for 15 minutes while you prepare the rest of the ingredients.",
+    "Heat a large pot over medium heat and drizzle 1 teaspoon of olive oil to warm the pan.",
+    "Add the diced onion to the pot and sauté for 4–5 minutes, stirring frequently, until translucent and fragrant.",
+    "Stir in the minced garlic and grated ginger, cooking for an additional 30 seconds until aromatic.",
+    "Sprinkle in the remaining berbere spice mix and ground cumin; cook for 30 seconds, allowing the spices to bloom.",
+    "Add the diced tomatoes and bay leaf, stirring to combine. Cook for 2 minutes to warm the tomatoes.",
+    "Pour in the low‑sodium vegetable broth and bring the mixture to a gentle simmer.",
+    "Gently fold in the marinated cannellini beans, ensuring they are fully submerged in the broth. Simmer uncovered for 10–12 minutes, or until the beans are tender and the flavors meld.",
+    "Taste the stew and season with additional salt and pepper as desired; remove the bay leaf.",
+    "Serve the stew hot over a bed of simple rice or with injera for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "bean-stew",
+    "umami",
+    "nut-free",
+    "chewy",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 5,
+    "carbs": 14,
+    "fat": 4
+  },
+  "slug": "umami-chewy-ethiopian-cannellini-beans-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-chewy-ethiopian-cannellini-beans-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:59:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "marinate",
+    "primaryIngredient": "cannellini beans",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "Umami Chewy",
+    "dishForm": "Stew"
+  }
+}
