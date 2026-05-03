@@ -1,0 +1,108 @@
+{
+  "title": "Upper Crust Irish Cod Gratin",
+  "description": "A sour, flaky, cozy Irish dish featuring soda water and a grill, making it gluten-free friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets (4)",
+      "amount": "4",
+      "notes": "Fresh or frozen, skin removed"
+    },
+    {
+      "name": "Butter (1/2 cup)",
+      "amount": "1/2",
+      "notes": "Melted"
+    },
+    {
+      "name": "Soda water (1 cup)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Flour (1/4 cup)",
+      "amount": "1/4",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Shredded cheddar cheese (1 cup)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream (1/2 cup)",
+      "amount": "1/2",
+      "notes": "Optional"
+    },
+    {
+      "name": "Chopped parsley (1/4 cup)",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Rinse the cod fillets and pat dry with paper towels.",
+    "In a bowl, mix together flour and a pinch of salt.",
+    "Dredge the cod fillets in the flour mixture, shaking off excess.",
+    "Place the cod fillets on the grill and cook for 3-4 minutes per side, or until cooked through.",
+    "While the cod is cooking, mix the melted butter, soda water, and sour cream (if using) in a saucepan.",
+    "Bring the mixture to a simmer over medium heat and cook until slightly thickened.",
+    "Stir in the shredded cheddar cheese until melted and smooth.",
+    "Transfer the cooked cod to a baking dish and top with the cheese sauce.",
+    "Sprinkle chopped parsley over the top and season with salt and black pepper to taste.",
+    "Bake in a preheated oven at 375°F (190°C) for 5-7 minutes, or until the cheese is bubbly and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "grill",
+    "irish",
+    "seafood",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 12,
+    "fat": 28
+  },
+  "slug": "upper-crust-irish-cod-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/upper-crust-irish-cod-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:54:34Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "soda water",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Cod",
+    "descriptor": "Upper Crust",
+    "dishForm": "Gratin"
+  }
+}

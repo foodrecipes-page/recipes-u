@@ -1366,5 +1366,21 @@
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 5,
     "shard": "u"
+  },
+  {
+    "slug": "upper-crust-irish-cod-gratin",
+    "title": "Upper Crust Irish Cod Gratin",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "grill",
+      "irish",
+      "seafood",
+      "spring",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "u"
   }
 ]
