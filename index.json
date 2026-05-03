@@ -238,6 +238,24 @@
     "shard": "u"
   },
   {
+    "slug": "umami-crumbly-american-beef-stir-fry",
+    "title": "Umami Crumbly American Beef Stir‑Fry",
+    "tags": [
+      "american",
+      "stir-fry",
+      "halal",
+      "brunch",
+      "umami",
+      "crumbly",
+      "beef",
+      "minced",
+      "cheese"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
     "slug": "umami-crumbly-cheese-quake",
     "title": "Umami Crumbly Cheese Quake",
     "tags": [
