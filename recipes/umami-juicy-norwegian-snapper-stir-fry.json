@@ -1,0 +1,98 @@
+{
+  "title": "Umami Juicy Norwegian Snapper Stir-fry",
+  "description": "A light, keto-friendly stir‑fry featuring fresh snapper, crisp vegetables, and a tangy umami sauce that captures the essence of Norwegian cuisine.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets, skin removed",
+      "amount": "400g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Low‑sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Pat the snapper fillets dry with paper towels and season lightly with salt and pepper.",
+    "Heat 1 tbsp olive oil in a large non‑stick skillet over medium‑high heat. Sear the fillets skin‑side down for 2–3 minutes until golden, then flip and cook another 2 minutes. Remove to a plate.",
+    "Add the remaining 1 tbsp olive oil to the skillet. Sauté garlic, ginger, bell pepper, carrot, and mushrooms for 4–5 minutes until vegetables are tender yet crisp.",
+    "Return the fish to the skillet, pour in soy sauce and lime juice, and toss gently to coat. Cook for an additional minute, ensuring the fish reaches an internal temperature of 145°F (63°C).",
+    "Plate the stir‑fry, garnish with fresh dill, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto-friendly",
+    "norwegian",
+    "seafood",
+    "stir-fry",
+    "low-carb",
+    "quick-meal",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 174,
+    "protein": 21,
+    "carbs": 5,
+    "fat": 8
+  },
+  "slug": "umami-juicy-norwegian-snapper-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-juicy-norwegian-snapper-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:32:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "snapper fish",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "snapper",
+    "descriptor": "Umami Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
