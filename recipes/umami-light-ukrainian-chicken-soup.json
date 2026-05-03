@@ -1,0 +1,120 @@
+{
+  "title": "Umami Light Ukrainian Chicken Soup",
+  "description": "A light, kid-friendly Ukrainian chicken soup brimming with umami from ancho chilies, perfect for diabetics thanks to low sugar and balanced macros.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "diabetic-friendly",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast (boneless, skinless)",
+      "amount": "500g",
+      "notes": "cut into bite‑size pieces"
+    },
+    {
+      "name": "Water",
+      "amount": "1.5 liters"
+    },
+    {
+      "name": "Ancho chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tablespoon",
+      "notes": "optional for umami"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Prepare the vegetables: dice the carrot, celery, and onion; mince the garlic.",
+    "In a large pot, bring 1.5 liters of water to a gentle boil.",
+    "Add the chicken breast pieces, reduce heat to low, and poach until cooked through (about 15 minutes).",
+    "Remove the chicken, let it cool slightly, then shred into bite‑size pieces. Set aside.",
+    "Return the pot to low heat; add the diced carrot, celery, onion, minced garlic, and ancho chili powder. Sauté for 3–4 minutes until the vegetables soften.",
+    "Stir in the tomato paste (if using) and a splash of water to create a light broth base.",
+    "Add the shredded chicken back to the pot, season with salt, pepper, and fresh dill, and simmer gently for 5 minutes so the flavors meld.",
+    "Taste and adjust seasoning, adding more pepper or dill if desired.",
+    "Optional: finish with a squeeze of fresh lemon juice to brighten the soup.",
+    "Serve hot in bowls, garnishing with extra dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "kid-friendly",
+    "diabetic-friendly",
+    "umami",
+    "poached",
+    "chicken",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 228,
+    "protein": 39,
+    "carbs": 4,
+    "fat": 5
+  },
+  "slug": "umami-light-ukrainian-chicken-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-light-ukrainian-chicken-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:10:54Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "ancho chillies",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken",
+    "descriptor": "Umami Light",
+    "dishForm": "Soup"
+  }
+}
