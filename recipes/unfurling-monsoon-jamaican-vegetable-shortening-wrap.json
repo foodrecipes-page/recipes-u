@@ -1,0 +1,120 @@
+{
+  "title": "Unfurling Monsoon Jamaican Vegetable Shortening Wrap",
+  "description": "Experience the tropical fusion of Jamaican and Indian flavors in this shortening-infused, plant-based wrap featuring a fragrant lotus leaf wrapper.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus Leaf Wraps",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Vegetable Shortening",
+      "amount": "2 tablespoons",
+      "notes": "Plant-based"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tablespoon",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "Fresh, chopped"
+    },
+    {
+      "name": "Jamaican Curry Powder",
+      "amount": "2 teaspoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the onion and bell pepper, and stir-fry for 3-4 minutes.",
+    "Add the carrots and mushrooms, and stir-fry for another 4-5 minutes.",
+    "Add the curry powder, brown sugar, and salt, and stir-fry for 1 minute.",
+    "Stir in the chopped spinach and cook until wilted.",
+    "Meanwhile, warm the lotus leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spoon the stir-fry mixture onto the center of each warmed lotus leaf wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Repeat with the remaining wraps and filling.",
+    "Serve immediately, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "one-pan",
+    "plant-based",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "unfurling-monsoon-jamaican-vegetable-shortening-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unfurling-monsoon-jamaican-vegetable-shortening-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:50:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "stir-fry",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "vegetable shortening",
+    "descriptor": "Unfurling Monsoon",
+    "dishForm": "Wrap"
+  }
+}
