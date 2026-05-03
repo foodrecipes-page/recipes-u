@@ -1,0 +1,102 @@
+{
+  "title": "Umami Crunchy Venezuelan Plantain Muffins",
+  "description": "These muffins combine the natural sweetness of plantains with umami flavors and a crunchy texture, inspired by Venezuelan cuisine. They're perfect for a comforting snack or breakfast on-the-go.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe plantains",
+      "amount": "3 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together flour, cornmeal, sugar, miso paste, smoked paprika, and salt.",
+    "In a separate bowl, whisk together olive oil and apple cider vinegar.",
+    "Add the sliced plantains to the wet ingredients and marinate for at least 10 minutes.",
+    "Add the marinated plantains to the dry ingredients and stir until just combined.",
+    "Divide the batter evenly among 12 muffin cups.",
+    "Bake for 20-25 minutes or until the muffins are golden brown and crispy on the outside.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Garnish with chopped cilantro and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "umami",
+    "crunchy",
+    "plantain",
+    "venezuelan",
+    "muffins",
+    "snack",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "umami-crunchy-venezuelan-plantain-muffins",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crunchy-venezuelan-plantain-muffins",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:16:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "marinate",
+    "primaryIngredient": "muffins",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantains",
+    "descriptor": "umami crunchy",
+    "dishForm": "Muffins"
+  }
+}
