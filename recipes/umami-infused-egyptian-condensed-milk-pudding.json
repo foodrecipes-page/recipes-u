@@ -1,0 +1,116 @@
+{
+  "title": "Umami-Infused Egyptian Condensed Milk Pudding",
+  "description": "A rich and creamy dessert infused with wok-hei from sesame oil and umami from soy sauce, served in individual mason jars. Egyptian spices and condensed milk balance the savory flavors.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan-options",
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup",
+      "notes": "for wok-hei"
+    },
+    {
+      "name": "unsweetened condensed milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "milk powder",
+      "amount": "2 tbsp",
+      "notes": "or substitute with coconut milk powder"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "or substitute with ground ginger"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "a pinch",
+      "notes": "to enhance umami"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tsp",
+      "notes": "or substitute with tamari or coconut aminos"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2",
+      "notes": "or substitute with aquafaba (liquid from canned chickpeas)"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, heat the sesame oil over low heat for 5-7 minutes to infuse wok-hei.",
+    "In a separate bowl, whisk together the condensed milk, granulated sugar, sesame seeds, cocoa powder, milk powder, ground cinnamon, ground black pepper, and soy sauce until well combined.",
+    "Temper the egg yolks by slowly pouring the warm sesame oil mixture into the egg yolks while whisking constantly.",
+    "Return the saucepan to low heat and cook the egg yolk mixture for 5-7 minutes, stirring constantly, until it thickens like a custard.",
+    "Remove the saucepan from the heat and stir in the vanilla extract.",
+    "Strain the mixture through a fine-mesh sieve into individual mason jars.",
+    "Allow the pudding to cool to room temperature before refrigerating for at least 4 hours or overnight.",
+    "Garnish with additional sesame seeds and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "easter",
+    "high-protein",
+    "make-ahead",
+    "one-pan",
+    "thanksgiving",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "umami-infused-egyptian-condensed-milk-pudding",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-infused-egyptian-condensed-milk-pudding",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:52:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "wok-hei",
+    "primaryIngredient": "condensed milk",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Condensed Milk",
+    "descriptor": "Umami-Infused",
+    "dishForm": "Pudding"
+  }
+}
