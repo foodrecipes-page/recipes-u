@@ -1,0 +1,131 @@
+{
+  "title": "Umami Flaky Japanese Lentil Stew",
+  "description": "A hearty, umami‑rich Japanese‑style stew featuring flaky French green lentils, aromatic vegetables, and a savory miso‑soy glaze. This one‑pot dish is both kosher‑friendly and bursting with comforting flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French green lentils",
+      "amount": "1 cup (200g)",
+      "notes": "Rinse and drain"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Small onion",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp, minced"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "Low‑sodium vegetable broth",
+      "amount": "4 cups (960ml)",
+      "notes": "Kosher certified"
+    },
+    {
+      "name": "Kosher soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For umami"
+    },
+    {
+      "name": "White or yellow miso paste",
+      "amount": "1 tbsp",
+      "notes": "Kosher certified"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp, chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Sake",
+      "amount": "1 tbsp",
+      "notes": "For deglazing"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp",
+      "notes": "For deglazing"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water and set aside.",
+    "Heat sesame oil in a large pot over medium heat. Add the diced onion, minced garlic, and minced ginger, sautéing until the onion becomes translucent, about 3 minutes.",
+    "Add sliced shiitake mushrooms, diced carrot, and zucchini to the pot and cook for another 2 minutes, stirring occasionally.",
+    "Deglaze the pot by pouring in the sake and mirin, stirring to lift any browned bits from the bottom of the pan.",
+    "Stir in the rinsed lentils, vegetable broth, soy sauce, and miso paste. Bring the mixture to a gentle boil.",
+    "Reduce heat to a simmer, cover, and let cook for 20–25 minutes, or until the lentils are tender and the stew has thickened slightly.",
+    "Stir in toasted sesame seeds and taste, adjusting seasoning with additional soy sauce if needed.",
+    "Serve the stew hot, garnished with chopped cilantro. Optionally sprinkle a few nori flakes for extra umami.",
+    "Serve immediately with steamed rice or crusty bread for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot",
+    "vegetarian",
+    "kosher",
+    "lentils",
+    "japanese",
+    "umami",
+    "soup",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 145,
+    "protein": 6,
+    "carbs": 21,
+    "fat": 4
+  },
+  "slug": "umami-flaky-japanese-lentil-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-flaky-japanese-lentil-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:57:05Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "deglaze",
+    "primaryIngredient": "french lentils",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "lentils",
+    "descriptor": "Umami Flaky",
+    "dishForm": "Stew"
+  }
+}

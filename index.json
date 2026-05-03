@@ -546,6 +546,23 @@
     "shard": "u"
   },
   {
+    "slug": "umami-flaky-japanese-lentil-stew",
+    "title": "Umami Flaky Japanese Lentil Stew",
+    "tags": [
+      "one-pot",
+      "vegetarian",
+      "kosher",
+      "lentils",
+      "japanese",
+      "umami",
+      "soup",
+      "main-course"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-flaky-lazy-sunday-casabe-stir-fry",
     "title": "Umami Flaky Lazy-Sunday Casabe Stir-fry",
     "tags": [
