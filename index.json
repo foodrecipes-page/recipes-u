@@ -1,5 +1,20 @@
 [
   {
+    "slug": "uber-crisp-french-fish-bisque",
+    "title": "Uber Crisp French Fish Bisque",
+    "tags": [
+      "bisque",
+      "crisp",
+      "fish",
+      "keto",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "ultra-spicy-canadian-tourtiere-poutine",
     "title": "Ultra-spicy Canadian Tourtière Poutine",
     "tags": [
