@@ -1,0 +1,115 @@
+{
+  "title": "Umami Creamy Canadian Beetroot Soup",
+  "description": "A velvety beetroot soup infused with a savory umami kick and creamy coconut milk, perfect for a show‑off Canadian dinner that’s gentle on blood sugar.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beetroots",
+      "amount": "2 medium (about 400 g)",
+      "notes": "roasted, peeled, diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups (1 L)",
+      "notes": "low‑sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low‑sodium"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup (240 ml)",
+      "notes": "unsweetened, full‑fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F). Toss beetroot cubes with 1 tsp olive oil, salt, and pepper, and roast on a sheet for 25 minutes until tender.",
+    "Meanwhile, heat 1 tbsp olive oil in a large pot over medium heat. Add onion and carrot, sauté for 5 minutes until softened.",
+    "Add garlic and smoked paprika, cooking for 30 seconds until fragrant.",
+    "Pour in vegetable broth and bring to a gentle boil. Reduce heat and simmer for 10 minutes.",
+    "Stir in roasted beetroot, miso paste, soy sauce, and thyme. Simmer for another 5 minutes to combine flavors.",
+    "Remove from heat and let cool slightly, then puree the soup using an immersion blender or countertop blender until smooth.",
+    "Stir in coconut milk, taste and adjust seasoning with salt and pepper if needed.",
+    "Serve hot, garnishing with a swirl of coconut cream and a sprinkle of fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "diabetic-friendly",
+    "beetroot",
+    "creamy",
+    "umami",
+    "soup",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "umami-creamy-canadian-beetroot-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-creamy-canadian-beetroot-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:40:00Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beetroot",
+    "descriptor": "Umami Creamy",
+    "dishForm": "Soup"
+  }
+}

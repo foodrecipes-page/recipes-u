@@ -121,6 +121,22 @@
     "shard": "u"
   },
   {
+    "slug": "umami-creamy-canadian-beetroot-soup",
+    "title": "Umami Creamy Canadian Beetroot Soup",
+    "tags": [
+      "vegan",
+      "diabetic-friendly",
+      "beetroot",
+      "creamy",
+      "umami",
+      "soup",
+      "healthy"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
     "slug": "umami-creamy-german-mushroom-terrine",
     "title": "Umami Creamy German Mushroom Terrine",
     "tags": [
