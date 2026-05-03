@@ -1,0 +1,106 @@
+{
+  "title": "Unforgettable Spicy Slovakian Lamb Stew",
+  "description": "A spicy, gooey, romantic stew that brings Slovakian warmth to your table, halal-friendly for all diners.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, bone-in",
+      "amount": "1.2 kg"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "red bell pepper, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "400 g can"
+    },
+    {
+      "name": "paprika sweet",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "800 ml"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add lamb pieces and brown on all sides, about 8 minutes.",
+    "Remove lamb and set aside; in the same pot, sauté onion, garlic, bell pepper, and carrot until softened, about 5 minutes.",
+    "Stir in tomato paste and paprika sweet, cooking for 2 minutes to release aromas.",
+    "Return lamb to the pot, pour in diced tomatoes, cayenne pepper, thyme, and beef broth; bring to a boil.",
+    "Reduce heat, cover, and simmer for 60 minutes, checking occasionally and adding a splash of water if needed.",
+    "Season with salt and pepper, then simmer uncovered for 10 more minutes to thicken the sauce.",
+    "Serve hot, garnished with fresh parsley if desired, and enjoy the spicy, gooey romance of Slovakian cuisine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner",
+    "halal-friendly",
+    "romantic",
+    "slovakian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "unforgettable-spicy-slovakian-lamb-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unforgettable-spicy-slovakian-lamb-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:11:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "tadka",
+    "primaryIngredient": "lamb",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lamb",
+    "descriptor": "Unforgettable Spicy",
+    "dishForm": "Stew"
+  }
+}

@@ -1358,6 +1358,35 @@
     "shard": "u"
   },
   {
+    "slug": "unforgettable-spicy-slovakian-lamb-stew",
+    "title": "Unforgettable Spicy Slovakian Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "dinner",
+      "halal-friendly",
+      "romantic",
+      "slovakian",
+      "spicy"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 105,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-bitter-japanese-tofu-noodles",
+    "title": "Unique Bitter Japanese Tofu Noodles",
+    "tags": [
+      "healthy-meal",
+      "japanese-cuisine",
+      "noodle-dish",
+      "spicy-food",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "unique-crumbly-jamaican-papelon-skillet",
     "title": "Unique Crumbly Jamaican Papelon Skillet",
     "tags": [
