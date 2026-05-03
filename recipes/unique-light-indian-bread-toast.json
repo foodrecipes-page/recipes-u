@@ -1,0 +1,102 @@
+{
+  "title": "Unique Light Indian Bread Toast",
+  "description": "A herbal and comforting Indian dish featuring toast, perfect for a light meal, this recipe is egg free and friendly for all diets.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white bread",
+      "amount": "4 slices",
+      "notes": "preferably a day old"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green chutney",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat a non stick pan over medium heat and add ghee or oil to it.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add coriander powder, turmeric powder, and red chili powder, and stir well.",
+    "Place the bread slices in the pan and toast until they are lightly browned on both sides.",
+    "Sprinkle salt to taste over the toasted bread slices.",
+    "Deglaze the pan with lemon juice, scraping the bottom to release all the spices and flavor.",
+    "Serve the toasted bread slices hot, garnished with chopped cilantro and a side of green chutney.",
+    "Let it cool for a minute or two before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "herbal",
+    "indian-food",
+    "light-meal",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "unique-light-indian-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-light-indian-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:41:06Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "deglaze",
+    "primaryIngredient": "toast",
+    "diet": "egg-free",
+    "region": "north",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "bread",
+    "descriptor": "Unique Light",
+    "dishForm": "Toast"
+  }
+}
