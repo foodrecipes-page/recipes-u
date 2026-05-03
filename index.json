@@ -591,6 +591,19 @@
     "shard": "u"
   },
   {
+    "slug": "umami-grilled-hind-shank",
+    "title": "Umami Grilled Hind Shank",
+    "tags": [
+      "umami",
+      "grilled",
+      "hind_shank",
+      "light_croatian_dish"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-juicy-argentinian-beef-stir-fry",
     "title": "Umami Juicy Argentinian Beef Stir-fry",
     "tags": [
