@@ -1,0 +1,107 @@
+{
+  "title": "Uncharted Arabian Chicken Roast",
+  "description": "A fragrant, mildly spiced chicken roast in earthenware, featuring coriander and gentle Ayurvedic-friendly flavors suitable for a royal getaway meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "6 bone-in, skin-on (1.8 kg)",
+      "notes": "cut loosely in half"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, smashed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190°C (375°F).",
+    "In a small bowl mix coriander powder, cumin, paprika, salt and pepper.",
+    "Pat the chicken thighs dry with paper towels.",
+    "Brush each thigh with olive oil and rub in the spice mix, then scatter fresh coriander leaves on top.",
+    "Place the sliced onion in the bottom of a ttukbaegi earthenware pot and arrange the chicken thighs on top.",
+    "Squeeze lemon juice over the chicken and add smashed garlic cloves around the pieces.",
+    "Cover the pot with its lid and bake in the preheated oven for 45 minutes, or until the chicken reaches an internal temperature of 75°C (165°F).",
+    "Remove the lid, stir gently to mix the juices, and bake uncovered for an additional 10 minutes to crisp the skin.",
+    "Let the roast rest for 5 minutes before serving.",
+    "Serve the chicken with a side of warm flatbread and a simple cucumber salad.",
+    "Rest of the steps are optional: garnish with extra fresh coriander or a drizzle of yogurt if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "coriander-rich",
+    "family-friendly",
+    "gluten-free",
+    "one-pan",
+    "roast",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 27,
+    "carbs": 6,
+    "fat": 15
+  },
+  "slug": "uncharted-arabian-chicken-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/uncharted-arabian-chicken-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:41:30Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "coriander",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Uncharted",
+    "dishForm": "Roast"
+  }
+}
