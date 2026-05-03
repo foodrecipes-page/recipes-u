@@ -1,0 +1,108 @@
+{
+  "title": "underground roasted Moroccan potatoes Gratin",
+  "description": "A rich, creamy, and aromatic Moroccan-inspired dish featuring roasted charlotte potatoes with a fluffy top and a hint of spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "charlotte potatoes",
+      "amount": "4 pounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and slice the charlotte potatoes into 1/8-inch thick rounds.",
+    "In a large bowl, mix together the sliced potatoes, olive oil, onion, garlic, ginger, cumin powder, coriander powder, paprika, salt, and black pepper.",
+    "Transfer the potato mixture to a 9x13-inch baking dish and pour in the chicken broth.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Remove the dish from the oven and let it cool for a few minutes.",
+    "In a small bowl, whisk together the Greek yogurt and a pinch of salt.",
+    "Pour the yogurt mixture over the top of the potatoes and return the dish to the oven.",
+    "Bake for an additional 5-10 minutes, or until the top is creamy and set.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 55,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "moroccan",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "underground-roasted-moroccan-potatoes-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/underground-roasted-moroccan-potatoes-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:57:06Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "potatoes",
+    "descriptor": "underground Roasted",
+    "dishForm": "Gratin"
+  }
+}
