@@ -1,0 +1,113 @@
+{
+  "title": "Umami Dense Croatian Spinach Casserole",
+  "description": "A richly flavored, nutty spinach casserole that balances earthy mushrooms, tangy feta, and a savory miso-infused sauce for a midnight craving.",
+  "cuisine": "Croatian",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh spinach",
+      "amount": "4 cups (480 g)",
+      "notes": "chopped"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium (150 g)",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "button mushrooms",
+      "amount": "1 cup (70 g)",
+      "notes": "sliced"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kosher feta cheese",
+      "amount": "100 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat and sauté the diced onion until translucent, about 3 minutes.",
+    "Add the minced garlic and sliced mushrooms, cooking until the mushrooms soften and release their juices, about 4–5 minutes.",
+    "Stir in the miso paste, lemon zest, salt, and pepper, letting the mixture simmer for 1 minute to blend flavors.",
+    "Add the chopped spinach in batches, allowing each batch to wilt before adding the next, until all spinach is incorporated and wilted.",
+    "Transfer the spinach mixture into a greased 9-inch baking dish, spreading it evenly.",
+    "In a small bowl, whisk the egg with a splash of water; pour over the spinach. Sprinkle the crumbled feta and chopped parsley on top.",
+    "Bake in the preheated oven for 20–25 minutes, or until the top is golden and the casserole is set.",
+    "Remove from oven, let rest for 5 minutes, then slice into four equal servings.",
+    "Serve warm, optionally garnished with a drizzle of olive oil or extra feta."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "kosher-friendly",
+    "spinach",
+    "casserole",
+    "dairy"
+  ],
+  "nutrition": {
+    "calories": 252,
+    "protein": 8.5,
+    "carbs": 7.5,
+    "fat": 14.4
+  },
+  "slug": "umami-dense-croatian-spinach-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-dense-croatian-spinach-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:10:17Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "marinate",
+    "primaryIngredient": "spinach",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Spinach",
+    "descriptor": "Umami Dense",
+    "dishForm": "Casserole"
+  }
+}

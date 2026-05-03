@@ -319,6 +319,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-dense-croatian-spinach-casserole",
+    "title": "Umami Dense Croatian Spinach Casserole",
+    "tags": [
+      "vegetarian",
+      "kosher-friendly",
+      "spinach",
+      "casserole",
+      "dairy"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
     "slug": "umami-dense-ethiopian-wheat-stir-fry",
     "title": "Umami Dense Ethiopian Wheat Stir-fry",
     "tags": [
