@@ -1,0 +1,90 @@
+{
+  "title": "Umami Japanese Tofu Pasta",
+  "description": "A romantic and savory dish featuring vegan-friendly umami flavors with the addition of Jamaican curry powder for a unique twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "Pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "Green Onions (scallions)",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Vegan soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Umami seasoning (like soy sauce or miso paste)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Rinse the tofu and press it dry with a clean kitchen towel for about 15 minutes.",
+    "In a large pot, bring 4 cups of water to a boil. Add the pasta and cook according to package instructions until al dente. Reserve 1 cup of pasta cooking liquid before draining.",
+    "Drain the cooked pasta, reserving some cooking liquid, and set aside. In another pan, heat 2 tablespoons of oil over medium-high heat. Sauté chopped shiitake mushrooms for a few minutes.",
+    "Add tofu to the pan with vegetable oil and cook until golden brown on all sides. Mix in shiitake mushrooms and umami seasoning. Pour in 3 tablespoons of vegan soy sauce, then add cooked pasta gradually while stirring constantly to avoid clumping.",
+    "If the mixture is too dry, add reserved cooking liquid a little at a time until it reaches your desired consistency. Stir in Jamaican curry powder and sliced green onions (scallions).",
+    "Reduce heat to low and simmer for an additional 2-3 minutes to meld flavors together. Serve hot as a side dish or a main course with steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "umami japanese dish",
+    "romantic japanese cuisine",
+    "vegan-friendly pasta recipe",
+    "jamaican curry powder twist"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 14,
+    "carbs": 49,
+    "fat": 10
+  },
+  "slug": "umami-japanese-tofu-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-japanese-tofu-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:16:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "blanch",
+    "primaryIngredient": "jamaican curry powder",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Umami",
+    "dishForm": "Pasta"
+  }
+}
