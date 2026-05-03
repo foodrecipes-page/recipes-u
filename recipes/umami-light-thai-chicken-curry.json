@@ -1,0 +1,108 @@
+{
+  "title": "Umami Light Thai Chicken Curry",
+  "description": "A flavorful and aromatic Thai chicken curry featuring dried fruit, with a focus on umami taste and low-fat ingredients. This dish is perfect for a special occasion or a dinner party.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "low-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil in a large saucepan over medium heat.",
+    "Add the chicken to the saucepan and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the saucepan and set aside.",
+    "Add the curry paste to the saucepan and cook, stirring constantly, for 1-2 minutes.",
+    "Add the coconut milk, fish sauce, lime juice, brown sugar, and salt to the saucepan. Stir to combine.",
+    "Add the chopped dried apricots to the saucepan and stir to combine.",
+    "Return the chicken to the saucepan and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 15-20 minutes, or until the chicken is cooked through.",
+    "Stir in the chopped basil and cilantro leaves.",
+    "Serve the curry hot, garnished with additional basil and cilantro leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-curry",
+    "chicken-recipes",
+    "low-fat",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "umami-light-thai-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-light-thai-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:06:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "simmer",
+    "primaryIngredient": "dried fruit",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "umami light",
+    "dishForm": "Curry"
+  }
+}

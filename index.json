@@ -905,6 +905,19 @@
     "shard": "u"
   },
   {
+    "slug": "umami-light-thai-chicken-curry",
+    "title": "Umami Light Thai Chicken Curry",
+    "tags": [
+      "thai-curry",
+      "chicken-recipes",
+      "low-fat",
+      "umami"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-malaysian-tagliatelle-braise",
     "title": "Umami Malaysian Tagliatelle Braise",
     "tags": [
