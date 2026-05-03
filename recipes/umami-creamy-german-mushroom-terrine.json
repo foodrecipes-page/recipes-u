@@ -1,0 +1,102 @@
+{
+  "title": "Umami Creamy German Mushroom Terrine",
+  "description": "A light and creamy German-inspired dish featuring the deep umami flavor of mushrooms, set with gelatine leafs and steamed to perfection. This Jain-friendly recipe is perfect for a special occasion or a fancy dinner party.",
+  "cuisine": "German",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Button mushrooms",
+      "amount": "250g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "150g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Gelatine leafs",
+      "amount": "10 sheets"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Non-dairy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Soak the gelatine leafs in cold water for 5 minutes.",
+    "In a large pan, sauté the sliced mushrooms in a little water until they release their moisture and start to brown.",
+    "Add the vegetable broth, non-dairy cream, nutritional yeast, lemon juice, salt, and pepper to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the liquid has reduced slightly.",
+    "Remove the gelatine leafs from the water and add them to the pan, stirring to dissolve.",
+    "Strain the mixture into a clean bowl and let it cool to room temperature.",
+    "Pour the cooled mixture into a terrine mold or a loaf pan lined with plastic wrap.",
+    "Refrigerate the terrine for at least 4 hours, or until set.",
+    "To serve, unmold the terrine and slice it into thick pieces.",
+    "Garnish with chopped fresh parsley and serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "mushroom-recipes",
+    "jain-friendly",
+    "vegetarian",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "umami-creamy-german-mushroom-terrine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-creamy-german-mushroom-terrine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:34:24Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "steam",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "mushrooms",
+    "descriptor": "umami creamy",
+    "dishForm": "Terrine"
+  }
+}
