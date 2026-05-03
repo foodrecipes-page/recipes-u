@@ -388,6 +388,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-dense-norwegian-fish-pasta",
+    "title": "Umami Dense Norwegian Fish Pasta",
+    "tags": [
+      "norwegian-cuisine",
+      "pescatarian",
+      "umami",
+      "sous-vide",
+      "pasta"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 60,
+    "shard": "u"
+  },
+  {
     "slug": "umami-egg-heimat",
     "title": "Umami-Egg-Heimat",
     "tags": [

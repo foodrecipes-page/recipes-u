@@ -1,0 +1,102 @@
+{
+  "title": "Umami Dense Norwegian Fish Pasta",
+  "description": "A pescatarian-friendly Norwegian dish featuring penne rigate, sous-vide cooked cod, and umami-rich flavors, perfect for a dense and satisfying meal. This recipe combines the freshness of the sea with the comfort of a warm pasta dish.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne rigate",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets (6 oz each)"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, such as gammelost"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "mixed, such as cremini and shiitake"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130°F (54°C).",
+    "Season the cod fillets with salt and seal them in a sous-vide bag with a tablespoon of olive oil.",
+    "Sous-vide cook the cod for 30 minutes.",
+    "Cook the penne rigate according to package instructions until al dente, then set aside.",
+    "In a large skillet, sauté the onion and garlic until softened.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the white wine and cook until reduced by half.",
+    "Add the fish stock, kombu seaweed, and norwegian cheese to the skillet. Stir until the cheese is melted and the sauce is heated through.",
+    "Combine the cooked penne rigate, sauce, and sous-vide cooked cod in a large serving dish.",
+    "Toss everything together, ensuring the pasta is well coated with the umami-rich sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian-cuisine",
+    "pescatarian",
+    "umami",
+    "sous-vide",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "umami-dense-norwegian-fish-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-dense-norwegian-fish-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:49:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "sous-vide",
+    "primaryIngredient": "penne rigate",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "umami dense",
+    "dishForm": "Pasta"
+  }
+}
