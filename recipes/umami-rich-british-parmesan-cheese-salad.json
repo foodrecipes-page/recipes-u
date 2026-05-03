@@ -6,7 +6,7 @@
     "low-carb",
     "creamy"
   ],
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "Marinated Parmesan Cheese",
@@ -46,7 +46,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180°C (350°F).",
+    "Preheat oven to 180\u00b0C (350\u00b0F).",
     "Prepare the marinated parmesan cheese according to package instructions, or use store-bought if preferred.",
     "Mix together olive oil and red wine vinegar in a small bowl until emulsified. Add salt and pepper to taste.",
     "Arrange the grated Parmesan on a baking sheet and brush evenly with the dressing. Bake for 5-7 minutes or until the cheese is golden brown and melts slightly.",

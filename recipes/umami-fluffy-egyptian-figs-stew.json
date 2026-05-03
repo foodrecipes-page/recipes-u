@@ -1,6 +1,6 @@
 {
   "title": "Umami Fluffy Egyptian Figs Stew",
-  "description": "A comforting, savory stew that marries sweet, earthy figs with a silky, egg‑free texture, perfect for midnight cravings.",
+  "description": "A comforting, savory stew that marries sweet, earthy figs with a silky, eggfree texture, perfect for midnight cravings.",
   "cuisine": "Egyptian",
   "diet": [
     "vegan",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Onion, finely diced",
-      "amount": "1 medium (≈150 g)",
+      "amount": "1 medium (\u2248150 g)",
       "notes": "roughly 150 g"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "name": "Ground cinnamon",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Olive oil",
@@ -59,10 +59,10 @@
     }
   ],
   "instructions": [
-    "Heat olive oil in a large pot over medium heat; add the diced onion and sauté until translucent, about 3–4 minutes.",
+    "Heat olive oil in a large pot over medium heat; add the diced onion and saut\u00e9 until translucent, about 3\u20134 minutes.",
     "Add minced garlic, ground cumin, and ground cinnamon, cooking for 1 minute until fragrant.",
     "Stir in tomato paste and cook for another 2 minutes to deglaze the pot.",
-    "Add the halved fresh figs and chopped dried figs, cooking for 2–3 minutes to soften.",
+    "Add the halved fresh figs and chopped dried figs, cooking for 2\u20133 minutes to soften.",
     "Pour in the vegetable broth, tamari, miso paste, and coconut milk; stir well to combine all flavors.",
     "Bring the mixture to a gentle simmer, cover, and let it cook for 15 minutes so the figs absorb the umami broth.",
     "Reduce the heat to low, add an extra splash of coconut milk if desired for extra fluffiness, and season with salt and pepper to taste.",

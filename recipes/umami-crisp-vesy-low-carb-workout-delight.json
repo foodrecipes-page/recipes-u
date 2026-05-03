@@ -30,7 +30,7 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 350°F (175°C).",
+    "Preheat your air fryer to 350\u00b0F (175\u00b0C).",
     "In a small bowl, mix together all-purpose flour and V Sterbottensost cheese.",
     "Add garlic powder and salt, stirring until evenly combined.",
     "Using your hands, shape the mixture into bite-sized balls or patties.",
@@ -50,9 +50,9 @@
   ],
   "nutrition": {
     "calories": 97,
-    "protein": 2.4,
-    "carbs": 10.5,
-    "fat": 6.8
+    "protein": 2,
+    "carbs": 10,
+    "fat": 7
   },
   "slug": "umami-crisp-vesy-low-carb-workout-delight",
   "source": "ollama-qwen2.5:3b",

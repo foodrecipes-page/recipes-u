@@ -33,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "In a large mixing bowl, cream together the butter and sugar until light and fluffy.",
     "Beat in the egg whites and vanilla extract until fully combined.",
     "Gradually add the flour while continuing to mix until just combined. The mixture should be slightly crumbly but not dry.",
@@ -49,7 +49,7 @@
   "difficulty": "easy",
   "tags": [
     "umami",
-    "comfort_buns",
+    "comfort-buns",
     "diabetic-friendly"
   ],
   "nutrition": {

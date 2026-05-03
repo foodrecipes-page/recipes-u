@@ -5,7 +5,7 @@
   "diet": [
     "keto-friendly"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Beef sirloin",
@@ -45,7 +45,7 @@
     {
       "name": "Olive oil",
       "amount": "2 tbsp",
-      "notes": "To sauté and finish the dish"
+      "notes": "To saut\u00e9 and finish the dish"
     },
     {
       "name": "Salt",
@@ -59,7 +59,7 @@
     }
   ],
   "instructions": [
-    "Heat a skillet over medium-high heat, add olive oil, and sauté chopped onion until translucent.",
+    "Heat a skillet over medium-high heat, add olive oil, and saut\u00e9 chopped onion until translucent.",
     "Add minced garlic to the skillet, stirring for about 1 minute until fragrant.",
     "Season beef with salt and pepper on both sides. Grill or pan-sear until cooked to your desired level (medium-rare). Remove from heat and let rest.",
     "In the same skillet, reduce heat to medium, add tomato puree, cherry tomatoes, and a squeeze of fresh lemon juice. Stir-fry for 2-3 minutes until the mixture starts to thicken slightly.",

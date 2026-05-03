@@ -41,7 +41,7 @@
     "In another bowl, whisk together the Vegetable Oil, peanut butter, cumin powder, garlic powder, and red pepper flakes until smooth.",
     "Brush the prepared crust with the oil mixture.",
     "Sprinkle the seasoning paste over the oil mixture.",
-    "Bake at 400°F (205°C) for about 10 minutes or until golden brown."
+    "Bake at 400\u00b0F (205\u00b0C) for about 10 minutes or until golden brown."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -51,12 +51,12 @@
   "tags": [
     "umami",
     "crunchy",
-    "pao verde"
+    "pao-verde"
   ],
   "nutrition": {
     "calories": 89,
-    "protein": 1.4,
-    "carbs": 10.5,
+    "protein": 1,
+    "carbs": 10,
     "fat": 7
   },
   "slug": "umami-crunchy-pao-verde",

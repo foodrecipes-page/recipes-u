@@ -1,6 +1,6 @@
 {
   "title": "Umami Juicy Norwegian Snapper Stir-fry",
-  "description": "A light, keto-friendly stir‑fry featuring fresh snapper, crisp vegetables, and a tangy umami sauce that captures the essence of Norwegian cuisine.",
+  "description": "A light, keto-friendly stirfry featuring fresh snapper, crisp vegetables, and a tangy umami sauce that captures the essence of Norwegian cuisine.",
   "cuisine": "Norwegian",
   "diet": [
     "keto",
@@ -38,7 +38,7 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "Low‑sodium soy sauce",
+      "name": "Low\u2011sodium soy sauce",
       "amount": "2 tbsp"
     },
     {
@@ -52,10 +52,10 @@
   ],
   "instructions": [
     "Pat the snapper fillets dry with paper towels and season lightly with salt and pepper.",
-    "Heat 1 tbsp olive oil in a large non‑stick skillet over medium‑high heat. Sear the fillets skin‑side down for 2–3 minutes until golden, then flip and cook another 2 minutes. Remove to a plate.",
-    "Add the remaining 1 tbsp olive oil to the skillet. Sauté garlic, ginger, bell pepper, carrot, and mushrooms for 4–5 minutes until vegetables are tender yet crisp.",
-    "Return the fish to the skillet, pour in soy sauce and lime juice, and toss gently to coat. Cook for an additional minute, ensuring the fish reaches an internal temperature of 145°F (63°C).",
-    "Plate the stir‑fry, garnish with fresh dill, and serve immediately."
+    "Heat 1 tbsp olive oil in a large non\u2011stick skillet over medium\u2011high heat. Sear the fillets skin\u2011side down for 2\u20133 minutes until golden, then flip and cook another 2 minutes. Remove to a plate.",
+    "Add the remaining 1 tbsp olive oil to the skillet. Saut\u00e9 garlic, ginger, bell pepper, carrot, and mushrooms for 4\u20135 minutes until vegetables are tender yet crisp.",
+    "Return the fish to the skillet, pour in soy sauce and lime juice, and toss gently to coat. Cook for an additional minute, ensuring the fish reaches an internal temperature of 145\u00b0F (63\u00b0C).",
+    "Plate the stir\u2011fry, garnish with fresh dill, and serve immediately."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,

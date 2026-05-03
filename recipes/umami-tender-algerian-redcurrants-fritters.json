@@ -1,12 +1,12 @@
 {
   "title": "Umami Tender Algerian Redcurrants Fritters",
-  "description": "Crispy, sweet‑savory fritters bursting with umami and tart redcurrants, perfect for a flavorful brunch.",
+  "description": "Crispy, sweetsavory fritters bursting with umami and tart redcurrants, perfect for a flavorful brunch.",
   "cuisine": "Algerian",
   "diet": null,
   "meal": "breakfast",
   "ingredients": [
     {
-      "name": "All‑purpose flour",
+      "name": "All\u2011purpose flour",
       "amount": "250g",
       "notes": "2 cups"
     },
@@ -25,12 +25,12 @@
     },
     {
       "name": "Ground cumin",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Redcurrants, fresh or frozen",
       "amount": "150g",
-      "notes": "≈1 cup"
+      "notes": "\u22481 cup"
     },
     {
       "name": "Milk, whole",
@@ -44,7 +44,7 @@
     {
       "name": "Olive oil, for frying",
       "amount": "60ml",
-      "notes": "≈¼ cup"
+      "notes": "\u2248\u00bc cup"
     },
     {
       "name": "Soy sauce",
@@ -56,7 +56,7 @@
     },
     {
       "name": "Dried oregano",
-      "amount": "¼ tsp",
+      "amount": "\u00bc tsp",
       "notes": "optional dash"
     }
   ],
@@ -66,10 +66,10 @@
     "Fold in the redcurrants gently, being careful not to crush them.",
     "Heat olive oil in a deep skillet over medium heat until shimmering but not smoking.",
     "Drop spoonfuls of batter into the hot oil, leaving space between each fritter.",
-    "Fry for 2–3 minutes on each side, or until golden brown and puffed.",
+    "Fry for 2\u20133 minutes on each side, or until golden brown and puffed.",
     "Remove fritters with a slotted spoon and drain on paper towels.",
     "Serve warm, dusted with extra cumin or a sprinkle of dried oregano for extra aroma.",
-    "Optional: Drizzle with a light honey‑soy glaze or a squeeze of fresh lemon for brightness.",
+    "Optional: Drizzle with a light honey\u2011soy glaze or a squeeze of fresh lemon for brightness.",
     "Keep leftovers refrigerated in an airtight container; reheat in a skillet or microwave until hot."
   ],
   "prepTimeMin": 20,
@@ -89,7 +89,7 @@
   ],
   "nutrition": {
     "calories": 420,
-    "protein": 8.5,
+    "protein": 8,
     "carbs": 57,
     "fat": 15
   },

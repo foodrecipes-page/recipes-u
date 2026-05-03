@@ -49,11 +49,11 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 425°F (220°C).",
+    "Preheat your oven to 425\u00b0F (220\u00b0C).",
     "Place sliced lamb leg in a baking dish and sprinkle miso paste evenly over it.",
     "Mash garlic cloves with a pinch of salt, then spread this mix on top of the miso-covered lamb.",
     "Drizzle olive oil over the lamb and toss to coat evenly. Season generously with salt and freshly ground black pepper if desired.",
-    "Bake for about 30 minutes or until golden brown and cooked through (internal temperature should reach 145°F/63°C).",
+    "Bake for about 30 minutes or until golden brown and cooked through (internal temperature should reach 145\u00b0F/63\u00b0C).",
     "While the lamb is baking, in a separate pan on medium heat, add olive oil, minced shallots, and minced garlic. Stir-fry until translucent.",
     "Add chopped sesame seeds to the stir-fried mixture for added crunch.",
     "When the lamb is done, remove from oven and let it rest for about 10 minutes before slicing into pieces.",
@@ -65,7 +65,7 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "lazy sunday",
+    "lazy-sunday",
     "umami",
     "spain",
     "chewy",

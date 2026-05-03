@@ -1,6 +1,6 @@
 {
-  "title": "Umami Crumbly American Beef Stir‑Fry",
-  "description": "A savory, umami‑rich stir‑fry featuring minced halal beef, fresh veggies and crumbly cheddar, perfect for a hearty brunch.",
+  "title": "Umami Crumbly American Beef StirFry",
+  "description": "A savory, umamirich stirfry featuring minced halal beef, fresh veggies and crumbly cheddar, perfect for a hearty brunch.",
   "cuisine": "American",
   "diet": [
     "halal"
@@ -36,7 +36,7 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "halal‑certified Worcestershire sauce",
+      "name": "halal\u2011certified Worcestershire sauce",
       "amount": "1 tbsp"
     },
     {
@@ -57,15 +57,15 @@
     }
   ],
   "instructions": [
-    "Heat the vegetable oil in a large skillet over medium‑high heat.",
-    "Add the minced garlic and ginger, sauté 30 seconds until fragrant.",
+    "Heat the vegetable oil in a large skillet over medium\u2011high heat.",
+    "Add the minced garlic and ginger, saut\u00e9 30 seconds until fragrant.",
     "Add the minced beef, breaking it up with a spoon, and cook until browned, about 5 minutes.",
-    "Stir in the sliced onion and bell pepper, cooking 3–4 minutes until they start to soften.",
+    "Stir in the sliced onion and bell pepper, cooking 3\u20134 minutes until they start to soften.",
     "Pour in the soy sauce, miso paste, Worcestershire sauce, and brown sugar, stirring to combine.",
     "Cook for an additional 2 minutes, letting the sauce thicken slightly.",
     "Season with black pepper and taste, adjusting salt if needed.",
     "Remove from heat and sprinkle the crumbled cheddar cheese over the top, letting it melt for 1 minute.",
-    "Serve immediately over toasted English muffins or a side of quinoa for a brunch‑friendly plate.",
+    "Serve immediately over toasted English muffins or a side of quinoa for a brunch\u2011friendly plate.",
     "Enjoy the savory umami burst with a crumbly cheese finish."
   ],
   "prepTimeMin": 10,

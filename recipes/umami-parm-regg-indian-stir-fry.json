@@ -42,9 +42,9 @@
     }
   ],
   "instructions": [
-    "Preheat your sous-vide machine to 62°C (143°F).",
+    "Preheat your sous-vide machine to 62\u00b0C (143\u00b0F).",
     "Season the lamb with a pinch of salt and pepper. Cook it in the sous-vide pouch until done, about 50 minutes.",
-    "In a skillet, heat some oil over medium heat. Add sliced onions and sauté until translucent, around 8-10 minutes.",
+    "In a skillet, heat some oil over medium heat. Add sliced onions and saut\u00e9 until translucent, around 8-10 minutes.",
     "Add smashed garlic cloves to the onions, stirring occasionally for an additional minute or so until fragrant.",
     "Mix in salted paneer cheese. Gently stir until it melts into the onion mixture, about 2 minutes.",
     "Once the lamb is cooked and cooled enough, chop it into bite-sized pieces. Add it to the skillet with your onion-cheese mixture.",
@@ -59,7 +59,7 @@
   "tags": [
     "umami",
     "crisp",
-    "monsoon indian",
+    "monsoon-indian",
     "kashmiri",
     "parmigiano-reggiano",
     "sous-vide",

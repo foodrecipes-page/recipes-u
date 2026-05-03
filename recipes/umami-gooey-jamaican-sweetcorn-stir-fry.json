@@ -1,6 +1,6 @@
 {
-  "title": "Umami Gooey Jamaican Sweetcorn Stir‑fry",
-  "description": "A silky, umami‑rich Jamaican sweetcorn stir‑fry that melts in your mouth and is perfect for a cozy date night. It’s simple, kosher‑friendly, and packed with flavor.",
+  "title": "Umami Gooey Jamaican Sweetcorn Stirfry",
+  "description": "A silky, umamirich Jamaican sweetcorn stirfry that melts in your mouth and is perfect for a cozy date night. Its simple, kosherfriendly, and packed with flavor.",
   "cuisine": "Jamaican",
   "diet": [
     "kosher"
@@ -84,15 +84,15 @@
     }
   ],
   "instructions": [
-    "Heat the coconut oil in a large skillet or wok over medium‑high heat until shimmering.",
-    "Add the sliced red onion and cook for 1‑2 minutes until it starts to soften and become translucent.",
+    "Heat the coconut oil in a large skillet or wok over medium\u2011high heat until shimmering.",
+    "Add the sliced red onion and cook for 1\u20112 minutes until it starts to soften and become translucent.",
     "Stir in the minced garlic, ginger, smoked paprika, and cumin; cook for another 30 seconds until fragrant.",
-    "Add the fresh corn kernels and julienned red bell pepper; toss to combine and let the vegetables cook for 3‑4 minutes, stirring occasionally.",
+    "Add the fresh corn kernels and julienned red bell pepper; toss to combine and let the vegetables cook for 3\u20114 minutes, stirring occasionally.",
     "Whisk together the tamari, maple syrup, and miso paste in a small bowl until the miso is fully dissolved.",
-    "Pour the sauce over the stir‑fry, season with kosher salt and black pepper, and cook for another 2‑3 minutes, letting the sauce thicken into a glossy, gooey coating.",
+    "Pour the sauce over the stir\u2011fry, season with kosher salt and black pepper, and cook for another 2\u20113 minutes, letting the sauce thicken into a glossy, gooey coating.",
     "Remove from heat, squeeze lime juice over the dish, and sprinkle with fresh cilantro if desired.",
-    "Serve immediately over a bed of steamed jasmine rice or cauliflower rice for a low‑carb option.",
-    "Enjoy the sweet, savory, and slightly tangy flavors that make this a standout date‑night Jamaican dish."
+    "Serve immediately over a bed of steamed jasmine rice or cauliflower rice for a low\u2011carb option.",
+    "Enjoy the sweet, savory, and slightly tangy flavors that make this a standout date\u2011night Jamaican dish."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -110,7 +110,7 @@
   ],
   "nutrition": {
     "calories": 225,
-    "protein": 3.5,
+    "protein": 4,
     "carbs": 34,
     "fat": 7
   },

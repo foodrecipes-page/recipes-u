@@ -63,14 +63,14 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 375°F (190°C).",
-    "In a large skillet, heat the olive oil over medium heat and sauté the diced onion until translucent, about 3 minutes.",
-    "Add the minced garlic and sliced mushrooms, cooking until the mushrooms soften and release their juices, about 4–5 minutes.",
+    "Preheat the oven to 375\u00b0F (190\u00b0C).",
+    "In a large skillet, heat the olive oil over medium heat and saut\u00e9 the diced onion until translucent, about 3 minutes.",
+    "Add the minced garlic and sliced mushrooms, cooking until the mushrooms soften and release their juices, about 4\u20135 minutes.",
     "Stir in the miso paste, lemon zest, salt, and pepper, letting the mixture simmer for 1 minute to blend flavors.",
     "Add the chopped spinach in batches, allowing each batch to wilt before adding the next, until all spinach is incorporated and wilted.",
     "Transfer the spinach mixture into a greased 9-inch baking dish, spreading it evenly.",
     "In a small bowl, whisk the egg with a splash of water; pour over the spinach. Sprinkle the crumbled feta and chopped parsley on top.",
-    "Bake in the preheated oven for 20–25 minutes, or until the top is golden and the casserole is set.",
+    "Bake in the preheated oven for 20\u201325 minutes, or until the top is golden and the casserole is set.",
     "Remove from oven, let rest for 5 minutes, then slice into four equal servings.",
     "Serve warm, optionally garnished with a drizzle of olive oil or extra feta."
   ],
@@ -88,9 +88,9 @@
   ],
   "nutrition": {
     "calories": 252,
-    "protein": 8.5,
-    "carbs": 7.5,
-    "fat": 14.4
+    "protein": 8,
+    "carbs": 8,
+    "fat": 14
   },
   "slug": "umami-dense-croatian-spinach-casserole",
   "source": "ocloud-gpt-oss:20b",

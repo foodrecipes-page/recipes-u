@@ -39,10 +39,10 @@
     }
   ],
   "instructions": [
-    "Preheat your grill to medium-high heat (around 400°F).",
+    "Preheat your grill to medium-high heat (around 400\u00b0F).",
     "In a shallow bowl, mix together flour, salt, black pepper, garlic powder, ground saffron, and olive oil. Add hind shank and coat evenly on all sides.",
     "Drizzle remaining olive oil over hind shank for extra flavor and create a crispy exterior during grilling.",
-    "Grill hind shank until well browned on both sides and reaching an internal temperature of 145°F (medium-rare).",
+    "Grill hind shank until well browned on both sides and reaching an internal temperature of 145\u00b0F (medium-rare).",
     "Sear each side with a generous amount of paprika to add a vibrant color and depth of flavor."
   ],
   "prepTimeMin": 10,
@@ -53,8 +53,8 @@
   "tags": [
     "umami",
     "grilled",
-    "hind_shank",
-    "light_croatian_dish"
+    "hind-shank",
+    "light-croatian-dish"
   ],
   "nutrition": {
     "calories": 390,

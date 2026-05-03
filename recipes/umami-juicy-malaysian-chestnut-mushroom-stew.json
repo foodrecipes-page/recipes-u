@@ -1,6 +1,6 @@
 {
   "title": "Umami Juicy Malaysian Chestnut Mushroom Stew",
-  "description": "A comforting, low‑carb Malaysian stew brimming with umami‑rich chestnut mushrooms, fermented soy flavor, and fragrant herbs.",
+  "description": "A comforting, lowcarb Malaysian stew brimming with umamirich chestnut mushrooms, fermented soy flavor, and fragrant herbs.",
   "cuisine": "Malaysian",
   "diet": [
     "low-carb"
@@ -12,7 +12,7 @@
       "amount": "300 g"
     },
     {
-      "name": "skin‑less chicken thighs",
+      "name": "skin\u2011less chicken thighs",
       "amount": "200 g"
     },
     {
@@ -48,7 +48,7 @@
       "amount": "100 ml"
     },
     {
-      "name": "low‑sodium chicken broth",
+      "name": "low\u2011sodium chicken broth",
       "amount": "2 cups"
     },
     {
@@ -58,12 +58,12 @@
   ],
   "instructions": [
     "Heat the coconut oil in a deep pot over medium heat.",
-    "Add the ginger & garlic paste and sauté until fragrant, about 2 minutes.",
+    "Add the ginger & garlic paste and saut\u00e9 until fragrant, about 2 minutes.",
     "Add the sliced red chili and curry leaves; cook for another minute.",
     "Toss in the chicken thighs and brown them on all sides, about 5 minutes.",
     "Stir in the chestnut mushrooms and cook until they start to release moisture.",
     "Pour in the fermented soy sauce blend, tamarind paste, and lime juice; stir well.",
-    "Add the low‑sodium chicken broth and bring to a gentle boil.",
+    "Add the low\u2011sodium chicken broth and bring to a gentle boil.",
     "Reduce heat to a simmer, cover, and let the stew cook for 15 minutes.",
     "Stir in the coconut milk and black pepper; simmer uncovered for an additional 5 minutes until the sauce thickens slightly.",
     "Taste and adjust seasoning if needed; serve hot, garnished with extra curry leaves if desired."

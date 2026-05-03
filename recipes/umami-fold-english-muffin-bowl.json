@@ -36,7 +36,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Mix together chickpea flour, water, umami seasoning, and vegetable oil in a bowl.",
     "Stir until the mixture is smooth without any lumps. The consistency should be similar to pancake batter.",
     "Heat butter or olive oil in a small skillet over medium heat.",
@@ -58,7 +58,7 @@
   ],
   "nutrition": {
     "calories": 165,
-    "protein": 3.7,
+    "protein": 4,
     "carbs": 28,
     "fat": 9
   },

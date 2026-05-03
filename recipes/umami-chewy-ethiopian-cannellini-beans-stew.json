@@ -1,6 +1,6 @@
 {
   "title": "Umami Chewy Ethiopian Cannellini Beans Stew",
-  "description": "A comforting, nut‑free Ethiopian-inspired bean stew that delivers deep umami flavor and a pleasantly chewy texture, perfect for a quick sick‑day meal.",
+  "description": "A comforting, nutfree Ethiopian-inspired bean stew that delivers deep umami flavor and a pleasantly chewy texture, perfect for a quick sickday meal.",
   "cuisine": "Ethiopian",
   "diet": null,
   "meal": "dinner",
@@ -8,7 +8,7 @@
     {
       "name": "Olive oil",
       "amount": "1 tablespoon",
-      "notes": "Used for sautéing and marinating"
+      "notes": "Used for saut\u00e9ing and marinating"
     },
     {
       "name": "Canned cannellini beans",
@@ -54,8 +54,8 @@
       "notes": "Fresh or canned"
     },
     {
-      "name": "Low‑sodium vegetable broth",
-      "amount": "1 ½ cups"
+      "name": "Low\u2011sodium vegetable broth",
+      "amount": "1 \u00bd cups"
     },
     {
       "name": "Salt & pepper",
@@ -65,12 +65,12 @@
   "instructions": [
     "In a small bowl, combine the canned cannellini beans with 1 tablespoon olive oil, 2 tablespoons berbere spice mix, 1 teaspoon smoked paprika, and a pinch each of salt and pepper. Let the beans marinate for 15 minutes while you prepare the rest of the ingredients.",
     "Heat a large pot over medium heat and drizzle 1 teaspoon of olive oil to warm the pan.",
-    "Add the diced onion to the pot and sauté for 4–5 minutes, stirring frequently, until translucent and fragrant.",
+    "Add the diced onion to the pot and saut\u00e9 for 4\u20135 minutes, stirring frequently, until translucent and fragrant.",
     "Stir in the minced garlic and grated ginger, cooking for an additional 30 seconds until aromatic.",
     "Sprinkle in the remaining berbere spice mix and ground cumin; cook for 30 seconds, allowing the spices to bloom.",
     "Add the diced tomatoes and bay leaf, stirring to combine. Cook for 2 minutes to warm the tomatoes.",
-    "Pour in the low‑sodium vegetable broth and bring the mixture to a gentle simmer.",
-    "Gently fold in the marinated cannellini beans, ensuring they are fully submerged in the broth. Simmer uncovered for 10–12 minutes, or until the beans are tender and the flavors meld.",
+    "Pour in the low\u2011sodium vegetable broth and bring the mixture to a gentle simmer.",
+    "Gently fold in the marinated cannellini beans, ensuring they are fully submerged in the broth. Simmer uncovered for 10\u201312 minutes, or until the beans are tender and the flavors meld.",
     "Taste the stew and season with additional salt and pepper as desired; remove the bay leaf.",
     "Serve the stew hot over a bed of simple rice or with injera for a complete meal."
   ],

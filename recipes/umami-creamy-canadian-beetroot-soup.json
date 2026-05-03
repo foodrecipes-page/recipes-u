@@ -1,6 +1,6 @@
 {
   "title": "Umami Creamy Canadian Beetroot Soup",
-  "description": "A velvety beetroot soup infused with a savory umami kick and creamy coconut milk, perfect for a show‑off Canadian dinner that’s gentle on blood sugar.",
+  "description": "A velvety beetroot soup infused with a savory umami kick and creamy coconut milk, perfect for a showoff Canadian dinner thats gentle on blood sugar.",
   "cuisine": "Canadian",
   "diet": [
     "vegan",
@@ -31,12 +31,12 @@
     {
       "name": "vegetable broth",
       "amount": "4 cups (1 L)",
-      "notes": "low‑sodium"
+      "notes": "low\u2011sodium"
     },
     {
       "name": "soy sauce",
       "amount": "1 tablespoon",
-      "notes": "low‑sodium"
+      "notes": "low\u2011sodium"
     },
     {
       "name": "white miso paste",
@@ -45,7 +45,7 @@
     {
       "name": "coconut milk",
       "amount": "1 cup (240 ml)",
-      "notes": "unsweetened, full‑fat"
+      "notes": "unsweetened, full\u2011fat"
     },
     {
       "name": "olive oil",
@@ -65,8 +65,8 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200°C (400°F). Toss beetroot cubes with 1 tsp olive oil, salt, and pepper, and roast on a sheet for 25 minutes until tender.",
-    "Meanwhile, heat 1 tbsp olive oil in a large pot over medium heat. Add onion and carrot, sauté for 5 minutes until softened.",
+    "Preheat oven to 200\u00b0C (400\u00b0F). Toss beetroot cubes with 1 tsp olive oil, salt, and pepper, and roast on a sheet for 25 minutes until tender.",
+    "Meanwhile, heat 1 tbsp olive oil in a large pot over medium heat. Add onion and carrot, saut\u00e9 for 5 minutes until softened.",
     "Add garlic and smoked paprika, cooking for 30 seconds until fragrant.",
     "Pour in vegetable broth and bring to a gentle boil. Reduce heat and simmer for 10 minutes.",
     "Stir in roasted beetroot, miso paste, soy sauce, and thyme. Simmer for another 5 minutes to combine flavors.",
