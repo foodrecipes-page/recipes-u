@@ -1,0 +1,112 @@
+{
+  "title": "Ultra Tender Korean Beef Stew",
+  "description": "A savory, fluffy one-pot dish featuring tender beef, sweet pineapple, and a hint of Korean spices. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with gochugaru"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or tamari for gluten-free"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or substitute with honey"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "or substitute with vegetable oil"
+    },
+    {
+      "name": "rice ( cooked )",
+      "amount": "2 cups",
+      "notes": "or substitute with noodles"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 3 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the onion and garlic until softened, about 3 minutes.",
+    "Add the pineapple chunks and cook for an additional 2 minutes.",
+    "Add the Gochujang, soy sauce, brown sugar, and beef back into the pot.",
+    "Stir to combine, then bring the mixture to a simmer.",
+    "Reduce heat to low and let cook, covered, for 20 minutes or until the beef is tender.",
+    "Stir in cooked rice and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner",
+    "easy",
+    "korean",
+    "one-pot",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "ultra-tender-korean-beef-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-tender-korean-beef-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:10:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "Ultra Tender",
+    "dishForm": "Stew"
+  }
+}
