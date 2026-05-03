@@ -821,6 +821,21 @@
     "shard": "u"
   },
   {
+    "slug": "umami-japanese-miso-soup",
+    "title": "Umami Japanese Miso Soup",
+    "tags": [
+      "soup",
+      "umami",
+      "vegetarian",
+      "egg-free",
+      "dashi",
+      "misofused"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 15,
+    "shard": "u"
+  },
+  {
     "slug": "umami-japanese-tofu-pasta",
     "title": "Umami Japanese Tofu Pasta",
     "tags": [

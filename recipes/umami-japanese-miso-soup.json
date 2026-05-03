@@ -1,0 +1,105 @@
+{
+  "title": "Umami Japanese Miso Soup",
+  "description": "A light, savory miso soup bursting with umami flavors, enriched by tofu, seaweed, and mushrooms.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "1 liter",
+      "notes": "base for dashi"
+    },
+    {
+      "name": "dashi granules",
+      "amount": "1 tablespoon",
+      "notes": "instant seaweed and bonito powder"
+    },
+    {
+      "name": "miso paste",
+      "amount": "3 tablespoons",
+      "notes": "preferably shiro miso for a milder taste"
+    },
+    {
+      "name": "soft tofu",
+      "amount": "200 grams",
+      "notes": "cut into 1 cm cubes"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "4",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "nori seaweed",
+      "amount": "1 sheet",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "green onions",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "optional drizzle for extra aroma"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a medium pot, bring 1 liter of water to a gentle boil.",
+    "2. Add the dashi granules and stir until fully dissolved.",
+    "3. Lower the heat to a simmer and add the sliced shiitake mushrooms; let them soften for 2 minutes.",
+    "4. Gently fold in the tofu cubes, taking care not to break them.",
+    "5. Reduce the heat to low and pour in the miso paste, whisking continuously to avoid lumps.",
+    "6. Add the nori strips and let the soup heat through for an additional minute.",
+    "7. Drizzle with sesame oil, if using, and season with salt to taste.",
+    "8. Ladle the soup into bowls and top with sliced green onions.",
+    "9. Serve immediately while hot, and enjoy the rich umami experience."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "umami",
+    "vegetarian",
+    "egg-free",
+    "dashi",
+    "misofused"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 5,
+    "carbs": 7,
+    "fat": 4
+  },
+  "slug": "umami-japanese-miso-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-japanese-miso-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:33:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "water",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Miso",
+    "descriptor": "Umami",
+    "dishForm": "Soup"
+  }
+}
