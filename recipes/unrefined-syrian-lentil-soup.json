@@ -1,0 +1,111 @@
+{
+  "title": "Unrefined Syrian Lentil Soup",
+  "description": "A light, sweet, and snappy Syrian lentil soup that uses brown lentils and a whisk to create a silky texture, completely egg‑free.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat until shimmering.",
+    "Add diced onion, carrot, and minced garlic, sautéing until the onion becomes translucent, about 5 minutes.",
+    "Stir in tomato paste and cook for 1 minute to bloom the flavors.",
+    "Add rinsed lentils, vegetable broth, and water; bring the mixture to a boil.",
+    "Reduce heat to low, cover, and simmer for 25 minutes, or until lentils are tender.",
+    "Use a whisk to gently blend a portion of the soup into a slurry and stir back in to achieve a silky texture.",
+    "Stir in lemon juice, dried mint, salt, and black pepper.",
+    "Taste and adjust seasoning if needed; simmer for an additional 5 minutes.",
+    "Ladle the soup into bowls and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "healthy",
+    "light",
+    "one-pot",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 180,
+    "fat": 30
+  },
+  "slug": "unrefined-syrian-lentil-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unrefined-syrian-lentil-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:37:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "brown lentils",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lentils",
+    "descriptor": "Unrefined",
+    "dishForm": "Soup"
+  }
+}
