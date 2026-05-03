@@ -1,0 +1,110 @@
+{
+  "title": "Unusually Bitter Russian Meat Tagine",
+  "description": "A hearty, exotic Russian dish with a unique blend of spices and a tangy twist from passion fruit pulp.",
+  "cuisine": "russian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buckwheat groats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "500g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Passion fruit pulp",
+      "amount": "150g"
+    }
+  ],
+  "instructions": [
+    "Heat tandoor to 400°F (200°C).",
+    "Dry roast buckwheat groats in tandoor for 10 minutes.",
+    "Grind spices in mortar and pestle.",
+    "Add onion, bell pepper, and garlic to tandoor; sauté for 15 minutes.",
+    "Add ground beef to tandoor; cook, breaking up with spoon, until browned.",
+    "Add spices, salt, and pepper to tandoor; stir to combine.",
+    "Add dry-roasted buckwheat groats to tandoor; stir to combine.",
+    "Add passion fruit pulp to tandoor; stir to combine.",
+    "Cover tandoor and cook for 20 minutes.",
+    "Remove from heat. Let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bitter",
+    "high-protein",
+    "one-pot",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 70
+  },
+  "slug": "unusually-bitter-russian-meat-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unusually-bitter-russian-meat-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:04:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "meat",
+    "descriptor": "Unusually Bitter",
+    "dishForm": "Tagine"
+  }
+}
