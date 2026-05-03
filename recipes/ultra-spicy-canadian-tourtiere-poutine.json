@@ -1,0 +1,109 @@
+{
+  "title": "Ultra-spicy Canadian Tourtière Poutine",
+  "description": "A spicy twist on the classic Canadian Tourtière dish, slow-cooked to perfection and served with creamy coconut milk, crispy fries, and a side of hangover-curing magic.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Large onion",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and diced"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks, diced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices, diced"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large Dutch oven, cook the bacon over medium-high heat until crispy. Remove the bacon from the pot and set aside.",
+    "Add the diced onion, carrots, and celery to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "Add the ground beef to the pot, breaking it up with a spoon as it cooks.",
+    "Add the red pepper flakes, cayenne pepper, salt, and black pepper to the pot and stir to combine.",
+    "Add the flour to the pot and stir to combine. Cook for 1-2 minutes.",
+    "Add 1 cup of beef broth to the pot and stir to combine. Bring the mixture to a simmer.",
+    "Transfer the pot to the preheated oven and cook, covered, for 2 1/2 hours.",
+    "Remove the pot from the oven and stir in the coconut cream. Taste and adjust the seasoning as needed.",
+    "Serve the tourtière over crispy fries, garnished with chopped cilantro.",
+    "Garnish with additional red pepper flakes, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "diabetic-friendly",
+    "hangover-cure",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 42
+  },
+  "slug": "ultra-spicy-canadian-tourtiere-poutine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-spicy-canadian-tourtiere-poutine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:02:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "slow-cook",
+    "primaryIngredient": "coconut cream",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "tourtière",
+    "descriptor": "ultra-spicy",
+    "dishForm": "poutine"
+  }
+}

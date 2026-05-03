@@ -1,5 +1,20 @@
 [
   {
+    "slug": "ultra-spicy-canadian-tourtiere-poutine",
+    "title": "Ultra-spicy Canadian Tourtière Poutine",
+    "tags": [
+      "canadian",
+      "diabetic-friendly",
+      "hangover-cure",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 180,
+    "shard": "u"
+  },
+  {
     "slug": "umami-air-popped-pork-tenderloin",
     "title": "Umami Air-Popped Pork Tenderloin",
     "tags": [
