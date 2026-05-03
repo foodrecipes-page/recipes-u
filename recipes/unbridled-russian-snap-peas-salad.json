@@ -1,0 +1,103 @@
+{
+  "title": "Unbridled Russian Snap Peas Salad",
+  "description": "Sweet, creamy Russian salad with tandoor-roasted sugar snap peas and a yogurt-tandoori dressing, perfect for a crowd-pleasing lunch.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "500g",
+      "notes": "fresh or thawed if frozen"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "tandoori spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse sugar snap peas and pat them dry.",
+    "Preheat oven to 200°C.",
+    "Toss peas with olive oil and tandoori spice mix, then spread on a baking sheet.",
+    "Roast peas for 7-8 minutes until slightly charred.",
+    "Let peas cool to room temperature.",
+    "Whisk Greek yogurt, lemon juice, honey, salt, pepper, and a pinch of red chili flakes in a bowl.",
+    "Fold cooled peas into the dressing, then stir in dill, scallions, and toasted sesame seeds.",
+    "Serve chilled or at room temperature, garnishing with extra dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat",
+    "quick",
+    "russian",
+    "snap-peas",
+    "tandoori",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 115,
+    "protein": 8,
+    "carbs": 10,
+    "fat": 5
+  },
+  "slug": "unbridled-russian-snap-peas-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unbridled-russian-snap-peas-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:52:29Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "tandoor",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "snap peas",
+    "descriptor": "Unbridled",
+    "dishForm": "Salad"
+  }
+}

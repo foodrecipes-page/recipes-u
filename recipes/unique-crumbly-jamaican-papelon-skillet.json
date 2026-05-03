@@ -1,0 +1,93 @@
+{
+  "title": "Unique Crumbly Jamaican Papelon Skillet",
+  "description": "A fresh and crumbly Jamaican dish featuring papelon, perfect for a low-sodium diet, this skillet is a show-off dish for any occasion. It combines the sweetness of papelon with the warmth of Jamaican spices.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "1 cup",
+      "notes": "dried papelon cane sugar"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together flour, baking powder, and salt.",
+    "Add cold butter to the bowl and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "Stir in chopped scallions and jerk seasoning.",
+    "In a separate bowl, whisk together papelon and eggs until well combined.",
+    "Add the papelon mixture to the flour mixture and stir until just combined, being careful not to overmix.",
+    "Pour the mixture into a 10-inch oven-safe skillet and smooth the top.",
+    "Bake the skillet in the preheated oven for 35 minutes, or until the edges are golden brown and the center is set.",
+    "Remove the skillet from the oven and let it cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly-texture",
+    "jamaican-cuisine",
+    "low-sodium",
+    "one-pan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "unique-crumbly-jamaican-papelon-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crumbly-jamaican-papelon-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:53:14Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "temper",
+    "primaryIngredient": "papelon",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "papelon",
+    "descriptor": "Unique Crumbly",
+    "dishForm": "Skillet"
+  }
+}

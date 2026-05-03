@@ -1297,6 +1297,35 @@
     "shard": "u"
   },
   {
+    "slug": "unbridled-russian-snap-peas-salad",
+    "title": "Unbridled Russian Snap Peas Salad",
+    "tags": [
+      "low-fat",
+      "quick",
+      "russian",
+      "snap-peas",
+      "tandoori",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 18,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-crumbly-jamaican-papelon-skillet",
+    "title": "Unique Crumbly Jamaican Papelon Skillet",
+    "tags": [
+      "crumbly-texture",
+      "jamaican-cuisine",
+      "low-sodium",
+      "one-pan",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 55,
+    "shard": "u"
+  },
+  {
     "slug": "unique-light-indian-bread-toast",
     "title": "Unique Light Indian Bread Toast",
     "tags": [
