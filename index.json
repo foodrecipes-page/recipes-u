@@ -709,6 +709,24 @@
     "shard": "u"
   },
   {
+    "slug": "umami-french-mushroom-terrine",
+    "title": "Umami French Mushroom Terrine",
+    "tags": [
+      "umami",
+      "french",
+      "mushroom",
+      "terrine",
+      "jain-friendly",
+      "vegan",
+      "no-root-veg",
+      "blanch",
+      "poppy-seeds"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
+    "shard": "u"
+  },
+  {
     "slug": "umami-ginger-french-stir-fry",
     "title": "Umami Ginger French Stir-fry",
     "tags": [
