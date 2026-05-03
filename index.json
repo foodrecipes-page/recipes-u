@@ -1,5 +1,19 @@
 [
   {
+    "slug": "ube-colored-filipino-toor-dal-poke",
+    "title": "Ube Colored Filipino Toor Dal Poke",
+    "tags": [
+      "filipino",
+      "poke-bowl",
+      "raw-friendly",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
     "slug": "uber-crisp-french-fish-bisque",
     "title": "Uber Crisp French Fish Bisque",
     "tags": [

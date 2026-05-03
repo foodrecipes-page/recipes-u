@@ -1,0 +1,111 @@
+{
+  "title": "Ube Colored Filipino Toor Dal Poke",
+  "description": "A unique and refreshing Filipino dish featuring Ube-colored toor dal, perfect for a festive and earthy twist on a traditional raw-friendly poke bowl.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Toor dal",
+      "amount": "300g"
+    },
+    {
+      "name": "Ube halaya",
+      "amount": "100g"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "20g"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "20g"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "60ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "2g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "Ginger",
+      "amount": "20g"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "20g"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "20g"
+    },
+    {
+      "name": "Water",
+      "amount": "300ml"
+    },
+    {
+      "name": "Papaya",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Rinse the toor dal and soak it in water for at least 4 hours or overnight.",
+    "Drain and rinse the toor dal, then transfer it to a blender or food processor.",
+    "Add 100g Ube halaya, 20g cilantro, 20g mint leaves, 60ml lime juice, 2g salt, 1g black pepper, 20g ginger, and 20g chili peppers to the blender.",
+    "Blend the mixture until it's smooth and well combined.",
+    "Heat 20g coconut oil in a pan over medium heat.",
+    "Add the blended mixture to the pan and cook for 5 minutes, stirring constantly.",
+    "Add 300ml water to the pan and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes, or until the liquid has reduced slightly.",
+    "Stir in 100g papaya and cook for an additional 2 minutes.",
+    "Remove the pan from the heat and let it cool slightly.",
+    "Transfer the toor dal mixture to a large bowl and let it cool to room temperature.",
+    "Once cooled, refrigerate the toor dal mixture for at least 2 hours to allow it to chill and set.",
+    "Just before serving, garnish the toor dal with additional cilantro and mint leaves, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "poke-bowl",
+    "raw-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "ube-colored-filipino-toor-dal-poke",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ube-colored-filipino-toor-dal-poke",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:29:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "toor dal",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Toor dal",
+    "descriptor": "Ube-colored",
+    "dishForm": "Poke"
+  }
+}
