@@ -54,6 +54,21 @@
     "shard": "u"
   },
   {
+    "slug": "umami-chewy-egyptian-seafood-toast",
+    "title": "Umami Chewy Egyptian Seafood Toast",
+    "tags": [
+      "seafood",
+      "egyptian",
+      "umami",
+      "chewy",
+      "lazy-sunday",
+      "raw-friendly"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 20,
+    "shard": "u"
+  },
+  {
     "slug": "umami-chewy-ethiopian-cannellini-beans-stew",
     "title": "Umami Chewy Ethiopian Cannellini Beans Stew",
     "tags": [
