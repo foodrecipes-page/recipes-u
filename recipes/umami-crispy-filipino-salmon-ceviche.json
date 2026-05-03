@@ -1,0 +1,109 @@
+{
+  "title": "Umami Crispy Filipino Salmon Ceviche",
+  "description": "A zesty Filipino ceviche featuring marinated salmon, fermented umami sauce, and a delightful crispy coating.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "200 g"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "100 ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "15 ml"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "10 ml"
+    },
+    {
+      "name": "fermented bean paste",
+      "amount": "5 g"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/4 cup, diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Whisk lime juice, soy sauce, fish sauce, fermented bean paste, and minced garlic in a shallow dish until the paste is fully dispersed.",
+    "Cut salmon into 1 cm cubes and immerse them in the citrus‑soy mixture. Cover and refrigerate for 12–15 minutes to cure the fish.",
+    "In a small bowl, combine toasted coconut flakes to create a light coating.",
+    "Heat a non‑stick skillet over medium‑high heat and add a teaspoon of oil. Pat salmon cubes dry, then lightly roll them in the coconut coating; tap off excess.",
+    "Sear the coated salmon for 2–3 minutes on each side until crisp and golden, but still raw inside. Transfer to a plate.",
+    "Dice cucumber, red onion, and slice the chili; grate the ginger. Toss these vegetables with a pinch of salt and pepper.",
+    "Arrange the seared salmon on top of the cucumber‑onion‑chili mixture.",
+    "Drizzle the remaining lime‑soy sauce over the top and sprinkle with additional toasted coconut flakes, grated ginger, and a pinch of salt.",
+    "Serve immediately, optionally with steamed rice or a light mango salsa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "crispy",
+    "ceviche",
+    "filipino",
+    "salmon",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 314,
+    "protein": 50,
+    "carbs": 23,
+    "fat": 34
+  },
+  "slug": "umami-crispy-filipino-salmon-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crispy-filipino-salmon-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:54:15Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "salmon",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "salmon",
+    "descriptor": "Umami Crispy",
+    "dishForm": "Ceviche"
+  }
+}
