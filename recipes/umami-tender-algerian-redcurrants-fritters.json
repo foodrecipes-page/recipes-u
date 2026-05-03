@@ -1,0 +1,114 @@
+{
+  "title": "Umami Tender Algerian Redcurrants Fritters",
+  "description": "Crispy, sweet‑savory fritters bursting with umami and tart redcurrants, perfect for a flavorful brunch.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All‑purpose flour",
+      "amount": "250g",
+      "notes": "2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "20g",
+      "notes": "2 tbsp"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Redcurrants, fresh or frozen",
+      "amount": "150g",
+      "notes": "≈1 cup"
+    },
+    {
+      "name": "Milk, whole",
+      "amount": "180ml",
+      "notes": "3/4 cup"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1"
+    },
+    {
+      "name": "Olive oil, for frying",
+      "amount": "60ml",
+      "notes": "≈¼ cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "¼ tsp",
+      "notes": "optional dash"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk flour, sugar, baking powder, salt, and cumin until combined.",
+    "Stir in soy sauce and lemon zest, then add milk and egg, mixing until just incorporated; the batter will be slightly lumpy.",
+    "Fold in the redcurrants gently, being careful not to crush them.",
+    "Heat olive oil in a deep skillet over medium heat until shimmering but not smoking.",
+    "Drop spoonfuls of batter into the hot oil, leaving space between each fritter.",
+    "Fry for 2–3 minutes on each side, or until golden brown and puffed.",
+    "Remove fritters with a slotted spoon and drain on paper towels.",
+    "Serve warm, dusted with extra cumin or a sprinkle of dried oregano for extra aroma.",
+    "Optional: Drizzle with a light honey‑soy glaze or a squeeze of fresh lemon for brightness.",
+    "Keep leftovers refrigerated in an airtight container; reheat in a skillet or microwave until hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "dessert",
+    "snack",
+    "fritters",
+    "redcurrants",
+    "algerian",
+    "umami",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8.5,
+    "carbs": 57,
+    "fat": 15
+  },
+  "slug": "umami-tender-algerian-redcurrants-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-tender-algerian-redcurrants-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:49:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "fry",
+    "primaryIngredient": "redcurrants",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "redcurrants",
+    "descriptor": "Umami Tender",
+    "dishForm": "Fritters"
+  }
+}
