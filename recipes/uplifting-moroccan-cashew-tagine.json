@@ -1,0 +1,143 @@
+{
+  "title": "Uplifting Moroccan Cashew Tagine",
+  "description": "A light, earthy, energizing tagine featuring cashews, chickpeas, and seasonal vegetables, finished with a poached egg for a satisfying ovo-vegetarian meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large tagine or Dutch oven over medium heat; sauté chopped onion, garlic, and grated ginger until fragrant, about 3 minutes.",
+    "Stir in paprika, cumin, coriander, and cinnamon, cooking for another minute.",
+    "Add sliced carrots, diced zucchini, and tomato paste, cooking until vegetables lightly brown, about 4 minutes.",
+    "Pour in vegetable broth and bring to a gentle simmer; add cooked chickpeas and cashews, season with salt and pepper.",
+    "Reduce heat to low and simmer, covered, for 25 minutes, stirring occasionally.",
+    "While simmering, boil or poach eggs until the whites set but yolks remain runny, about 6 to 7 minutes.",
+    "Remove the pot from heat; stir in lemon juice and chopped cilantro, adjust seasoning if needed.",
+    "Serve the tagine hot, topped with a poached egg, and enjoy a comforting, energy-boosting meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cashew",
+    "healthy",
+    "low-fat",
+    "moroccan",
+    "one-pot",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 13,
+    "carbs": 28,
+    "fat": 21
+  },
+  "slug": "uplifting-moroccan-cashew-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-moroccan-cashew-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:56:53Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "cashews",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cashews",
+    "descriptor": "Uplifting",
+    "dishForm": "Tagine"
+  }
+}
