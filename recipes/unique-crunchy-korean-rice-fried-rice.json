@@ -1,0 +1,104 @@
+{
+  "title": "Unique Crunchy Korean Rice Fried Rice",
+  "description": "A fatty and shaggy Korean dish from Busan featuring rice krispies and ayurvedic-sattvic-friendly ingredients, this recipe is perfect for those looking for a light and crunchy meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "rice krispies",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Add the soy sauce, ghee, and sesame seeds to the skillet and stir to combine.",
+    "Add the rice krispies to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, stirring constantly, until the rice krispies are lightly toasted.",
+    "Remove the skillet from the heat and stir in the chopped scallions and salt.",
+    "Serve the Unique Crunchy Korean Rice Fried Rice hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "fried-rice",
+    "gluten-free",
+    "korean-food",
+    "lunch-ideas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-crunchy-korean-rice-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crunchy-korean-rice-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:31:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "rice krispies",
+    "diet": "ayurvedic-sattvic",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Unique Crunchy",
+    "dishForm": "Fried-Rice"
+  }
+}
