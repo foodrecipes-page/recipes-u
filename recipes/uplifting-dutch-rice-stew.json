@@ -1,0 +1,114 @@
+{
+  "title": "Uplifting Dutch Rice Stew",
+  "description": "A fermented, pillowy rice stew with garam masala and Mediterranean flair served from an agave leaf.",
+  "cuisine": "Dutch-Mediterranean fusion",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "uncooked long-grain white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "or low-sodium vegetable broth for extra flavor"
+    },
+    {
+      "name": "fermented coconut milk",
+      "amount": "1 cup",
+      "notes": "prepared by fermenting coconut milk with a starter culture"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "medium carrot",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pot over medium heat until shimmering.",
+    "Add the diced onion and carrot and sauté until the onion is translucent, about 5 minutes.",
+    "Stir in the minced garlic and cook for 30 seconds until fragrant.",
+    "Add the rice and stir to coat the grains in oil and spices, then add garam masala, cumin, smoked paprika, and turmeric, cooking for another minute.",
+    "Pour in the water and bring to a gentle boil, then reduce heat to low, cover, and simmer for 15 minutes.",
+    "After 15 minutes, add the fermented coconut milk, stir gently, and continue simmering for another 10 minutes until the rice is tender and the mixture has thickened.",
+    "Season with salt to taste and stir in chopped cilantro if desired.",
+    "Remove from heat, fluff the rice with a fork, and let it sit covered for 5 minutes to become pillowy.",
+    "Serve the stew warm, optionally topped with a drizzle of olive oil or extra fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch",
+    "fermented",
+    "lazy-sunday",
+    "mediterranean-friendly",
+    "pillowy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "uplifting-dutch-rice-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-dutch-rice-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:08:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "boil",
+    "primaryIngredient": "garam masala",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Rice",
+    "descriptor": "Uplifting",
+    "dishForm": "Stew"
+  }
+}
