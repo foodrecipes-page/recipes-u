@@ -1,0 +1,106 @@
+{
+  "title": "Ultra Japanese Snow Peas Tonkotsu Ramen",
+  "description": "A sour, snappy crowd‑pleaser ramen featuring snow peas and a rich pork bone broth.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly bones",
+      "amount": "1 kg"
+    },
+    {
+      "name": "Water",
+      "amount": "4 L"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "400g"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "200g"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Soft boiled eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 cm"
+    }
+  ],
+  "instructions": [
+    "Rinse pork belly bones and place them in a large pot with 4 liters of cold water, bring to a boil, then reduce heat and simmer for 1.5 hours to extract the broth.",
+    "Skim off any foam that rises to the surface during simmering.",
+    "After simmering, strain the broth through a fine-mesh sieve into a clean pot and discard the solids.",
+    "Add 1 tablespoon of salt, 3 tablespoons of soy sauce, 2 tablespoons of mirin, 2 tablespoons of sake, and 1 tablespoon of rice vinegar to the strained broth, stirring until dissolved.",
+    "Bring the seasoned broth to a gentle simmer and let it cook for an additional 30 minutes to meld the flavors.",
+    "While the broth simmers, boil the ramen noodles in a separate pot of salted water according to package instructions, then drain and set aside.",
+    "Trim the fresh ginger into thin julienne strips and quickly blanch them in the boiling broth for 30 seconds to release aroma.",
+    "Toss the snow peas and sliced shiitake mushrooms into the simmering broth for the last 3 minutes, then remove them with a slotted spoon.",
+    "Divide the cooked noodles among four bowls, ladle the hot broth over them, then top each bowl with blanched ginger, sautéed snow peas, mushrooms, and a soft‑boiled egg half‑sliced.",
+    "Serve immediately, garnishing with optional sesame seeds or a drizzle of chili oil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "no-garlic",
+    "no-onion",
+    "snappy",
+    "sour",
+    "tonkotsu"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 35,
+    "carbs": 80,
+    "fat": 35
+  },
+  "slug": "ultra-japanese-snow-peas-tonkotsu-ramen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-japanese-snow-peas-tonkotsu-ramen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:14:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "broil",
+    "primaryIngredient": "snow peas",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Snow Peas",
+    "descriptor": "Ultra",
+    "dishForm": "Tonkotsu Ramen"
+  }
+}
