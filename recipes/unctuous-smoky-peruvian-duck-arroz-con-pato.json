@@ -1,0 +1,106 @@
+{
+  "title": "Unctuous Smoky Peruvian Duck Arroz Con Pato",
+  "description": "This Peruvian dish features tender duck and smoky flavors, served with a side of aromatic rice, making for a truly indulgent meal. The combination of charred and aerated elements creates a unique culinary experience.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "4",
+      "notes": "preferably with skin"
+    },
+    {
+      "name": "Unbleached white bread flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Peruvian aji amarillo peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Duck fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the duck legs with smoked paprika, salt, and black pepper.",
+    "Heat the duck fat in a large skillet over medium-high heat and sear the duck legs until browned on all sides.",
+    "Transfer the duck legs to the oven and roast for 20 minutes, or until the skin is crispy and golden brown.",
+    "While the duck is cooking, heat the chicken broth in a large saucepan over medium heat.",
+    "Add the Arborio rice to the saucepan and cook, stirring constantly, until the rice is tender and creamy.",
+    "Char the aji amarillo peppers over an open flame, or in a dry skillet, until the skin is blistered and blackened.",
+    "Peel the peppers and chop them into small pieces, then stir them into the cooked rice.",
+    "Chop the cilantro and garlic, and stir them into the rice mixture.",
+    "To serve, place a duck leg on each plate, then spoon the smoky rice mixture alongside."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "arroz-con-pato",
+    "complex-recipes",
+    "duck-recipes",
+    "indulgent-meals",
+    "peruvian-cuisine",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 70
+  },
+  "slug": "unctuous-smoky-peruvian-duck-arroz-con-pato",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-smoky-peruvian-duck-arroz-con-pato",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:13:49Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "duck",
+    "descriptor": "Unctuous Smoky",
+    "dishForm": "Arroz Con Pato"
+  }
+}
