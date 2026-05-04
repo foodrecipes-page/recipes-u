@@ -1,0 +1,104 @@
+{
+  "title": "Uplifting Citrusy Portuguese Tofu Bowl",
+  "description": "A vegan friendly and energizing Portuguese dish featuring citrusy flavors and a snappy texture, served in a lacquerware bowl.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "Lard substitute",
+      "amount": "2 tablespoons",
+      "notes": "such as coconut oil"
+    },
+    {
+      "name": "Cure substitute",
+      "amount": "1 teaspoon",
+      "notes": "such as smoked paprika"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat the lard substitute in a large skillet over medium heat.",
+    "Add the cubed tofu and cook until golden brown on all sides.",
+    "Add the cure substitute and cook for 1 minute, stirring constantly.",
+    "In a small bowl, whisk together the orange and lemon juice.",
+    "Pour the juice mixture over the tofu and cook for 2 minutes, stirring constantly.",
+    "Season with salt and black pepper to taste.",
+    "Divide the cooked brown rice into lacquerware bowls.",
+    "Top the rice with the tofu and juice mixture.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "healthy",
+    "lunch",
+    "one-bowl",
+    "portuguese",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "uplifting-citrusy-portuguese-tofu-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-citrusy-portuguese-tofu-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:01:57Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "cure",
+    "primaryIngredient": "lard",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tofu",
+    "descriptor": "Uplifting Citrusy",
+    "dishForm": "Bowl"
+  }
+}
