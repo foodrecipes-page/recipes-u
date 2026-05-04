@@ -1,0 +1,99 @@
+{
+  "title": "Spicy Portuguese Radish Skewers",
+  "description": "A spicy and juicy Portuguese dish featuring radish, perfect for a crowd, and high in protein. This recipe is a unique twist on traditional Portuguese cuisine.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "radish",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "piri piri sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, or 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, piri piri sauce, lemon juice, salt, and black pepper.",
+    "Add the sliced radish and chicken breast to the bowl and toss to coat with the marinade.",
+    "Thread the marinated radish and chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, or until the chicken is cooked through and the radish is tender.",
+    "Remove the skewers from the grill and sprinkle with chopped parsley.",
+    "Serve the skewers hot, garnished with additional parsley if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "easy-to-make",
+    "grilled",
+    "high-protein",
+    "portuguese",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "unique-spicy-portuguese-radish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-spicy-portuguese-radish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:34:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "steam",
+    "primaryIngredient": "radish",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "radish",
+    "descriptor": "unique spicy",
+    "dishForm": "Skewers"
+  }
+}
