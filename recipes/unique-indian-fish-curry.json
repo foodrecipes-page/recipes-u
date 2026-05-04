@@ -1,0 +1,99 @@
+{
+  "title": "Unique Indian Fish Curry",
+  "description": "A sweet and aerated festive Indian dish from Kerala featuring panang curry paste, sashimi-cut fish, and keto-friendly ingredients, served in a ramekin.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "sashimi-cut fish",
+      "amount": "12 ounces",
+      "notes": "any white fish like cod or tilapia"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "swerve sweetener",
+      "amount": "1 teaspoon",
+      "notes": "or other keto sweetener"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender or food processor, blend the panang curry paste, coconut milk, fish sauce, lime juice, swerve sweetener, salt, and pepper until smooth.",
+    "Arrange the sashimi-cut fish in a single layer in 4 ramekins.",
+    "Pour the curry sauce over the fish in each ramekin.",
+    "Bake the fish in the preheated oven for 12 minutes or until cooked through.",
+    "Remove the ramekins from the oven and let cool for a few minutes.",
+    "Serve the fish curry hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry-dish",
+    "fish-recipe",
+    "indian-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "ramekin-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "unique-indian-fish-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-indian-fish-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:10:22Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "panang curry paste",
+    "diet": "keto",
+    "region": "kerala",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fish",
+    "descriptor": "Unique Aerated",
+    "dishForm": "Curry"
+  }
+}
