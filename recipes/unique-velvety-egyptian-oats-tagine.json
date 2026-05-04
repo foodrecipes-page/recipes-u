@@ -1,0 +1,107 @@
+{
+  "title": "Unique Velvety Egyptian Oats Tagine",
+  "description": "A rich and indulgent Egyptian dish featuring rolled oats, cooked to perfection in a clay pot, high in protein and perfect for a special occasion. This unique tagine is a fatty and velvety delight.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "old fashioned"
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the clay pot over medium heat.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the rolled oats, chicken broth, dried apricots, almonds, ras el hanout, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Remove the clay pot from the heat and let it cool slightly.",
+    "Serve the tagine hot, garnished with additional sliced almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "egyptian-cuisine",
+    "high-protein",
+    "indulgent",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "unique-velvety-egyptian-oats-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-velvety-egyptian-oats-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:55:40Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "rolled oats",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "oats",
+    "descriptor": "Unique Velvety",
+    "dishForm": "Tagine"
+  }
+}
