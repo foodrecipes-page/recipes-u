@@ -1,0 +1,99 @@
+{
+  "title": "Unusual Australian Coconut Mousse",
+  "description": "A cultured, glassy-jelly dessert that blends coconut cream, star anise, and pickled cucumber for a uniquely adventurous Australian flavor. It is sugar‑free, vegan, and ready in under an hour plus chilling time.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "full-fat coconut milk",
+      "amount": "1 cup",
+      "notes": "use canned for richness"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "plain coconut yogurt",
+      "amount": "1 cup",
+      "notes": "sugar free"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "monkfruit sweetener",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole star anise",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nuka-pickle diced cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gelatin powder",
+      "amount": "1 tbsp",
+      "notes": "dissolved in 2 tbsp hot water"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine coconut milk, coconut cream, vanilla, sweetener, and salt in a saucepan and heat to 75°C while stirring until the sweetener dissolves.",
+    "Remove the pan from heat and allow the mixture to cool to 40°C, then strain through a fine sieve to remove the star anise.",
+    "Whisk the gelatin powder into the hot water until fully dissolved, then add this gelatin blend to the coconut mixture and stir until fully incorporated.",
+    "Gently fold in the plain coconut yogurt until the mixture is evenly blended and smooth.",
+    "Pour the mousse mixture into individual serving glasses or a shallow dish.",
+    "Refrigerate the glasses for at least 240 minutes until the mousse has set into a glassy jelly.",
+    "Serve chilled, optionally garnish with a small piece of nuka‑pickle or a pinch of ground star anise.",
+    "Store any leftovers in the refrigerator for up to 48 hours."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "dessert",
+    "glassy",
+    "pickled",
+    "star-anise",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 3,
+    "carbs": 5,
+    "fat": 25
+  },
+  "slug": "unusual-australian-coconut-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unusual-australian-coconut-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:00:31Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "star anise",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "coconut",
+    "descriptor": "Unusual",
+    "dishForm": "Mousse"
+  }
+}
