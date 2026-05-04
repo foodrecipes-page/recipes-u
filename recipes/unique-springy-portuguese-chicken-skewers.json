@@ -1,0 +1,98 @@
+{
+  "title": "Unique Springy Portuguese Chicken Skewers",
+  "description": "Savory Portuguese chicken skewers featuring almond essence, perfect for a date night, with a springy twist and sugar-free friendly ingredients. This dish is a great option for those looking for a flavorful and healthy meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "almond essence",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, almond essence, lemon juice, garlic, paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, or until the chicken is cooked through.",
+    "During the last 2 minutes of grilling, add a bay leaf to each skewer.",
+    "Remove the skewers from the grill and let them rest for 2 minutes before serving.",
+    "Serve the skewers hot, garnished with additional bay leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grilled-chicken",
+    "healthy-dinner",
+    "portuguese-cuisine",
+    "spring-recipes",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "unique-springy-portuguese-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-springy-portuguese-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:46:30Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "emulsify",
+    "primaryIngredient": "almond essence",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Unique Springy",
+    "dishForm": "Skewers"
+  }
+}
