@@ -1,0 +1,110 @@
+{
+  "title": "Unusually Chewy Tunisian Lamb Tagine",
+  "description": "A salty, chewy one-pot dish from Tunisia featuring lamb, olives, and preserved lemon.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1/4 cup",
+      "notes": "use a high-quality oil with a fruity flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Preserved lemon",
+      "amount": "2 halves",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pitted green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce the heat to medium and cook the onion until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the preserved lemon and cook for 1 minute.",
+    "Add the olives, parsley, salt, black pepper, and red pepper flakes, if using.",
+    "Stir to combine.",
+    "Return the lamb to the pot and add 1 cup of water.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender.",
+    "Deglaze the pot with 2 tablespoons of water and stir to combine.",
+    "Serve the lamb hot, garnished with parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braise",
+    "comfort-food",
+    "lamb",
+    "one-pot",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "unusually-chewy-tunisian-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/unusually-chewy-tunisian-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:03Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "deglaze",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "unusually chewy",
+    "dishForm": "Tagine"
+  }
+}
