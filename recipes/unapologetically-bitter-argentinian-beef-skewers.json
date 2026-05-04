@@ -1,0 +1,102 @@
+{
+  "title": "Unapologetically Bitter Argentinian Beef Skewers",
+  "description": "A bold and savory Argentinian dish featuring hojicha and render fat, this recipe is perfect for those who enjoy a bitter flavor profile. The use of low fat friendly ingredients makes it a great option for health conscious individuals.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "hojicha tea leaves",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "render fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together hojicha tea leaves, garlic, red pepper flakes, salt, and black pepper.",
+    "Add the beef cubes to the bowl and toss to coat with the hojicha mixture.",
+    "Thread the beef cubes onto skewers, leaving a small space between each cube.",
+    "Brush the render fat onto the beef cubes.",
+    "Grill the skewers for 10 minutes, turning occasionally.",
+    "Brush the lemon juice onto the skewers during the last 2 minutes of grilling.",
+    "Garnish with parsley and bay leaves.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "bitter",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "unapologetically-bitter-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unapologetically-bitter-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:42:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "render-fat",
+    "primaryIngredient": "hojicha",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Unapologetically bitter",
+    "dishForm": "Skewers"
+  }
+}
