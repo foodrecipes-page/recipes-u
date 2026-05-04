@@ -1,0 +1,108 @@
+{
+  "title": "Unique Dutch Penne Pasta",
+  "description": "A tender, fermented Dutch-inspired penne pasta that pairs crispy tempeh with a vibrant, caramelized spinach sauce, perfect for a sugar‑free date night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "200g (dry weight)",
+      "notes": "short pasta"
+    },
+    {
+      "name": "Fermented tempeh",
+      "amount": "200g (cubed)",
+      "notes": "crisp sides"
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "1 cup (chopped)",
+      "notes": "washed"
+    },
+    {
+      "name": "Fermented soy sauce",
+      "amount": "2 tbsp (low sodium)",
+      "notes": "adds umami"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "acidity boost"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove (minced)",
+      "notes": "fresh"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp (grated)",
+      "notes": "fresh"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 tbsp (chopped)",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp (chopped)",
+      "notes": "nutty crunch"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Cook penne pasta in salted boiling water until al dente, about 8 minutes, then drain and set aside.",
+    "While pasta cooks, heat olive oil in a stone bowl dolsot over medium heat.",
+    "Add minced garlic and grated ginger, sauté until fragrant, about 30 seconds.",
+    "Toss in cubed fermented tempeh and cook until lightly browned, about 4 minutes.",
+    "Stir in fermented soy sauce, apple cider vinegar, and a pinch of salt, letting flavors meld for 2 minutes.",
+    "Add chopped spinach and cook until wilted, about 2 minutes.",
+    "Remove the pot from heat and stir in chopped green onions and sesame seeds for a fresh finish.",
+    "Serve the sauce over the drained penne, garnishing with an extra sprinkle of sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "dutch",
+    "fermented",
+    "pasta",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 1150,
+    "protein": 65,
+    "carbs": 156,
+    "fat": 32
+  },
+  "slug": "unique-dutch-penne-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-dutch-penne-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:06:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "penne pasta",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Penne",
+    "descriptor": "Unique",
+    "dishForm": "Pasta"
+  }
+}

@@ -192,6 +192,21 @@
     "shard": "u"
   },
   {
+    "slug": "ultra-sweet-spanish-rice-paella",
+    "title": "Ultra Sweet Spanish Rice Paella",
+    "tags": [
+      "halal-friendly",
+      "meal-prep",
+      "pressure-cook",
+      "rice",
+      "spicy",
+      "sweet"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 30,
+    "shard": "u"
+  },
+  {
     "slug": "ultra-tender-korean-beef-stew",
     "title": "Ultra Tender Korean Beef Stew",
     "tags": [
@@ -2154,6 +2169,20 @@
     "shard": "u"
   },
   {
+    "slug": "unique-dutch-penne-pasta",
+    "title": "Unique Dutch Penne Pasta",
+    "tags": [
+      "date-night",
+      "dutch",
+      "fermented",
+      "pasta",
+      "sugar-free"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
     "slug": "unique-fluffy-argentinian-tortillas-quesadilla",
     "title": "Unique Fluffy Argentinian Tortillas Quesadilla",
     "tags": [
@@ -2624,6 +2653,20 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 75,
+    "shard": "u"
+  },
+  {
+    "slug": "uplifted-syrian-bread-flatbread",
+    "title": "Uplifted Syrian Bread Flatbread",
+    "tags": [
+      "flatbread",
+      "oven-baked",
+      "ovo-vegetarian",
+      "syrian",
+      "yeast"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {

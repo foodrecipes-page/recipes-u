@@ -1,0 +1,110 @@
+{
+  "title": "Ultra Sweet Spanish Rice Paella",
+  "description": "A fragrant, sweet and spicy paella made in a pressure cooker, perfect for meal prep.",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless halal chicken thighs",
+      "amount": "500g",
+      "notes": "cut into cubes"
+    },
+    {
+      "name": "long-grain white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced pineapple",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 tsp",
+      "notes": "steeped in 2 tbsp hot water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Thai bird chili",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the pressure cooker on sauté mode and heat olive oil until shimmering.",
+    "Add diced chicken cubes and brown them on all sides, then remove and set aside.",
+    "In the same pot, sauté chopped red onion until translucent, then stir in smoked paprika and sliced Thai bird chili.",
+    "Return the chicken to the pot, add rice, and stir to coat grains with oil and spices.",
+    "Pour in the chicken broth, pineapple, honey, saffron infusion, salt, and pepper; stir gently.",
+    "Seal the pressure cooker and cook on high pressure for 10 minutes.",
+    "Allow natural pressure release for 5 minutes, then quick release remaining pressure.",
+    "Fluff the rice with a fork, transfer to a serving dish, and serve hot; leftover can be stored in airtight containers for meal prep."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "meal-prep",
+    "pressure-cook",
+    "rice",
+    "spicy",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "ultra-sweet-spanish-rice-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-sweet-spanish-rice-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:06:31Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "pressure-cook",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Rice",
+    "descriptor": "Ultra Sweet",
+    "dishForm": "Paella"
+  }
+}

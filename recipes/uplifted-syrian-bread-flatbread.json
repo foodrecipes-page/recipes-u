@@ -1,0 +1,94 @@
+{
+  "title": "Uplifted Syrian Bread Flatbread",
+  "description": "A yeasty, pillowy flatbread studded with raisins and finished with a touch of egg, perfect for a show‑off Syrian lunch. This ovo‑vegetarian dish balances sweet and savory for a comforting bite.",
+  "cuisine": "Syrian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "300g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "7g",
+      "notes": "1 packet"
+    },
+    {
+      "name": "warm water",
+      "amount": "200ml"
+    },
+    {
+      "name": "milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "raisins",
+      "amount": "80g"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix warm water, warm milk, and sugar, then add yeast and let sit for 5 minutes until frothy.",
+    "In a large mixing bowl, sift flour and salt together, then create a well in the center.",
+    "Pour the frothy yeast mixture and olive oil into the well, stirring gently until a dough forms.",
+    "Add the egg and raisins, then knead the dough on a floured surface for about 8 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover with a damp cloth, and let rise in a warm spot for 1 hour until doubled in size.",
+    "Preheat the oven to 220°C (428°F) and line a baking sheet with parchment paper.",
+    "Punch down the risen dough, divide it into four equal portions, and roll each into a ball before flattening into 10cm circles.",
+    "Place the flattened dough circles on the prepared sheet, brush lightly with olive oil, and bake for 12 to 15 minutes until puffed and golden."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "oven-baked",
+    "ovo-vegetarian",
+    "syrian",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "uplifted-syrian-bread-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifted-syrian-bread-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:06:08Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "raisins",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "bread",
+    "descriptor": "Uplifted",
+    "dishForm": "Flatbread"
+  }
+}
