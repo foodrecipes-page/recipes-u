@@ -1,0 +1,114 @@
+{
+  "title": "Umami Crispy Australian Yellow Pepper Bowl",
+  "description": "A bright, flexitarian bowl that marries crispy tofu and sweet yellow pepper with a briny umami glaze, served in a traditional ttukbaegi for a comforting Aussie twist.",
+  "cuisine": "Australian",
+  "diet": [
+    "flexitarian",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced thin rings"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "water chestnuts",
+      "amount": "50g",
+      "notes": "diced"
+    },
+    {
+      "name": "scallions",
+      "amount": "10g",
+      "notes": "sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tsp",
+      "notes": "divided"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "white miso paste",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a dry ttukbaegi over medium heat until hot, then add 1 tsp sesame oil and swirl to coat.",
+    "Add cubed tofu and sauté until all sides are golden and crisp, about 8 minutes, then set aside.",
+    "In the same pot, add remaining 1 tsp sesame oil and toss in sliced yellow pepper and diced water chestnuts; cook for 5 minutes until pepper soft but still crisp.",
+    "While vegetables cook, whisk soy sauce, miso paste, rice vinegar, minced garlic, grated ginger, and chili flakes in a small bowl to make the umami glaze.",
+    "Pour the glaze over the pepper and chestnuts, stir, and simmer until sauce thickens, about 3 minutes.",
+    "Return the crispy tofu to the pot, toss gently to coat with glaze, and heat through for 2 minutes.",
+    "Transfer the mixture to a serving bowl, sprinkle sliced scallions and optional toasted sesame seeds on top.",
+    "Serve hot straight from the ttukbaegi, pairing with a side of steamed jasmine rice or quinoa if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bbq",
+    "flexitarian",
+    "high-protein",
+    "korean",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 22,
+    "carbs": 27,
+    "fat": 20
+  },
+  "slug": "umami-crispy-australian-yellow-pepper-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crispy-australian-yellow-pepper-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:47:32Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "yellow pepper",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "yellow pepper",
+    "descriptor": "Umami Crispy",
+    "dishForm": "Bowl"
+  }
+}
