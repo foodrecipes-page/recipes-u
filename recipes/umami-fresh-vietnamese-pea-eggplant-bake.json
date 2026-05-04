@@ -1,0 +1,104 @@
+{
+  "title": "Umami Fresh Vietnamese pea eggplant Bake",
+  "description": "Savory and nostalgic Vietnamese dish featuring thin eggplant slices topped with a sweet and salty pea mixture, finished on a robata grill for a smoky finish.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "3 medium",
+      "notes": "cut into 1/2 inch thick rounds"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "200g",
+      "notes": "thawed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "Slice the eggplant into 1/2 inch thick rounds and salt lightly, letting them drain for 10 minutes.",
+    "In a bowl combine peas, soy sauce, fish sauce, sugar, sesame oil, minced garlic, and minced ginger.",
+    "Place the eggplant slices on the grill and cook until charred markings appear, about 3 to 4 minutes per side.",
+    "While the eggplant is grilling, transfer the pea mixture to a small skillet and heat until warmed through.",
+    "Once the eggplant is ready, top each slice with the warm pea mixture.",
+    "Return the topped slices to the grill for an additional 2 minutes to meld flavors.",
+    "Drizzle a small amount of sesame oil over the top and sprinkle with chopped scallions and toasted sesame seeds.",
+    "Serve the baked eggplant hot, optionally with steamed rice or rice noodles.",
+    "Enjoy the umami-packed Vietnamese pea eggplant bake."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "quick",
+    "savory",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "umami-fresh-vietnamese-pea-eggplant-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-fresh-vietnamese-pea-eggplant-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:16:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "bake",
+    "primaryIngredient": "pea-eggplant",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pea eggplant",
+    "descriptor": "Umami Fresh",
+    "dishForm": "Bake"
+  }
+}
