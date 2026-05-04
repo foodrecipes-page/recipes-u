@@ -1,0 +1,110 @@
+{
+  "title": "Uplifted Fluffy Argentinian Lentils Stew",
+  "description": "A hearty, grassy stew with a mustard bhuna base, cooked to fluffy perfection in a tandoor clay pot. It is diabetic-friendly and perfect for a comforting dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": "rinse and drain"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "yellow mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground mustard powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tandoor clay pot",
+      "amount": "1"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tandoor clay pot over medium heat until shimmering.",
+    "Add the chopped onion and cook until translucent, stirring frequently.",
+    "Add the garlic, cumin, coriander, turmeric, mustard seeds, and mustard powder, and cook for 1 minute until fragrant.",
+    "Stir in the lentils and vegetable broth, bring to a gentle boil, then reduce heat to low and cover.",
+    "Simmer for 45 minutes, stirring occasionally, until the lentils are tender and the mixture has thickened to a fluffy consistency.",
+    "Remove the pot from the heat, fluff the lentils with a fork, and let it rest for 5 minutes.",
+    "Stir in the fresh cilantro and adjust seasoning with salt if desired.",
+    "Serve hot, spooning the stew into bowls directly from the tandoor clay pot, and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "fluffy",
+    "mustard-flavor",
+    "one-pot",
+    "tandoor",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "uplifted-fluffy-argentinian-lentils-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifted-fluffy-argentinian-lentils-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:14:37Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "mustard",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "lentils",
+    "descriptor": "Uplifted Fluffy",
+    "dishForm": "Stew"
+  }
+}
