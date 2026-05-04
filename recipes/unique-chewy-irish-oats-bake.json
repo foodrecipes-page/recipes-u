@@ -1,0 +1,94 @@
+{
+  "title": "Unique Chewy Irish Oats Bake",
+  "description": "A floral and chewy Irish dish featuring peanut butter and ferment, friendly to nut-free diets, perfect for meal prep",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish oats",
+      "amount": "2 cups",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "Peanut butter substitute",
+      "amount": "1/2 cup",
+      "notes": "sunflower seed butter"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fermented yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dried lavender",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the Irish oats, peanut butter substitute, and honey, mixing until well combined.",
+    "In a separate bowl, whisk together the fermented yogurt, dried lavender, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Beat in the egg until the dough is smooth.",
+    "Add the salt and mix well.",
+    "Press the dough into a 9x9 inch baking dish.",
+    "Bake for 25 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool completely before cutting into bars."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 9,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-bake",
+    "high-fiber",
+    "irish-inspired",
+    "meal-prep",
+    "nut-free",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "unique-chewy-irish-oats-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-chewy-irish-oats-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:39:57Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "peanut butter",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "oats",
+    "descriptor": "Unique Chewy",
+    "dishForm": "Bake"
+  }
+}
