@@ -1,0 +1,96 @@
+{
+  "title": "Unhurried Briny Tunisian Lettuce Salad",
+  "description": "A lazy-sunday, briny Tunisian salad that pairs crisp baby lettuce with grilled flavor, chickpeas, olives, and a zesty lemon-olive dressing. This gluten‑free dish is quick, vibrant and perfect for any time of day.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby lettuce leaves",
+      "amount": "50g"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "10 halves"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "canned chickpeas, drained",
+      "amount": "50g"
+    },
+    {
+      "name": "pitted kalamata olives",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Wash and dry baby lettuce leaves.",
+    "Halve cherry tomatoes.",
+    "Heat a non‑stick skillet to medium and grill the lettuce leaves for 2 minutes on each side until slightly charred.",
+    "In a bowl, whisk together olive oil, lemon juice, salt, pepper, minced garlic, and oregano.",
+    "Toss the grilled lettuce, tomatoes, chickpeas, and olives with the dressing.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "briny",
+    "gluten-free",
+    "lazy-sunday",
+    "tunisian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 20
+  },
+  "slug": "unhurried-briny-tunisian-lettuce-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unhurried-briny-tunisian-lettuce-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:24:40Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Unhurried Briny",
+    "dishForm": "Salad"
+  }
+}
