@@ -1,0 +1,106 @@
+{
+  "title": "Unique Umami Korean Beetroot Jjigae",
+  "description": "A briny, fluffy, and nostalgic Korean dish featuring cooked beetroot, ssam-wrap, and wrapped in pandan leaves, perfect for a diabetic-friendly meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "doenjang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Wrap the beetroot in foil and roast for 45 minutes, or until tender.",
+    "In a blender or food processor, combine gochujang, doenjang, garlic, and ginger, and blend until smooth.",
+    "In a large pan, heat the sesame oil over medium heat and add the blended paste, cooking for 2 minutes.",
+    "Add the roasted beetroot, tofu, salt, and black pepper to the pan, stirring to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Prepare the pandan leaves by cutting out the stem and washing the leaves.",
+    "Place a portion of the beetroot mixture onto a pandan leaf and fold the leaf to form a package, securing with a toothpick if needed.",
+    "Serve the Unique Umami Korean Beetroot Jjigae hot, with additional pandan leaves on the side for wrapping.",
+    "Allow each guest to assemble their own ssam-wrap with the beetroot mixture and garnishes of their choice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot-recipes",
+    "diabetic-friendly",
+    "korean-food",
+    "pandan-wraps",
+    "ssam-wrap",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "unique-umami-korean-beetroot-jjigae",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-korean-beetroot-jjigae",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:02:18Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beetroot",
+    "descriptor": "unique umami",
+    "dishForm": "Jjigae"
+  }
+}

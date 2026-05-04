@@ -2406,6 +2406,21 @@
     "shard": "u"
   },
   {
+    "slug": "unique-norwegian-mars-bar-stir-fry",
+    "title": "Unique Norwegian Mars Bar Stir Fry",
+    "tags": [
+      "dessert",
+      "no-garlic",
+      "no-onion",
+      "norwegian",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
     "slug": "unique-nutty-saudi-arabian-fish-pilaf",
     "title": "Unique Nutty Saudi Arabian Fish Pilaf",
     "tags": [
@@ -2611,6 +2626,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-umami-korean-beetroot-jjigae",
+    "title": "Unique Umami Korean Beetroot Jjigae",
+    "tags": [
+      "beetroot-recipes",
+      "diabetic-friendly",
+      "korean-food",
+      "pandan-wraps",
+      "ssam-wrap",
+      "umami-rich"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 80,
     "shard": "u"
   },
   {

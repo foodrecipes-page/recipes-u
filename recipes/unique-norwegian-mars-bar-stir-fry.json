@@ -1,0 +1,93 @@
+{
+  "title": "Unique Norwegian Mars Bar Stir Fry",
+  "description": "A rich and energizing Norwegian dish featuring Mars bar, stir-fry, and no onion or garlic, served in a banana leaf vessel.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bar",
+      "amount": "4 bars",
+      "notes": "chopped"
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "Strawberries",
+      "amount": "1 cup",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pineapple chunks",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare the banana leaves by washing and drying them.",
+    "In a large pan, heat the peanut butter over medium heat.",
+    "Add the chopped Mars bar and stir until melted and smooth.",
+    "Add the honey and stir until well combined.",
+    "Add the cooked rice, strawberries, coconut flakes, and pineapple chunks to the pan and stir-fry for 5 minutes.",
+    "Spoon the stir-fry mixture onto the prepared banana leaves.",
+    "Fold the banana leaves to form a packet and serve immediately.",
+    "Garnish with additional coconut flakes and strawberries if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "no-garlic",
+    "no-onion",
+    "norwegian",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-norwegian-mars-bar-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-norwegian-mars-bar-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:02:26Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "stir-fry",
+    "primaryIngredient": "mars bar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Unique Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
