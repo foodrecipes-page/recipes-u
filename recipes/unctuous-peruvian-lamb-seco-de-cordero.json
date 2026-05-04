@@ -1,0 +1,96 @@
+{
+  "title": "Peruvian Lamb Seco De Cordero",
+  "description": "A traditional Peruvian dish featuring tender lamb, streaky bacon, and a blend of Mediterranean spices, slow cooked in a hot pot vessel to create a sour and crumbly texture, perfect for a lazy Sunday",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "streaky bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the hot pot vessel over medium heat",
+    "Add the diced bacon and cook until crispy, then set aside",
+    "Add the lamb pieces to the pot and brown on all sides, about 5 minutes",
+    "Add the chopped onion and cook until translucent, about 5 minutes",
+    "Add the minced garlic and cook for 1 minute",
+    "Add the sliced aji amarillo peppers and cook for 2 minutes",
+    "Add the tomato paste, red wine vinegar, and crispy bacon back to the pot, stirring to combine",
+    "Cover the pot and simmer for 2 hours, or until the lamb is tender",
+    "Season with salt and pepper to taste, then serve hot"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hot-pot-recipes",
+    "lamb-recipes",
+    "mediterranean-inspired",
+    "peruvian-cuisine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "unctuous-peruvian-lamb-seco-de-cordero",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:37:00Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "streaky bacon",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Unctuous Crispy",
+    "dishForm": "Seco De Cordero"
+  }
+}
