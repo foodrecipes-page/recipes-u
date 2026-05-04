@@ -1,0 +1,93 @@
+{
+  "title": "Unique Umami Thai Parma Ham Toast",
+  "description": "A resinous and crumbly Thai dish featuring parma ham and served in a pandan leaf wrap, perfect for a sick day pick me up",
+  "cuisine": "thai",
+  "diet": [
+    "jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "parma ham",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "6 leaves"
+    },
+    {
+      "name": "thai red chili",
+      "amount": "2 chilies",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fish free nam prik pao",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1 inch slices"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees",
+    "Toast the bread slices until lightly browned",
+    "Spread a small amount of nam prik pao on each toast slice",
+    "Top each slice with a slice of parma ham",
+    "Sprinkle toasted peanuts and chopped thai red chili over the parma ham",
+    "Drizzle lime juice and palm sugar over the top",
+    "Wrap each slice in a pandan leaf",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "jain-friendly",
+    "one-pan",
+    "quick-snack",
+    "thai-inspiration",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "unique-umami-thai-parma-ham-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-thai-parma-ham-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:56:00Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "toast",
+    "primaryIngredient": "parma ham",
+    "diet": "jain",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "parma ham",
+    "descriptor": "unique umami",
+    "dishForm": "Toast"
+  }
+}
