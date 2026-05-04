@@ -1,0 +1,106 @@
+{
+  "title": "Unique Peppery Spanish Egg Crema Catalana",
+  "description": "A solo dinner Spanish dish featuring egg roll wrappers and a peppery flavor, made in a crema catalana form, low sodium friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg roll wrappers",
+      "amount": "12 sheets",
+      "notes": "thawed"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt free seasoning",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless, cut into small pieces"
+    },
+    {
+      "name": "low sodium chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a bowl, whisk together eggs, black pepper, smoked paprika, garlic powder, and salt free seasoning.",
+    "Add the chicken breast pieces to the bowl and mix until they are fully coated with the egg mixture.",
+    "Heat the olive oil in a large skillet over medium high heat and cook the chicken until browned, about 5 minutes.",
+    "Add the low sodium chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to low and let simmer for 5 minutes.",
+    "Lay an egg roll wrapper on a flat surface and place a few pieces of the chicken mixture in the center of the wrapper.",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Place the rolls seam side down in a baking dish and repeat with the remaining wrappers and filling.",
+    "Bake the rolls in the preheated oven for 15 minutes, or until golden brown.",
+    "Serve the Unique Peppery Spanish Egg Crema Catalana hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "egg-recipes",
+    "low-sodium",
+    "one-pan",
+    "spanish-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "unique-peppery-spanish-egg-crema-catalana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-peppery-spanish-egg-crema-catalana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:07:31Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "marinate",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "egg",
+    "descriptor": "Unique Peppery",
+    "dishForm": "Crema Catalana"
+  }
+}
