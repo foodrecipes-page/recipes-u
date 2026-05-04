@@ -1,0 +1,110 @@
+{
+  "title": "Uplifting German Marzipan Tagine",
+  "description": "A peppery, fluffy tagine that blends German marzipan sweetness with aromatic spices to soothe hangovers and delight the palate.",
+  "cuisine": "German",
+  "diet": [
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "marzipan paste",
+      "amount": "50g"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "300g"
+    },
+    {
+      "name": "carrot",
+      "amount": "150g"
+    },
+    {
+      "name": "courgette",
+      "amount": "150g"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "100g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "5g"
+    },
+    {
+      "name": "turmeric",
+      "amount": "2g"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "10g minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "500ml"
+    },
+    {
+      "name": "salt",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Peel and cube sweet potato, carrot, courgette, and red bell pepper into bite‑sized pieces.",
+    "Heat olive oil in a tagine pot over medium heat until shimmering.",
+    "Add cumin and turmeric to the oil and sauté for 30 seconds until fragrant.",
+    "Add the chopped vegetables and sauté for 5 minutes, stirring occasionally.",
+    "Stir in the minced ginger, and cook for another minute.",
+    "Pour in the vegetable stock, lemon juice, and salt, then bring to a gentle simmer.",
+    "Add marzipan paste and stir until fully dissolved and the sauce thickens slightly.",
+    "Reduce heat to low, cover the tagine, and let it simmer for 25 minutes until vegetables are tender.",
+    "Taste and adjust seasoning if necessary, adding a splash more salt or lemon if desired.",
+    "Remove from heat, fluff the mixture with a fork, and transfer to a serving dish.",
+    "Serve hot straight from the tagine for a comforting, hangover‑cure meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fluffy",
+    "hangover-cure",
+    "sattvic",
+    "tagine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 31,
+    "fat": 5
+  },
+  "slug": "uplifting-german-marzipan-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-german-marzipan-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:15:44Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "ferment",
+    "primaryIngredient": "marzipan",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "marzipan",
+    "descriptor": "Uplifting",
+    "dishForm": "Tagine"
+  }
+}
