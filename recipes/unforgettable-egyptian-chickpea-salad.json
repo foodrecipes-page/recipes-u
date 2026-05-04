@@ -1,0 +1,115 @@
+{
+  "title": "Unforgettable Egyptian Chickpea Salad",
+  "description": "A vibrant, herbaceous chickpea salad with a tangy vinaigrette and crunchy toasted pita croutons, perfect for a comforting, egg‑free Egyptian-inspired lunch.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "400g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "pita bread",
+      "amount": "1 medium",
+      "notes": "cut into cubes"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "15g",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "150g",
+      "notes": "halved"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "tahini",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "½ tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the canned chickpeas, then set aside in a bowl.",
+    "Toast the pita bread cubes in a dry skillet over medium heat until golden, about 3-4 minutes, stirring frequently.",
+    "In a small bowl whisk together lemon juice, olive oil, tahini, salt, pepper, and cumin until emulsified.",
+    "Roughly chop parsley, mint, and red onion, and halve the cherry tomatoes.",
+    "Add the chopped herbs, onion, tomatoes, and toasted pita cubes to the chickpeas.",
+    "Pour the vinaigrette over the mixture and toss gently until evenly coated.",
+    "Taste and adjust seasoning with more salt, pepper, or lemon if needed.",
+    "Transfer the salad to a serving dish and let it rest for 5 minutes to meld flavors.",
+    "Garnish with a drizzle of olive oil and a sprinkle of extra mint before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "egyptian",
+    "herbaceous",
+    "no-egg",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 315,
+    "protein": 10,
+    "carbs": 39,
+    "fat": 11
+  },
+  "slug": "unforgettable-egyptian-chickpea-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unforgettable-egyptian-chickpea-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:06:56Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "air-fry",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Unforgettable",
+    "dishForm": "Salad"
+  }
+}
