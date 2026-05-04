@@ -1251,6 +1251,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-indian-eggplant-kheer",
+    "title": "Umami Indian Eggplant Kheer",
+    "tags": [
+      "dinner",
+      "indian",
+      "one-pot",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-infused-egyptian-condensed-milk-pudding",
     "title": "Umami-Infused Egyptian Condensed Milk Pudding",
     "tags": [

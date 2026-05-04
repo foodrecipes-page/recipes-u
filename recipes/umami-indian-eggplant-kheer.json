@@ -1,0 +1,113 @@
+{
+  "title": "Umami Indian Eggplant Kheer",
+  "description": "A Jain-friendly, crowd-pleasing Indian dish featuring eggplant, nuka-pickle and a rich, creamy texture.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat. Add cumin seeds and mustard seeds and let sizzle. Add chopped onion and saut\u00105 until softened. Add grated ginger and minced garlic and cook for 1 minute. Add sliced eggplant and cook until tender. Add nuka-pickle and stir well. Add coconut milk, turmeric, salt, sugar and cardamom powder. Stir well and let simmer for 10 minutes. Taste and adjust seasoning.",
+    "Serve warm or chilled, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "indian",
+    "one-pot",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "umami-indian-eggplant-kheer",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-indian-eggplant-kheer",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:26:45Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "eggplant",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "eggplant",
+    "descriptor": "UMAMI",
+    "dishForm": "Kheer"
+  }
+}
