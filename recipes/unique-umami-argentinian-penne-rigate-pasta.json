@@ -1,0 +1,99 @@
+{
+  "title": "Unique Umami Argentinian Penne Rigate Pasta",
+  "description": "A sour and chewy Argentinian dish featuring penne rigate pasta, katsuramuki-cut vegetables, and a blend of umami flavors, perfect for a monsoon evening. This low-sodium-friendly recipe is a must-try for pasta lovers.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne rigate pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "katsuramuki-cut zucchini",
+      "amount": "2 cups",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "katsuramuki-cut carrots",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salt-free water to a boil and cook the penne rigate pasta according to package instructions.",
+    "In a large skillet, heat the chimichurri sauce over medium heat and add the sliced red onion.",
+    "Add the katsuramuki-cut zucchini and carrots to the skillet and cook until tender.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the vegetables and sauce.",
+    "Season with salt-free seasoning and stir in the chopped fresh parsley.",
+    "Transfer the pasta to a serving dish and top with grated parmesan cheese.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "chewy-texture",
+    "low-sodium",
+    "monsoon-friendly",
+    "pasta-dish",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "unique-umami-argentinian-penne-rigate-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-argentinian-penne-rigate-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:35:52Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "penne rigate",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "penne rigate",
+    "descriptor": "unique umami",
+    "dishForm": "Pasta"
+  }
+}
