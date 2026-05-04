@@ -1,0 +1,96 @@
+{
+  "title": "Umami Rich Irish Lamb Stew",
+  "description": "A fermented and velvety Irish lamb stew featuring shoyu-koji and bhuna, perfect for a comforting meal on a sick day, made in a traditional tajine clay vessel.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "shoyu-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together shoyu-koji, bhuna spice blend, and a pinch of salt.",
+    "Add the lamb cubes to the bowl and toss to coat evenly with the shoyu-koji mixture.",
+    "Heat a couple of tablespoons of oil in the tajine clay vessel over medium heat.",
+    "Brown the lamb cubes in batches until browned on all sides, then set aside.",
+    "Add more oil if necessary, then saute the chopped onion until it is softened and translucent.",
+    "Add the chopped carrots and potatoes to the vessel, cooking for a few minutes until they start to soften.",
+    "Add the browned lamb, lamb broth, and tomato paste to the vessel, stirring to combine.",
+    "Cover the vessel with a lid and transfer it to the preheated oven.",
+    "Braise the stew for 2.5 hours, or until the lamb is tender and the vegetables are cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "lamb-stew",
+    "low-calorie",
+    "one-pot",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "umami-rich-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-rich-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:28:34Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "bhuna",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Umami Rich",
+    "dishForm": "Stew"
+  }
+}

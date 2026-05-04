@@ -1438,6 +1438,21 @@
     "shard": "u"
   },
   {
+    "slug": "umami-rich-irish-lamb-stew",
+    "title": "Umami Rich Irish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "lamb-stew",
+      "low-calorie",
+      "one-pot",
+      "umami-rich"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 180,
+    "shard": "u"
+  },
+  {
     "slug": "umami-rich-thai-chicken-stir-fry",
     "title": "Umami Rich Thai Chicken Stir-fry",
     "tags": [
