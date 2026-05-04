@@ -1,0 +1,102 @@
+{
+  "title": "Ultra Crunchy Peruvian Quinoa Roast",
+  "description": "A resinous, crunchy Peruvian quinoa dish that combines spicy sazon seasoning with a broiled, toasted finish for an indulgent, sattvic-friendly meal.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use extra virgin"
+    },
+    {
+      "name": "aji amarillo paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sazon seasoning",
+      "amount": "2 tsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa until water runs clear, then drain.",
+    "In a saucepan, combine rinsed quinoa with 4 cups water, bring to a boil, then reduce heat, cover, and simmer for 15 minutes until liquid is absorbed.",
+    "While quinoa cooks, whisk together 2 tbsp olive oil, 1 tbsp aji amarillo paste, 2 tsp sazon, 1 tsp paprika, 1 tsp cumin, diced onion, and minced garlic in a bowl.",
+    "Once quinoa is fluffy, fluff with a fork and fold in the spice mixture, ensuring even coating.",
+    "Spread the seasoned quinoa onto a parchment-lined baking sheet in an even layer.",
+    "Sprinkle 1/4 cup toasted sesame seeds over the top for extra crunch.",
+    "Broil the quinoa in the oven on high for 3 minutes, watching carefully until the edges crisp and become golden.",
+    "Remove from oven, garnish with chopped cilantro, let rest for 5 minutes, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broil",
+    "crunchy",
+    "one-pan",
+    "peruvian",
+    "quinoa",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 21,
+    "carbs": 85,
+    "fat": 46
+  },
+  "slug": "ultra-crunchy-peruvian-quinoa-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-crunchy-peruvian-quinoa-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:16:24Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "broil",
+    "primaryIngredient": "sazon",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "quinoa",
+    "descriptor": "Ultra Crunchy",
+    "dishForm": "Roast"
+  }
+}
