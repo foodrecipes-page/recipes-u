@@ -1,0 +1,103 @@
+{
+  "title": "Unique Crunchy Croatian Meat Skewers",
+  "description": "A resinous and crunchy Croatian dish featuring mirin and pickle, perfect for a hangover cure, this low-calorie-friendly recipe is a must try. The combination of flavors and textures will leave you wanting more.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread the pork, onion, and bell pepper onto skewers.",
+    "In a small bowl, whisk together mirin, pickle juice, olive oil, garlic, paprika, salt, and black pepper.",
+    "Brush the mixture onto the skewers.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "easy-to-make",
+    "gluten-free",
+    "grilled",
+    "low-calorie",
+    "meat-skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "unique-crunchy-croatian-meat-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crunchy-croatian-meat-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:05:49Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "pickle",
+    "primaryIngredient": "mirin-hon",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "meat",
+    "descriptor": "unique crunchy",
+    "dishForm": "Skewers"
+  }
+}
