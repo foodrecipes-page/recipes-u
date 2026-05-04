@@ -1,0 +1,104 @@
+{
+  "title": "Uplifting Fluffy German Potato Dumplings",
+  "description": "A monsoon-inspired German dish with fluffy potato dumplings infused with pandan leaf and a mother sauce base, all served on a heated slate tile for a rustic finish.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "500g",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Potato starch",
+      "amount": "100g"
+    },
+    {
+      "name": "Chickpea flour",
+      "amount": "50g",
+      "notes": "acts as binder"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "5g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pandan leaf",
+      "amount": "1",
+      "notes": "torn into small pieces"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "100ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "All‑purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mother sauce base (roux of oil and flour, thickened with broth)",
+      "amount": "200ml"
+    },
+    {
+      "name": "Olive oil (for slating)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Peel and grate 500g potatoes, squeezing out excess moisture with a clean cloth.",
+    "In a large bowl combine grated potatoes, 100g potato starch, 50g chickpea flour, 5g baking powder, and 1 tsp salt; mix until uniform.",
+    "Tear 1 pandan leaf into small pieces and add to the potato mixture; fold gently to distribute aroma.",
+    "Make a mother sauce base by whisking 100ml vegetable broth with 100ml roux (blend 2 tbsp olive oil and 2 tbsp all‑purpose flour until smooth); heat until thickened, then pour into the potato mixture and stir until well incorporated.",
+    "Warm a slate tile in a preheated oven at 200°C for 5 minutes.",
+    "Transfer the dumpling mixture onto the heated slate and spread into a 1‑inch thick layer; bake for 25 minutes until golden and puffed.",
+    "Remove from the oven and let rest 5 minutes before cutting into squares.",
+    "Serve hot with a drizzle of fresh herbs or a light sauce if desired."
+  ],
+  "prepTimeMin": 24,
+  "cookTimeMin": 25,
+  "totalTimeMin": 49,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy-dumplings",
+    "german-inspired",
+    "monsoon-flavor",
+    "sattvic-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1300,
+    "protein": 22,
+    "carbs": 230,
+    "fat": 27
+  },
+  "slug": "uplifting-fluffy-german-potato-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-fluffy-german-potato-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:14:45Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potato",
+    "descriptor": "Uplifting Fluffy",
+    "dishForm": "Dumplings"
+  }
+}
