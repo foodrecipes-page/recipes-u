@@ -1,0 +1,114 @@
+{
+  "title": "Uplifting Yucatecan Chicken Empanadas",
+  "description": "A springy, cozy Yucatecan chicken empanada that balances garam masala flavor with a deep-fry crunch, made diabetic-friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless, skinless, diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juice squeezed"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for deep-frying"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a skillet over medium heat and add diced chicken, cooking until browned.",
+    "Add diced onion and minced garlic, sauté until onion is translucent.",
+    "Stir in garam masala, cumin, coriander, salt, and pepper, cooking for another minute until fragrant.",
+    "Pour in lime juice, mix well, then fold in chopped cilantro and remove from heat.",
+    "Let the mixture cool slightly, then drop spoonfuls onto individual empanada dough circles.",
+    "Fold each circle over to form a half-moon shape and seal edges with a fork.",
+    "Heat 1 tbsp vegetable oil in a deep fryer or heavy pot to 350°F (175°C).",
+    "Fry empanadas in batches for 2-3 minutes per side, or until golden and crispy.",
+    "Drain on paper towels to remove excess oil.",
+    "Serve hot, optionally with a side of fresh lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fry",
+    "diabetic-friendly",
+    "family-friendly",
+    "mexican",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 405,
+    "protein": 31,
+    "carbs": 0,
+    "fat": 31
+  },
+  "slug": "uplifting-yucatecan-chicken-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-yucatecan-chicken-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:22:01Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "garam masala",
+    "diet": "diabetic-friendly",
+    "region": "yucatecan",
+    "cuisineAdjective": "Yucatecan",
+    "mainIngredient": "chicken",
+    "descriptor": "Uplifting",
+    "dishForm": "Empanadas"
+  }
+}
