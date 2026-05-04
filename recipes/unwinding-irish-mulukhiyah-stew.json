@@ -1,0 +1,112 @@
+{
+  "title": "Unwinding Irish Mulukhiyah Stew",
+  "description": "A lazy-sunday Irish stew that blends grassy mulukhiyah with a fragrant infused olive oil, creating a gooey, comforting bowl that respects Ayurvedic tamasic principles and is cooked in a traditional donabe.",
+  "cuisine": "Irish-Middle Eastern fusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "tamasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mulukhiyah leaves",
+      "amount": "300g",
+      "notes": "fresh, washed"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "infused with 2 cloves garlic"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the donabe over medium heat and add the infused olive oil.",
+    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic and cook for 30 seconds until fragrant.",
+    "Sprinkle in the ground coriander, cumin, and cayenne pepper, and stir for 1 minute.",
+    "Pour in the vegetable stock and bring the mixture to a gentle simmer.",
+    "Add the mulukhiyah leaves, folding them into the broth, and cover the pot.",
+    "Simmer on low heat for 5 minutes until the leaves wilt and the stew thickens slightly.",
+    "Stir in the lemon juice and season with salt to taste, adjusting if needed.",
+    "Remove from heat and let the stew rest for 2 minutes before serving.",
+    "Garnish each bowl with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "donabe",
+    "gluten-free",
+    "irish",
+    "leafy-green",
+    "slow-cook",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "unwinding-irish-mulukhiyah-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unwinding-irish-mulukhiyah-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:27:14Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "infuse-oil",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Mulukhiyah",
+    "descriptor": "Unwinding",
+    "dishForm": "Stew"
+  }
+}
