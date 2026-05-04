@@ -1,0 +1,94 @@
+{
+  "title": "Unique Woodfired Korean Cherry Bake",
+  "description": "A fermented and aerated Korean dish featuring dried cherries, baked to perfection in a wood-fired oven, perfect for a crowd, this macrobiotic-friendly recipe is a unique twist on traditional Gyeongsang cuisine. It combines the natural sweetness of cherries with the savory flavors of Korean fermentation.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried cherries",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fermented Korean chili paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the dried cherries, korean chili flakes, and brown rice flour.",
+    "In a separate bowl, mix the fermented Korean chili paste with water to create a smooth paste.",
+    "Add the chili paste mixture to the dry ingredients and stir until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a warm place to rise for 1 hour, or until it has doubled in size.",
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf in the wood-fired oven and bake for 30 minutes, or until it is golden brown.",
+    "Remove the loaf from the oven and let it cool for 10 minutes before slicing.",
+    "Drizzle the loaf with sesame oil and sprinkle with salt before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 120,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "fermented-food",
+    "korean-inspired",
+    "macrobiotic-friendly",
+    "unique-dessert",
+    "woodfired"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "unique-woodfired-korean-cherry-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-woodfired-korean-cherry-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:48:33Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "dried cherries",
+    "diet": "macrobiotic",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cherries",
+    "descriptor": "Unique Woodfired",
+    "dishForm": "Bake"
+  }
+}
