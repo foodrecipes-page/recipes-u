@@ -1,0 +1,99 @@
+{
+  "title": "Ultimate Crispy British Chicken Skillet",
+  "description": "A salty, crispy, post-workout British dish featuring mitsuba, perfect for a satisfying meal after a long day, made in a claypot with a deglaze-fond for added flavor.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mitsuba",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken breast pieces with salt, black pepper, and paprika.",
+    "Heat the olive oil in a claypot over medium-high heat.",
+    "Add the chicken to the claypot and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken from the claypot and set aside.",
+    "Add the butter to the claypot and let it melt, then add the chopped mitsuba and cook until wilted.",
+    "Add the chicken broth to the claypot, scraping up any browned bits from the bottom.",
+    "Return the chicken to the claypot and bring the mixture to a simmer.",
+    "Transfer the claypot to the preheated oven and bake for 20-25 minutes, or until the chicken is cooked through and the top is crispy.",
+    "Remove the claypot from the oven and stir in the lemon juice.",
+    "Let the mixture rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "ultimate-crispy-british-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultimate-crispy-british-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:13:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "mitsuba",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "ultimate crispy",
+    "dishForm": "Skillet"
+  }
+}
