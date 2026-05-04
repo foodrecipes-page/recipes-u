@@ -1,0 +1,114 @@
+{
+  "title": "Umami Gooey American Lettuce Wrap",
+  "description": "A flavorful and energizing American dish featuring crispy lettuce, gooey cheese, and savory meat, perfect for a quick lunch or snack.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Iceberg Lettuce",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 ounces",
+      "notes": "Shredded and melted to gooey perfection."
+    },
+    {
+      "name": "Steamed Salmon Fillets",
+      "amount": "2 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Umami Sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Gluten-Free Tamari",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a steamer basket over boiling water and steam the salmon fillets for 8-10 minutes, or until cooked through.",
+    "Meanwhile, cook the bacon in a skillet over medium heat until crispy, flipping halfway through.",
+    "Wash and dry the iceberg lettuce leaves and set aside.",
+    "In a small bowl, whisk together the umami sauce, gluten-free tamari, and lime juice until well combined."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "gluten-free",
+    "low-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "slug": "umami-gooey-american-lettuce-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-gooey-american-lettuce-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:57Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lettuce",
+    "descriptor": "umami gooey",
+    "dishForm": "Wrap"
+  }
+}
