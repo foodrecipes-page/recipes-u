@@ -1,0 +1,90 @@
+{
+  "title": "Smoky Turkish Lamb Adana Kebap",
+  "description": "A garlicky and tender Turkish dish featuring lamb, golden caster sugar, and smoky binchotan-charcoal flavors, perfect for a lazy Sunday, and can be made without onion and garlic for those with sensitivities",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "preferably with 20% fat content"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-charcoal grill to medium-high heat, aiming for 200C",
+    "In a large bowl, combine the lamb mince, golden caster sugar, smoked paprika, salt, and black pepper, mixing well with your hands until just combined",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece",
+    "Brush the grill with olive oil to prevent sticking",
+    "Grill the kebaps for 10-12 minutes, turning occasionally, until they are cooked through and slightly charred",
+    "Brush the kebaps with lemon juice during the last 2 minutes of cooking",
+    "Serve the Adana Kebap hot, garnished with chopped parsley and your choice of sides"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "kebap-recipes",
+    "lamb-recipes",
+    "lazy-sunday",
+    "smoky-flavors",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "unique-smoky-turkish-lamb-adana-kebap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-smoky-turkish-lamb-adana-kebap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:30:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "unique smoky",
+    "dishForm": "Adana Kebap"
+  }
+}
