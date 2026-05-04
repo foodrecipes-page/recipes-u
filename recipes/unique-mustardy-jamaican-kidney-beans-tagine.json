@@ -1,0 +1,109 @@
+{
+  "title": "Unique Mustardy Jamaican Kidney Beans Tagine",
+  "description": "A hearty, mustardy Jamaican kidney bean tagine cooked to perfection in a glassy jelly sauce, perfect for a post-workout meal. This vegetarian-friendly dish is a unique blend of flavors and textures.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole-grain"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Stir in the whole-grain mustard, tagine spice blend, salt, and black pepper, and cook for 1 minute.",
+    "Add the kidney beans, vegetable broth, and agave nectar (if using) to the tagine or Dutch oven.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Remove the tagine or Dutch oven from the heat and let it cool slightly.",
+    "Use an immersion blender to puree the sauce to a glassy jelly consistency, or let it cool and puree it in a blender.",
+    "Serve the Unique Mustardy Jamaican Kidney Beans Tagine hot, garnished with chopped fresh herbs or scallions (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jamaican-cuisine",
+    "one-pot",
+    "post-workout",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "unique-mustardy-jamaican-kidney-beans-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-mustardy-jamaican-kidney-beans-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:07:37Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "tagine-cook",
+    "primaryIngredient": "kidney beans",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "kidney beans",
+    "descriptor": "unique mustardy",
+    "dishForm": "Tagine"
+  }
+}
