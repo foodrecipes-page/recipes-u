@@ -1,0 +1,111 @@
+{
+  "title": "Untamed Earthy Canadian Anchovy Pasta",
+  "description": "A springy Canadian dish featuring anchovy fillet in a mother-sauce-base, served in a mason jar, jain-friendly and perfect for meal prep. This earthy pasta is a delicious and healthy option for a quick lunch.",
+  "cuisine": "Canadian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "anchovy fillets",
+      "amount": "12",
+      "notes": "packed in oil, drained and rinsed"
+    },
+    {
+      "name": "whole wheat spaghetti",
+      "amount": "8 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the sliced mushrooms and chopped spring onions to the skillet and cook until the vegetables are tender.",
+    "Add the vegetable broth, tomato paste, dried thyme, salt, and black pepper to the skillet and stir to combine.",
+    "Reduce the heat to low and simmer the sauce for 10 minutes, stirring occasionally.",
+    "Stir in the anchovy fillets and cook for an additional 2 minutes.",
+    "Drain the cooked spaghetti and add it to the skillet, tossing to combine with the sauce.",
+    "Divide the pasta mixture among 4 mason jars and serve hot.",
+    "Let the jars cool to room temperature, then refrigerate or freeze for later use.",
+    "Reheat the pasta in the microwave or on the stovetop when ready to eat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "jain-friendly",
+    "mason-jar",
+    "meal-prep",
+    "one-pot",
+    "pasta",
+    "spring-recipe",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "untamed-earthy-canadian-anchovy-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/untamed-earthy-canadian-anchovy-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:59:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "anchovy",
+    "descriptor": "Untamed Earthy",
+    "dishForm": "Pasta"
+  }
+}
