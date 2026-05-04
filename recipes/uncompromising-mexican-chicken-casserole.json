@@ -1,0 +1,109 @@
+{
+  "title": "Uncompromising Mexican Chicken Casserole",
+  "description": "A tangy, dense chicken casserole perfect for sick days, made with unflavored gelatin for structure and baked in a wood-fired style oven. It is keto-friendly and packs a flavorful punch.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "2 lbs",
+      "notes": "cubed"
+    },
+    {
+      "name": "diced green chilies",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "no sugar added"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "unflavored gelatin powder",
+      "amount": "5 g",
+      "notes": "dissolved in 1/4 cup warm water"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "keto-friendly"
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven or conventional oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat olive oil over medium heat and sauté onion and garlic until fragrant, about 3 minutes.",
+    "Add diced chicken to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Stir in diced green chilies, tomato sauce, oregano, lime juice, salt, and pepper, then simmer for 5 minutes.",
+    "In a small bowl, dissolve gelatin powder in 1/4 cup warm water and let sit for 2 minutes to bloom.",
+    "Toss the gelatin mixture into the skillet and stir until the sauce thickens slightly, about 2 minutes.",
+    "Transfer the chicken mixture to a casserole dish, spreading it evenly.",
+    "Sprinkle shredded cheddar cheese over the top of the casserole.",
+    "Bake uncovered for 20 minutes until the cheese is melted and bubbly.",
+    "Let the casserole rest for 5 minutes before serving to set."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "gluten-free",
+    "keto-friendly",
+    "mexican",
+    "one-pan",
+    "quick",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "uncompromising-mexican-chicken-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/uncompromising-mexican-chicken-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:23:49Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Uncompromising",
+    "dishForm": "Casserole"
+  }
+}
