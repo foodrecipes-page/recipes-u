@@ -1,0 +1,94 @@
+{
+  "title": "Untouched Light British Tofu Scotch Egg",
+  "description": "A plant-based twist on the classic Scotch egg, featuring tofu and confit tomato, served on a tagliere board for a light and satisfying meal.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "semi-skimmed milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": " nutritional yeast",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a bowl, whisk together the semi-skimmed milk, nutritional yeast, salt, and black pepper.",
+    "Add the crumbled tofu to the bowl and mix until well combined.",
+    "Stir in the chopped confit tomato.",
+    "Divide the tofu mixture into 4 equal parts and shape each part into a ball.",
+    "Roll each ball in the whole wheat breadcrumbs to coat.",
+    "Place the coated tofu balls on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the tofu balls.",
+    "Bake the tofu balls in the preheated oven for 20 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-classics",
+    "high-protein",
+    "lunch-box",
+    "meal-prep",
+    "plant-based",
+    "tagliere"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "untouched-light-british-tofu-scotch-egg",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/untouched-light-british-tofu-scotch-egg",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:35:37Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "confit-tomato",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "tofu",
+    "descriptor": "Untouched Light",
+    "dishForm": "Scotch Egg"
+  }
+}
