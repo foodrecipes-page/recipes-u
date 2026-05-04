@@ -1,0 +1,94 @@
+{
+  "title": "Unforgettable Mediterranean Buckwheat Flatbread",
+  "description": "Savory, molten flatbread with an olive tapenade heart, smoked paprika, and herbs, baked to crispy perfection in a single pan.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 cup",
+      "notes": "120 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "28 g"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "1/2 cup",
+      "notes": "120 ml"
+    },
+    {
+      "name": "olive tapenade",
+      "amount": "3 tbsp",
+      "notes": "45 g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl whisk together buckwheat flour, sea salt, smoked paprika, oregano, thyme, and black pepper.",
+    "Add olive oil to the dry mix and stir until crumbly crumbs form.",
+    "Pour in the vegetable broth a little at a time, stirring until a smooth dough forms.",
+    "Transfer the dough to a lightly oiled baking sheet and press it into a 6-inch round flatbread, about 1/4 inch thick.",
+    "Bake in a preheated oven at 425°F (220°C) for 10 minutes, or until edges are golden.",
+    "Spread olive tapenade evenly across the dough, then bake another 5 minutes until the tapenade bubbles and the flatbread feels melty.",
+    "Remove from oven, let cool a minute, then slice into four wedges.",
+    "Serve warm for a smoky, Mediterranean snack that melts on your tongue."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mediterranean",
+    "snack"
+  ],
+  "slug": "unforgettable-mediterranean-buckwheat-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unforgettable-mediterranean-buckwheat-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:55:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "smoke-hot",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Unforgettable",
+    "dishForm": "Flatbread"
+  }
+}
