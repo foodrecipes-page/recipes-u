@@ -1,0 +1,113 @@
+{
+  "title": "Umami British Vegan Scotch Egg",
+  "description": "A dense and satisfying vegan scotch egg featuring a castelvetrano olive and soffritto-based filling, wrapped in a crispy oat-based breading.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup oat flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup nutritional yeast",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup castelvetrano olives, pitted",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "1 small onion",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon tomato paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon smoked paprika",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup vegan egg substitute (such as Ener-G Egg Replacer)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the soffritto base by finely chopping the onion and sautéing it in a pan over medium heat until translucent.",
+    "Add the minced garlic and cook for an additional 1-2 minutes until fragrant.",
+    "Add the tomato paste and smoked paprika to the pan and cook for 1-2 minutes, stirring constantly.",
+    "Add the chopped castelvetrano olives and cook for an additional 1 minute.",
+    "In a separate bowl, mix together the oat flour, nutritional yeast, salt, and black pepper.",
+    "Add the soffritto base to the bowl and mix until well combined.",
+    "Using your hands, shape the mixture into a ball and flatten it slightly into a disk shape.",
+    "Dip the disk into the oat flour mixture, coating both sides evenly.",
+    "Heat about 1/2 inch of oil in a non-stick pan over medium heat.",
+    "Carefully place the coated disk into the pan and cook for 3-4 minutes on each side, or until golden brown.",
+    "Repeat with the remaining mixture to form 2-3 scotch eggs.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "one-pan",
+    "plant-based",
+    "scotch-egg",
+    "vegan-egg",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "umami-british-vegan-vegan-scotch-egg",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-british-vegan-vegan-scotch-egg",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:45:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "soffritto-base",
+    "primaryIngredient": "castelvetrano-olives",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Vegan",
+    "descriptor": "Umami",
+    "dishForm": "Vegan Scotch Egg"
+  }
+}

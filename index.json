@@ -116,6 +116,21 @@
     "shard": "u"
   },
   {
+    "slug": "umami-british-vegan-vegan-scotch-egg",
+    "title": "Umami British Vegan Scotch Egg",
+    "tags": [
+      "british-cuisine",
+      "one-pan",
+      "plant-based",
+      "scotch-egg",
+      "vegan-egg",
+      "weeknight-meal"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 30,
+    "shard": "u"
+  },
+  {
     "slug": "umami-broil-braise-with-bouquet-garni",
     "title": "Umami Broil Braise with Bouquet Garni",
     "tags": [
