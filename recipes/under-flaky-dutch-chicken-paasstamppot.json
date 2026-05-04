@@ -1,0 +1,120 @@
+{
+  "title": "Winey Molten Dutch Under-Flaky Paasstamppot",
+  "description": "A Dutch dish featuring winey sauce, kaffir-lime-leaf, and molten cheese, served on a bed of under-flaky potatoes for a kid-friendly meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 lbs",
+      "notes": " Russet or Idaho work best"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Kaffir lime leaf",
+      "amount": "2 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Peel the potatoes and cut them into large chunks. Place them in a large pot of cold water and bring to a boil.",
+    "Reduce the heat to a simmer and cook the potatoes for 15 minutes, or until they are slightly tender.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the sliced mushrooms to the skillet and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the chicken breast to the skillet and cook until browned on both sides and cooked through, about 5-6 minutes per side.",
+    "Transfer the chicken to a plate and cover with foil to keep warm.",
+    "Add the chicken broth, white wine, and kaffir lime leaf to the skillet. Scrape up any browned bits from the bottom of the pan.",
+    "Bring the liquid to a simmer and cook until reduced by half, about 5-7 minutes.",
+    "Stir in the softened mascarpone cheese and grated Parmesan cheese until melted and smooth.",
+    "Arrange the cooked potatoes in a single layer in a large terracotta dish. Spoon the winey sauce over the potatoes.",
+    "Place the chicken on top of the potatoes and spoon some of the sauce over the top.",
+    "Dot the top of the dish with the remaining 1 tablespoon of butter.",
+    "Broil the dish in the preheated oven for 2-3 minutes, or until the top is golden brown and the cheese is melted.",
+    "Serve the Paasstamppot hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "kid-friendly",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "under-flaky-dutch-chicken-paasstamppot",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/under-flaky-dutch-chicken-paasstamppot",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:05:08Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "Under-Flaky",
+    "dishForm": "Paasstamppot"
+  }
+}

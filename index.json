@@ -29,6 +29,21 @@
     "shard": "u"
   },
   {
+    "slug": "ultimate-pillowy-dutch-tomato-skillet",
+    "title": "Ultimate Pillowy Dutch Tomato Skillet",
+    "tags": [
+      "ayurvedic-friendly",
+      "dutch-cuisine",
+      "gluten-free",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
     "slug": "ultra-spicy-canadian-tourtiere-poutine",
     "title": "Ultra-spicy Canadian Tourtière Poutine",
     "tags": [
@@ -1414,6 +1429,20 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 60,
+    "shard": "u"
+  },
+  {
+    "slug": "under-flaky-dutch-chicken-paasstamppot",
+    "title": "Winey Molten Dutch Under-Flaky Paasstamppot",
+    "tags": [
+      "dinner",
+      "kid-friendly",
+      "low-fat",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 55,
     "shard": "u"
   },
   {
