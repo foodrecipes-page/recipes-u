@@ -1,0 +1,105 @@
+{
+  "title": "Umami Malaysian Bok Choi Stir-fry",
+  "description": "A creamy, midnight-craving stir-fry that marries fresh bok choi with umami sauces, perfect for flexitarian nights.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bok choi",
+      "amount": "500g",
+      "notes": "washed and cut into 2cm wedges"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 200°C (392°F).",
+    "Place the bok choi wedges in a single layer and air fry for 8 minutes until crisp, flipping halfway.",
+    "While the bok choi is air frying, heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and ginger, stir-fry for 30 seconds until fragrant.",
+    "Add tofu cubes and cook until golden, about 4 minutes, tossing occasionally.",
+    "Stir in soy sauce, oyster sauce, peanut butter, lime juice, and sesame oil, mixing until tofu is evenly coated.",
+    "Reduce heat to medium, add the air-fried bok choi to the wok, and toss everything together for 2 minutes.",
+    "Adjust seasoning with extra salt or lime if needed.",
+    "Remove from heat and transfer the stir-fry to a serving bowl.",
+    "Serve hot and enjoy the umami-packed flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "bok-choi",
+    "flexitarian",
+    "malaysian",
+    "stir-fry",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 27,
+    "carbs": 28,
+    "fat": 37
+  },
+  "slug": "umami-malaysian-bok-choi-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-malaysian-bok-choi-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:54:46Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "air-fry",
+    "primaryIngredient": "bok choi",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "bok choi",
+    "descriptor": "Umami",
+    "dishForm": "Stir-fry"
+  }
+}
