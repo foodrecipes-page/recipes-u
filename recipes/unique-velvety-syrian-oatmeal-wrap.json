@@ -1,0 +1,93 @@
+{
+  "title": "Unique Velvety Syrian Oatmeal Wrap",
+  "description": "A light and briny Syrian dish featuring oatmeal, wrapped in leaves and steamed to perfection, with ayurvedic tamasic friendly ingredients. This dish is perfect for a healthy breakfast or snack.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "old fashioned oats work best"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grape leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the grape leaves and blanch them in boiling water for 30 seconds to make them pliable.",
+    "In a medium saucepan, bring the water to a boil, then add the oats, salt, and olive oil, and cook, stirring occasionally, until the oats have absorbed most of the water and have a creamy consistency.",
+    "Stir in the sumac and pomegranate molasses.",
+    "Lay a grape leaf flat on a work surface, with the stem end facing you, and place about 1/2 cup of the oat mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and oat mixture.",
+    "Place the wrapped oatmeal packages in a steamer basket, leaving some space between each package to allow for steam to pass through.",
+    "Steam the packages over boiling water for 10-12 minutes, or until the oats are cooked through and the grape leaves are tender.",
+    "Serve the wrapped oatmeal packages hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy-breakfast",
+    "oatmeal-recipes",
+    "steamed-dishes",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "unique-velvety-syrian-oatmeal-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-velvety-syrian-oatmeal-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:19:29Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "oatmeal",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "oatmeal",
+    "descriptor": "unique velvety",
+    "dishForm": "Wrap"
+  }
+}
