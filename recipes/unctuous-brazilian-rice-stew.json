@@ -1,0 +1,119 @@
+{
+  "title": "Unctuous Brazilian Rice Stew",
+  "description": "A creamy, comforting broth that blends ginger, tomatoes, and coconut milk with fluffy rice, perfect for a sick day.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-grain jasmine rice",
+      "amount": "1 cup",
+      "notes": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "240ml"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "240ml"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tsp",
+      "notes": "10g"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup",
+      "notes": "75g"
+    },
+    {
+      "name": "diced tomato",
+      "amount": "1 cup",
+      "notes": "200g"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1/2 cup",
+      "notes": "75g"
+    },
+    {
+      "name": "diced carrot",
+      "amount": "1/2 cup",
+      "notes": "75g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "15ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "2g"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "15g, garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a medium pot over medium heat.",
+    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the ginger paste and cook for another 30 seconds until fragrant.",
+    "Add the diced tomato, bell pepper, and carrot, and cook for 4 minutes until they soften.",
+    "Pour in the coconut milk and chicken broth, then bring to a gentle simmer.",
+    "Add the jasmine rice, salt, and black pepper, stir to combine, then cover the pot.",
+    "Reduce the heat to low, and simmer for 18 minutes until the rice is tender and the liquid is absorbed.",
+    "Turn off the heat, let the stew sit covered for 5 minutes to steam further.",
+    "Fluff the rice with a fork, then serve hot, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bold-flavors",
+    "comfort-food",
+    "dairy-free",
+    "nimono",
+    "rice-dish",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 13
+  },
+  "slug": "unctuous-brazilian-rice-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-brazilian-rice-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:14:01Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "ginger paste",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Rice",
+    "descriptor": "Unctuous",
+    "dishForm": "Stew"
+  }
+}
