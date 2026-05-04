@@ -2641,6 +2641,20 @@
     "shard": "u"
   },
   {
+    "slug": "unique-savory-portuguese-fish-stir-fry",
+    "title": "Portuguese Fish Stir Fry",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "portuguese-cuisine",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "unique-savory-spanish-chicken-paella",
     "title": "Unique Savory Spanish Chicken Paella",
     "tags": [
