@@ -1,0 +1,100 @@
+{
+  "title": "Creamy Brazilian Bowtie Pasta",
+  "description": "A winey, snappy, lazy-sunday Brazilian dish featuring bowtie pasta, this recipe is perfect for a relaxing day at home, it is also gluten-free-friendly by using gluten-free pasta",
+  "cuisine": "brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gluten-free bowtie pasta",
+      "amount": "8 oz",
+      "notes": "made from rice or corn"
+    },
+    {
+      "name": "brazilian sausage",
+      "amount": "1 lb",
+      "notes": "such as linguiça"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the gluten-free bowtie pasta according to the package instructions",
+    "In a large skillet, cook the brazilian sausage over medium-high heat, breaking it up with a spoon as it cooks",
+    "Add the chopped onion to the skillet and cook until it is translucent",
+    "Add the minced garlic to the skillet and cook for 1 minute",
+    "Add the white wine to the skillet and cook until it is almost completely reduced",
+    "Stir in the heavy cream and bring the mixture to a simmer",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes",
+    "Stir in the shredded parmesan cheese until it is melted and the sauce is smooth",
+    "Drain the cooked pasta and add it to the skillet, tossing it in the sauce until it is well coated",
+    "Season the pasta with salt and pepper to taste",
+    "Serve the pasta hot, garnished with chopped fresh parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-inspired",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "weekend-meal"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "unique-creamy-brazilian-pasta-bowtie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-creamy-brazilian-pasta-bowtie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:21:13Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "knead",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "pasta",
+    "descriptor": "unique creamy",
+    "dishForm": "Pasta"
+  }
+}
