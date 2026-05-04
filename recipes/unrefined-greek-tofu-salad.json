@@ -1,0 +1,105 @@
+{
+  "title": "Unrefined Greek Tofu Salad",
+  "description": "An earthy, crumbly salad featuring char-grilled tofu, grapefruit vinaigrette, and a refreshing blend of Greek-inspired flavors.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "400 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 medium, sliced"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup, pitted"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup, halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2, diced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "toasted pumpkin seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Press tofu to remove excess moisture for 15 minutes.",
+    "Cube tofu into bite-sized pieces.",
+    "Heat 1 tbsp olive oil in a grill pan over medium heat and sear tofu until golden on all sides, about 6 minutes, turning occasionally.",
+    "Whisk together grapefruit juice, remaining olive oil, lemon juice, salt, and pepper in a bowl.",
+    "Toss the grilled tofu in the citrus vinaigrette until well coated.",
+    "Transfer tofu to a large bowl and add sliced onion, olives, tomatoes, cucumber, dill, and pumpkin seeds, stirring gently.",
+    "Chill the salad in the refrigerator for at least 30 minutes to meld flavors.",
+    "Serve cold or at room temperature, optionally garnished with extra dill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "meal-prep",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 13,
+    "carbs": 16,
+    "fat": 45
+  },
+  "slug": "unrefined-greek-tofu-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unrefined-greek-tofu-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:59:16Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Tofu",
+    "descriptor": "Unrefined",
+    "dishForm": "Salad"
+  }
+}
