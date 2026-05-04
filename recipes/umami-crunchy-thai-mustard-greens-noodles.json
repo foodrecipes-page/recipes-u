@@ -1,0 +1,116 @@
+{
+  "title": "Umami Crunchy Thai Mustard Greens Noodles",
+  "description": "A bitter, crunchy, hangover‑cure Thai dish with fermented jang and danmuji, packed with anti‑inflammatory flavors and a delightful umami kick.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boat noodles",
+      "amount": "150g"
+    },
+    {
+      "name": "mustard greens",
+      "amount": "200g"
+    },
+    {
+      "name": "danmuji (pickled cucumber)",
+      "amount": "50g"
+    },
+    {
+      "name": "fermented jang (gochujang)",
+      "amount": "30g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "lime, juiced",
+      "amount": "1"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "50g"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 handful"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Cook the boat noodles according to package directions, drain and set aside.",
+    "Heat the sesame oil in a wok over medium heat and add the minced garlic, sauté until fragrant.",
+    "Add the fermented jang, fish sauce, tamarind paste, and brown sugar to the wok, stir to combine, then pour in water and bring to a gentle simmer.",
+    "Add the mustard greens, danmuji, and shredded carrots to the wok, cook until the greens wilt and the carrots soften.",
+    "Toss in the cooked noodles, stirring until everything is evenly coated and heated through.",
+    "Season the mixture with lime juice, chili flakes, and a pinch of salt if desired.",
+    "Remove the wok from heat, sprinkle toasted sesame seeds and chopped cilantro on top.",
+    "Plate the noodles on a talavera dish and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "crunchy",
+    "fish-sauce",
+    "hangover-cure",
+    "thai",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 17
+  },
+  "slug": "umami-crunchy-thai-mustard-greens-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crunchy-thai-mustard-greens-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:42:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "ferment-jang",
+    "primaryIngredient": "danmuji",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Mustard Greens",
+    "descriptor": "Umami Crunchy",
+    "dishForm": "Noodles"
+  }
+}
