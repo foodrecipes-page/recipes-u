@@ -1,0 +1,94 @@
+{
+  "title": "Unique Dense Uruguayan Yautia Stew",
+  "description": "A traditional Uruguayan dish featuring yautia, bhuna, and other ingredients, this stew is dense and has a bitter flavor, making it a unique experience for those looking to try something new.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cubed yautia and cook for 5 minutes, stirring occasionally.",
+    "Add the bhuna spice mix and cook for 1 minute, stirring constantly.",
+    "Add the beef broth, salt, and black pepper, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 20 minutes, or until the yautia is tender.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-foods",
+    "dense-stews",
+    "one-pot",
+    "sugar-free",
+    "uruguayan-cuisine",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "unique-dense-uruguayan-yautia-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-dense-uruguayan-yautia-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:32:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "yautia",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "yautia",
+    "descriptor": "Unique Dense",
+    "dishForm": "Stew"
+  }
+}
