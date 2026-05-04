@@ -1,0 +1,113 @@
+{
+  "title": "Uplifting Springy Slovakian Lentils Stew",
+  "description": "A hearty brown lentil stew with a subtle dashi kick, fresh herbs, and a crisp spring broth, served in a rustic wooden board.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mixed dried herbs",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "handful",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot on medium heat and sauté the diced onion until translucent.",
+    "Add the sliced carrot and celery, cook for 5 minutes until they soften slightly.",
+    "Stir in the minced garlic and cook for 1 minute until fragrant.",
+    "Add the tomato paste, mixed herbs, and dashi extract, stirring to combine.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Add the rinsed lentils, reduce heat to low, cover, and simmer for 25 minutes.",
+    "Stir occasionally, adding more broth if the stew becomes too thick.",
+    "Season with salt and pepper, then ladle into a wooden board and garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "one-pot",
+    "slovakian",
+    "spring-flavor",
+    "vegan-friendly",
+    "vegetarian",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 20,
+    "carbs": 49,
+    "fat": 2
+  },
+  "slug": "uplifting-springy-slovakian-lentils-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-springy-slovakian-lentils-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:31:09Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "dashi-extract",
+    "primaryIngredient": "brown lentils",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lentils",
+    "descriptor": "Uplifting Springy",
+    "dishForm": "Stew"
+  }
+}
