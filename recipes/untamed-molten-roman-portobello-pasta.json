@@ -1,0 +1,104 @@
+{
+  "title": "Untamed Molten Roman Portobello Pasta",
+  "description": "A tangy and molten post-workout Italian dish featuring pepper and salt-bake flavors, served on a cedar plank, this plant-based friendly recipe is perfect for a dinner meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "4 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "whole wheat spaghetti",
+      "amount": "8 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": " nutritional yeast",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced portobello mushrooms with olive oil, garlic, salt, and black pepper until they are evenly coated.",
+    "Place the mushrooms on a cedar plank and bake in the preheated oven for 15 minutes.",
+    "While the mushrooms are baking, cook the whole wheat spaghetti in boiling water until it is al dente.",
+    "In a large skillet, combine the cooked spaghetti, nutritional yeast, lemon juice, cherry tomatoes, and chopped fresh basil.",
+    "Once the mushrooms are done baking, add them to the skillet and toss everything together.",
+    "Season with additional salt and black pepper to taste.",
+    "Serve the pasta hot, straight from the skillet.",
+    "Garnish with additional chopped fresh basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian-food",
+    "one-pan",
+    "plant-based",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "untamed-molten-roman-portobello-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/untamed-molten-roman-portobello-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:53:13Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "salt-bake",
+    "primaryIngredient": "pepper",
+    "diet": "plant-based",
+    "region": "roman",
+    "cuisineAdjective": "Roman",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "Untamed Molten",
+    "dishForm": "Pasta"
+  }
+}
