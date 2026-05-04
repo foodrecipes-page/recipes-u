@@ -1,0 +1,114 @@
+{
+  "title": "Umami Crispy Norwegian Potato Roast",
+  "description": "Earthy, crispy roasted potatoes tossed with fresh herbs and bright gherkin relish, finished with a savory deglaze, a vegetarian adventure inspired by Norwegian flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1.5 kg",
+      "notes": "cubed into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for tossing"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "200 g",
+      "notes": null
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and lightly oil a large tagliere.",
+    "Toss the cubed potatoes with olive oil, sea salt, black pepper, rosemary, and thyme until evenly coated.",
+    "Spread the potatoes in a single layer on the prepared tagliere.",
+    "Roast for 25 minutes, turning once, until golden brown and crispy.",
+    "While the potatoes roast, heat a skillet over medium heat and deglaze the tagliere with vegetable broth and soy sauce, scraping up any browned bits.",
+    "Remove the tagliere from the oven and transfer the roasted potatoes to a serving dish.",
+    "Pour the deglaze sauce over the potatoes and stir gently to coat.",
+    "Fold in the gherkin relish, spring onions, and toasted sesame seeds, then garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "norwegian",
+    "one-pan",
+    "potato-roast",
+    "umami",
+    "vegetable-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 406,
+    "protein": 9,
+    "carbs": 73,
+    "fat": 9
+  },
+  "slug": "umami-crispy-norwegian-potato-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crispy-norwegian-potato-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:48:25Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "gherkin relish",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "potato",
+    "descriptor": "Umami Crispy",
+    "dishForm": "Roast"
+  }
+}
