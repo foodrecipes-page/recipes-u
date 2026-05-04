@@ -1,0 +1,97 @@
+{
+  "title": "Unforgettably Garlicky Crisp Irish Lamb Tagine",
+  "description": "A garlicky and crisp Irish dish featuring lamb, perfect for a date night, with a unique touch of plain chocolate, all made in a ceramic tagine and gluten-free-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "plain chocolate",
+      "amount": "1 ounce",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the lamb pieces with minced garlic, salt, and black pepper until they are evenly coated.",
+    "Heat the olive oil in the ceramic tagine over medium-high heat on the stovetop.",
+    "Sear the lamb pieces until they are browned on all sides, about 5 minutes, then remove them from the tagine and set aside.",
+    "Add the pitted dates to the tagine and cook for 2 minutes, stirring frequently.",
+    "Add the broken chocolate pieces to the tagine and stir until they are melted and the mixture is smooth.",
+    "Return the lamb pieces to the tagine, cover it with a lid, and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender and the sauce is thickened.",
+    "Remove the tagine from the oven and sprinkle the chopped parsley over the top.",
+    "Let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "irish-cuisine",
+    "lamb-recipes",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "unforgettably-garlicky-crisp-irish-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unforgettably-garlicky-crisp-irish-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:06:41Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "fold",
+    "primaryIngredient": "plain chocolate",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Unforgettably Garlicky Crisp",
+    "dishForm": "Tagine"
+  }
+}
