@@ -1,0 +1,93 @@
+{
+  "title": "Uniquely Crispy Ethiopian Banana Fritters",
+  "description": "A crispy and citrusy Ethiopian dish featuring fried ripe bananas, perfect for a midnight craving, this recipe is slow-cooked and gluten-free-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "sliced into 1-inch rounds"
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the gluten-free flour, cornstarch, and granulated sugar.",
+    "Add the lemon zest and lemon juice to the bowl and stir to combine.",
+    "In a separate bowl, beat the eggs until they are well mixed.",
+    "Add the sliced bananas to the bowl with the eggs and toss to coat.",
+    "Heat the vegetable oil in a deep frying pan over medium heat to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of the banana and egg mixture into the flour mixture and coat evenly.",
+    "Carefully place the coated banana balls into the hot oil and fry for 2-3 minutes on each side.",
+    "Remove the fritters from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana",
+    "citrusy",
+    "crispy",
+    "ethiopian",
+    "fried",
+    "gluten-free",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "uniquely-crispy-ethiopian-banana-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/uniquely-crispy-ethiopian-banana-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:16:26Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "slow-cook",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "bananas",
+    "descriptor": "Uniquely crispy",
+    "dishForm": "Fritters"
+  }
+}
