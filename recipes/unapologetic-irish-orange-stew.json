@@ -1,0 +1,109 @@
+{
+  "title": "Unapologetic Irish Orange Stew",
+  "description": "A spicy, protein-packed Irish stew that pairs bright orange flavor with tender lentils and tofu, perfect for a post-workout meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "tofu",
+      "amount": "200g, firm, cubed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup, fresh"
+    },
+    {
+      "name": "spice blend",
+      "amount": "1 tsp dried oregano, 1/2 tsp paprika, 1/4 tsp cayenne pepper",
+      "notes": "for heat"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic, carrots, and potato; cook for 3 minutes.",
+    "Add lentils, tofu, vegetable broth, orange juice, and spice blend; bring to a simmer.",
+    "Reduce heat to low, cover, and simmer for 20 minutes until vegetables are tender.",
+    "Season with salt and pepper to taste, stirring well.",
+    "Remove from heat and let rest for 5 minutes to allow flavors to meld.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "irish",
+    "one-pot",
+    "post-workout",
+    "spicy",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 38,
+    "carbs": 119,
+    "fat": 31
+  },
+  "slug": "unapologetic-irish-orange-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unapologetic-irish-orange-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:41:05Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "rest-meat",
+    "primaryIngredient": "orange",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "orange",
+    "descriptor": "Unapologetic",
+    "dishForm": "Stew"
+  }
+}
