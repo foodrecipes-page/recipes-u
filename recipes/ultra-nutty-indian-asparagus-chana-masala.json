@@ -1,0 +1,111 @@
+{
+  "title": "Ultra Nutty Indian Asparagus Chana Masala",
+  "description": "A fluffy, nutty, halal-friendly chana masala featuring tender white asparagus for a comforting sick‑day dish.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "450g",
+      "notes": "trimmed and cut into 1 inch pieces"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "120g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "32g",
+      "notes": "smooth for nutty flavor"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "2g"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "2g"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2g"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "240ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the Lazy Susan spinner until shimmering, then add cumin seeds and let them pop.",
+    "Add the chopped onion and sauté until translucent and fragrant.",
+    "Stir in the diced tomatoes, turmeric, coriander, and garam masala, cooking for 3 minutes until tomatoes soften.",
+    "Mix in the peanut butter, chickpeas, and white asparagus until all pieces are coated in the sauce.",
+    "Pour in the vegetable broth, stir, cover, and set the Lazy Susan spinner to low heat for 20 minutes.",
+    "After 20 minutes, check for tenderness and pour the sauce into a serving bowl.",
+    "Garnish with fresh cilantro before serving.",
+    "Serve hot with steamed rice or naan for a wholesome meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "halal",
+    "nutty",
+    "one-pot",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "ultra-nutty-indian-asparagus-chana-masala",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-nutty-indian-asparagus-chana-masala",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:41:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "rest",
+    "primaryIngredient": "white asparagus",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Asparagus",
+    "descriptor": "Ultra Nutty",
+    "dishForm": "Chana Masala"
+  }
+}
