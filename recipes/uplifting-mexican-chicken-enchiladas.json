@@ -1,0 +1,72 @@
+{
+  "title": "Uplifting Mexican Chicken Enchiladas",
+  "description": "Jammy, glassy enchiladas that lift the spirit with roasted poblano sauce and tender shredded chicken, perfect for a comforting dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1000 g",
+      "notes": ""
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "10",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh jalapeno",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add olive oil.",
+    "Add sliced jalapeno and sauté until fragrant, about 2 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "egg-free",
+    "family-friendly",
+    "glassy-sauce",
+    "mexican",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "uplifting-mexican-chicken-enchiladas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-mexican-chicken-enchiladas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:01:51Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "chicken",
+    "diet": "egg-free",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Chicken",
+    "descriptor": "Uplifting",
+    "dishForm": "Enchiladas"
+  }
+}

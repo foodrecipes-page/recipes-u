@@ -1,0 +1,95 @@
+{
+  "title": "Unique Fluffy Argentinian Tortillas Quesadilla",
+  "description": "A fresh and fluffy Argentinian dish featuring tortillas, perfect for midnight cravings, and is egg-free friendly. This recipe is a twist on traditional quesadillas with a sweet and tangy glaze.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salsa criolla",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "glaze",
+      "amount": "1 cup",
+      "notes": "made from equal parts honey and apple cider vinegar"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat and brush with olive oil.",
+    "In a bowl, mix together the shredded cheese, chimichurri sauce, and salsa criolla.",
+    "Place a tortilla in the skillet and sprinkle a quarter of the cheese mixture onto half of the tortilla.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy and the cheese is melted.",
+    "Repeat with the remaining tortillas and cheese mixture.",
+    "Brush the glaze over the quesadillas and serve immediately.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "cheesy",
+    "gluten-free",
+    "midnight-cravings",
+    "tortilla-based",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "unique-fluffy-argentinian-tortillas-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-fluffy-argentinian-tortillas-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:02:03Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "glaze",
+    "primaryIngredient": "tortillas",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tortillas",
+    "descriptor": "Unique Fluffy",
+    "dishForm": "Quesadilla"
+  }
+}

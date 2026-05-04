@@ -1504,6 +1504,21 @@
     "shard": "u"
   },
   {
+    "slug": "unique-fluffy-argentinian-tortillas-quesadilla",
+    "title": "Unique Fluffy Argentinian Tortillas Quesadilla",
+    "tags": [
+      "argentinian-cuisine",
+      "cheesy",
+      "gluten-free",
+      "midnight-cravings",
+      "tortilla-based",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "unique-light-indian-bread-toast",
     "title": "Unique Light Indian Bread Toast",
     "tags": [
@@ -1587,6 +1602,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 5,
+    "shard": "u"
+  },
+  {
+    "slug": "uplifting-mexican-chicken-enchiladas",
+    "title": "Uplifting Mexican Chicken Enchiladas",
+    "tags": [
+      "chicken",
+      "egg-free",
+      "family-friendly",
+      "glassy-sauce",
+      "mexican",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
