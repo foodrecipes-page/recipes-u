@@ -1,0 +1,109 @@
+{
+  "title": "Umami Polish Tempeh Wrap",
+  "description": "A chewy, fermented tempeh wrap with plum tomatoes, fresh basil, and a flambeed soy glaze in a corn‑husk vessel.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "150g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "15ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "mirin",
+      "amount": "10ml"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "plum tomatoes",
+      "amount": "120g",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 handful",
+      "notes": "chopped"
+    },
+    {
+      "name": "horseradish sauce",
+      "amount": "20g"
+    },
+    {
+      "name": "corn husk wrap",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "30ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Slice the tempeh into 1/2 cm thick strips.",
+    "Marinate the tempeh in soy sauce, mirin, sesame oil, salt, and pepper for 10 minutes.",
+    "Heat a non-stick skillet over medium-high heat and sear the tempeh for 3 minutes on each side until golden brown.",
+    "Add 30ml of white wine to the pan, allow it to flame, and let it reduce for 1 minute to create a flambeed glaze.",
+    "Remove the pan from heat and set the tempeh aside to rest.",
+    "Sauté the sliced plum tomatoes in a splash of olive oil for 2 minutes until just softened.",
+    "Lay a corn husk wrap flat, spread a thin layer of horseradish sauce, then arrange the glazed tempeh, sautéed tomatoes, and fresh basil across the center.",
+    "Fold the sides of the wrap inward and roll tightly, securing with a toothpick if desired, then serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "meal-prep",
+    "quick",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 570,
+    "protein": 26,
+    "carbs": 45,
+    "fat": 26
+  },
+  "slug": "umami-polish-tempeh-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-polish-tempeh-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:40:18Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "flambe",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Tempeh",
+    "descriptor": "Umami",
+    "dishForm": "Wrap"
+  }
+}
