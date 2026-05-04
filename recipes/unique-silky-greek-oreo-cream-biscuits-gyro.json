@@ -1,0 +1,93 @@
+{
+  "title": "Unique Silky Greek Oreo Cream Biscuits Gyro",
+  "description": "A malty and silky Greek dish featuring Oreo cream biscuits in a gyro form, cooked in a Dutch oven to perfection, this diabetic friendly treat is a nostalgic dream come true.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oreo cream biscuits",
+      "amount": "1 package",
+      "notes": "crushed"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "malt powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "char-grill yang sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the Dutch oven to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the crushed Oreo cream biscuits, Greek yogurt, honey, malt powder, and char-grill yang sauce until well combined.",
+    "Stir in the lemon zest and vanilla extract.",
+    "Spoon the mixture onto the pita bread pieces, leaving a small border around the edges.",
+    "Roll up the pita bread pieces to form gyros.",
+    "Place the gyros in the preheated Dutch oven and cook for 10 minutes.",
+    "Remove the gyros from the Dutch oven and let them cool for a few minutes.",
+    "Serve the Unique Silky Greek Oreo Cream Biscuits Gyro warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "dutch-oven",
+    "greek-dish",
+    "gyro",
+    "malty",
+    "nostalgic",
+    "oreo-cream-biscuits",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "unique-silky-greek-oreo-cream-biscuits-gyro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-silky-greek-oreo-cream-biscuits-gyro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:48:00Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Oreo Cream Biscuits",
+    "descriptor": "Unique Silky",
+    "dishForm": "Gyro"
+  }
+}
