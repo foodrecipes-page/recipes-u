@@ -1,0 +1,149 @@
+{
+  "title": "Underneath Midnight Cravings Moroccan Tagine",
+  "description": "A grassy, tender Moroccan dish that satisfies midnight cravings, featuring a blend of earthy spices and fresh herbs, all slow-cooked in a wooden-board vessel.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "butternut squash",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the chicken thighs with salt, black pepper, cumin, coriander, and paprika.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook, stirring occasionally, until softened and lightly browned, about 8 minutes.",
+    "Add the garlic and ginger and cook, stirring constantly, for 1 minute.",
+    "Add the butternut squash and sweet potatoes and cook, stirring occasionally, until slightly tender, about 5 minutes.",
+    "Add the chicken thighs and cook, stirring occasionally, until browned on all sides, about 5 minutes.",
+    "Add the cumin, coriander, paprika, salt, and black pepper, and stir to combine.",
+    "Add the water and bring to a boil.",
+    "Transfer the Dutch oven to the preheated oven and cook, covered, until the chicken is cooked through and the vegetables are tender, about 45 minutes.",
+    "Stir in the lemon juice and honey.",
+    "Garnish with parsley and cilantro and serve hot.",
+    "Let the tagine rest for 10 minutes before serving.",
+    "Serve hot, garnished with additional parsley and cilantro if desired.",
+    "Serve with couscous or rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "moroccan",
+    "one-pan",
+    "paleo-friendly",
+    "satisfies-midnight-cravings"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "underneath-midnight-cravings-moroccan-dishes-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/underneath-midnight-cravings-moroccan-dishes-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:37Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "olive oil",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "dishes",
+    "descriptor": "Underneath Midnight Cravings",
+    "dishForm": "Tagine"
+  }
+}
