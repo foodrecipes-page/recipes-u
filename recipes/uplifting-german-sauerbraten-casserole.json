@@ -1,0 +1,106 @@
+{
+  "title": "German Sauerbraten Casserole",
+  "description": "A hearty, comforting German casserole featuring tender beef, pickles, and a tangy sauce. Serve as a solo dinner or alongside your favorite sides.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "dairy-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/2 cup",
+      "notes": "from a jar of dill pickles"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "gluten-free flour works too"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "1 large",
+      "notes": "from about 1 medium onion"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "full-fat sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dill pickle slices",
+      "amount": "1/2 cup",
+      "notes": "from a jar of dill pickles"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 300°F (150°C).",
+    "In a large bowl, whisk together flour, brown sugar, black pepper, and salt. Add the beef cubes and toss to coat.",
+    "In a large Dutch oven or heavy pot, heat 2 tablespoons of oil over medium-high heat. Brown the beef cubes on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside. Add the sliced onion to the pot and cook until it's softened, about 5 minutes.",
+    "Add the browned beef, pickle juice, apple cider vinegar, and 1 cup of water to the pot. Bring the mixture to a simmer.",
+    "Cover the pot and transfer it to the preheated oven. Braise the beef for 2 1/2 hours, or until it's tender.",
+    "Stir in the full-fat sour cream and cook for an additional 10-15 minutes.",
+    "Stir in the dill pickle slices and cook for an additional 5 minutes.",
+    "Transfer the casserole to a serving dish and garnish with chopped fresh parsley, if desired.",
+    "Serve the casserole hot, garnished with additional pickle slices and parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "casserole",
+    "comfort-food",
+    "dairy-free-friendly",
+    "german",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 35
+  },
+  "slug": "uplifting-german-sauerbraten-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-german-sauerbraten-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T09:23:47Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "pickle",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Sauerbraten",
+    "descriptor": "Uplifting",
+    "dishForm": "Casserole"
+  }
+}
