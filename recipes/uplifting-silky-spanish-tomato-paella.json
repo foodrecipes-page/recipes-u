@@ -1,0 +1,100 @@
+{
+  "title": "Uplifting Silky Spanish Tomato Paella",
+  "description": "A salty and energizing Spanish dish featuring tomato juice and deglaze fond, made with Mediterranean friendly ingredients",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup",
+      "notes": "preferably Spanish grown"
+    },
+    {
+      "name": "tomato juice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium high heat",
+    "Add the diced onion and cook until it is translucent and starting to caramelize",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning",
+    "Add the smoked paprika and salt, and stir to combine",
+    "Add the uncooked Arborio rice and cook for 1-2 minutes, stirring constantly, until the rice is coated in the oil and spice mixture",
+    "Add the tomato juice and bring the mixture to a boil",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the rice is cooked and the liquid has been absorbed",
+    "Stir in the chopped artichoke hearts and cook for an additional 2 minutes",
+    "Remove the paella from the heat and let it rest, covered, for 5 minutes",
+    "Serve the paella hot, with lemon wedges on the side"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "spanish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "uplifting-silky-spanish-tomato-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-silky-spanish-tomato-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:26:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "tomato juice",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "tomato",
+    "descriptor": "Uplifting Silky",
+    "dishForm": "Paella"
+  }
+}

@@ -2108,6 +2108,21 @@
     "shard": "u"
   },
   {
+    "slug": "unique-hearty-ethiopian-lamb-stew",
+    "title": "Unique Hearty Ethiopian Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "ethiopian-cuisine",
+      "hearty-stew",
+      "lamb-recipes",
+      "mediterranean-inspired",
+      "slow-cooker"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 210,
+    "shard": "u"
+  },
+  {
     "slug": "unique-indian-fish-curry",
     "title": "Unique Indian Fish Curry",
     "tags": [
@@ -2655,6 +2670,20 @@
     ],
     "cuisine": "North African",
     "totalTimeMin": 75,
+    "shard": "u"
+  },
+  {
+    "slug": "uplifting-silky-spanish-tomato-paella",
+    "title": "Uplifting Silky Spanish Tomato Paella",
+    "tags": [
+      "gluten-free",
+      "mediterranean",
+      "one-pan",
+      "spanish-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
