@@ -1,0 +1,106 @@
+{
+  "title": "Uplifting Nutty Tunisian Beef Tagine",
+  "description": "A warm, nutty tagine bursting with the fragrant flavors of Tunisian spices, tender beef cutlets, and toasted almonds, perfect for an energizing dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef cutlet strips",
+      "amount": "400 g"
+    },
+    {
+      "name": "Almonds, toasted",
+      "amount": "150 g",
+      "notes": "toasted"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrot, sliced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Celery stalk, sliced",
+      "amount": "2"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Spice blend",
+      "amount": "1 tsp each cumin, coriander, cinnamon, harissa"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a heavy-bottomed pot over medium heat.",
+    "Add diced onion, sliced carrot, and sliced celery, sautéing until softened and fragrant, about 5 minutes.",
+    "Stir in minced garlic and cook for 1 minute until aromatic.",
+    "Add tomato paste and stir until it darkens slightly, about 2 minutes.",
+    "Sprinkle the spice blend over the vegetables, tossing to coat evenly, and cook for another minute.",
+    "Place beef cutlet strips into the pot, browning each side until seared, about 3 minutes per side.",
+    "Pour in chicken broth to deglaze, scraping up any browned bits, and bring to a simmer.",
+    "Reduce heat to low, cover the pot, and let the tagine cook gently for 45 minutes, or until the beef is tender.",
+    "Stir in toasted almonds, season with salt and pepper, and simmer uncovered for an additional 5 minutes to meld flavors.",
+    "Remove from heat, garnish with fresh parsley if desired, and serve hot over couscous or with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "kosher-friendly",
+    "north-african",
+    "nutty",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "uplifting-nutty-tunisian-beef-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-nutty-tunisian-beef-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:16:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "soffritto-base",
+    "primaryIngredient": "beef cutlet",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "beef",
+    "descriptor": "Uplifting Nutty",
+    "dishForm": "Tagine"
+  }
+}
