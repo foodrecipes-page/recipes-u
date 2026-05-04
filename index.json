@@ -1739,6 +1739,21 @@
     "shard": "u"
   },
   {
+    "slug": "uncommonly-fluffy-canadian-chicken-casserole",
+    "title": "Uncommonly Fluffy Canadian Chicken Casserole",
+    "tags": [
+      "canadian-cuisine",
+      "chicken-recipes",
+      "comfort-food",
+      "kosher-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 55,
+    "shard": "u"
+  },
+  {
     "slug": "uncompromising-mexican-chicken-casserole",
     "title": "Uncompromising Mexican Chicken Casserole",
     "tags": [

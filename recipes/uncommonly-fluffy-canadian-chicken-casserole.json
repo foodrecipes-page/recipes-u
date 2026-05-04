@@ -1,0 +1,99 @@
+{
+  "title": "Uncommonly Fluffy Canadian Chicken Casserole",
+  "description": "A weeknight Canadian dish featuring apricot and fluffy texture, made with kosher-friendly ingredients, this casserole is perfect for a family dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "manteca",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the chicken in manteca over medium heat until browned.",
+    "In a separate saucepan, whisk together the flour and milk, then bring to a boil and cook until thickened.",
+    "Add the chicken broth, apricot jam, salt, and pepper to the saucepan and stir to combine.",
+    "In a large mixing bowl, combine the cooked chicken, sauce mixture, and frozen peas and carrots.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with shredded cheddar cheese.",
+    "Bake for 35 minutes or until the cheese is melted and bubbly.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "chicken-recipes",
+    "comfort-food",
+    "kosher-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "uncommonly-fluffy-canadian-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/uncommonly-fluffy-canadian-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:07:44Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "apricot",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "Uncommonly fluffy",
+    "dishForm": "Casserole"
+  }
+}
