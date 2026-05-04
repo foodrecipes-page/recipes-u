@@ -1637,6 +1637,21 @@
     "shard": "u"
   },
   {
+    "slug": "unique-light-irish-potato-paella",
+    "title": "Unique Light Irish Potato Paella",
+    "tags": [
+      "irish-cuisine",
+      "jain-friendly",
+      "one-pan",
+      "potato-dish",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
     "slug": "unique-savory-syrian-meat-spring-rolls",
     "title": "Syrian Meat Spring Rolls",
     "tags": [
