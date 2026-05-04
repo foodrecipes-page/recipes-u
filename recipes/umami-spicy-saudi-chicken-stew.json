@@ -1,0 +1,104 @@
+{
+  "title": "Umami Spicy Saudi Chicken Stew",
+  "description": "A dense, flavorful chicken stew infused with Saudi spices, dry sherry, and a touch of sweetness from date syrup, perfect for a low‑fat date night.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "1 lb",
+      "notes": "cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes, canned",
+      "amount": "14 oz",
+      "notes": "drained"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dry sherry",
+      "amount": "1 cup"
+    },
+    {
+      "name": "date syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "spice mix (cumin, coriander, smoked paprika, cardamom)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low‑sodium chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and cook until translucent.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Add chicken cubes and brown on all sides.",
+    "Mix in tomato paste and diced tomatoes, cooking for 2 minutes.",
+    "Pour in dry sherry, scrape the bottom, and let it reduce by half.",
+    "Add date syrup, spice mix, salt, pepper, and chicken broth, bring to simmer.",
+    "Cover and cook for 20 minutes until chicken is tender.",
+    "Adjust seasoning if needed and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "low-fat",
+    "one-pot",
+    "saudi-arabian",
+    "spiced",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 126,
+    "carbs": 59,
+    "fat": 50
+  },
+  "slug": "umami-spicy-saudi-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-spicy-saudi-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:33:49Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "emulsify",
+    "primaryIngredient": "dry sherry",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "Chicken",
+    "descriptor": "Umami Spicy",
+    "dishForm": "Stew"
+  }
+}
