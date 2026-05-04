@@ -1,0 +1,99 @@
+{
+  "title": "Uniquely Crispy Syrian Ovoli Mushroom Kebabs",
+  "description": "A crispy and adventurous Syrian dish featuring ovoli mushrooms, a sweet and tangy glaze, and anti-inflammatory friendly ingredients, perfect for a dinner or snack",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ovoli mushrooms",
+      "amount": "12 large",
+      "notes": "cleaned and stems removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, pomegranate molasses, garlic, sumac, salt, and black pepper.",
+    "Add the ovoli mushrooms to the bowl and toss to coat with the glaze.",
+    "Thread the mushrooms onto skewers, leaving a small space between each mushroom.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the kebabs for 20 minutes, or until they are tender and lightly browned.",
+    "Increase the oven temperature to broil and cook for an additional 2-3 minutes, or until the mushrooms are crispy.",
+    "Remove the kebabs from the oven and sprinkle with chopped parsley.",
+    "Serve the kebabs hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-food",
+    "gluten-free",
+    "healthy-snacks",
+    "mushroom-recipes",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "uniquely-crispy-syrian-ovoli-mushroom-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/uniquely-crispy-syrian-ovoli-mushroom-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:35:32Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "glaze",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "ovoli mushroom",
+    "descriptor": "uniquely crispy",
+    "dishForm": "Kebabs"
+  }
+}
