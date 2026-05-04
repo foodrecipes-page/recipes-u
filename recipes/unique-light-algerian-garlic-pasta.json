@@ -1,0 +1,92 @@
+{
+  "title": "Unique Light Algerian Garlic Pasta",
+  "description": "A fresh and light Algerian dish featuring garlic and a pasta water emulsion, perfect for a low calorie meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "8 oz",
+      "notes": "thin strands"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions.",
+    " Reserve 1 cup of pasta water before draining the spaghetti.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the lemon juice to the skillet and stir to combine.",
+    "Add the reserved pasta water to the skillet and stir to create a light emulsion.",
+    "Add the cooked spaghetti to the skillet and toss to coat with the garlic and lemon sauce.",
+    "Season with salt and black pepper to taste.",
+    "Stir in the chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "low-calorie",
+    "one-pot",
+    "pasta",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "unique-light-algerian-garlic-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-light-algerian-garlic-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:25:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "garlic clove",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "garlic",
+    "descriptor": "Unique Light",
+    "dishForm": "Pasta"
+  }
+}
