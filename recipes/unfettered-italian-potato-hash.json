@@ -1,0 +1,110 @@
+{
+  "title": "Unfettered Italian Potato Hash",
+  "description": "A rustic, herb-laden Italian hash of charlotte potatoes and mirepoix cooked to a tender finish in a fondue pot.",
+  "cuisine": "Italian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "charlotte potatoes",
+      "amount": "1 kg",
+      "notes": "peeled and diced 2x2 cm"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced 1x1 cm"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1 medium",
+      "notes": "diced 1x1 cm"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced 1x1 cm"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the fondue pot over medium heat and add the olive oil.",
+    "Add the diced carrot, celery, and onion, and sauté until translucent, about 5 minutes.",
+    "Stir in the minced rosemary, thyme, and red pepper flakes, and cook for 1 minute until fragrant.",
+    "Add the diced potatoes, season with salt and pepper, and stir to coat the potatoes evenly.",
+    "Cover the pot with the lid and simmer, stirring every 2 minutes, until the potatoes are tender, about 15 minutes.",
+    "Sprinkle the lemon zest and chopped parsley over the hash and stir to combine.",
+    "Taste and adjust seasoning if needed.",
+    "Remove from heat and let the hash rest for 5 minutes to settle the flavors.",
+    "Serve warm, optionally with a side of roasted veggies or a fresh green salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fondue-pot",
+    "herb-rich",
+    "lazy-sunday",
+    "one-pot",
+    "paleo-friendly",
+    "tender-potato"
+  ],
+  "nutrition": {
+    "calories": 1100,
+    "protein": 23,
+    "carbs": 190,
+    "fat": 27
+  },
+  "slug": "unfettered-italian-potato-hash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unfettered-italian-potato-hash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:29:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "paleo",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "potato",
+    "descriptor": "Unfettered",
+    "dishForm": "Hash"
+  }
+}
