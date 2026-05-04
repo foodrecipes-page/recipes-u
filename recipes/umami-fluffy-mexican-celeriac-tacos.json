@@ -1,0 +1,180 @@
+{
+  "title": "Umami Fluffy Mexican Celeriac Tacos",
+  "description": "Cozy, comforting tacos filled with fluffy celeriac and finished with a rich, savory umami sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chipotle peppers in adobo",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mash 1 large celeriac and mix with 1 cup all-purpose flour, 1 teaspoon baking powder, and 1/2 teaspoon salt. Let rest for 10 minutes.",
+    "Divide dough into 8-10 equal pieces and roll each into a ball.",
+    "Heat 2 tablespoons vegetable oil in a large skillet over medium-high heat.",
+    "Add cumin seeds and cook for 1 minute, or until fragrant.",
+    "Add onion and garlic to skillet and cook until softened, about 5 minutes.",
+    "Add chipotle peppers in adobo, cumin, coriander, and black pepper. Cook for 1 minute.",
+    "Add lime juice and cook until slightly thickened, about 2 minutes.",
+    "Add coconut cream and cook until warmed through, about 2 minutes.",
+    "Spoon a portion of celeriac mixture onto a corn tortilla, followed by a spoonful of queso fresco and a sprinkle of fresh cilantro.",
+    "Fold tortilla in half and serve with a dollop of sour cream and a slice of avocado on top.",
+    "Serve immediately and enjoy!",
+    "Serve with additional sour cream, avocado, and queso fresco if desired.",
+    "Cook cumin seeds in a small skillet over medium-high heat until fragrant, about 1 minute.",
+    "Add chipotle peppers in adobo to skillet and cook for 1 minute, or until slightly charred.",
+    "Add onion and garlic to skillet and cook until softened, about 5 minutes.",
+    "Add cumin, coriander, and black pepper. Cook for 1 minute.",
+    "Add lime juice and cook until slightly thickened, about 2 minutes.",
+    "Add coconut cream and cook until warmed through, about 2 minutes.",
+    "Stir in chopped queso fresco and cook until melted and smooth.",
+    "Season with salt to taste.",
+    "Serve sauce over celeriac tacos, making sure each taco is coated in the sauce.",
+    "Garnish with fresh cilantro and serve immediately.",
+    "Prepare celeriac mixture by mashing 1 large celeriac and mixing with 1 cup all-purpose flour, 1 teaspoon baking powder, and 1/2 teaspoon salt. Let rest for 10 minutes.",
+    "Divide dough into 8-10 equal pieces and roll each into a ball.",
+    "Heat 2 tablespoons vegetable oil in a large skillet over medium-high heat.",
+    "Add cumin seeds and cook for 1 minute, or until fragrant.",
+    "Add onion and garlic to skillet and cook until softened, about 5 minutes.",
+    "Add chipotle peppers in adobo, cumin, coriander, and black pepper. Cook for 1 minute.",
+    "Add lime juice and cook until slightly thickened, about 2 minutes.",
+    "Add coconut cream and cook until warmed through, about 2 minutes.",
+    "Spoon a portion of celeriac mixture onto a corn tortilla, followed by a spoonful of queso fresco and a sprinkle of fresh cilantro.",
+    "Fold tortilla in half and serve with a dollop of sour cream and a slice of avocado on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "celeriac",
+    "fluffy",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "tacos",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "umami-fluffy-mexican-celeriac-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-fluffy-mexican-celeriac-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:54:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "dum",
+    "primaryIngredient": "celeriac",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "celeriac",
+    "descriptor": "umami fluffy",
+    "dishForm": "Tacos"
+  }
+}

@@ -1095,6 +1095,23 @@
     "shard": "u"
   },
   {
+    "slug": "umami-fluffy-mexican-celeriac-tacos",
+    "title": "Umami Fluffy Mexican Celeriac Tacos",
+    "tags": [
+      "celeriac",
+      "fluffy",
+      "high-protein",
+      "mexican",
+      "one-pan",
+      "tacos",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
     "slug": "umami-fold-english-muffin-bowl",
     "title": "Umami Fold English Muffin Bowl",
     "tags": [
