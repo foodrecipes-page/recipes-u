@@ -1,0 +1,109 @@
+{
+  "title": "Ultimate Venezuelan Plantain Empanada",
+  "description": "Crispy plantain empanadas filled with rosemary-infused refried beans, served with a tangy glaze and a side of avocado.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "4"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "refried beans",
+      "amount": "2 cups",
+      "notes": "cooked, refried, rosemary-infused"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "glaze",
+      "amount": "1 cup",
+      "notes": "see glaze instructions"
+    },
+    {
+      "name": "avocado",
+      "amount": "4",
+      "notes": "sliced, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and slice the plantains into 1-inch thick rounds.",
+    "In a large bowl, combine the flour, shortening, and water. Mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and pliable.",
+    "Roll out the dough to 1/4-inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of refried beans in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with water and sprinkle with salt.",
+    "Bake the empanadas for 20-25 minutes until golden brown.",
+    "While the empanadas are baking, prepare the glaze by combining the sugar and water in a small saucepan.",
+    "Bring the glaze to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Remove the empanadas from the oven and brush with the glaze.",
+    "Serve the empanadas hot with sliced avocado and a side of refried beans."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "ultimate-venezuelan-plantain-empanada",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ultimate-venezuelan-plantain-empanada",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T18:37:42Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "glaze",
+    "primaryIngredient": "rosemary",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Plantain",
+    "descriptor": "Ultimate",
+    "dishForm": "Empanada"
+  }
+}
