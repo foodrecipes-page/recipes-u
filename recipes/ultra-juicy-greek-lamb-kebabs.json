@@ -1,0 +1,105 @@
+{
+  "title": "Ultra Juicy Greek Lamb Kebabs",
+  "description": "Indulge in these floral and juicy Greek lamb kebabs, featuring flaxseed and anti-inflammatory friendly ingredients, perfect for a summer dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "flaxseed",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, thyme, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Stir in the ground flaxseed and let it sit for 10 minutes to allow the flaxseed to absorb the liquid.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the grill and cook for 8-10 minutes per side, or until the lamb is cooked to 145 degrees Fahrenheit.",
+    "During the last 2 minutes of cooking, add the bay leaves to the grill to infuse the lamb with their flavor.",
+    "Remove the skewers from the grill and let them rest for 5 minutes before serving.",
+    "Serve the lamb kebabs hot, garnished with fresh thyme and a side of roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "grilled-meats",
+    "high-protein",
+    "lamb-recipes",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "ultra-juicy-greek-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-juicy-greek-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:31:16Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "fold",
+    "primaryIngredient": "flaxseed",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Ultra juicy",
+    "dishForm": "Kebabs"
+  }
+}
