@@ -1,0 +1,108 @@
+{
+  "title": "Uplifted Chinese Tahini Bao",
+  "description": "A light, grassy bao with tahini broth, steamed in a wok, perfect for a sick day.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "50g"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "10g"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "60ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "low-carb chicken broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "scallion",
+      "amount": "1 tbsp sliced"
+    }
+  ],
+  "instructions": [
+    "Mix the almond flour, coconut flour, xanthan gum and salt in a bowl.",
+    "Add the egg and water to the dry mixture and stir until a smooth dough forms.",
+    "Let the dough rest for 10 minutes.",
+    "Divide the dough into 8 equal portions and roll each into a small ball.",
+    "Flatten each ball into a thin circle and place a spoonful of the tahini broth mixture in the center.",
+    "Fold the dough over the filling to form a half-moon shape and seal the edges with a finger.",
+    "Heat a wok over medium-high heat and add a splash of sesame oil.",
+    "Place the bao in the wok and cover with a lid, steaming for 8 minutes.",
+    "Remove the lid and turn the bao over, steaming for an additional 4 minutes.",
+    "Serve hot with sliced scallions on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grassy",
+    "healthy",
+    "keto-friendly",
+    "one-pot",
+    "quick",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 660,
+    "protein": 33,
+    "carbs": 16,
+    "fat": 51
+  },
+  "slug": "uplifted-chinese-tahini-bao",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifted-chinese-tahini-bao",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:20:31Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "tahini",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Tahini",
+    "descriptor": "Uplifted",
+    "dishForm": "Bao"
+  }
+}
