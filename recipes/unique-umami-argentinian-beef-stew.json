@@ -1,0 +1,104 @@
+{
+  "title": "Unique Umami Argentinian Beef Stew",
+  "description": "A garlicky and savory Argentinian dish featuring red curry paste and nuka pickle, perfect for a midnight craving. This satvik friendly stew is cooked to perfection in a claypot.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the claypot over medium heat.",
+    "Add the minced garlic and cook until fragrant.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the beef brisket and cook until browned on all sides.",
+    "Add the red curry paste and cook for 1 minute.",
+    "Add the beef broth, tomato paste, potatoes, and carrots.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 2 hours.",
+    "Stir in the chopped nuka pickle and season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-recipes",
+    "claypot-cooking",
+    "hearty-stew",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "unique-umami-argentinian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-argentinian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:59:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "unique umami",
+    "dishForm": "Stew"
+  }
+}

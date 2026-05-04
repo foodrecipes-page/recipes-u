@@ -1978,6 +1978,20 @@
     "shard": "u"
   },
   {
+    "slug": "unique-umami-argentinian-beef-stew",
+    "title": "Unique Umami Argentinian Beef Stew",
+    "tags": [
+      "argentinian-cuisine",
+      "beef-recipes",
+      "claypot-cooking",
+      "hearty-stew",
+      "satvik-friendly"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 150,
+    "shard": "u"
+  },
+  {
     "slug": "unique-umami-argentinian-penne-rigate-pasta",
     "title": "Unique Umami Argentinian Penne Rigate Pasta",
     "tags": [
