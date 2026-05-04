@@ -1,0 +1,94 @@
+{
+  "title": "Unique Savory Spanish Chicken Paella",
+  "description": "A savory and dense Spanish dish featuring chicken, branston pickle, and tempering chocolate, perfect for a low sodium date night dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "branston pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce",
+      "notes": "grated"
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium high heat.",
+    "Add the chicken breast and cook until browned on all sides and cooked through.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the chopped branston pickle to the pan and cook for 2 minutes.",
+    "Add the grated tempering chocolate to the pan and cook for 1 minute.",
+    "Add the uncooked Arborio rice to the pan and cook for 1 minute, stirring constantly.",
+    "Add the low sodium chicken broth to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes or until the rice is tender.",
+    "Stir in the smoked paprika and salt free seasoning blend.",
+    "Return the chicken to the pan and cook for an additional 2 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipe",
+    "date-night",
+    "low-sodium",
+    "one-pan",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unique-savory-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-savory-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:55:38Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "branston-pickle",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Unique Savory",
+    "dishForm": "Paella"
+  }
+}
