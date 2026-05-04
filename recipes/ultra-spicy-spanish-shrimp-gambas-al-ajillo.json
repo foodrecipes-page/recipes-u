@@ -1,0 +1,90 @@
+{
+  "title": "Ultra Spicy Spanish Shrimp Gambas Al Ajillo",
+  "description": "A spicy and flavorful Spanish dish featuring sauteed shrimp, fresh basil, and a kick of heat, served on a hot stone plate.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and saute for 1 minute until fragrant.",
+    "Add the shrimp and saute for 2-3 minutes per side until pink and cooked through.",
+    "Add the red pepper flakes, salt, and black pepper, and stir to combine.",
+    "Stir in the chopped fresh basil and lemon juice.",
+    "Transfer the shrimp mixture to a hot stone plate and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gambas-al-ajillo",
+    "low-fat",
+    "seafood",
+    "shrimp",
+    "spanish",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "ultra-spicy-spanish-shrimp-gambas-al-ajillo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-spicy-spanish-shrimp-gambas-al-ajillo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:50:20Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "fresh basil",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shrimp",
+    "descriptor": "ultra spicy",
+    "dishForm": "Gambas Al Ajillo"
+  }
+}
