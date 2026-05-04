@@ -1,0 +1,95 @@
+{
+  "title": "Unique Pillowy Italian Apple Lasagna",
+  "description": "A yeasty, pillowy Italian dish featuring apple juice and namul-blanch-seasoned ingredients, made with ayurvedic-sattvic-friendly principles in mind. This show-off dish is perfect for special occasions.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "apple juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granny smith apples",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "namul",
+      "amount": "1/4 cup",
+      "notes": "blanch-seasoned"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and a pinch of salt, then gradually add apple juice and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic and smooth.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a separate bowl, mix together namul, olive oil, and sugar.",
+    "Add sliced apples to the namul mixture and toss until they are evenly coated.",
+    "Roll out the risen dough to a large rectangle, about 1/4 inch thick.",
+    "Spread the apple-namul mixture evenly over the dough, leaving a 1 inch border around the edges.",
+    "Roll the dough into a tight log, starting from one of the long edges.",
+    "Place the log in a baking dish, seam-side down, and bake for 35 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "apple-delight",
+    "italian-dessert",
+    "namul-recipes",
+    "sattvic-food",
+    "yeasty-treats"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "unique-pillowy-italian-apple-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-pillowy-italian-apple-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:43:50Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "apple juice",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "apples",
+    "descriptor": "unique pillowy",
+    "dishForm": "Lasagna"
+  }
+}
