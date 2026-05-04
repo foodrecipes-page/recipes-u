@@ -190,6 +190,21 @@
     "shard": "u"
   },
   {
+    "slug": "ultra-light-norwegian-red-pepper-pilaf",
+    "title": "Ultra Light Norwegian Red Pepper Pilaf",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "healthy-option",
+      "low-carb",
+      "norwegian",
+      "one-pan"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "ultra-nutty-indian-asparagus-chana-masala",
     "title": "Ultra Nutty Indian Asparagus Chana Masala",
     "tags": [
@@ -1849,6 +1864,21 @@
       "plant-based"
     ],
     "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
+    "slug": "umami-vietnamese-pork-bun-bo-hue",
+    "title": "Bun Bo Hue Umami Vietnamese Pork",
+    "tags": [
+      "breakfast",
+      "high-protein",
+      "one-pan",
+      "umami",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
     "totalTimeMin": 50,
     "shard": "u"
   },

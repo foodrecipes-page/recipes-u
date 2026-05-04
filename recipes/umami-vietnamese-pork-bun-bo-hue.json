@@ -1,0 +1,115 @@
+{
+  "title": "Bun Bo Hue Umami Vietnamese Pork",
+  "description": "A Vietnamese breakfast dish featuring pork, Thai chilli jam, and fermented shrimp paste for a bold umami flavor. This recipe serves 4-6 people and can be made in under an hour.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Thai chilli jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fermented shrimp paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine Thai chilli jam, fish sauce, and fermented shrimp paste to make the umami sauce.",
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the ground pork and cook, breaking it up with a spoon, until it is no longer pink, about 3-4 minutes.",
+    "Add the sliced onion and minced garlic to the pot and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the sliced lemongrass and grated ginger to the pot and cook for 1 minute.",
+    "Add the pork shoulder and umami sauce to the pot, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to medium-low and cook, covered, until the pork is tender, about 20-25 minutes.",
+    "Soak the rice noodles in hot water according to the package instructions, then drain and set aside.",
+    "Add the bean sprouts to the pot and cook, stirring constantly, until they are slightly tender, about 2-3 minutes.",
+    "Add the cooked noodles to the pot and stir to combine with the pork and sauce.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the bun bo hue in individual bowls with lime wedges and additional umami sauce on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "one-pan",
+    "umami",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 34,
+    "carbs": 55,
+    "fat": 25
+  },
+  "slug": "umami-vietnamese-pork-bun-bo-hue",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-vietnamese-pork-bun-bo-hue",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "umami",
+    "dishForm": "Bun Bo Hue"
+  }
+}
