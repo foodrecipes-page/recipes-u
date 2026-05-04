@@ -1,0 +1,104 @@
+{
+  "title": "Unique Nutty Saudi Arabian Fish Pilaf",
+  "description": "A kid-friendly Saudi Arabian dish featuring khus khus and a cheese-pull, with an al-dente finish, served in a ramekin. This pescatarian-friendly recipe combines the flavors of the Middle East with a nutty twist.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "khus khus",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, bring the water to a boil.",
+    "Add the basmati rice to the saucepan and reduce the heat to low.",
+    "Cover the saucepan with a tight-fitting lid and simmer for 15 minutes.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "Add the fish fillets to the skillet and cook until opaque and flaky.",
+    "In a small bowl, mix together the toasted khus khus, sliced almonds, salt, and black pepper.",
+    "Stir the khus khus mixture into the cooked rice.",
+    "Spoon the rice mixture into 4 ramekins.",
+    "Top each ramekin with a piece of fish, some shredded mozzarella cheese, and a sprinkle of khus khus mixture.",
+    "Bake the ramekins in the preheated oven for 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "kid-friendly",
+    "middle-eastern",
+    "nutty",
+    "pescatarian",
+    "ramekin"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unique-nutty-saudi-arabian-fish-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-nutty-saudi-arabian-fish-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:19:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "khus khus",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "fish",
+    "descriptor": "Unique Nutty",
+    "dishForm": "Pilaf"
+  }
+}
