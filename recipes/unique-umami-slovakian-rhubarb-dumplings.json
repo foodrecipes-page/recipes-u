@@ -1,0 +1,93 @@
+{
+  "title": "Unique Umami Slovakian Rhubarb Dumplings",
+  "description": "A sour and bouncy Slovakian dish featuring rhubarb and dashi extract, perfect for a weeknight dinner",
+  "cuisine": "Slovakian",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 cups",
+      "notes": "fresh, cut into 1-inch pieces"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "potato starch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the rhubarb, dashi extract, and salt, and let it sit for 10 minutes to allow the rhubarb to release its juice",
+    "In a separate bowl, whisk together the potato starch, eggs, and black pepper to form a dough",
+    "Add the vegetable oil to the dough and mix until it is well combined",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball",
+    "Flatten each ball into a disk shape and place a tablespoon of the rhubarb mixture in the center of each disk",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling",
+    "Bring a large pot of water to a boil and cook the dumplings for 10 minutes, or until they float to the surface",
+    "Remove the dumplings from the water with a slotted spoon and top with chopped green onions"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "one-pan",
+    "slovakian-cuisine",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "unique-umami-slovakian-rhubarb-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-slovakian-rhubarb-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:34:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "dashi-extract",
+    "primaryIngredient": "rhubarb",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "rhubarb",
+    "descriptor": "unique umami",
+    "dishForm": "Dumplings"
+  }
+}
