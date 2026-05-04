@@ -1,0 +1,106 @@
+{
+  "title": "Umami Smoked Italian Pork Polenta",
+  "description": "A savory, shaggy, adventurous Italian (Piedmontese) dish featuring sweet sherry and a smoke-cold flavor profile, halal-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sweet sherry",
+      "amount": "1 cup"
+    },
+    {
+      "name": "porcini mushrooms",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "polenta cornmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the smoker to 225°F (110°C) using your preferred type of wood for smoking.",
+    "Season the pork shoulder with salt, black pepper, and smoked paprika.",
+    "Sear the pork shoulder in olive oil over medium-high heat until browned on all sides, then transfer it to the smoker.",
+    "Smoke the pork shoulder for 6 hours or until it reaches an internal temperature of 160°F (71°C).",
+    "While the pork is smoking, combine the polenta cornmeal, porcini mushrooms, and 4 cups of water in a large pot.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to medium and simmer for 20 minutes.",
+    "Stir in sweet sherry and cook for an additional 2 minutes.",
+    "Shred the smoked pork shoulder with two forks and add it to the polenta mixture.",
+    "Stir in chopped onion and minced garlic.",
+    "Season the polenta with salt to taste.",
+    "Serve the Umami Smoked Italian Pork Polenta hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 360,
+  "totalTimeMin": 390,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "halal-friendly",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1040,
+    "protein": 64,
+    "carbs": 84,
+    "fat": 56
+  },
+  "slug": "umami-smoked-italian-pork-polenta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-smoked-italian-pork-polenta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:51:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "smoke-cold",
+    "primaryIngredient": "sweet sherry",
+    "diet": "halal",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "Umami Smoked",
+    "dishForm": "Polenta"
+  }
+}
