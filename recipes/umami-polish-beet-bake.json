@@ -1,0 +1,92 @@
+{
+  "title": "Umami Polish Beet Bake",
+  "description": "A winey, juicy beet dish with sherry and salt-bake that feels like a comfort meal for sick days, yet remains Buddhist-temple‑friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "1.5 kg",
+      "notes": "peeled and sliced into 1 cm thick rounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "4 sprigs"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "roasted garlic cloves",
+      "amount": "4",
+      "notes": "mashed into a paste"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment paper.",
+    "Arrange beet slices in a single layer on the sheet and drizzle with olive oil, then toss to coat evenly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "umami",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "umami-polish-beet-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-polish-beet-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:12:38Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "salt-bake",
+    "primaryIngredient": "sherry",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Beet",
+    "descriptor": "Umami",
+    "dishForm": "Bake"
+  }
+}

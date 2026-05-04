@@ -1411,6 +1411,21 @@
     "shard": "u"
   },
   {
+    "slug": "umami-polish-beet-bake",
+    "title": "Umami Polish Beet Bake",
+    "tags": [
+      "buddhist-temple-friendly",
+      "comfort-food",
+      "gluten-free",
+      "one-pan",
+      "umami",
+      "vegan"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 75,
+    "shard": "u"
+  },
+  {
     "slug": "umami-polish-tempeh-wrap",
     "title": "Umami Polish Tempeh Wrap",
     "tags": [
