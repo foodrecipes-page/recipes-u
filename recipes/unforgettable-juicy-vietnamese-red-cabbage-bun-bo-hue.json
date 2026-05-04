@@ -1,0 +1,120 @@
+{
+  "title": "unforgettable juicy vietnamese red cabbage bun bo hue",
+  "description": "a vibrant, nourishing bun bo hue recipe featuring red cabbage and a variety of spices. this dish is a perfect combination of crunchy, nutty, and energizing flavors.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "pork bones",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the oven to 400\u0000f and roast the pork bones for 30 minutes.",
+    "in a large pot, combine the roasted pork bones, ginger, garlic, galangal, and lemongrass. add 4 cups of water and bring to a boil.",
+    "reduce the heat and simmer for 1 hour, skimming the surface occasionally.",
+    "add the fish sauce, lime juice, and bean sprouts to the pot and simmer for another 15 minutes.",
+    "cook the rice noodles according to the package instructions and set aside.",
+    "in a large bowl, combine the roasted red cabbage, chopped basil, and cooked noodles.",
+    "strain the pork broth through a fine-mesh sieve into a bowl and discard the solids.",
+    "pour the hot broth over the noodles and cabbage mixture and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "nutritious",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 56,
+    "fat": 25
+  },
+  "slug": "unforgettable-juicy-vietnamese-red-cabbage-bun-bo-hue",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/unforgettable-juicy-vietnamese-red-cabbage-bun-bo-hue",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "boil",
+    "primaryIngredient": "red cabbage",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Red Cabbage",
+    "descriptor": "Unforgettable Juicy",
+    "dishForm": "Bun Bo Hue"
+  }
+}
