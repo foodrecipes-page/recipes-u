@@ -1,0 +1,119 @@
+{
+  "title": "Unctuous German White Bread Stew",
+  "description": "A slow‑cooked, glassy‑jelly German stew featuring toasted white bread, aromatic leeks, celery, and fresh herbs, crafted to be jain‑friendly and romantic.",
+  "cuisine": "German",
+  "diet": [
+    "vegan",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white bread slices",
+      "amount": "4 slices",
+      "notes": "toasted lightly"
+    },
+    {
+      "name": "low‑sodium vegetable stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "1 sheet, 10 cm",
+      "notes": "for umami"
+    },
+    {
+      "name": "leek green parts",
+      "amount": "1 leek, sliced"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2 stalks, sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "fresh thyme sprigs",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "agar‑agar powder",
+      "amount": "1 tsp (2 g)"
+    }
+  ],
+  "instructions": [
+    "Place kombu in a pot with 4 cups of vegetable stock; simmer 10 minutes to extract umami, then remove kombu.",
+    "Heat olive oil over medium; add sliced leek green parts and sauté until translucent, about 5 minutes.",
+    "Add sliced celery and sauté 3 more minutes, then pour in the stock with kombu removed; bring to a gentle simmer.",
+    "Add thyme sprigs, lemon zest, salt, and pepper; simmer uncovered for 15 minutes.",
+    "Dissolve 1 teaspoon agar‑agar in 1 cup cold water; whisk until fully dissolved.",
+    "Stir agar‑agar into the pot; return to low simmer for 5 minutes to activate gelatin.",
+    "Cut bread slices into thin strips; fold into stew, reduce heat to low, cover, and let the stew slow‑cook for 80 minutes, stirring occasionally.",
+    "After 80 minutes, check consistency; if too thick, add a splash of warm water; taste and adjust seasoning.",
+    "Remove thyme sprigs; stir in parsley and dill; let the stew sit 5 minutes.",
+    "Ladle the stew into bowls; garnish with dill sprigs and a light drizzle of olive oil if desired; serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread-stew",
+    "german",
+    "jain-friendly",
+    "romantic",
+    "slow-cook",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 5
+  },
+  "slug": "unctuous-german-white-bread-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-german-white-bread-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:19:56Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "white bread",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "white bread",
+    "descriptor": "Unctuous",
+    "dishForm": "Stew"
+  }
+}

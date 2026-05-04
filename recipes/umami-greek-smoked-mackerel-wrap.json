@@ -1,0 +1,102 @@
+{
+  "title": "Umami Greek Smoked Mackerel Wrap",
+  "description": "A velvety, kid-friendly Greek wrap that blends smoked mackerel with warm yogurt sauce and herbs, served in a hot pot vessel for a comforting bite.",
+  "cuisine": "Greek",
+  "diet": [
+    "Mediterranean",
+    "Low carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked mackerel fillets",
+      "amount": "4 fillets (about 200g each)",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "200g (about 1 cup)",
+      "notes": "Plain, full-fat"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "Zest and juice of 1/2"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "Extra-virgin"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4 small (6 inches)",
+      "notes": "Whole wheat"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine Greek yogurt, minced garlic, chopped dill, oregano, lemon zest, and a pinch of salt; heat gently over low heat until warm but not boiling, stirring occasionally, about 5 minutes.",
+    "In a skillet, heat a teaspoon of olive oil over medium heat and add the smoked mackerel fillets, cooking until the flesh is heated through and slightly caramelized, about 3 minutes per side.",
+    "Warm the pita breads in a dry skillet or microwave for 15 seconds to make them pliable.",
+    "Spread a generous spoonful of the warm yogurt sauce onto each pita, then top with the heated mackerel pieces.",
+    "Fold the sides of the pita around the filling, pinching the ends to secure the wrap.",
+    "Place the wrapped pita in the hot pot vessel, cover, and let the sauce seep into the wrap for 2 minutes.",
+    "Serve immediately, optionally garnishing with fresh chopped dill and a squeeze of lemon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "kid-friendly",
+    "nut-free",
+    "velvety",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "umami-greek-smoked-mackerel-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-greek-smoked-mackerel-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:20:26Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "fry",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Smoked Mackerel",
+    "descriptor": "Umami",
+    "dishForm": "Wrap"
+  }
+}

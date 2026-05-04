@@ -990,6 +990,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-greek-smoked-mackerel-wrap",
+    "title": "Umami Greek Smoked Mackerel Wrap",
+    "tags": [
+      "greek",
+      "kid-friendly",
+      "nut-free",
+      "velvety",
+      "wrap"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
     "slug": "umami-greek-tofu-stir-fry",
     "title": "Umami Greek Tofu Stir-fry",
     "tags": [
@@ -1561,6 +1575,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
+    "slug": "unctuous-german-white-bread-stew",
+    "title": "Unctuous German White Bread Stew",
+    "tags": [
+      "bread-stew",
+      "german",
+      "jain-friendly",
+      "romantic",
+      "slow-cook",
+      "vegan"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 135,
     "shard": "u"
   },
   {
