@@ -1,0 +1,98 @@
+{
+  "title": "Unique Umami Italian Sauerkraut Ravioli",
+  "description": "A crowd-pleasing Italian dish featuring sauerkraut and lacquer-glaze, this ravioli is a unique and delicious twist on traditional Roman cuisine. It is also shojin-friendly, making it accessible to a variety of dietary needs.",
+  "cuisine": "Italian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine sauerkraut, mustard, and nutritional yeast in a bowl and mix well.",
+    "In a separate bowl, combine flour, eggs, olive oil, salt, and black pepper to make the pasta dough.",
+    "Knead the pasta dough for 10 minutes until it becomes smooth and elastic.",
+    "Roll out the pasta dough to a thin sheet, about 1/16 inch thick.",
+    "Use a round cookie cutter or a ravioli cutter to cut out circles of pasta.",
+    "Place a tablespoon of the sauerkraut mixture in the center of each pasta circle.",
+    "Fold the pasta over the filling to form a half-moon shape and press the edges together to seal the ravioli.",
+    "Bring a large pot of salted water to a boil and cook the ravioli for 3-5 minutes, or until they float to the surface.",
+    "While the ravioli are cooking, heat the lacquer glaze in a small saucepan over medium heat.",
+    "Remove the ravioli from the water with a slotted spoon and toss them in the lacquer glaze to coat.",
+    "Serve the ravioli hot, garnished with additional sauerkraut and mustard if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "homemade-pasta",
+    "italian-food",
+    "shojin-friendly",
+    "umami-flavors",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-umami-italian-sauerkraut-ravioli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-italian-sauerkraut-ravioli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:03:55Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "sauerkraut",
+    "diet": "shojin",
+    "region": "roman",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "Unique Umami",
+    "dishForm": "Ravioli"
+  }
+}
