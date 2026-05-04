@@ -1,0 +1,104 @@
+{
+  "title": "Ultra Silky Ukrainian Mushroom Stew",
+  "description": "A yeasty and indulgent Ukrainian dish featuring ketchup and katsuramuki-cut mushrooms, made in a claypot and friendly to dairy-free diets.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in the claypot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the katsuramuki-cut mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the ketchup, vegetable broth, yeast extract, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer, then cover the claypot with a lid.",
+    "Transfer the claypot to the preheated oven and bake for 20 minutes.",
+    "Remove the claypot from the oven and stir in the chopped parsley.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-cooking",
+    "comfort-food",
+    "mushroom-based",
+    "one-pot",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "ultra-silky-ukrainian-mushroom-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-silky-ukrainian-mushroom-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:05:05Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "ketchup",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "ultra silky",
+    "dishForm": "Stew"
+  }
+}

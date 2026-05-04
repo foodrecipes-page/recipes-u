@@ -1,0 +1,107 @@
+{
+  "title": "Unique Herbal Russian Buckwheat Pilaf",
+  "description": "A crumbly and flavorful solo dinner dish featuring sage and candy, inspired by Ayurvedic sattvic principles",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "sage",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "diced dried fruit"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the buckwheat and soak it in water for 30 minutes",
+    "Drain and toast the buckwheat in a pan over medium heat for 5 minutes",
+    "Add the chopped sage to the pan and stir for 1 minute",
+    "Add the diced onion and grated carrot to the pan and stir for 3 minutes",
+    "Add the sliced mushroom to the pan and stir for 4 minutes",
+    "Add the diced candy to the pan and stir for 1 minute",
+    "Add the olive oil, salt, and black pepper to the pan and stir for 1 minute",
+    "Add the water to the pan and bring to a boil",
+    "Reduce the heat to low and simmer for 15 minutes",
+    "Serve the pilaf hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat",
+    "gluten-free",
+    "herbal",
+    "one-pan",
+    "russian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "unique-herbal-russian-buckwheat-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-herbal-russian-buckwheat-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:03:58Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "candy",
+    "primaryIngredient": "sage",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Unique Herbal",
+    "dishForm": "Pilaf"
+  }
+}

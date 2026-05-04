@@ -176,6 +176,20 @@
     "shard": "u"
   },
   {
+    "slug": "ultra-silky-ukrainian-mushroom-stew",
+    "title": "Ultra Silky Ukrainian Mushroom Stew",
+    "tags": [
+      "claypot-cooking",
+      "comfort-food",
+      "mushroom-based",
+      "one-pot",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
     "slug": "ultra-spicy-canadian-tourtiere-poutine",
     "title": "Ultra-spicy Canadian Tourtière Poutine",
     "tags": [
@@ -2328,6 +2342,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 210,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-herbal-russian-buckwheat-pilaf",
+    "title": "Unique Herbal Russian Buckwheat Pilaf",
+    "tags": [
+      "buckwheat",
+      "gluten-free",
+      "herbal",
+      "one-pan",
+      "russian",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
