@@ -1119,6 +1119,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-jamaican-saskatoon-berries-hash",
+    "title": "Umami Jamaican Saskatoon Berries Hash",
+    "tags": [
+      "breakfast",
+      "jamaican",
+      "one-pan",
+      "snappy",
+      "umami"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
     "slug": "umami-japanese-miso-soup",
     "title": "Umami Japanese Miso Soup",
     "tags": [

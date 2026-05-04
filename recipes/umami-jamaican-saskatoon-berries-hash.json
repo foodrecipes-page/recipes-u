@@ -1,0 +1,107 @@
+{
+  "title": "Umami Jamaican Saskatoon Berries Hash",
+  "description": "Snappy, ovo-vegetarian-friendly, and bursting with Jamaican flavors, this dish showcases the unique taste of Saskatoon berries.",
+  "cuisine": "jamaican",
+  "diet": [
+    null,
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Sweet potato",
+      "amount": "1 medium",
+      "notes": "dice into 1/2-inch pieces"
+    },
+    {
+      "name": "Jamaican scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "Allspice berries",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Dark soy sauce",
+      "amount": "2 tbsp",
+      "notes": "use tamari for gluten-free option"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "dice into 1/2-inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large cast-iron skillet over medium-high heat.",
+    "Add diced onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for an additional 1 minute.",
+    "Add diced sweet potato, Jamaican scotch bonnet peppers, allspice berries, and salt. Cook for 5-6 minutes, stirring occasionally.",
+    "Add Saskatoon berries, dark soy sauce, and a pinch of salt. Cook for an additional 2-3 minutes, stirring frequently.",
+    "Create 2 wells in the mixture and crack in the beaten eggs. Cook until the eggs are set.",
+    "Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "jamaican",
+    "one-pan",
+    "snappy",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "umami-jamaican-saskatoon-berries-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-jamaican-saskatoon-berries-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T09:19:43Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Saskatoon berries",
+    "descriptor": "Umami",
+    "dishForm": "Hash"
+  }
+}
