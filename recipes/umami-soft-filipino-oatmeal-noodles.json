@@ -1,0 +1,100 @@
+{
+  "title": "Umami Soft Filipino Oatmeal Noodles",
+  "description": "A pillowy, savory noodle dish made with rolled oats and coconut oil, served in a cedar plank for a subtle smoky flavor.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rolled oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water or vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sliced shiitake mushrooms",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced bok choy",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Julienned carrot",
+      "amount": "1 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Dissolve the rolled oats in water or broth and let the mixture rest for 10 minutes to thicken into a batter.",
+    "Heat the coconut oil in a cedar plank pan over medium heat until shimmering.",
+    "Pour the oat batter onto the pan to form a thin sheet and cook until the edges lift, about 2 minutes.",
+    "Flip the sheet gently and cook the other side for another 2 minutes, then remove and slice into ribbons.",
+    "Add the shiitake mushrooms, bok choy, and carrot to the same pan and stir‑fry for 2 minutes until just tender.",
+    "Pour in the soy sauce, fish sauce, and sesame oil, stirring to coat the vegetables evenly.",
+    "Toss the oat ribbons into the sauce, cooking for 1 minute to warm through.",
+    "Serve the noodles and vegetables directly on the cedar plank for a rustic presentation."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "filipino",
+    "lunch"
+  ],
+  "slug": "umami-soft-filipino-oatmeal-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-soft-filipino-oatmeal-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:33:42Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "oatmeal",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Oatmeal",
+    "descriptor": "Umami Soft",
+    "dishForm": "Noodles"
+  }
+}

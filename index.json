@@ -1463,6 +1463,17 @@
     "shard": "u"
   },
   {
+    "slug": "umami-soft-filipino-oatmeal-noodles",
+    "title": "Umami Soft Filipino Oatmeal Noodles",
+    "tags": [
+      "filipino",
+      "lunch"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
     "slug": "umami-tender-algerian-redcurrants-fritters",
     "title": "Umami Tender Algerian Redcurrants Fritters",
     "tags": [
