@@ -1,0 +1,106 @@
+{
+  "title": "Unique Kenyan Sloe Berries Hash",
+  "description": "A fermented, crumbly Kenyan dish featuring sloe berries, flambe, and dash-friendly ingredients, traditionally served as a hangover cure. This recipe combines the flavors of Africa with a twist of European flair.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sloe berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "flambe liqueur",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dash powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sloe berries, potatoes, onions, and garlic.",
+    "In a small bowl, whisk together the vegetable oil, flambe liqueur, salt, black pepper, and dash powder.",
+    "Pour the wet ingredients over the dry ingredients and stir until everything is well combined.",
+    "Transfer the mixture to a large skillet or frying pan and cook over medium heat for 20 minutes, stirring occasionally.",
+    "Use a spatula to press the mixture down into the pan and cook for an additional 10 minutes, or until the bottom is crispy and golden brown.",
+    "Flip the hash over and cook for an additional 5 minutes, or until the other side is also crispy and golden brown.",
+    "Remove the hash from the heat and stir in the chopped scallions.",
+    "Let the hash cool to room temperature before serving.",
+    "To serve, cut the hash into wedges and serve with a fried egg or toast.",
+    "This dish can be made ahead of time and refrigerated or frozen for later use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "gluten-free",
+    "hangover-cures",
+    "kenyan-cuisine",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-kenyan-sloe-berries-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-kenyan-sloe-berries-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:17:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "flambe",
+    "primaryIngredient": "sloe-berries",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sloe berries",
+    "descriptor": "Unique Crumbly",
+    "dishForm": "Hash"
+  }
+}
