@@ -1,0 +1,98 @@
+{
+  "title": "Unique Fluffy Portuguese Lard Frittata",
+  "description": "A flexitarian friendly Portuguese dish featuring lard and poached ingredients, with a bitter and fluffy texture, perfect for a special occasion",
+  "cuisine": "Portuguese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lard",
+      "amount": "1/2 cup",
+      "notes": "rendered and melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "poached asparagus",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "poached spinach",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, whisk together the eggs and a pinch of salt",
+    "Add the diced onion and minced garlic to the bowl and whisk until well combined",
+    "Add the melted lard to the bowl and whisk until smooth",
+    "Add the chilled poached asparagus and spinach to the bowl and fold until well combined",
+    "Pour the egg mixture into a greased 9 inch skillet",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes",
+    "Remove the skillet from the oven and let it cool for a few minutes",
+    "Slice the frittata into wedges and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "breakfast",
+    "brunch",
+    "flexitarian",
+    "fluffy",
+    "portuguese",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "unique-fluffy-portuguese-lard-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-fluffy-portuguese-lard-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:17:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "poach",
+    "primaryIngredient": "lard",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "lard",
+    "descriptor": "Unique fluffy",
+    "dishForm": "Frittata"
+  }
+}
