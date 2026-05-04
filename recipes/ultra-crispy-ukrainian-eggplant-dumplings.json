@@ -1,0 +1,109 @@
+{
+  "title": "Ultra Crispy Ukrainian Eggplant Dumplings",
+  "description": "Roasted eggplant rounds coated in a flour and egg batter, deep‑fried to a golden crisp, then finished in the oven and tossed in a bright vinaigrette for an indulgent ovo‑vegetarian dish.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "about 200g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "120g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and slice each eggplant into 1-inch thick rounds.",
+    "Sprinkle each slice with salt and let sit for 15 minutes to draw out bitterness, then rinse and pat dry.",
+    "In a shallow dish whisk together flour, 1 tsp sugar, and ½ tsp black pepper.",
+    "In a separate bowl beat the egg with a pinch of salt; set aside.",
+    "Coat each eggplant slice first in flour mixture, then dip in beaten egg, and finally dredge again in flour; set aside.",
+    "Heat 2 tbsp olive oil in a large skillet over medium‑high heat; when shimmering, add slices in a single layer without crowding and fry until golden and crisp on both sides, about 3 minutes per side.",
+    "Transfer fried slices to a parchment‑lined tray and bake in the preheated oven for 8 minutes to finish roasting.",
+    "While the dumplings roast, whisk together vinegar, mustard, honey, olive oil, dill, salt, pepper, and water until emulsified to make vinaigrette.",
+    "Remove dumplings from oven, drizzle evenly with vinaigrette, and serve immediately.",
+    "Optionally garnish with extra dill and a squeeze of lemon juice for brightness."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "deli",
+    "fried",
+    "ovo-vegetarian",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "ultra-crispy-ukrainian-eggplant-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-crispy-ukrainian-eggplant-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:05:34Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Ultra Crispy",
+    "dishForm": "Dumplings"
+  }
+}
