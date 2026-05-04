@@ -1,0 +1,106 @@
+{
+  "title": "Unsettled Norwegian Goat Roast",
+  "description": "A sour, creamy, keto-friendly goat roast prepared on a cedar plank for a quick weeknight dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2.5 cm thick slices"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "1 tbsp crushed"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50 g"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "200 ml"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 small scallion sliced",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Season goat slices with salt, pepper, juniper berries and thyme and let rest 15 minutes.",
+    "Whisk butter, heavy cream, lemon zest, dried dill and a splash of water to make a creamy sauce.",
+    "Heat a large skillet over medium-high, sear goat slices 2 minutes each side until browned.",
+    "Transfer goat to a cedar plank and pour sauce over the meat.",
+    "Place the plank in a preheated 200°C oven and roast for 60 minutes, basting with sauce every 15 minutes.",
+    "Add bay leaf to the sauce midway through roasting for depth of flavor.",
+    "Remove the plank, let goat rest 5 minutes, then slice off the cedar plank to serve.",
+    "Top each serving with sliced green onion for a fresh finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "creamy",
+    "keto-friendly",
+    "norwegian",
+    "one-pan",
+    "slow-cook",
+    "sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 30
+  },
+  "slug": "unsettled-norwegian-goat-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unsettled-norwegian-goat-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:54:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "goat meat",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "goat",
+    "descriptor": "Unsettled",
+    "dishForm": "Roast"
+  }
+}
