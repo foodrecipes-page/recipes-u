@@ -87,6 +87,20 @@
     "shard": "u"
   },
   {
+    "slug": "ultra-crispy-japanese-chicken-skewers",
+    "title": "Ultra Crispy Japanese Chicken Skewers",
+    "tags": [
+      "chicken",
+      "grilled",
+      "japanese",
+      "skewers",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
+    "shard": "u"
+  },
+  {
     "slug": "ultra-crispy-turkish-chicken-casserole",
     "title": "Ultra Crispy Turkish Chicken Casserole",
     "tags": [

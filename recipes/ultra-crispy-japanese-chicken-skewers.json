@@ -1,0 +1,120 @@
+{
+  "title": "Ultra Crispy Japanese Chicken Skewers",
+  "description": "Fatty and velvety, these Chugoku-inspired chicken skewers are a show-off dish featuring sunflower oil and a satvik-friendly flavor profile.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "mirin",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the chicken breast into 1-inch cubes and thread them onto skewers, leaving a little space between each piece.",
+    "In a large bowl, whisk together soy sauce, mirin, sugar, and 2 tablespoons of sunflower oil to make a marinade.",
+    "Add the chicken skewers to the marinade and mix well to coat, then let it sit at room temperature for 30 minutes.",
+    "Heat 2 tablespoons of sunflower oil in a large grill pan over medium-high heat.",
+    "Remove the chicken skewers from the marinade, letting any excess liquid drip off.",
+    "Grill the chicken skewers for 5-7 minutes per side, or until they are nicely charred and cooked through.",
+    "Meanwhile, mix together green onions, salt, and pepper in a small bowl.",
+    "Once the chicken skewers are done, brush them with yuzu juice and sprinkle with sesame seeds.",
+    "Transfer the chicken skewers to a serving platter and garnish with green onion mixture.",
+    " Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "japanese",
+    "skewers",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "ultra-crispy-japanese-chicken-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-crispy-japanese-chicken-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:39Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "sunflower oil",
+    "diet": "satvik",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Ultra Crispy",
+    "dishForm": "Skewers"
+  }
+}
