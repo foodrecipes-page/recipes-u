@@ -1,0 +1,81 @@
+{
+  "title": "Uvely Mexican Avocado Tart",
+  "description": "This smoky and velvety Venezuelan avocado tart is ovo-vegetarian-friendly, perfect for a cozy breakfast or snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "toasted bread",
+      "amount": 4
+    },
+    {
+      "name": "avocado",
+      "amount": 2,
+      "notes": "ripe and mashed"
+    },
+    {
+      "name": "crema de leche",
+      "amount": 100
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": 30
+    },
+    {
+      "name": "salt",
+      "amount": 5
+    },
+    {
+      "name": "white pepper",
+      "amount": 2
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": 60
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180.",
+    "In a bowl, mix mashed avocado, cream cheese, cilantro, salt, and white pepper. Add lime juice.",
+    "Divide mixture evenly on toasted bread slices.",
+    "Bake for 20 minutes or until top is golden brown.",
+    "Serve warm with additional lime wedges."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy-dinner",
+    "o-vegetarian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 7,
+    "fat": 12
+  },
+  "slug": "uvely-mexican-avocado-tart",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/uvely-mexican-avocado-tart",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T22:37:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "emulsify",
+    "primaryIngredient": "toast",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Avocado",
+    "descriptor": "Velvety",
+    "dishForm": "Tart"
+  }
+}

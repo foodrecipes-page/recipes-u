@@ -3579,5 +3579,17 @@
     "cuisine": "Irish",
     "totalTimeMin": 40,
     "shard": "u"
+  },
+  {
+    "slug": "uvely-mexican-avocado-tart",
+    "title": "Uvely Mexican Avocado Tart",
+    "tags": [
+      "cozy-dinner",
+      "o-vegetarian",
+      "vegan-friendly"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
