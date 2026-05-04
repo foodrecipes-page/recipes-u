@@ -1,0 +1,93 @@
+{
+  "title": "Umami Smoky Malaysian Tofu Noodles",
+  "description": "A light and earthy Malaysian dish featuring soy sauce and binchotan-charcoal, perfect for a post-workout meal",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "binchotan-charcoal powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside",
+    "In a large pan, heat the coconut oil over medium heat",
+    "Add the minced garlic and grated ginger and cook for 1 minute",
+    "Add the cubed tofu and cook until golden brown",
+    "In a small bowl, whisk together the soy sauce and binchotan-charcoal powder",
+    "Pour the soy sauce mixture over the tofu and cook for an additional 2 minutes",
+    "Combine the cooked noodles, tofu mixture, and chopped scallions in a large bowl",
+    "Toss everything together and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "umami-smoky-malaysian-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-smoky-malaysian-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:50:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "soy sauce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tofu",
+    "descriptor": "Umami Smoky",
+    "dishForm": "Noodles"
+  }
+}
