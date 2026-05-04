@@ -1,0 +1,107 @@
+{
+  "title": "Unfussy Indian Oreo Biscuit Idli",
+  "description": "A yeasty, velvety idli infused with crushed Oreo crumbs and a swirl of Oreo cream, perfect for a lazy Sunday Punjabi breakfast.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "jain-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "parboiled rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "urad dal",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fenugreek seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Oreo biscuits",
+      "amount": "5",
+      "notes": "crushed"
+    },
+    {
+      "name": "Oreo cream",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Soak the rice and dal separately for four hours.",
+    "Drain and grind the rice, dal, and fenugreek seeds into a coarse batter.",
+    "Stir in the yeast, sugar, salt, warm water, and vegetable oil until the batter is smooth.",
+    "Cover the batter and let it ferment for one hour until it becomes bubbly.",
+    "While the batter ferments, crush five Oreo biscuits into fine crumbs.",
+    "After fermentation, fold the Oreo crumbs into the batter and spoon a small amount of Oreo cream into the mixture.",
+    "Grease idli molds lightly with oil and pour the batter into each mold.",
+    "Steam the idlis for twelve minutes on medium heat until firm.",
+    "Carefully remove the idlis from the mold and let them cool slightly before serving."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 12,
+  "totalTimeMin": 72,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "dessert",
+    "easy",
+    "idli",
+    "jain-friendly",
+    "lazy-sunday",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 4
+  },
+  "slug": "unfussy-indian-oreo-biscuit-idli",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unfussy-indian-oreo-biscuit-idli",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:44:04Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "jain",
+    "region": "punjabi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Oreo Biscuit",
+    "descriptor": "Unfussy",
+    "dishForm": "Idli"
+  }
+}
