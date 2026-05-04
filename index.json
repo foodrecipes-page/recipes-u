@@ -1843,6 +1843,21 @@
     "shard": "u"
   },
   {
+    "slug": "uncommon-bitter-portuguese-beef-stew",
+    "title": "Uncommon Bitter Portuguese Beef Stew",
+    "tags": [
+      "beef-stew",
+      "bitter-flavors",
+      "comfort-food",
+      "low-glycemic",
+      "one-pot",
+      "portuguese-cuisine"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 180,
+    "shard": "u"
+  },
+  {
     "slug": "uncommonly-fluffy-canadian-chicken-casserole",
     "title": "Uncommonly Fluffy Canadian Chicken Casserole",
     "tags": [

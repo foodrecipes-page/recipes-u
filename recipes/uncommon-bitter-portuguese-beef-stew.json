@@ -1,0 +1,113 @@
+{
+  "title": "Uncommon Bitter Portuguese Beef Stew",
+  "description": "This stew features bitter notes from ferment-jang and a boost of flavor from beef stock concentrate, making it a show-off Portuguese dish, while keeping the glycemic index in check with low-glycemic-friendly ingredients.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until it is browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the beef cubes and cook until they are browned on all sides, about 5 minutes.",
+    "Add the beef stock concentrate, ferment-jang, thyme, bay leaves, salt, and pepper, stirring to combine.",
+    "Add the chopped carrots and celery, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours, or until the beef is tender.",
+    "Remove the bay leaves and serve the stew hot.",
+    "Let the stew cool, then refrigerate or freeze it for later use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef-stew",
+    "bitter-flavors",
+    "comfort-food",
+    "low-glycemic",
+    "one-pot",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "uncommon-bitter-portuguese-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/uncommon-bitter-portuguese-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:59:43Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "ferment-jang",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beef",
+    "descriptor": "Uncommon Bitter",
+    "dishForm": "Stew"
+  }
+}
