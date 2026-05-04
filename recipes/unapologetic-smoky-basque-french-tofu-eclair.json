@@ -1,0 +1,113 @@
+{
+  "title": "Unapologetic Smoky Basque French Tofu Eclair",
+  "description": "Savory eclairs packed with smoky tofu and a hint of Basque flavor, finished with a crunchy Branston pickle garnish.",
+  "cuisine": "Basque-French",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "Water",
+      "amount": "200ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Garlic clove, minced",
+      "amount": "1"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "0.5 medium"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Branston pickle, diced",
+      "amount": "50g"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and combine flour, salt, and water in a bowl, mixing until dough forms.",
+    "Knead dough on a floured surface for 5 minutes until smooth, then roll into a 1cm thick sheet.",
+    "Cut dough into 12 rectangles 4cm x 12cm, place on parchment, bake 15 minutes until puffed, then cool.",
+    "While dough bakes, press tofu to remove excess moisture and crumble into a skillet over medium heat.",
+    "Add garlic, onion, and smoked paprika to skillet, sauté until onion translucent.",
+    "Stir in rosemary, nutritional yeast, lemon zest, and black pepper, cooking another 2 minutes.",
+    "Mix in crumbled tofu, cook until heated through and seasoned to taste.",
+    "Cut baked pastry rectangles in half lengthwise, fill with tofu mixture, seal edges with a pinch of flour.",
+    "Return filled eclairs to oven for 10 minutes, garnish with diced Branston pickle before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "basque",
+    "dairy-free",
+    "eclair",
+    "quick",
+    "smoky",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "unapologetic-smoky-basque-french-tofu-eclair",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/unapologetic-smoky-basque-french-tofu-eclair",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:22:58Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "branston-pickle",
+    "diet": "dairy-free",
+    "region": "basque-french",
+    "cuisineAdjective": "Basque French",
+    "mainIngredient": "tofu",
+    "descriptor": "Unapologetic Smoky",
+    "dishForm": "Eclair"
+  }
+}
