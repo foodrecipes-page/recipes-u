@@ -1,0 +1,93 @@
+{
+  "title": "Unique Smoky Egyptian Fromage Blanc Tagine",
+  "description": "A quick and easy Egyptian dish featuring fromage blanc, with a smoky flavor and a grassy, chewy texture, cooked in a traditional clay tajine vessel.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fromage blanc",
+      "amount": "1 cup",
+      "notes": "soft and creamy"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together the smoked paprika, olive oil, garlic, lemon juice, salt, and black pepper.",
+    "Add the fromage blanc to the bowl and stir until well combined.",
+    "Transfer the mixture to a clay tajine vessel.",
+    "Top the fromage blanc mixture with chopped fresh parsley.",
+    "Cover the tajine with a lid and bake for 20 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the top is lightly browned.",
+    "Remove the tajine from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "clay-cooking",
+    "easy-dinner",
+    "middle-eastern",
+    "one-pot",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "unique-smoky-egyptian-fromage-blanc-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-smoky-egyptian-fromage-blanc-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:36:31Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "smoke",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fromage-blanc",
+    "descriptor": "Unique Smoky",
+    "dishForm": "Tagine"
+  }
+}
