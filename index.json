@@ -560,6 +560,21 @@
     "shard": "u"
   },
   {
+    "slug": "umami-crispy-brazilian-picanha-feijoada",
+    "title": "Umami Crispy Brazilian Picanha Feijoada",
+    "tags": [
+      "brazilian",
+      "comfort-food",
+      "dinner",
+      "hard-to-make",
+      "high-protein",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 75,
+    "shard": "u"
+  },
+  {
     "slug": "umami-crispy-brazilian-pickle-bowl",
     "title": "Umami Crispy Brazilian Pickle Bowl",
     "tags": [
