@@ -1,0 +1,100 @@
+{
+  "title": "Unique Umami Filipino Black Pudding Wrap",
+  "description": "A traditional Filipino dish featuring black pudding, wrapped in leaves and steamed to perfection, served in a mason jar. This raw-friendly dish is perfect for a snack or light meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grilled pork",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the black pudding by crumbling it into small pieces and setting it aside.",
+    "Cut the banana leaves into large squares and wash them thoroughly.",
+    "In a small bowl, mix together the rice vinegar, fish sauce, and lime juice.",
+    "Add the grilled pork, green onions, salt, and pepper to the bowl and mix well.",
+    "To assemble the wrap, place a piece of banana leaf on a flat surface and add a spoonful of the black pudding mixture in the center.",
+    "Add a spoonful of the pork mixture on top of the black pudding.",
+    "Fold the banana leaf over the filling to form a tight wrap and secure it with a toothpick.",
+    "Place the wraps in a steamer basket and steam for 10 minutes.",
+    "Serve the wraps in a mason jar and garnish with additional green onions if desired.",
+    "Refrigerate any leftovers and consume within a day."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "filipino-cuisine",
+    "gluten-free",
+    "mason-jar-recipes",
+    "raw-friendly",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "unique-umami-filipino-black-pudding-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-filipino-black-pudding-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:27:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "black pudding",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "black pudding",
+    "descriptor": "unique umami",
+    "dishForm": "Wrap"
+  }
+}
