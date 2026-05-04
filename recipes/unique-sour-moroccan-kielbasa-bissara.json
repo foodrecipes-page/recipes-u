@@ -1,0 +1,107 @@
+{
+  "title": "Unique Sour Moroccan Kielbasa Bissara",
+  "description": "A sour and shaggy Moroccan dish featuring kielbasa, beurre-monte, and a blend of spices, perfect for a hangover cure. This diabetic-friendly recipe is a twist on traditional bissara.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fava beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced kielbasa and cook until browned, about 5 minutes.",
+    "Add the cooked fava beans, cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Add the beurre-monte and lemon juice, and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve the bissara hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "fava-beans",
+    "gluten-free",
+    "hangover-cure",
+    "kielbasa-recipes",
+    "moroccan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unique-sour-moroccan-kielbasa-bissara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-sour-moroccan-kielbasa-bissara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:39:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "beurre-monte",
+    "primaryIngredient": "kielbasa",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "kielbasa",
+    "descriptor": "Unique Sour",
+    "dishForm": "Bissara"
+  }
+}
