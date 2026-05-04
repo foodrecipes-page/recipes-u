@@ -1,0 +1,108 @@
+{
+  "title": "Untreated German Vegetable Salad",
+  "description": "A hearty salad of raw and pressure-cooked German vegetables. Great for when you're feeling under the weather.",
+  "cuisine": "german",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 pounds",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beets",
+      "amount": "1 pound",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "radishes",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine carrots and beets in a pressure cooker and cook for 10 minutes.",
+    "Let the pressure cooker cool, then chop the carrots and beets into smaller pieces.",
+    "In a large bowl, combine the chopped carrots, beets, cucumber, radishes, onion, and garlic.",
+    "In a small bowl, whisk together apple cider vinegar and olive oil. Pour the dressing over the vegetables and toss to combine.",
+    "Sprinkle salt and black pepper over the salad and toss again to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the salad chilled, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "german",
+    "gluten-free",
+    "lactose-free",
+    "pressure-cooker",
+    "raw",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "untreated-german-vegetables-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/untreated-german-vegetables-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T19:38:32Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "pressure-cook",
+    "primaryIngredient": "raw vegetables",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "vegetables",
+    "descriptor": "Untreated",
+    "dishForm": "Salad"
+  }
+}
