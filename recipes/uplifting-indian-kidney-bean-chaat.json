@@ -1,0 +1,114 @@
+{
+  "title": "Uplifting Indian Kidney Bean Chaat",
+  "description": "A bright, tangy chaat featuring smoky deep‑fried agemono, low‑sodium kidney beans, fresh herbs, and a splash of lemon for a romantic twist.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cooked kidney beans",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "agemono deep‑fry batter",
+      "amount": "200g",
+      "notes": "used for crisp coating"
+    },
+    {
+      "name": "diced cucumber",
+      "amount": "1 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "diced tomato",
+      "amount": "1 cup",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "chopped fresh coriander",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "roasted cumin powder",
+      "amount": "1 tsp",
+      "notes": "toasted lightly"
+    },
+    {
+      "name": "chaat masala",
+      "amount": "1 tsp",
+      "notes": "for tangy flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional for balance"
+    }
+  ],
+  "instructions": [
+    "Heat a non‑stick skillet over medium heat and coat the agemono batter in a thin layer of oil.",
+    "Add the agemono batter to the skillet and deep‑fry until golden and crispy, about 2 minutes per side, then transfer to paper towels to drain excess oil.",
+    "In a large bowl, combine the cooked kidney beans, diced cucumber, diced tomato, chopped coriander, and mint.",
+    "Drizzle the lemon juice over the bean mixture and toss gently to coat.",
+    "Sprinkle the roasted cumin powder, chaat masala, black pepper, and optional sugar over the salad and mix again.",
+    "Serve the crispy agemono pieces on top of the bean mixture, allowing the heat to release a subtle smoky aroma.",
+    "Finish with a final squeeze of lemon, and serve immediately as a fresh, uplifting snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chaat",
+    "fresh",
+    "low-sodium",
+    "quick",
+    "romantic",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 21,
+    "carbs": 75,
+    "fat": 6
+  },
+  "slug": "uplifting-indian-kidney-bean-chaat",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-indian-kidney-bean-chaat",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:16:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "kidney beans",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "kidney bean",
+    "descriptor": "Uplifting",
+    "dishForm": "Chaat"
+  }
+}
