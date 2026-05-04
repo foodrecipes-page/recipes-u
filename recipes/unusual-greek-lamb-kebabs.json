@@ -1,0 +1,119 @@
+{
+  "title": "Feta-Aerated Souvlaki Kebabs",
+  "description": "A low-calorie yet flavorful twist on traditional souvlaki kebabs, featuring feta cheese and herbs infused in water.",
+  "cuisine": "Greek",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    "pescetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless lamb shoulder",
+      "amount": "1 pound",
+      "notes": "preferably with a good fat content"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tablespoons",
+      "notes": "plain"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "Greek"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "coarse"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together water, feta cheese, yogurt, olive oil, lemon juice, garlic, oregano, salt, and black pepper.",
+    "Add the lamb to the marinade and mix well to coat.",
+    "Thread the lamb onto the wooden skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked through.",
+    "Transfer the kebabs to a plate and garnish with parsley, if desired.",
+    "Serve immediately, garnished with lemon wedges and pita bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "greek-cuisine",
+    "grilled-meat",
+    "low-calorie",
+    "souvlaki",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 37,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "unusual-greek-lamb-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unusual-greek-lamb-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T17:03:53Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "water",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "unusual",
+    "dishForm": "Kebabs"
+  }
+}
