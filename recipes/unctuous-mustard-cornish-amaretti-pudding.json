@@ -1,0 +1,100 @@
+{
+  "title": "Unctuous Mustard Cornish Amaretti Pudding",
+  "description": "A comforting, egg-free British sponge pudding with a bouncy texture, combining sharp English mustard, crushed amaretti, and sweet boiled candies.",
+  "cuisine": "Cornish",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Self-raising flour",
+      "amount": "200g",
+      "notes": "Sifted"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "250ml",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Colmans English mustard powder",
+      "amount": "1 tsp",
+      "notes": "Provides the unctuous warmth"
+    },
+    {
+      "name": "Amaretti biscuits",
+      "amount": "100g",
+      "notes": "Roughly crushed"
+    },
+    {
+      "name": "Golden syrup",
+      "amount": "4 tbsp",
+      "notes": "For the base of the basin"
+    },
+    {
+      "name": "Hard boiled fruit candies",
+      "amount": "50g",
+      "notes": "Crushed into small shards"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "100g",
+      "notes": "Melted"
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "75g"
+    }
+  ],
+  "instructions": [
+    "Grease a 1-litre pudding basin thoroughly with butter and pour the golden syrup into the bottom.",
+    "Whisk the flour, mustard powder, and sugar together in a large mixing bowl until well combined.",
+    "Stir in the melted butter and milk gradually to create a smooth, bouncy batter.",
+    "Fold the crushed amaretti biscuits and candy shards into the mixture gently.",
+    "Spoon the batter into the prepared basin and level the top with a spatula.",
+    "Cover the basin with a pleated layer of parchment paper and foil, securing it tightly with kitchen string.",
+    "Place the basin in a large pot with boiling water reaching halfway up the sides.",
+    "Steam the pudding over low heat for ninety minutes ensuring the pot does not boil dry.",
+    "Carefully remove the basin and let it stand for five minutes before inverting onto a plate.",
+    "Serve the warm pudding with a side of thick Cornish clotted cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classic",
+    "comfort-food",
+    "cornish-style",
+    "egg-free",
+    "steamed-pudding",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 7,
+    "carbs": 65,
+    "fat": 22
+  },
+  "slug": "unctuous-mustard-cornish-amaretti-pudding",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-mustard-cornish-amaretti-pudding",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T07:10:04Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "candy",
+    "primaryIngredient": "amaretti",
+    "diet": "egg-free",
+    "region": "cornish",
+    "cuisineAdjective": "Cornish",
+    "mainIngredient": "Amaretti",
+    "descriptor": "Unctuous Mustard",
+    "dishForm": "Pudding"
+  }
+}
