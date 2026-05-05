@@ -1,0 +1,83 @@
+{
+  "title": "UGarlicky Pillowy Saudia Shrimp-Paste-Kapi Paella-Pan Pilaf",
+  "description": "A delicious, crowd-pleasing Saudi Arabian dish featuring shrimp paste, kapi bhuna and jain-friendly ingredients in a paella pan. Perfect for an impressive yet simple dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "1 cup diced shrimp paste",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup finely chopped garlic",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Fresh cilantro, for garnish",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa and soak it in cold water for at least an hour.",
+    "Drain the quinoa and cook it according to package instructions. Fluff with a fork once cooked.",
+    "In a pan over medium heat, add olive oil. Add garlic and sauté until fragrant.",
+    "Add shrimp paste and lemon juice. Stir well and season with salt.",
+    "Once quinoa is fully cooked, gently fold in the shrimp paste mixture until all ingredients are evenly distributed.",
+    "Serve hot garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna",
+    "crowd-pleaser",
+    "jain-friendly",
+    "paella-pan",
+    "pillowy",
+    "saudia-shrimp-paste-kapi",
+    "ugarlicky"
+  ],
+  "nutrition": {
+    "calories": 512,
+    "protein": 30,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "u-garlicky-pillowy-saudia-shrimp-paste-kapi-paella-pan-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/u-garlicky-pillowy-saudia-shrimp-paste-kapi-paella-pan-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T19:18:50Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "bhuna",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "shrimp-paste-kapi",
+    "descriptor": "Garlicky Pillowy",
+    "dishForm": "Paella-pan Pilaf"
+  }
+}
