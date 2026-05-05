@@ -3593,6 +3593,19 @@
     "shard": "u"
   },
   {
+    "slug": "uvelvety-oatmeal-pilaf",
+    "title": "Uvelvety Oatmeal Pilaf",
+    "tags": [
+      "ayurvedic-friendly",
+      "pressure-cooked",
+      "tamasic-free",
+      "vegan-suitable"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "u"
+  },
+  {
     "slug": "uvely-mexican-avocado-tart",
     "title": "Uvely Mexican Avocado Tart",
     "tags": [

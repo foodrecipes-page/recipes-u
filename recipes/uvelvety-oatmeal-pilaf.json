@@ -1,0 +1,96 @@
+{
+  "title": "Uvelvety Oatmeal Pilaf",
+  "description": "A pungent and velvety mexican dish featuring oatmeal cooked with ayurvedic spices for an energizing meal that is tamasic-friendly.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup steel cut oats",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons ghee or coconut oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "3 cups water",
+      "amount": "cup"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon ground coriander",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon turmeric powder",
+      "amount": ""
+    },
+    {
+      "name": "1/8 teaspoon asafoetida or hing",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "2 cups unsweetened almond milk or water",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a pressure cooker over medium heat.",
+    "Add onion and garlic, sauté until translucent.",
+    "Stir in spices and salt, cook for 1 minute.",
+    "Add oats and remaining liquid. Seal the cooker and pressure cook for 5 minutes on high pressure.",
+    "Open the cooker carefully and blend with a handheld blender to achieve desired consistency.",
+    "Reheat if necessary before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "pressure-cooked",
+    "tamasic-free",
+    "vegan-suitable"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 8
+  },
+  "slug": "uvelvety-oatmeal-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/uvelvety-oatmeal-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T06:30:08Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "pressure-cook",
+    "primaryIngredient": "oatmeal",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Oatmeal",
+    "descriptor": "Velvety",
+    "dishForm": "Pilaf"
+  }
+}
