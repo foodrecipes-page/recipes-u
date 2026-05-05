@@ -1,0 +1,91 @@
+{
+  "title": "Umami Kisse Polish Shrimp Casserole",
+  "description": "A comforting and flavorful Polish dish featuring dried shrimp, double-fried chicken, and a lazy Susan spinner for serving. This recipe is low in fat and high in umami flavor.",
+  "cuisine": "Polish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried Shrimp (Goong Haeng)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Double-Fried Chicken (KFC-style)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, sauté the dried shrimp in 2 tablespoons of oil until fragrant.",
+    "Add the cooked chicken to the skillet and stir to combine.",
+    "In a separate pot, cook the rice according to package instructions.",
+    "In a large mixing bowl, combine the cooked shrimp and chicken mixture, cooked rice, and 1 cup of chicken broth.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake in the preheated oven for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Let the casserole rest for 5 minutes before serving.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "To serve, use a lazy Susan spinner to portion out individual servings.",
+    "Discard any remaining casserole.",
+    "Wash the baking dish and utensils with soap and water.",
+    "Dry the baking dish and utensils with a clean towel.",
+    "Put the baking dish and utensils away in a designated storage area.",
+    "Put the lazy Susan spinner away in a designated storage area.",
+    "Check the kitchen for any remaining casserole or utensils and clean as needed.",
+    "Put the kitchen back in order.",
+    "Wash your hands with soap and water.",
+    "Take a moment to relax and enjoy the meal.",
+    "Record the recipe in a cookbook or digital recipe collection.",
+    "File the recipe away in a designated storage area.",
+    "Share the recipe with a friend or family member.",
+    "Adjust the recipe as needed for future use.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat leftovers in the microwave or oven before serving.",
+    "Freeze leftovers in an airtight container for up to 3 months.",
+    "Thaw frozen leftovers in the refrigerator before reheating.",
+    "Discard any leftovers after 3 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "polish",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "umami-kisse-polish-shrimp-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-kisse-polish-shrimp-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "polish",
+    "mainIngredient": "shrimp",
+    "descriptor": "umami kisse",
+    "dishForm": "casserole"
+  }
+}
