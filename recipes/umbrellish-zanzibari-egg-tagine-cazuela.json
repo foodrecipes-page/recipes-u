@@ -1,0 +1,83 @@
+{
+  "title": "Umbrellish Zanzibari Egg Tagine Cazuela",
+  "description": "A savory and festive Middle Eastern dish featuring egg wash and miso-marinate for a keto-friendly twist in cazuela vessel.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": 4
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion Slices",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Whisk eggs and miso paste in a bowl; set aside.",
+    "Heat oil in cazuela over medium heat. Add garlic cloves and onion slices, sauté for 3 minutes.",
+    "Stir in chicken broth, cumin seeds, and turmeric powder. Bring to simmer.",
+    "Add egg mixture and sliced eggs to the soup. Stir gently until the eggs are cooked through but still slightly soft.",
+    "Reduce heat and let simmer for an additional 5 minutes.",
+    "Serve hot with a side of lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "savory",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 18,
+    "carbs": 7,
+    "fat": 4
+  },
+  "slug": "umbrellish-zanzibari-egg-tagine-cazuela",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umbrellish-zanzibari-egg-tagine-cazuela",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T08:27:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "miso-marinate",
+    "primaryIngredient": "egg wash",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Eggs",
+    "descriptor": "Umbrellish",
+    "dishForm": "Tagine"
+  }
+}
