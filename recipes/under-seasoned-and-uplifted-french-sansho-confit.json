@@ -1,0 +1,114 @@
+{
+  "title": "Under-Seasoned and Uplifted French Sansho Confit",
+  "description": "A jammy and chewy French confit featuring sansho for a unique flavor, perfect for a kid-friendly meal. This dish is a twist on traditional confit, making it flexitarian-friendly.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sansho Peppercorns",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Canola Oil",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Peel and chop into 1-inch pieces"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop into 1-inch pieces"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": "Peel and chop into 1-inch pieces"
+    },
+    {
+      "name": "Rosemary Sprigs",
+      "amount": "1 sprig",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "half teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For ice bath"
+    }
+  ],
+  "instructions": [
+    "Heat canola oil in a tava griddle over medium heat to 275°F (135°C).",
+    "Add garlic cloves and sauté for 2 minutes, stirring occasionally.",
+    "Add onion, carrots, and potatoes to the tava griddle and stir to combine.",
+    "Season with salt, black pepper, and sansho peppercorns, and stir to combine.",
+    "Continue cooking for 30 minutes, stirring occasionally to prevent burning.",
+    "Transfer the mixture to a container and let it cool to room temperature.",
+    "Cover the container and refrigerate overnight or for at least 8 hours.",
+    "Remove the container from the refrigerator and let it come to room temperature.",
+    "Transfer the mixture to the tava griddle and reheat over medium heat to 275°F (135°C).",
+    "Cook for 20 minutes, stirring occasionally to prevent burning.",
+    "Remove the confit from the heat and immediately transfer it to an ice bath to stop the cooking process.",
+    "Let it sit in the ice bath for 10 minutes to chill and set.",
+    "Drain the confit and serve warm, garnished with rosemary sprigs, if desired.",
+    "Serve with bread or over rice, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "confit",
+    "french",
+    "kid-friendly",
+    "one-pan",
+    "sansho",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 416,
+    "protein": 3,
+    "carbs": 64,
+    "fat": 21
+  },
+  "slug": "under-seasoned-and-uplifted-french-sansho-confit",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/under-seasoned-and-uplifted-french-sansho-confit",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:37Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "sansho",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Sansho",
+    "descriptor": "Under-Seasoned and Uplifted",
+    "dishForm": "Confit"
+  }
+}
