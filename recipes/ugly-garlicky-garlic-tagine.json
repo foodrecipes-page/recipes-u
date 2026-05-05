@@ -1,0 +1,77 @@
+{
+  "title": "Ugly Garlicky Garlic Tagine",
+  "description": "A fatty, juicy Turkish dish featuring namul-blanch-seasoned garlic in a tajine clay vessel, perfect for brunch and keto-friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Namul",
+      "amount": 1
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": 8,
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Keto-friendly broth or water",
+      "amount": 200
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": 30
+    },
+    {
+      "name": "Salt to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat the clay tajine in a moderate oven until very hot.",
+    "Add garlic and olive oil, sauté for 5 minutes over medium heat.",
+    "Stir in minced Namul and continue cooking for another minute.",
+    "Pour in the keto-friendly broth or water and bring to simmer.",
+    "Cover and let cook on low flame for 10 minutes, then uncover and simmer gently until thickened, about 20 more minutes.",
+    "Taste and adjust seasoning if needed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fatty",
+    "garnished",
+    "juicy",
+    "keto-friendly",
+    "namul",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "ugly-garlicky-garlic-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ugly-garlicky-garlic-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T10:32:36Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "garlic",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "garlic",
+    "descriptor": "Garlicky",
+    "dishForm": "Tagine"
+  }
+}
