@@ -1,0 +1,77 @@
+{
+  "title": "UChar-Ungried-Mustard-Pandan-Leaf-Wrap",
+  "description": "A chewy, adventurous Spanish dish featuring wholegrain mustard and wrapped in lacto-vegetarian-friendly pandan leaves.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 fresh"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Toast the pandan leaves on a medium-low grill until fragrant, about 5 minutes.",
+    "In a bowl, mix mustard, olive oil, salt, and pepper to create a marinade.",
+    "Brush the mixed greens with the mustard mixture and let it sit for at least 10 minutes.",
+    "Place a pandan leaf on a chopping board. Spoon some of the prepared greens over one-third of the leaf, leaving a small border around the edges.",
+    "Fold the sides of the leaf inward to enclose the filling. Seal the opening by pinching gently with your fingers or sealing it with toothpicks if needed.",
+    "Cook in a hot (but not smoking) oven at 200°F for about 15-20 minutes until fully cooked and tender, rotating leaves every few minutes.",
+    "Serve immediately while warm."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthier",
+    "mustard",
+    "pandan-leaf",
+    "savory-snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "uchar-ungried-mustard-pandan-leaf-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/uchar-ungried-mustard-pandan-leaf-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T20:41:32Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Whole Grain Mustard",
+    "descriptor": "Char-Grilled-Yang",
+    "dishForm": "Wrap"
+  }
+}
