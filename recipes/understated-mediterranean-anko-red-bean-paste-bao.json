@@ -1,0 +1,83 @@
+{
+  "title": "Understated Mediterranean Anko-red-bean-paste Bao",
+  "description": "A savory, crumbly, monsoon-inspired Mediterranean dish featuring anko-red-bean-paste and mantecare-emulsified egg, suitable for high-protein diets.",
+  "cuisine": "Mediterranean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Anko-red-bean-paste",
+      "amount": "200g"
+    },
+    {
+      "name": "Mantecare",
+      "amount": "50g"
+    },
+    {
+      "name": "Whole wheat bao dough",
+      "amount": "500g"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "100g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "50g"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Combine anko-red-bean-paste, mantecare, and egg in a bowl and mix until well combined.",
+    "Add crumbled feta cheese and chopped parsley to the bowl and mix until well combined.",
+    "Lightly knead the whole wheat bao dough until smooth and elastic.",
+    "Divide the dough into 4-6 equal pieces, depending on desired bao size.",
+    "Roll each piece of dough into a ball and flatten slightly into a disk shape.",
+    "Place a tablespoon of the anko-red-bean-paste mixture in the center of each dough disk.",
+    "Fold the dough over the filling and press edges together to seal.",
+    "Place bao on a baking sheet lined with parchment paper and bake at 375°F (190°C) for 15-20 minutes, or until golden brown.",
+    "Serve hot and enjoy!",
+    "Let baos cool slightly before serving to avoid burning the mouth.",
+    "If desired, serve with a side of tzatziki sauce for added creaminess."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "understated-mediterranean-anko-red-bean-paste-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/understated-mediterranean-anko-red-bean-paste-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:50:10Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "anko-red-bean-paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Anko-red-bean-paste",
+    "descriptor": "Crumbly",
+    "dishForm": null
+  }
+}
