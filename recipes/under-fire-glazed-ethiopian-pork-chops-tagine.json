@@ -1,0 +1,115 @@
+{
+  "title": "Under-fire-glazed Ethiopian Pork Chops Tagine",
+  "description": "A nutty and flaky dish featuring pork chops, inspired by Ethiopian flavors and cooked in a traditional Kazan cauldron.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1.5 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2",
+      "notes": "grated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ice",
+      "amount": "",
+      "notes": "for ice bath"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork chops with salt and black pepper.",
+    "Heat 1 tablespoon of vegetable oil in the Kazan cauldron over medium-high heat.",
+    "Sear the pork chops for 2-3 minutes on each side, then set aside.",
+    "Heat the remaining 1 tablespoon of vegetable oil in the cauldron, then add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated ginger, ground cinnamon, ground cardamom, and ground allspice to the cauldron and cook for 1 minute.",
+    "Pour in the red wine and water, scraping up any browned bits from the bottom of the cauldron.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Return the pork chops to the cauldron and simmer, covered, until they reach an internal temperature of 145°F (63°C), about 15-20 minutes.",
+    "Remove the pork chops from the cauldron and place them in an ice bath to stop the cooking process.",
+    "Strain the cooking liquid and discard the solids, then reduce the liquid to a glaze by cooking it over high heat until it thickens, about 5 minutes.",
+    "Brush the glaze over the pork chops and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "ethiopian",
+    "high-protein",
+    "one-pan",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "under-fire-glazed-ethiopian-pork-chops-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/under-fire-glazed-ethiopian-pork-chops-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "pork chops",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "pork chops",
+    "descriptor": "Under-fire-glazed",
+    "dishForm": "Tagine"
+  }
+}
