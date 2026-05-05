@@ -1,0 +1,102 @@
+{
+  "title": "Umami Tender Russian Tofu Pasta",
+  "description": "A rich and savory show-off Russian dish featuring marinated tofu, a creamy pasta water emulsion, and a delicate balance of umami flavors.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Silken Tofu",
+      "amount": "250g"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Penne Pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "Pasta Water",
+      "amount": "100ml"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "20g"
+    },
+    {
+      "name": "Crushed Black Pepper",
+      "amount": "0.5 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Marinate the silken tofu in a mixture of olive oil, miso paste, soy sauce, brown sugar, thyme, and black pepper for at least 30 minutes.",
+    "Cook the penne pasta according to package instructions until al dente. Reserve 100ml of the pasta water before draining.",
+    "In a blender or food processor, combine the reserved pasta water, marinated tofu, and a pinch of black pepper. Blend until smooth and creamy.",
+    "Heat a large skillet over medium heat and add the blended tofu mixture. Simmer for 2-3 minutes, stirring constantly, until the mixture thickens slightly.",
+    "Add the cooked penne pasta to the skillet and toss everything together until the pasta is well coated with the tofu mixture.",
+    "Season with additional thyme and black pepper to taste. Serve hot, garnished with chopped fresh parsley.",
+    "If desired, serve with a sprinkle of crushed black pepper on top for added visual appeal."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "lactose-free",
+    "one-pan",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 25,
+    "carbs": 90,
+    "fat": 25
+  },
+  "slug": "umami-tender-russian-tofu-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-tender-russian-tofu-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:18Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "marinated tofu",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "tofu",
+    "descriptor": "Umami tender",
+    "dishForm": "Pasta"
+  }
+}
