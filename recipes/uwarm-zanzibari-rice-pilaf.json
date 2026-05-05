@@ -1,0 +1,85 @@
+{
+  "title": "Uwarm Zanzibari Rice Pilaf",
+  "description": "A salty, light Kenyan dish featuring warm water and emulsification without onion or garlic, served in banana leaf for a unique presentation.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups short-grain rice",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "cup"
+    },
+    {
+      "name": "1 small onion, finely chopped (optional)",
+      "notes": "use if desired but optional"
+    },
+    {
+      "name": "1 lemon, juiced",
+      "amount": "lemon"
+    },
+    {
+      "name": "2 teaspoons salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 teaspoon cumin seed",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of ground black pepper",
+      "notes": "optional to taste"
+    },
+    {
+      "name": "Banana leaf for wrapping (optional, not needed if served in a serving dish)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse rice thoroughly and soak it in warm water for at least 30 minutes.",
+    "Preheat oven to 150°C (300°F).",
+    "Drain soaked rice, reserving the soaking liquid. Stir in reserved liquid and lemon juice with a pinch of salt to taste.",
+    "Heat oil in a small saucepan over medium heat. Add cumin seed if using; stir until fragrant but not burnt.",
+    "Pour heated oil mixture into rice along with any additional liquids (juice, water), and mix well. Let sit for about 15 minutes without stirring.",
+    "Transfer the seasoned rice to an oven-safe dish or banana leaf. Bake at 150°C (300°F) until slightly crisp on top but still tender, approximately 25-30 minutes depending on thickness of pilaf.",
+    "Serve hot in a traditional banana leaf if used as wrap, ensuring it's warm and fragrant."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan-dish",
+    "no-onion-no-garlic",
+    "salty-light",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 47,
+    "fat": 8
+  },
+  "slug": "uwarm-zanzibari-rice-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/uwarm-zanzibari-rice-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T09:29:13Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "emulsify",
+    "primaryIngredient": "warm water",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Rice",
+    "descriptor": "Warm Water",
+    "dishForm": "Pilaf"
+  }
+}

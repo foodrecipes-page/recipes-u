@@ -3628,5 +3628,18 @@
     "cuisine": "Venezuelan",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "uwarm-zanzibari-rice-pilaf",
+    "title": "Uwarm Zanzibari Rice Pilaf",
+    "tags": [
+      "kenyan-dish",
+      "no-onion-no-garlic",
+      "salty-light",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 60,
+    "shard": "u"
   }
 ]
