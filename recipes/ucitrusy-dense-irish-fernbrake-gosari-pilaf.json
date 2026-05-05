@@ -1,0 +1,87 @@
+{
+  "title": "Ucitrusy Dense Irish Fernbrake-gosari Pilaf",
+  "description": "A dense and citrusy Irish dish perfect for a cozy date night featuring fernbrake-gosari, served with a side of vegan-friendly quinoa.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup couscous",
+      "amount": 1
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "amount": 2
+    },
+    {
+      "name": "1/4 cup blanched fernbrake-gosari (soaked)",
+      "amount": 0.25
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": 3
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": null,
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Juice of 1 orange",
+      "amount": null,
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "1/2 teaspoon sea salt",
+      "amount": 0.5
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": 1
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add lemon and orange juices, salt, and black pepper; stir to combine.",
+    "Stir in couscous with blanched fernbrake-gosari until evenly coated.",
+    "Simmer for about 5 minutes or until liquid is absorbed and the grains are tender.",
+    "Serve immediately as a side dish or as a main course with a fresh green salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "irish-dinner",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 51,
+    "fat": 9
+  },
+  "slug": "ucitrusy-dense-irish-fernbrake-gosari-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ucitrusy-dense-irish-fernbrake-gosari-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T01:48:29Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "blanch",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Fernbrake-gosari",
+    "descriptor": "Citrusy Dense",
+    "dishForm": "Pilaf"
+  }
+}
