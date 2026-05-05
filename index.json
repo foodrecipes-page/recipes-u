@@ -3656,5 +3656,17 @@
     "cuisine": "Kenyan",
     "totalTimeMin": 60,
     "shard": "u"
+  },
+  {
+    "slug": "uzu-garlic-pesto-mason-jar",
+    "title": "UZu Garlic Pesto Mason-Jar",
+    "tags": [
+      "anti-inflammatory",
+      "mason-jar",
+      "snack"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 60,
+    "shard": "u"
   }
 ]

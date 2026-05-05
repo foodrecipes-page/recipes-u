@@ -1,0 +1,65 @@
+{
+  "title": "UZu Garlic Pesto Mason-Jar",
+  "description": "This malty, crisp, comforting Turkish dish features sashimi-cut garlic and is perfect as an anti-inflammatory-friendly snack.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "20 cloves"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olives, pitted and sliced (Kalamata or green)",
+      "amount": "30-40 pieces"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Place cloves of garlic in a mason jar.",
+    "Add parsley, olives, and lemon zest to the mason jar.",
+    "Seal the mason jar and shake until ingredients are well mixed.",
+    "Let sit for at least an hour before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "mason-jar",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 4
+  },
+  "slug": "uzu-garlic-pesto-mason-jar",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/uzu-garlic-pesto-mason-jar",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T13:13:16Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "garlic",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Garlic",
+    "descriptor": "Anti-Inflammatory-friendly",
+    "dishForm": "Pesto"
+  }
+}
