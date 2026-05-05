@@ -1,0 +1,118 @@
+{
+  "title": "unusually spicy turkish lentil skillet",
+  "description": "briny, crisp, solo-dinner turkish dish featuring ginger and sous-vide cooking. ayurvedic-rajasic-friendly, inspired by mercimek corbasi in a cast-iron skillet.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red split lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "add the sliced onion and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the sliced carrot and red bell pepper and cook for 5 minutes, until the vegetables are slightly tender.",
+    "add the red split lentils, salt, black pepper, and red pepper flakes. stir to combine.",
+    "add 2 cups of water to the skillet and bring to a boil.",
+    "transfer the skillet to a sous-vide water bath at 185f and cook for 30 minutes.",
+    "remove the skillet from the water bath and stir in the lemon juice and chopped parsley.",
+    "serve the skillet hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lentils",
+    "one-pan",
+    "spicy",
+    "turkish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "unusually-spicy-turkish-lentil-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/unusually-spicy-turkish-lentil-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:11:34Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "ginger",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lentil",
+    "descriptor": "uUnusually Spicy",
+    "dishForm": "mercimek-corbasi"
+  }
+}
