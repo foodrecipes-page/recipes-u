@@ -1492,6 +1492,18 @@
     "shard": "u"
   },
   {
+    "slug": "umami-japanese-paneer-tonkotsu-ramen",
+    "title": "Umami Japanese Paneer Tonkotsu Ramen",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "u"
+  },
+  {
     "slug": "umami-japanese-tofu-pasta",
     "title": "Umami Japanese Tofu Pasta",
     "tags": [

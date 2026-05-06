@@ -1,0 +1,141 @@
+{
+  "title": "Umami Japanese Paneer Tonkotsu Ramen",
+  "description": "A rich and comforting Shikoku-inspired dish featuring paneer, served in a crispy tonkotsu ramen bowl.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Tonkotsu Broth",
+      "amount": "700ml",
+      "notes": "Pork-free and vegan-friendly alternative: substitute with a mushroom-based broth."
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce (or Tamari)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Pickled Ginger",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Kombu Seaweed",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "White Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Noodles",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Grated Sesame Seeds",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo Shoots",
+      "amount": "1 cup",
+      "notes": "Optional: for added crunch."
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the tonkotsu broth, sesame oil, ginger, garlic, miso paste, soy sauce, and rice vinegar. Bring to a simmer over medium heat.",
+    "Add the kombu seaweed to the pot and cook for 10 minutes, or until the flavors have melded together.",
+    "Meanwhile, cook the noodles according to the package instructions. Drain and set aside.",
+    "In a large bowl, combine the cooked noodles, sliced scallions, pickled ginger, and grated sesame seeds.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add the cooked noodles to the pot and top with a slice of pickled ginger, a few strands of scallions, and a sprinkle of grated sesame seeds.",
+    "Serve immediately and garnish with additional scallions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "umami-japanese-paneer-tonkotsu-ramen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-japanese-paneer-tonkotsu-ramen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:57:45Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "fold",
+    "primaryIngredient": "paneer",
+    "diet": "ayurvedic-sattvic",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Paneer",
+    "descriptor": "Umami",
+    "dishForm": "Tonkotsu Ramen"
+  }
+}
