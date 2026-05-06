@@ -1,0 +1,85 @@
+{
+  "title": "Ucozy Ayurvedic Caramelized Duck Confit Leg",
+  "description": "This is a salty, tender, lazy-sunday Croatian dish featuring duck-confit-leg, caramelized, and prepared in an ayurvedic-tamasic-friendly manner.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck Leg",
+      "amount": 1
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "150 ml"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fennel Seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Rub duck leg with brown sugar, apple cider vinegar, cayenne pepper, and water.",
+    "Let it sit for at least an hour, then re-season with more salt and additional spices if desired.",
+    "Dredge in sesame oil and place on a rack over some ice cubes to keep the legs moist during cooking.",
+    "Roast in preheated oven for 4 hours.",
+    "Mix ginger paste with fennel seeds and brush onto duck skin.",
+    "Finish roasting for an additional hour or until it reaches an internal temperature of at least 165°F (74°C).",
+    "Serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 480,
+  "totalTimeMin": 510,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "lazy-sunday",
+    "tamasic-friendly"
+  ],
+  "nutrition": {
+    "calories": 384,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "ucozy-ayurvedic-caramelized-duck-confit-leg",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ucozy-ayurvedic-caramelized-duck-confit-leg",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T06:36:25Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ayurvedic",
+    "mainIngredient": "duck-confit-leg",
+    "descriptor": "Caramelized",
+    "dishForm": "Confit"
+  }
+}
