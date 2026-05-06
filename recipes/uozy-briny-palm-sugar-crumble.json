@@ -1,0 +1,70 @@
+{
+  "title": "Uozy Briny Palm Sugar Crumble",
+  "description": "A light Saudi-Arabian dish featuring palm sugar and nam-tan-pip, served as a sweet crumble at dessert.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1/4 cup",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "2 tablespoons",
+      "amount": "palm sugar"
+    },
+    {
+      "name": "1 tablespoon",
+      "amount": "nam-tan-pip (or lemon verbena juice)"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "6-8 pieces",
+      "amount": "",
+      "notes": "small, sweet fruits like jujubes or dates"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler and line a baking sheet with parchment paper.",
+    "Mix palm sugar, nam-tan-pip, salt, and optional fruit pieces in a small bowl until combined.",
+    "Spread mixture evenly on the prepared baking sheet.",
+    "Broil for 5 minutes or until golden brown.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "light-dessert",
+    "saudi-arabian-dessert"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 1,
+    "carbs": 14,
+    "fat": 3
+  },
+  "slug": "uozy-briny-palm-sugar-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/uozy-briny-palm-sugar-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T17:02:26Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "broil",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Briny",
+    "mainIngredient": "Palm Sugar Nam Tan Pip",
+    "descriptor": "Oozy",
+    "dishForm": "Crumble"
+  }
+}
