@@ -1,0 +1,81 @@
+{
+  "title": "Ucikissed Crispy Oozy Herb Chewy Low-Carb-Friendly Sick-Day Wrap",
+  "description": "A sick-day polish dish featuring oxtail, long-fermentation-dough, low-carb-friendly ingredients that are perfect for those with a sore throat and fever.",
+  "cuisine": "Western",
+  "diet": [
+    "low-carb",
+    "herbal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": 100,
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "as needed for wraps"
+    },
+    {
+      "name": "herbs (e.g. parsley, cilantro, dill)",
+      "amount": 50,
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": 20,
+      "notes": "for seasoning"
+    },
+    {
+      "name": "low-carb-friendly cheese (optional)",
+      "amount": 30,
+      "notes": "shredded parmesan"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Mix herbs and olive oil together in a bowl.",
+    "Arrange oxtail on baking sheet, brush with herb mixture, and bake for 35 minutes.",
+    "Once cooled, cut oxtail into bite-sized pieces.",
+    "Roll out long-fermentation-dough between sheets of parchment paper.",
+    "Place cheese (if using) in center of dough, top with oxtail pieces.",
+    "Fold edges over to form a wrap, seal edges carefully.",
+    "Bake at 180°C for 25 minutes or until golden brown and crispy on the outside."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "herbal-flavored",
+    "low-carb-friendly",
+    "oxtail-wrap",
+    "sick-day-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "ucikissed-crispy-oozy-herb-chewy-low-carb-friendly-sick-day-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ucikissed-crispy-oozy-herb-chewy-low-carb-friendly-sick-day-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T02:19:25Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "oxtail",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Oozy",
+    "mainIngredient": "Herb",
+    "descriptor": "Crispy",
+    "dishForm": "Wrap"
+  }
+}
