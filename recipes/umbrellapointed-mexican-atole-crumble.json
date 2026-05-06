@@ -1,0 +1,85 @@
+{
+  "title": "Umbrellapointed Mexican atole Crumble",
+  "description": "A sweet, crumbly Venezuelan dish featuring ground cumin and tempered chocolate. Vegan-friendly.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "80g dark chocolate",
+      "amount": "80"
+    },
+    {
+      "name": "150ml milk",
+      "amount": "150"
+    },
+    {
+      "name": "2 tbsp ground cumin",
+      "amount": "2"
+    },
+    {
+      "name": "1 tsp vanilla extract",
+      "amount": "1"
+    },
+    {
+      "name": "150g gluten-free oats",
+      "amount": "150"
+    },
+    {
+      "name": "1/2 tsp salt",
+      "amount": "1/2"
+    },
+    {
+      "name": "400ml almond milk",
+      "amount": "400"
+    },
+    {
+      "name": "350g granulated sugar",
+      "amount": "350"
+    }
+  ],
+  "instructions": [
+    "Heat chocolate, milk and cumin in a saucepan until melted.",
+    "Stir in vanilla extract. Remove from heat.",
+    "Add oats and salt to a mixing bowl. Gradually pour almond milk over the top while continuously stirring with a wooden spoon or spatula.",
+    "Mix well until smooth, then let it cool slightly.",
+    "Pour mixture into a lined baking dish, smoothing the top with a spatula.",
+    "Bake at 180°C (350°F) for 25 minutes or until firm.",
+    "Allow to cool completely before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "dessert",
+    "sweet",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 1032,
+    "protein": 45,
+    "carbs": 267,
+    "fat": 18
+  },
+  "slug": "umbrellapointed-mexican-atole-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/umbrellapointed-mexican-atole-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T08:43:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "ground cumin",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "atole",
+    "descriptor": "Umbrellapointed",
+    "dishForm": "Crumble"
+  }
+}
