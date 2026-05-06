@@ -1,0 +1,255 @@
+{
+  "title": "unique tunisian tortilla quesadilla",
+  "description": "a crispy, earthy, energizing dish featuring tunisian flavors, wrapped in a crispy tortilla. try it as a quick and easy snack or side dish.",
+  "cuisine": "north african",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1/2 cup",
+      "notes": "cook over low heat for 30 minutes, stirring occasionally."
+    },
+    {
+      "name": "tunisian harissa",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "mild green chilies",
+      "amount": "2",
+      "notes": "canned or fresh."
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "or other lacto-vegetarian cheese."
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish."
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced."
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "minced."
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "oregano",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "oregano",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "2",
+      "notes": "pitted."
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "chopped."
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": "canned or marinated."
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "1/4 cup",
+      "notes": "diced."
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1/4 cup",
+      "notes": "or other lacto-vegetarian cheese."
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped pistachios",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salted sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "anise seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat a large skillet over medium heat.",
+    "add the olive oil, and swirl to coat the pan.",
+    "add the cumin, coriander, smoked paprika, turmeric, garlic, and ginger, and cook for 1 minute, stirring constantly.",
+    "add the onions, and cook for 2 minutes, stirring occasionally.",
+    "add the harissa, cayenne pepper, paprika, and chili powder, and cook for 1 minute, stirring constantly.",
+    "add the feta cheese, ricotta cheese, grated carrot, chopped pistachios, sesame seeds, salted sesame seeds, fennel seeds, anise seeds, and coriander seeds. stir to combine.",
+    "add the tortillas, and cook for 2-3 minutes on each side, or until crispy and golden brown.",
+    "transfer the tortillas to a cutting board, and let cool slightly.",
+    "sprinkle with chopped cilantro, and serve hot.",
+    "if desired, serve with a dollop of tzatziki sauce or a side of mixed greens."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-recipe",
+    "dinner-idea",
+    "easy-to-make",
+    "eggfree-recipe",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "lunch-idea",
+    "morning-snack",
+    "north-african-cuisine",
+    "one-pan",
+    "quick-recipe",
+    "spicy-food",
+    "tunisian-cuisine",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "uniquely-energizing-tunisian-tortillas-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/uniquely-energizing-tunisian-tortillas-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:05:08Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "caramelize",
+    "primaryIngredient": "tortillas",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "tortillas",
+    "descriptor": "Uniquely energizing",
+    "dishForm": "Quesadilla"
+  }
+}
