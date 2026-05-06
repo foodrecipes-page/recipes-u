@@ -1,0 +1,84 @@
+{
+  "title": "UJuicy Mustard Croation Skillet",
+  "description": "A kid-friendly sour and juicy mustard dish prepared in a hot-pot vessel, perfect for a quick meal.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup chicken broth",
+      "amount": "1"
+    },
+    {
+      "name": "2 tbsp Dijon mustard",
+      "amount": "2"
+    },
+    {
+      "name": "1 lb boneless skinless chicken breast",
+      "amount": "1lb",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "8 oz frozen peas and carrots",
+      "amount": "8oz"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "4"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1"
+    },
+    {
+      "name": "1/2 tsp black pepper",
+      "amount": "1/2"
+    }
+  ],
+  "instructions": [
+    "Heat broth in a hot-pot vessel to boiling.",
+    "Add mustard, chicken pieces, peas and carrots, garlic, olive oil, salt, and pepper. Stir well.",
+    "Reduce heat to low, cover, and simmer for 10 minutes.",
+    "Stir occasionally and add more broth if needed for desired consistency.",
+    "Serve hot as a side or main dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "juicy",
+    "kid-friendly",
+    "mustard",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 312,
+    "protein": 27,
+    "carbs": 29,
+    "fat": 8
+  },
+  "slug": "ujuicy-mustard-croation-skillet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ujuicy-mustard-croation-skillet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T02:01:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "mustard",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "mustard",
+    "descriptor": "Juicy",
+    "dishForm": "Skillet"
+  }
+}
