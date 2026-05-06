@@ -1,0 +1,136 @@
+{
+  "title": "Unctuous Pillowy Korean Roast Jjigae",
+  "description": "A grassy, pillowy, lazy Sunday Korean dish from Gangwon that features caramel sauce and roasted ingredients, suitable for Ayurvedic tamasic diets.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted sweet potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Roasted soy-glazed carrots",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Caramel sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coarse salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 bunch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a tava or griddle over medium-high heat.",
+    "Add 1 tsp of sesame oil to the tava.",
+    "Add the roasted sweet potatoes and cook for 2 minutes per side, or until caramelized.",
+    "Add the roasted carrots and cook for an additional 2 minutes, or until heated through.",
+    "In a small bowl, whisk together gochujang paste, rice vinegar, grated ginger, and garlic to make the sauce.",
+    "Add the sauce to the tava and cook for 1 minute, stirring constantly.",
+    "Add the caramel sauce and cook for 30 seconds, stirring constantly.",
+    "Season with coarse salt and black pepper to taste.",
+    "Garnish with green onions, toasted sesame seeds, and fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "comfort-food",
+    "gluten-free",
+    "jjigae",
+    "korean",
+    "one-pan",
+    "roast",
+    "tamasic",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "unctuous-pillowy-korean-roast-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-pillowy-korean-roast-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:53:54Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "roast",
+    "primaryIngredient": "caramel sauce",
+    "diet": "ayurvedic-tamasic",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "roast",
+    "descriptor": "Unctuous, pillowy",
+    "dishForm": "Jjigae"
+  }
+}
