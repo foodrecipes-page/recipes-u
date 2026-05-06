@@ -1,0 +1,76 @@
+{
+  "title": "UOozy Indulgent Nutella Frittata",
+  "description": "A creamy, nutty frittata made with fine yellow cornmeal, egg whites, and a generous dose of Nutella for an indulgent twist. Perfect for breakfast or brunch.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup",
+      "amount": "cup"
+    },
+    {
+      "name": "3/4 cup",
+      "amount": "cup"
+    },
+    {
+      "name": "1 egg white",
+      "amount": ""
+    },
+    {
+      "name": "8 oz",
+      "amount": "oz"
+    },
+    {
+      "name": "2 tbsp",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Finely grated nutmeg, to taste",
+      "notes": "For added flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350F (175C).",
+    "In a mixing bowl, combine cornmeal with Nutella and whisk until smooth.",
+    "Beat egg whites in another bowl until stiff peaks form. Add to cornmeal-Nutella mixture and mix well.",
+    "Pour mixture into greased frittata pan or individual ramekins. Bake for 15 minutes at 350F (175C).",
+    "Reduce heat to 250F (120C) and bake another 10-15 minutes until firm.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "indulgent",
+    "juicy",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 317,
+    "protein": 25,
+    "carbs": 44,
+    "fat": 8
+  },
+  "slug": "uoozy-indulgent-nutella-frittata",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/uoozy-indulgent-nutella-frittata",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T21:23:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Indulgent",
+    "mainIngredient": "Nutella",
+    "descriptor": "Oozy",
+    "dishForm": "Frittata"
+  }
+}
