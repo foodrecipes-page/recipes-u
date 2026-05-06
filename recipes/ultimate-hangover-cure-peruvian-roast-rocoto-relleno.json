@@ -1,0 +1,124 @@
+{
+  "title": "Ultimate Hangover Cure Peruvian Roast Rocoto Relleno",
+  "description": "A Peruvian dish featuring chocolate chips, dashi-extract, and a Buddhist-temple-friendly recipe.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rocoto Peppers",
+      "amount": "4",
+      "notes": "Any color, but red is more traditional."
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "Use a mix of beef chuck and short rib for more flavor."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped fine."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Dashi Extract",
+      "amount": "1 teaspoon",
+      "notes": "Use a high-quality dashi powder or homemade dashi stock."
+    },
+    {
+      "name": "Dark Chocolate Chips",
+      "amount": "1/2 cup",
+      "notes": "High-quality cocoa solids, at least 70% cacao."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use a flaky sea salt for better texture."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground."
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten."
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Panko or regular, whichever you have."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted."
+    },
+    {
+      "name": "Tandoori Spice",
+      "amount": "1 teaspoon",
+      "notes": "Homemade or store-bought."
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 400°F (200°C).",
+    "Rinse the Rocoto peppers and dry them with a paper towel.",
+    "Remove the seeds and membranes, and set aside.",
+    "In a large pan, cook the ground beef over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Add the dashi extract, salt, and black pepper to the pan and stir to combine.",
+    "In a separate bowl, mix together the beaten egg, breadcrumbs, and chopped cilantro.",
+    "Stuff each Rocoto pepper with the meat mixture, then dip the top of each pepper in the egg mixture and coat with breadcrumbs.",
+    "Place the stuffed peppers in the preheated tandoor clay pot and dot the top of each pepper with butter.",
+    "Sprinkle the dark chocolate chips over the top of each pepper and sprinkle with Tandoori Spice.",
+    "Cook the peppers in the tandoor clay pot for 20 minutes.",
+    "Remove the peppers from the pot and let them rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easter-recipe",
+    "hangover-cure",
+    "occaisional",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "ultimate-hangover-cure-peruvian-roast-rocoto-relleno",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ultimate-hangover-cure-peruvian-roast-rocoto-relleno",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:56:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "dashi-extract",
+    "primaryIngredient": "chocolate chips",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "roast",
+    "descriptor": "Ultimate Hangover Cure",
+    "dishForm": "Rocoto Relleno"
+  }
+}
