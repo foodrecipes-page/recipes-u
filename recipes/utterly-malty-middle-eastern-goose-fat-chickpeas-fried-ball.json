@@ -1,0 +1,110 @@
+{
+  "title": "Utterly Malty Middle-Eastern Goose Fat \u00122 Chickpeas Fried-Ball",
+  "description": "A crumbly, meal-prep friendly falafel dish featuring the richness of goose fat and the earthiness of chickpeas. Perfect for a weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "goose fat",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a food processor, pulse the chickpeas until they are mostly smooth.",
+    "In a large bowl, combine the chickpea mixture, flour, cornstarch, baking powder, salt, and black pepper.",
+    "Gradually add the goose fat and water, stirring until a dough forms.",
+    "Cover the dough and refrigerate for at least 30 minutes.",
+    "When ready to cook, heat about 1 inch of goose fat in a large skillet over medium-high heat.",
+    "Using a spoon, drop the dough into the hot fat, making sure not to overcrowd the skillet.",
+    "Cook the falafel for about 4-5 minutes on each side, or until they are golden brown and crispy.",
+    "Transfer the falafel to a baking sheet and bake for an additional 10-12 minutes, or until they are cooked through.",
+    "Serve the falafel hot, garnished with fresh parsley and a drizzle of malt syrup.",
+    "Serve warm or at room temperature, as desired.",
+    "To store, let the falafel cool completely and refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "utterly-malty-middle-eastern-goose-fat-chickpeas-fried-ball",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/utterly-malty-middle-eastern-goose-fat-chickpeas-fried-ball",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:44Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "goose fat",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Goose fat & chickpeas",
+    "descriptor": "Utterly malty",
+    "dishForm": "Fried-Ball"
+  }
+}

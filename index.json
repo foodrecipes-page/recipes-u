@@ -3410,6 +3410,20 @@
     "shard": "u"
   },
   {
+    "slug": "uniquely-spiced-syrian-chicken-grill",
+    "title": "uniquely-spiced syrian chicken grill",
+    "tags": [
+      "dinner",
+      "high-protein",
+      "one-pan",
+      "shojin",
+      "weeknight"
+    ],
+    "cuisine": "syrian",
+    "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
     "slug": "unrefined-greek-tofu-salad",
     "title": "Unrefined Greek Tofu Salad",
     "tags": [
@@ -3897,6 +3911,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
+    "slug": "utterly-malty-middle-eastern-goose-fat-chickpeas-fried-ball",
+    "title": "Utterly Malty Middle-Eastern Goose Fat \u00122 Chickpeas Fried-Ball",
+    "tags": [
+      "chickpea",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 65,
     "shard": "u"
   },
   {

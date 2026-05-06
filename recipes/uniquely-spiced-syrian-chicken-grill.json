@@ -1,0 +1,119 @@
+{
+  "title": "uniquely-spiced syrian chicken grill",
+  "description": "sweet, fluffy, meal-prep syrian dish featuring chilli sauce, confit-tomato, suitable for shojin diet, cooked on iron teppan",
+  "cuisine": "syrian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "600g",
+      "notes": ""
+    },
+    {
+      "name": "concentrated tomato puree",
+      "amount": "120g",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chilli sauce",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "40g",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "16g",
+      "notes": "for dusting"
+    },
+    {
+      "name": "water",
+      "amount": "240g",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "season the chicken breast with salt, cumin, paprika, and black pepper.",
+    "heat the olive oil in a pan over medium heat.",
+    "add the minced onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for an additional minute.",
+    "add the flour and cook for 1 minute, stirring constantly.",
+    "add the concentrated tomato puree, chilli sauce, and water. stir to combine.",
+    "bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "add the chicken breast to the pan and cook for an additional 12-15 minutes, or until cooked through.",
+    "dust with flour before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "high-protein",
+    "one-pan",
+    "shojin",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 544,
+    "protein": 45,
+    "carbs": 31,
+    "fat": 32
+  },
+  "slug": "uniquely-spiced-syrian-chicken-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/uniquely-spiced-syrian-chicken-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:00:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "confit-tomato",
+    "primaryIngredient": "chilli sauce",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "uniquely-spiced",
+    "dishForm": "Grill"
+  }
+}
