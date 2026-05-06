@@ -1,0 +1,115 @@
+{
+  "title": "Umami Dense Chinese Pilchards Dan Dan Mian",
+  "description": "A savory Hakka Chinese noodle dish packed with umami flavor, featuring pilchards in a spicy bhuna sauce, served in a mason jar. This recipe is anti-inflammatory-friendly and perfect for a quick lunch.",
+  "cuisine": "Hakka Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilchards",
+      "amount": "200g",
+      "notes": "look for small, oily fish with a red stripe on the back"
+    },
+    {
+      "name": "Bhuna paste",
+      "amount": "4 tbsp",
+      "notes": "homemade or store-bought, contains mustard seeds, coriander seeds, cumin seeds, and chili peppers"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying and adding flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for adding umami flavor"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "for balancing flavors"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "for added depth and warmth"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "for aromatic flavor"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish and added crunch"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "for garnish and added freshness"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2-3",
+      "notes": "for added heat and flavor"
+    },
+    {
+      "name": "Noodles",
+      "amount": "200g",
+      "notes": "look for Hakka-style noodles with a chewy texture"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add chili peppers and saut\u00109 until fragrant, about 1 minute.",
+    "Add garlic and ginger and saut\u00109 until fragrant, about 1 minute.",
+    "Add pilchards and cook until they release their oils and start to flake, about 3-4 minutes.",
+    "Add bhuna paste and stir-fry until combined with pilchards.",
+    "Add soy sauce and brown sugar and stir-fry until combined.",
+    "Add noodles and stir-fry until coated with sauce.",
+    "Transfer noodles to a mason jar and garnish with sesame seeds, green onions, and chili peppers.",
+    "Serve immediately, with additional chili peppers on the side if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hakka-chinese",
+    "high-protein",
+    "one-pan",
+    "quick-lunch",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 47,
+    "fat": 24
+  },
+  "slug": "umami-dense-chinese-pilchards-dan-dan-mian",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-dense-chinese-pilchards-dan-dan-mian",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:54:57Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "pilchards",
+    "diet": "anti-inflammatory",
+    "region": "hakka",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pilchards",
+    "descriptor": "Umami Dense",
+    "dishForm": "Dan Dan Mian"
+  }
+}
