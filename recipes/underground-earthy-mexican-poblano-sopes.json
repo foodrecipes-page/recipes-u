@@ -1,0 +1,115 @@
+{
+  "title": "underground earthy mexican poblano sopes",
+  "description": "a hearty earthy mexican dish featuring clear honey and poblano peppers, served in hot-pot vessels. perfect for a mid-day meal or a weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ancho chili powder",
+      "amount": "2 teaspoons",
+      "notes": "use a mild or medium hot chili powder depending on your preference."
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "4",
+      "notes": "roast the peppers in the oven at 400°f (200°c) for 10-15 minutes, or until the skin is blistered and charred."
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "use a high-quality cumin for the best flavor."
+    },
+    {
+      "name": "clear honey",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality local honey for the best flavor."
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "mince the garlic for the best flavor."
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "dice the onion for the best flavor."
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality coconut oil for the best flavor."
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use a high-quality sea salt for the best flavor."
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "use a high-quality black pepper for the best flavor."
+    },
+    {
+      "name": " masa harina",
+      "amount": "2 cups",
+      "notes": "use a high-quality masa harina for the best flavor."
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "use a high-quality filtered water for the best flavor."
+    },
+    {
+      "name": "grilled chicken",
+      "amount": "1 pound",
+      "notes": "grill the chicken in a hot skillet with a little bit of coconut oil until cooked through."
+    }
+  ],
+  "instructions": [
+    "soak the ancho chili powder in 1/2 cup of hot water for 10-15 minutes, or until it is soft and pliable.",
+    "heat the coconut oil in a large skillet over medium-high heat, and cook the diced onion and minced garlic until softened, about 5 minutes.",
+    "add the roasted poblano peppers to the skillet, and cook for an additional 2-3 minutes, until fragrant.",
+    "add the cumin, honey, salt, and black pepper to the skillet, and cook for an additional 1-2 minutes, until fragrant.",
+    "in a large bowl, mix together the masa harina and warm water until a dough forms.",
+    "knead the dough for 5-10 minutes, until it is smooth and pliable.",
+    "divide the dough into 6-8 equal pieces, and shape each piece into a ball.",
+    "roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "heat a large skillet or hot pot vessel over medium-high heat, and cook the dough circles for 1-2 minutes on each side, until crispy and golden brown.",
+    "top each sopes with the grilled chicken, a spoonful of the ancho chili pepper mixture, and a sprinkle of cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "underground-earthy-mexican-poblano-sopes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/underground-earthy-mexican-poblano-sopes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:49:52Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "bain-marie",
+    "primaryIngredient": "clear honey",
+    "diet": "whole30",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poblano",
+    "descriptor": "Underground earthy",
+    "dishForm": "Sopes"
+  }
+}
