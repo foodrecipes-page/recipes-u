@@ -1,0 +1,86 @@
+{
+  "title": "Umami Grilled Italian Mixed Peppers Tiramisu",
+  "description": "A unique Tuscan dessert featuring the sweetness of grilled Italian mixed peppers, combined with the richness of creamy mascarpone cheese and espresso, all layered in a traditional tiramisu form.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Italian mixed peppers",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Espresso",
+      "amount": "1 cup",
+      "notes": "Strong, freshly brewed"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Brush the Italian mixed peppers with unsalted butter and season with salt.",
+    "Grill the mixed peppers until tender and slightly charred, about 5-7 minutes per side.",
+    "Soak the ladyfingers in espresso for about 3-5 seconds on each side, until they are soft and pliable.",
+    "In a large mixing bowl, combine the mascarpone cheese, granulated sugar, and a pinch of salt.",
+    "In a separate bowl, whisk together the large eggs until well-beaten.",
+    "Layer the ladyfingers, mascarpone mixture, and grilled Italian mixed peppers in a large serving dish, repeating the layers two more times.",
+    "Dust the top of the tiramisu with a thin layer of cocoa powder, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "grilled-peppers",
+    "italian",
+    "tiramisu",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "umami-grilled-italian-mixed-peppers-tiramisu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-grilled-italian-mixed-peppers-tiramisu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:19:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "mixed peppers",
+    "diet": "ayurvedic-tamasic",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "mixed peppers",
+    "descriptor": "Umami Grilled",
+    "dishForm": "Tiramisu"
+  }
+}

@@ -1446,6 +1446,21 @@
     "shard": "u"
   },
   {
+    "slug": "umami-grilled-italian-mixed-peppers-tiramisu",
+    "title": "Umami Grilled Italian Mixed Peppers Tiramisu",
+    "tags": [
+      "dessert",
+      "easy-to-make",
+      "grilled-peppers",
+      "italian",
+      "tiramisu",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-indian-eggplant-kheer",
     "title": "Umami Indian Eggplant Kheer",
     "tags": [
