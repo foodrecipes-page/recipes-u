@@ -4027,5 +4027,21 @@
     "cuisine": "Algerian",
     "totalTimeMin": 65,
     "shard": "u"
+  },
+  {
+    "slug": "uzumaki-argentinian-ancho-vinegar-wrap",
+    "title": "Uzumaki Argentinian Ancho Vinegar Wrap",
+    "tags": [
+      "argentinian",
+      "grassy",
+      "hangover-cure",
+      "low-carb",
+      "springy",
+      "ssam-wrap",
+      "vegan"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 10,
+    "shard": "u"
   }
 ]
