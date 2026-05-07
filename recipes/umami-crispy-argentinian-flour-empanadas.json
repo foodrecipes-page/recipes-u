@@ -1,0 +1,111 @@
+{
+  "title": "Umami Crispy Argentinian Flour Empanadas",
+  "description": "A savory and energizing empanada dish featuring dashi-extract and self-raising flour, perfect as a snack or light meal.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Self-Raising Flour",
+      "amount": "1 1/2 cups",
+      "notes": "Ayurvedic-friendly, sattvic flour."
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tablespoons",
+      "notes": "Highly umami, dashi-extract alternative."
+    },
+    {
+      "name": "Dashi Extract",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for enhanced umami flavor."
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "For crispy empanada crust."
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "For dough hydration."
+    },
+    {
+      "name": "Egg,",
+      "amount": "1",
+      "notes": "For egg wash."
+    },
+    {
+      "name": "Kombu Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Umami and seaweed flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Water Chestnuts",
+      "amount": "1 cup",
+      "notes": "Canned, drained, and chopped."
+    },
+    {
+      "name": "Shredded Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional, for garnish."
+    }
+  ],
+  "instructions": [
+    "Combine self-raising flour, miso paste, dashi extract, and salt in a mixing bowl.",
+    "Gradually add water and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Divide the dough into 6-8 portions, depending on desired empanada size.",
+    "Roll out each portion into a thin circle.",
+    "Place a spoonful of water chestnuts in the center of each circle.",
+    "Fold the dough over the filling and press edges to seal.",
+    "Brush the tops with butter and egg wash."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "umami-crispy-argentinian-flour-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crispy-argentinian-flour-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:10:23Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "dashi-extract",
+    "primaryIngredient": "self-raising flour",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "flour",
+    "descriptor": "umami crispy",
+    "dishForm": "Empanadas"
+  }
+}
