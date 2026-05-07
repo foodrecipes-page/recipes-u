@@ -1,0 +1,92 @@
+{
+  "title": "Upeppy Crisp Thai Passion Fruit Pilaf",
+  "description": "A festive and peppery dish featuring a blend of Thai ingredients including passion fruit pulp, wrapped in a fragrant pilaf made with basmati rice.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups",
+      "amount": "basmati rice"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "unsalted butter"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "coconut oil"
+    },
+    {
+      "name": "1 large",
+      "amount": "onion, finely chopped"
+    },
+    {
+      "name": "1 can",
+      "amount": "drained and rinsed chickpeas"
+    },
+    {
+      "name": "1 can",
+      "amount": "tuna in water, drained"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "minced fresh cilantro"
+    },
+    {
+      "name": "2 ripe",
+      "amount": "passion fruits, pulp removed and seeds left in place"
+    },
+    {
+      "name": "1/3 cup",
+      "amount": "plain yogurt"
+    },
+    {
+      "name": "juice of 1 lime"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees F (205 degrees C).",
+    "Cook rice in 2 cups water until tender, about 30 minutes.",
+    "In a large skillet over medium heat, melt butter and oil together.",
+    "Add onion and sauté until softened, about 5 minutes.",
+    "Stir in chickpeas, tuna, cilantro, passion fruit pulp with seeds, yogurt, and lime juice.",
+    "Gently fold rice into the vegetable mixture until well combined.",
+    "Transfer to a baking dish and bake for 10 minutes or until heated through and lightly golden on top.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "passthejam",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 12,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "upeppy-crisp-thai-passion-fruit-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/upeppy-crisp-thai-passion-fruit-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T06:44:23Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "knead",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "satvik",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Passion Fruit",
+    "descriptor": "Peppy Crisp",
+    "dishForm": "Pilaf"
+  }
+}
