@@ -1,0 +1,111 @@
+{
+  "title": "ultra tender oaxacan meat barbacoa style casserole",
+  "description": "a briny, aerated, mexican (oaxacan) dish featuring caramelized sugar sauce. this casserole is perfect for a solo dinner.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ancho chili powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "chipotle peppers in adobo",
+      "amount": "2 tablespoons",
+      "notes": "",
+      "},{": {
+        "name": "sugar",
+        "amount": "1/2 cup",
+        "notes": ""
+      },
+      "      name": "lard or vegetable oil"
+    },
+    {
+      "name": "meat broth",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 275f (135c).",
+    "season the beef brisket with ancho chili powder, cumin, and salt. ",
+    "heat the lard or oil in a large dutch oven over medium-high heat. sear the beef brisket on all sides, then transfer to a plate and set aside. ",
+    "reduce heat to medium and add the onion and garlic to the pot. cook, stirring occasionally, until the onion is softened and caramelized, about 20 minutes. ",
+    "add the chipotle peppers in adobo to the pot and cook for 1 minute. ",
+    "add the bay leaves and meat broth to the pot and stir to combine. bring the mixture to a simmer. ",
+    "place the seared beef brisket on top of the onion mixture in the pot. cover the pot with a lid and transfer to the preheated oven. cook for 2 hours and 30 minutes, or until the beef is tender and easily shreds with a fork. ",
+    "remove the pot from the oven and carefully transfer the beef and onion mixture to a 9x13 inch baking dish. sprinkle the sugar over the top of the beef. ",
+    "transfer the baking dish to the oven and cook for an additional 15 minutes, or until the sugar is caramelized and the beef is crispy on top. ",
+    "remove the casserole from the oven and sprinkle with chopped cilantro. serve hot. "
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 165,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbacoa",
+    "beef",
+    "casserole",
+    "meat",
+    "mexican",
+    "oaxacan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 5,
+    "fat": 32
+  },
+  "slug": "ultra-tender-oaxacan-meat-barbacoa-style-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-tender-oaxacan-meat-barbacoa-style-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:22:03Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "nut-free",
+    "region": "oaxacan",
+    "cuisineAdjective": "oaxacan",
+    "mainIngredient": "meat",
+    "descriptor": "ultra tender",
+    "dishForm": "Barbacoa Style Casserole"
+  }
+}
