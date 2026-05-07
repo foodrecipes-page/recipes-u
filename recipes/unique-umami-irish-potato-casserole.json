@@ -1,0 +1,101 @@
+{
+  "title": "Unique Umami Irish Potato Casserole",
+  "description": "A comforting and savory Irish dish featuring caramelized sugar sauce and shio-koji cure, perfect for a sick day or special occasion. This macrobiotic-friendly recipe is sure to delight your taste buds.",
+  "cuisine": "Irish",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, caramelize the sugar over medium heat, stirring constantly.",
+    "Add the shio-koji to the caramelized sugar and stir to combine.",
+    "In a separate pan, sauté the onions, garlic, and celery in olive oil until tender.",
+    "Add the sliced mushrooms to the pan and cook until they release their liquid and start to brown.",
+    "In a large bowl, combine the cooked potato slices, sautéed mushroom mixture, and vegetable broth.",
+    "Pour the shio-koji sugar sauce over the potato mixture and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 45 minutes.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "irish-cuisine",
+    "macrobiotic",
+    "umami-rich",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-umami-irish-potato-casserole",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-irish-potato-casserole",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:09:17Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Unique Umami",
+    "dishForm": "Casserole"
+  }
+}

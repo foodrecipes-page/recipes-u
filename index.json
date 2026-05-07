@@ -2392,6 +2392,21 @@
     "shard": "u"
   },
   {
+    "slug": "unctuous-roasted-italian-beef-risotto",
+    "title": "Unctuous Roasted Italian Beef Risotto",
+    "tags": [
+      "ayurvedic-friendly",
+      "beef-recipes",
+      "comfort-food",
+      "gluten-free",
+      "italian-cuisine",
+      "one-pot"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 75,
+    "shard": "u"
+  },
+  {
     "slug": "unctuous-smoky-peruvian-duck-arroz-con-pato",
     "title": "Unctuous Smoky Peruvian Duck Arroz Con Pato",
     "tags": [
@@ -3259,6 +3274,21 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 30,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-umami-irish-potato-casserole",
+    "title": "Unique Umami Irish Potato Casserole",
+    "tags": [
+      "casserole",
+      "comfort-food",
+      "irish-cuisine",
+      "macrobiotic",
+      "umami-rich",
+      "vegetarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 75,
     "shard": "u"
   },
   {

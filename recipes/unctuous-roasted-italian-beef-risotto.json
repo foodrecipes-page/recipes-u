@@ -1,0 +1,114 @@
+{
+  "title": "Unctuous Roasted Italian Beef Risotto",
+  "description": "A hearty, dense Italian dish featuring roasted beef and rich risotto, served on a hot stone plate. This ayurvedic-sattvic-friendly recipe uses hot beef stock and a brine-wet cooking method.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1 1/2 cups",
+      "notes": "high-quality, Italian-grown"
+    },
+    {
+      "name": "Beef stock",
+      "amount": "4 cups",
+      "notes": "hot, low-sodium"
+    },
+    {
+      "name": "Roasted beef",
+      "amount": "1 pound",
+      "notes": "brine-wet, slow-cooked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup",
+      "notes": "dry, Italian"
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1/2 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the roasted beef with salt and black pepper.",
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the Arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the white wine and cook until the liquid is almost completely absorbed.",
+    "Add 1/2 cup of hot beef stock to the rice mixture and stir until absorbed.",
+    "Repeat the process of adding the beef stock in 1/2 cup increments, stirring until absorbed, until the rice is cooked and creamy.",
+    "Stir in the grated Grana Padano cheese and chopped fresh parsley.",
+    "Serve the risotto on a hot stone plate, topped with sliced roasted beef."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "beef-recipes",
+    "comfort-food",
+    "gluten-free",
+    "italian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unctuous-roasted-italian-beef-risotto",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-roasted-italian-beef-risotto",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:10:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "brine-wet",
+    "primaryIngredient": "hot beef stock",
+    "diet": "ayurvedic-sattvic",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "beef",
+    "descriptor": "Unctuous Roasted",
+    "dishForm": "Risotto"
+  }
+}
