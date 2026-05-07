@@ -1,0 +1,90 @@
+{
+  "title": "Uzumaki Algerian Lamb Pasta",
+  "description": "A kid-friendly fermented and shio-koji-cured lamb pasta dish infused with pecorino-romano for a unique fusion of flavors suitable for those following a fodmap diet.",
+  "cuisine": "Algerian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": 250,
+      "notes": "fermented and cured with shio-koji"
+    },
+    {
+      "name": "pecorino-romano cheese",
+      "amount": "1 cup finely grated"
+    },
+    {
+      "name": "pasta",
+      "amount": "4 oz"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 3,
+      "notes": "minced fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add garlic and onion, sauté until soft.",
+    "Stir in tomato paste and cook for another minute.",
+    "Fold in the lamb mixture with its curing sauce.",
+    "Simmer gently to ensure the lamb melts into tender pieces.",
+    "Cook pasta according to package instructions.",
+    "Combine pasta with the lamb sauce.",
+    "Top with grated pecorino-romano cheese just before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "fermented-lamb",
+    "fodmap-friendly",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 825,
+    "protein": 39,
+    "carbs": 63,
+    "fat": 41
+  },
+  "slug": "uzumaki-algerian-lamb-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/uzumaki-algerian-lamb-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T15:41:33Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Uzumaki",
+    "dishForm": "Pasta"
+  }
+}
