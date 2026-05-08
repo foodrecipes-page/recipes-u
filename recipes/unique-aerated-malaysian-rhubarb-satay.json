@@ -1,0 +1,102 @@
+{
+  "title": "Unique Aerated Malaysian Rhubarb Satay",
+  "description": "A tangy and aerated Malaysian dish featuring forced rhubarb, perfect for a weeknight dinner, this keto friendly satay is a unique twist on traditional Malaysian cuisine.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Forced rhubarb",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "2 large",
+      "notes": "for aerating"
+    },
+    {
+      "name": "Manteca",
+      "amount": "2 tablespoons",
+      "notes": "for emulsifying"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a blender, combine coconut milk, peanut oil, lime juice, ginger paste, garlic paste, salt, and black pepper, and blend until smooth.",
+    "In a large bowl, whisk together the blended mixture and egg whites until stiff peaks form.",
+    "Fold in the manteca until well combined.",
+    "Add the cut rhubarb to the bowl and toss to coat with the aerated mixture.",
+    "Thread the rhubarb pieces onto skewers, leaving a small space between each piece.",
+    "Grill the satay for 8-10 minutes, turning frequently, until the rhubarb is tender and lightly charred.",
+    "Serve the satay hot, garnished with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated-dishes",
+    "grilled-vegetables",
+    "keto-friendly",
+    "low-carb",
+    "malaysian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "unique-aerated-malaysian-rhubarb-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-aerated-malaysian-rhubarb-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:47:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Unique aerated",
+    "dishForm": "Satay"
+  }
+}
