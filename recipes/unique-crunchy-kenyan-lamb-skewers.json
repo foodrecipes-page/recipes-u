@@ -1,0 +1,95 @@
+{
+  "title": "Unique Crunchy Kenyan Lamb Skewers",
+  "description": "A peppery and crunchy Kenyan dish featuring lamb stock, perfect for a brunch mood, and diabetic-friendly. This recipe is made with a mortar-pestle-pound technique.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "lamb stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a mortar, pound the black peppercorns, coriander seeds, and cumin seeds into a coarse powder.",
+    "Add the garlic and ginger to the mortar and pound until well combined.",
+    "Add the lamb cubes to the mortar and mix until they are evenly coated with the spice mixture.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube.",
+    "Brush the skewers with olive oil and season with salt.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the lamb is cooked through.",
+    "Serve the skewers hot with a side of lamb stock and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "grilled-meats",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "unique-crunchy-kenyan-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crunchy-kenyan-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:18:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "lamb stock",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "unique crunchy",
+    "dishForm": "Skewers"
+  }
+}
