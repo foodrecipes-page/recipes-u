@@ -1,0 +1,105 @@
+{
+  "title": "Unique Peppery Syrian Beef Shin Stew",
+  "description": "This peppery Syrian beef shin stew is a hearty and flavorful dish perfect for a date night, featuring tender beef shin in a rich and aromatic sauce. It is low in sodium and can be prepared with minimal effort.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 teaspoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the beef shin pieces and cook until they are browned on all sides.",
+    "Add the ground allspice, ground cumin, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the low sodium beef broth, tomato paste, and salt, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew, covered, for 2.5 hours, or until the beef is tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "date-night",
+    "flavorful",
+    "hearty-dish",
+    "low-sodium",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "unique-peppery-syrian-beef-shin-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-peppery-syrian-beef-shin-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:50:23Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "beef shin",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "beef shin",
+    "descriptor": "unique peppery",
+    "dishForm": "Stew"
+  }
+}
