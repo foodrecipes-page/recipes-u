@@ -1,0 +1,92 @@
+{
+  "title": "Unique Garlicky Argentinian Beef Wrap",
+  "description": "A romantic Argentinian dish featuring garlicky beef, dried mint, and tempering chocolate, all wrapped in a lotus leaf.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, whisk together olive oil, garlic, dried mint, salt, and black pepper.",
+    "Add the beef strips to the bowl and toss to coat with the marinade.",
+    "Wrap each beef strip in a lotus leaf, making sure to seal the edges.",
+    "Place the wrapped beef on a baking sheet and bake for 15 minutes.",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 30 second increments.",
+    "Remove the beef from the oven and brush with the melted chocolate.",
+    "Return the beef to the oven and bake for an additional 5 minutes.",
+    "Remove the beef from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef-wrap",
+    "garlicky",
+    "mediterranean-friendly",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "unique-garlicky-argentinian-beef-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-garlicky-argentinian-beef-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:30:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "dried mint",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "unique garlicky",
+    "dishForm": "Wrap"
+  }
+}

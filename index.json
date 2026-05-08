@@ -4010,6 +4010,20 @@
     "shard": "u"
   },
   {
+    "slug": "unique-garlicky-argentinian-beef-wrap",
+    "title": "Unique Garlicky Argentinian Beef Wrap",
+    "tags": [
+      "argentinian",
+      "beef-wrap",
+      "garlicky",
+      "mediterranean-friendly",
+      "romantic"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
     "slug": "unique-garlicky-croatian-seafood-pilaf",
     "title": "Unique Garlicky Croatian Seafood Pilaf",
     "tags": [
@@ -4603,6 +4617,20 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 32,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-springy-moroccan-chicken-tagine",
+    "title": "Unique Springy Moroccan Chicken Tagine",
+    "tags": [
+      "macrobiotic-friendly",
+      "monsoon-meals",
+      "moroccan-cuisine",
+      "papillote-cooking",
+      "spring-recipes"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {

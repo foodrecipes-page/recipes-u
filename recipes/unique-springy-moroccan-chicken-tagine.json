@@ -1,0 +1,102 @@
+{
+  "title": "Unique Springy Moroccan Chicken Tagine",
+  "description": "This dish combines the flavors of Morocco with the freshness of spring, featuring a sweet and tangy sugar syrup and a papillote cooking method, making it a macrobiotic-friendly option. It is perfect for a rainy monsoon evening.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sugar syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, onion, garlic, ginger, paprika, cumin, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Cut a piece of parchment paper into a large square and place the chicken in the center.",
+    "Drizzle the sugar syrup over the chicken and fold the parchment paper into a papillote.",
+    "Place the papillote on a baking sheet and bake for 30 minutes.",
+    "Remove the papillote from the oven and let it rest for 5 minutes.",
+    "Serve the chicken hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "macrobiotic-friendly",
+    "monsoon-meals",
+    "moroccan-cuisine",
+    "papillote-cooking",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "unique-springy-moroccan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-springy-moroccan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:29:39Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "papillote",
+    "primaryIngredient": "sugar syrup",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Unique Springy",
+    "dishForm": "Tagine"
+  }
+}
