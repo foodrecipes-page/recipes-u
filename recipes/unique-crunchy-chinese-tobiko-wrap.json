@@ -1,0 +1,96 @@
+{
+  "title": "Unique Crunchy Chinese Tobiko Wrap",
+  "description": "A rich and crumbly Chinese dish featuring tobiko, ssam-wrap, and low-glycemic-friendly ingredients, perfect for a festive meal",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tobiko",
+      "amount": "1 cup",
+      "notes": "flying fish roe"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "8 pieces",
+      "notes": "low-carb, gluten-free"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked, diced"
+    },
+    {
+      "name": "yunnan mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Arrange the ssam wrap pieces on a baking sheet lined with parchment paper",
+    "Top each ssam wrap piece with a spoonful of chicken breast, some sliced yunnan mushrooms, and a sprinkle of green onions",
+    "Drizzle the soy sauce and sesame oil over the filling",
+    "Sprinkle the sesame seeds over the top of each wrap",
+    "Bake the wraps in the preheated oven for 10 minutes, or until crispy and golden brown",
+    "Remove the wraps from the oven and top each one with a spoonful of tobiko",
+    "Serve the wraps immediately, garnished with additional green onions if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "crunchy",
+    "festive",
+    "gluten-free",
+    "low-glycemic",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "unique-crunchy-chinese-tobiko-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crunchy-chinese-tobiko-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:17:36Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "tobiko",
+    "diet": "low-glycemic",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tobiko",
+    "descriptor": "Unique Crunchy",
+    "dishForm": "Wrap"
+  }
+}
