@@ -1,0 +1,98 @@
+{
+  "title": "Umami Rich Saudi Arabian Fish Skillet",
+  "description": "A malty and savory pescatarian dish featuring umeboshi, this Saudi Arabian fish skillet is a show-off recipe that combines the richness of umami flavors with the freshness of the sea, all emulsified to perfection and cooked to a bouncy qq texture in an iron teppan vessel.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "4",
+      "notes": "any white fish"
+    },
+    {
+      "name": "umeboshi",
+      "amount": "2",
+      "notes": "plum paste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan vessel over medium high heat to 400 degrees Fahrenheit.",
+    "Season the fish fillets with salt and black pepper.",
+    "Add olive oil to the preheated teppan and sear the fish fillets for 2 minutes on each side.",
+    "Remove the fish from the teppan and set aside.",
+    "Add more olive oil if necessary, then saute the minced garlic and grated ginger for 1 minute.",
+    "Add the umeboshi, malt syrup, and lemon juice to the teppan, stirring to emulsify.",
+    "Return the fish fillets to the teppan and spoon some of the umami rich sauce over the top of each fillet.",
+    "Reduce heat to medium low and simmer for 5 minutes or until the fish is cooked through.",
+    "Serve the fish hot, garnished with chopped scallions and a side of steamed vegetables.",
+    "Garnish with lemon wedges and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malty",
+    "one-pan",
+    "pescatarian",
+    "saudi-arabian",
+    "seafood",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "umami-rich-saudi-arabian-fish-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-rich-saudi-arabian-fish-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:30:14Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "emulsify",
+    "primaryIngredient": "umeboshi",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "fish",
+    "descriptor": "umami rich",
+    "dishForm": "Skillet"
+  }
+}
