@@ -1,0 +1,97 @@
+{
+  "title": "Unctuous Velvety Mediterranean Chicken Wrap",
+  "description": "A comforting and flavorful dish featuring chicken, apricot jam, and Mediterranean spices, all wrapped in a lotus leaf wrap. Perfect for a sick day or a quick and easy meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mediterranean spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4-6"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute.",
+    "Stir in the apricot jam and Mediterranean spice blend.",
+    "Add the cooked chicken back to the skillet and stir to combine with the jam and spice mixture.",
+    "Warm the lotus leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the chicken and jam mixture onto the center of each wrap and topping with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "dairy-free",
+    "easy-lunch",
+    "gluten-free",
+    "mediterranean",
+    "sick-day",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unctuous-velvety-mediterranean-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-velvety-mediterranean-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:22:16Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "apricot jam",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Unctuous velvety",
+    "dishForm": "Wrap"
+  }
+}
