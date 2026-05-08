@@ -1,0 +1,110 @@
+{
+  "title": "Unique Crumbly Australian Rice Krispies Biryani",
+  "description": "A lacto-vegetarian friendly dish featuring Rice Krispies, render-fat, and Australian monsoon ingredients, this crumbly biryani is a unique twist on traditional cuisine.",
+  "cuisine": "Australian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "2 cups",
+      "notes": "crushed into fine crumbs"
+    },
+    {
+      "name": "render-fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons",
+      "notes": "mixed with 1 tablespoon water"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the grated carrots and cook until they are tender.",
+    "Add the green peas and cook until they are tender.",
+    "Add the cooked basmati rice and stir well.",
+    "Add the curry powder mixed with water and stir well.",
+    "Add the melted render-fat and stir well.",
+    "Add the crushed Rice Krispies and stir until the mixture is crumbly.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "crunchy-texture",
+    "lacto-vegetarian",
+    "monsoon-inspired",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-crumbly-australian-rice-krispies-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crumbly-australian-rice-krispies-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:18:11Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "render-fat",
+    "primaryIngredient": "rice krispies",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Rice Krispies",
+    "descriptor": "Unique Crumbly",
+    "dishForm": "Biryani"
+  }
+}
