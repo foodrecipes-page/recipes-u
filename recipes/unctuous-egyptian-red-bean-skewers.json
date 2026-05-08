@@ -1,0 +1,103 @@
+{
+  "title": "Unctuous Egyptian Red Bean Skewers",
+  "description": "A fatty and molten Egyptian dish featuring anko red bean paste, char grilled to perfection on a binchotan grill, providing an energizing paleo friendly meal option.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red bean paste",
+      "amount": "1 cup",
+      "notes": "anko style"
+    },
+    {
+      "name": "grass fed beef",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium high heat.",
+    "In a large bowl, whisk together coconut oil, lemon juice, garlic, ginger, paprika, salt, and black pepper.",
+    "Add the grass fed beef cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated beef cubes onto the bamboo skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8 minutes per side, or until the beef is cooked to a safe internal temperature of 145 degrees.",
+    "While the skewers are grilling, heat the red bean paste in a small saucepan over low heat, stirring constantly.",
+    "Once the skewers are cooked, brush them with the heated red bean paste.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-cuisine",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "unctuous-egyptian-red-bean-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-egyptian-red-bean-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:15:53Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "anko-red-bean-paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "red bean",
+    "descriptor": "Unctuous molten",
+    "dishForm": "Skewers"
+  }
+}
