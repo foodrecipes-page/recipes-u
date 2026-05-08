@@ -1,0 +1,95 @@
+{
+  "title": "Unique Umami Vietnamese Tofu Biryani",
+  "description": "A plant-based Vietnamese dish featuring biryani masala and salt-bake tofu, perfect for meal prep. This jammy and glassy-jelly dish is a unique twist on traditional biryani.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "biryani masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together biryani masala and salt.",
+    "Toss the tofu cubes with the biryani masala mixture until evenly coated.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the basmati rice to the skillet and cook for 2 minutes, stirring constantly.",
+    "In a large baking dish, combine the cooked rice mixture, tofu, and vegetable broth.",
+    "Bake for 25 minutes, or until the liquid is absorbed and the rice is tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "meal-prep",
+    "one-pan",
+    "plant-based",
+    "umami-rich",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "unique-umami-vietnamese-tofu-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-vietnamese-tofu-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:16:06Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "salt-bake",
+    "primaryIngredient": "biryani masala",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "unique umami",
+    "dishForm": "Biryani"
+  }
+}
