@@ -372,6 +372,21 @@
     "shard": "u"
   },
   {
+    "slug": "ultra-hearty-australian-beef-stew",
+    "title": "Ultra Hearty Australian Beef Stew",
+    "tags": [
+      "australian-cuisine",
+      "beef-recipes",
+      "comfort-food",
+      "hearty-stew",
+      "one-pot",
+      "winter-dinner"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 210,
+    "shard": "u"
+  },
+  {
     "slug": "ultra-japanese-snow-peas-tonkotsu-ramen",
     "title": "Ultra Japanese Snow Peas Tonkotsu Ramen",
     "tags": [
