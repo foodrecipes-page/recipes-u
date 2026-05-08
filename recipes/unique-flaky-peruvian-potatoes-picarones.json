@@ -1,0 +1,84 @@
+{
+  "title": "Unique Flaky Peruvian Potatoes Picarones",
+  "description": "A fresh and light Peruvian dish featuring floury potatoes, formed into picarones and fried until crispy, this keto-friendly recipe is perfect for a snack or dessert. The combination of potatoes, rice flour, and khao khuas gives it a unique flavor and texture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "floury potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "khao khuas",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Boil the diced potatoes in water until they are tender, then drain and let them cool.",
+    "Grind the cooled potatoes into a fine mash using a fork or potato masher.",
+    "In a large bowl, combine the mashed potatoes, rice flour, khao khuas, eggs, and salt, and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape using a rolling pin or your hands.",
+    "Heat the vegetable oil in a deep frying pan over medium heat until it reaches 350 degrees.",
+    "Fry the picarones in batches until they are golden brown and crispy, about 3-4 minutes per side.",
+    "Drain the fried picarones on paper towels and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fried-foods",
+    "gluten-free",
+    "keto-friendly",
+    "peruvian-cuisine",
+    "potato-recipes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "unique-flaky-peruvian-potatoes-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-flaky-peruvian-potatoes-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:18:37Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "floury potatoes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Unique Flaky",
+    "dishForm": "Picarones"
+  }
+}
