@@ -1,0 +1,116 @@
+{
+  "title": "unapologetically-indulgent-thailand-kippers-satay",
+  "description": "This dish is a unique fusion of traditional Thai Isaan flavors with the rich, savory taste of kippers. It's a low-calorie-friendly twist on the classic satay.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kippers",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, blend kippers, soy sauce, fish sauce, brown sugar, garlic, ginger, and chili flakes until coarsely chopped.",
+    "Heat coconut oil in a non-stick skillet over medium heat.",
+    "Add the kipper mixture to the skillet and cook, breaking it up with a spoon, until it's lightly browned and crispy.",
+    "Stir in lemon juice and cook for an additional 2 minutes.",
+    "Thread the kipper mixture onto skewers.",
+    "Brush the cucumber slices with a little water and grill them over medium heat until slightly charred.",
+    "Serve the kipper satay hot with grilled cucumber slices and garnish with mint leaves.",
+    "Garnish with additional mint leaves and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-calorie-friendly",
+    "one-pan",
+    "seafood",
+    "thai-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "unapologetically-indulgent-thailand-kippers-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unapologetically-indulgent-thailand-kippers-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:01:07Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "soffritto-base",
+    "primaryIngredient": "kippers",
+    "diet": "low-calorie",
+    "region": "isaan",
+    "cuisineAdjective": "Thailand",
+    "mainIngredient": "kippers",
+    "descriptor": "Unapologetically Indulgent",
+    "dishForm": "Satay"
+  }
+}
