@@ -1,0 +1,98 @@
+{
+  "title": "Uncommonly Grassy Russian Duck Paella",
+  "description": "A unique Russian dish featuring duck confit leg, fermented ingredients, and macrobiotic-friendly components, all cooked in a traditional paella pan. This meal is perfect for a special occasion or a fancy dinner party.",
+  "cuisine": "Russian",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck confit leg",
+      "amount": "2 pounds",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "wild rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fermented cabbage",
+      "amount": "1 cup",
+      "notes": "sauerkraut"
+    },
+    {
+      "name": "grassy sorrel leaves",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in the paella pan over medium heat.",
+    "Add the smoked paprika, sea salt, and black pepper to the pan and stir for 1 minute.",
+    "Add the duck confit leg to the pan and sear for 2 minutes on each side.",
+    "Add the wild rice, fermented cabbage, and grassy sorrel leaves to the pan and stir to combine.",
+    "Transfer the paella pan to the preheated oven and bake for 25 minutes.",
+    "Remove the paella pan from the oven and stir in the lemon juice.",
+    "Return the paella pan to the oven and bake for an additional 10 minutes.",
+    "Remove the paella pan from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fancy-dinner",
+    "gluten-free",
+    "macrobiotic-friendly",
+    "one-pan",
+    "russian-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "uncommonly-grassy-russian-duck-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/uncommonly-grassy-russian-duck-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:05:49Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "duck",
+    "descriptor": "Uncommonly Grassy",
+    "dishForm": "Paella"
+  }
+}
