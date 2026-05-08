@@ -2902,6 +2902,21 @@
     "shard": "u"
   },
   {
+    "slug": "unctuous-yeasty-chinese-pork-baozi",
+    "title": "Unctuous Yeasty Chinese Pork Baozi",
+    "tags": [
+      "chinese-food",
+      "dairy-free",
+      "homemade-baozi",
+      "pork-recipes",
+      "steamed-baozi",
+      "yeasty-dough"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 60,
+    "shard": "u"
+  },
+  {
     "slug": "under-fire-glazed-ethiopian-pork-chops-tagine",
     "title": "Under-fire-glazed Ethiopian Pork Chops Tagine",
     "tags": [
@@ -4086,6 +4101,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-smoky-brazilian-chicken-skewers",
+    "title": "Unique Smoky Brazilian Chicken Skewers",
+    "tags": [
+      "brazilian-inspired",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "paleo-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 32,
     "shard": "u"
   },
   {

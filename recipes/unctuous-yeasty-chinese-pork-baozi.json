@@ -1,0 +1,95 @@
+{
+  "title": "Unctuous Yeasty Chinese Pork Baozi",
+  "description": "Indulgent Chinese baozi filled with yeasty dough and pork, featuring dijon mustard and a dairy-free friendly recipe, the dough is shock cooled in an ice bath to create a shaggy texture.",
+  "cuisine": "Chinese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "bread flour can be substituted"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar.",
+    "Gradually add in oil and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in an ice bath to shock cool for 10 minutes.",
+    "In a separate bowl, mix together chopped pork, dijon mustard, and scallions.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk and place a tablespoon of pork filling in the center.",
+    "Fold the dough over the filling to form a baozi and seal the edges.",
+    "Steam the baozi for 15 minutes until cooked through.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "dairy-free",
+    "homemade-baozi",
+    "pork-recipes",
+    "steamed-baozi",
+    "yeasty-dough"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "unctuous-yeasty-chinese-pork-baozi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-yeasty-chinese-pork-baozi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:46:45Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "dijon mustard",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Unctuous Yeasty",
+    "dishForm": "Baozi"
+  }
+}
