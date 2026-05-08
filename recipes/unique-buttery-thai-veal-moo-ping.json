@@ -1,0 +1,101 @@
+{
+  "title": "Unique Buttery Thai Veal Moo Ping",
+  "description": "A buttery, dense, and comforting Thai street dish featuring veal, nuka-pickle, and gluten-free friendly ingredients in a traditional moo ping form",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "gluten-free soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat",
+    "Add the minced garlic and cook for 1 minute until fragrant",
+    "Add the thinly sliced veal and cook for 3-4 minutes per side until browned",
+    "Add the chopped nuka-pickle, fish sauce, lime juice, brown sugar, and gluten-free soy sauce to the skillet",
+    "Stir everything together to combine and cook for an additional 2 minutes",
+    "Reduce the heat to medium-low and stir in the butter until melted and smooth",
+    "Season with black pepper to taste",
+    "Serve the veal moo ping hot, garnished with additional nuka-pickle and lime wedges if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "comfort-food",
+    "dinner-ideas",
+    "gluten-free",
+    "thai-street-food",
+    "veal-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "unique-buttery-thai-veal-moo-ping",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-buttery-thai-veal-moo-ping",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:28:15Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "veal",
+    "diet": "gluten-free",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "veal",
+    "descriptor": "Unique Buttery",
+    "dishForm": "Moo Ping"
+  }
+}
