@@ -1,0 +1,98 @@
+{
+  "title": "Unique Ethiopian Couscous Pilaf",
+  "description": "A floral and chewy Ethiopian dish featuring couscous, perfect for a lazy Sunday, this vegan-friendly pilaf is a must try. It is made with namul-blanch-season method for added flavor.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "or other leafy greens"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large saucepan.",
+    "Add the namul to the boiling water and blanch for 2 minutes.",
+    "Remove the namul from the water with a slotted spoon and set aside.",
+    "Add the onion, garlic, and ginger to the same water and cook until the onion is translucent.",
+    "Add the berbere spice and salt to the water and stir to combine.",
+    "Add the couscous to the water, cover the saucepan, and turn off the heat.",
+    "Let the couscous steam for 5 minutes, then fluff with a fork.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the blanched namul to the skillet and cook until wilted.",
+    "Combine the cooked couscous and namul mixture in a large bowl and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "ethiopian-cuisine",
+    "floral",
+    "lazy-sunday",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "unique-ethiopian-couscous-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-ethiopian-couscous-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:54:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "couscous",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "couscous",
+    "descriptor": "Unique",
+    "dishForm": "Pilaf"
+  }
+}
