@@ -1,0 +1,102 @@
+{
+  "title": "Unique Spicy Portuguese Pork Buns",
+  "description": "A fresh and snappy Portuguese dish featuring buns, ferment kimchi, and low calorie friendly ingredients, perfect for a hangover cure.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "ferment"
+    },
+    {
+      "name": "buns",
+      "amount": "4",
+      "notes": "portuguese style"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Slice the pork shoulder into thin strips.",
+    "In a large bowl, whisk together soy sauce, garlic, ginger, and sriracha.",
+    "Add the sliced pork to the bowl and marinate for 10 minutes.",
+    "Place the marinated pork on a baking sheet lined with parchment paper.",
+    "Bake the pork in the preheated oven for 15 minutes or until cooked through.",
+    "Meanwhile, toast the buns by baking them in the oven for 5 minutes.",
+    "Spread a layer of kimchi on each toasted bun.",
+    "Add a few slices of the cooked pork on top of the kimchi.",
+    "Sprinkle chopped scallions and a drizzle of sesame oil on top of the pork."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "low-calorie",
+    "lunch-ideas",
+    "portuguese-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "unique-spicy-portuguese-pork-buns",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-spicy-portuguese-pork-buns",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:43:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "buns",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork",
+    "descriptor": "Unique Spicy",
+    "dishForm": "Buns"
+  }
+}
