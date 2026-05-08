@@ -1,0 +1,102 @@
+{
+  "title": "Unique Crispy Peruvian Lentil Stew",
+  "description": "A tangy and crispy Peruvian dish featuring brown lentils and served with toasted bread, perfect for a lazy Sunday, and is plant-based friendly, cooked in a claypot vessel",
+  "cuisine": "Peruvian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf",
+      "notes": "cut into slices"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the claypot over medium heat",
+    "Add the chopped onion and cook until softened",
+    "Add the minced garlic and cook for 1 minute",
+    "Add the diced red bell pepper and cook until tender",
+    "Add the brown lentils, vegetable broth, tomato paste, and crushed tomatoes",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes",
+    "Season the stew with salt and pepper to taste",
+    "Toast the bread slices until crispy",
+    "Serve the stew hot, topped with crispy bread slices"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-cooking",
+    "lazy-sunday",
+    "lentil-recipes",
+    "one-pot",
+    "peruvian-cuisine",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "unique-crispy-peruvian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crispy-peruvian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:30:16Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "toast",
+    "primaryIngredient": "brown lentils",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lentils",
+    "descriptor": "Unique Crispy",
+    "dishForm": "Stew"
+  }
+}
