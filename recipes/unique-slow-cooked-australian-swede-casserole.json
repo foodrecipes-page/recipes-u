@@ -1,0 +1,98 @@
+{
+  "title": "Unique Slow-Cooked Australian Swede Casserole",
+  "description": "A charred, light, and adventurous Australian dish featuring swede, this casserole is perfect for a unique dinner experience, and is FODMAP-friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 teaspoon",
+      "notes": "FODMAP-friendly alternative to garlic"
+    },
+    {
+      "name": "lamb mince",
+      "amount": "500g"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 150 degrees Celsius.",
+    "In a large pan, heat the olive oil over medium heat and cook the diced onion until softened.",
+    "Add the garlic-infused oil, lamb mince, salt, and black pepper to the pan, and cook until the lamb is browned.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "In a large bowl, combine the cooked lamb mixture, diced swede, and beef broth.",
+    "Transfer the mixture to a baking dish and cover with foil.",
+    "Bake for 2 hours, then remove the foil and bake for an additional 30 minutes.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "fodmap-friendly",
+    "lamb-recipes",
+    "root-vegetables",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "unique-slow-cooked-australian-swede-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-slow-cooked-australian-swede-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:58:46Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "slow-cook",
+    "primaryIngredient": "swede",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "swede",
+    "descriptor": "unique slow-cooked",
+    "dishForm": "Casserole"
+  }
+}
