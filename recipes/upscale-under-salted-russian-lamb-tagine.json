@@ -1,0 +1,103 @@
+{
+  "title": "Upscale Under-salted Russian Lamb Tagine",
+  "description": "A tangy and pillowy monsoon-inspired Russian dish featuring lamb stock, carefully cooked in a tagine to reduce sodium content.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lamb stock",
+      "amount": "1L",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "Dried mint",
+      "amount": "10g",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "20g",
+      "notes": "Ginger paste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tagine over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the lamb shoulder, lamb stock, tomato paste, dried mint, ginger paste, cumin, and turmeric. Stir well to combine.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer, covered, for 2 hours, or until the lamb is tender.",
+    "Season with salt to taste.",
+    "Serve the tagine hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "lamb",
+    "low-sodium",
+    "one-pan",
+    "russian",
+    "weeknight",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "upscale-under-salted-russian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/upscale-under-salted-russian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:37:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "tagine-cook",
+    "primaryIngredient": "lamb stock",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Upscale Under-salted",
+    "dishForm": "Tagine"
+  }
+}
