@@ -1,0 +1,103 @@
+{
+  "title": "Unique Smoky Kenyan Chicken Skewers",
+  "description": "A citrusy and tender Kenyan dish featuring desiccated coconut, grilled to perfection on a yakimono grill, and suitable for an ayurvedic tamasic diet. This recipe combines the flavors of Africa and Asia in a unique and delicious way.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "desiccated coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Sprinkle the desiccated coconut over the chicken.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Serve the skewers hot, garnished with additional desiccated coconut if desired.",
+    "Let the skewers rest for a few minutes before serving.",
+    "Serve with your favorite sides, such as grilled vegetables or roasted sweet potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-diet",
+    "coconut-recipes",
+    "dinner-ideas",
+    "gluten-free",
+    "grilled-chicken",
+    "kenyan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "unique-smoky-kenyan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-smoky-kenyan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:06:29Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Unique Smoky",
+    "dishForm": "Skewers"
+  }
+}
