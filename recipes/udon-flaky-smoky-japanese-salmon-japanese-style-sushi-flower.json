@@ -1,0 +1,125 @@
+{
+  "title": "smoky udon-flaky japanese salmon",
+  "description": "a low-carb friendly japanese dish featuring pita bread, smoky salmon, and crispy udon",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "1",
+      "notes": "fresh, wild-caught"
+    },
+    {
+      "name": "pita bread",
+      "amount": "1",
+      "notes": "whole wheat, whole grain"
+    },
+    {
+      "name": "udon noodles",
+      "amount": "1 cup",
+      "notes": "low-carb, gluten-free"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "healthy fats"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "crunchy texture"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "flavor enhancer"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "flavor enhancer"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp",
+      "notes": "hydration"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper and place the pita bread on it.",
+    "Bake the pita bread for 10 minutes or until crispy and golden brown.",
+    "Meanwhile, cook the udon noodles according to the package instructions.",
+    "In a small bowl, whisk together soy sauce, sugar, and sesame oil.",
+    "In a large skillet, heat a small amount of oil over medium-high heat.",
+    "Add the salmon fillet and cook for 2-3 minutes or until cooked through.",
+    "Remove the salmon from the skillet and set aside.",
+    "Add the cooked udon noodles to the skillet and toss with the soy sauce mixture.",
+    "Add the crispy pita bread, green onions, and toasted sesame seeds to the skillet.",
+    "Toss everything together and cook for an additional 2 minutes.",
+    "Return the salmon to the skillet and cook for an additional 1 minute.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "japanese-cuisine",
+    "low-carb",
+    "one-pan",
+    "quick-dinner",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "udon-flaky-smoky-japanese-salmon-japanese-style-sushi-flower",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/udon-flaky-smoky-japanese-salmon-japanese-style-sushi-flower",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:32:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "pita bread",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "salmon",
+    "descriptor": "Udon-flaky smoky",
+    "dishForm": "Japanese-Style Sushi-Flower"
+  }
+}
