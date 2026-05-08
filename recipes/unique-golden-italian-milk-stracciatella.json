@@ -1,0 +1,96 @@
+{
+  "title": "Unique Golden Italian Milk Stracciatella",
+  "description": "A festive Italian dessert featuring golden syrup and a lamination-puff pastry, this stracciatella is a unique twist on a classic Calabrian dish, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk preferred"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "turbinado sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a small bowl, whisk together the milk, golden syrup, and vanilla extract.",
+    "In a separate bowl, whisk together the eggs, turbinado sugar, and salt.",
+    "Add the egg mixture to the milk mixture and whisk until well combined.",
+    "Pour the mixture onto the rolled out puff pastry, leaving a 1 inch border around the edges.",
+    "Fold the edges of the pastry up over the filling to form a crust.",
+    "Brush the melted butter over the crust.",
+    "Place the stracciatella on a lazy-susan-spinner and bake for 25 minutes.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "golden-syrup",
+    "italian-dessert",
+    "puff-pastry",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "unique-golden-italian-milk-stracciatella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-golden-italian-milk-stracciatella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:54:39Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "lamination-puff",
+    "primaryIngredient": "golden syrup",
+    "diet": "anti-inflammatory",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "milk",
+    "descriptor": "Unique Golden",
+    "dishForm": "Stracciatella"
+  }
+}
