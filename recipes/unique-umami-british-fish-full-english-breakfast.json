@@ -1,0 +1,105 @@
+{
+  "title": "Unique Umami British Fish Full English Breakfast",
+  "description": "A pescatarian-friendly full English breakfast featuring smoked fish, apricot, and earthy flavors, all cooked in a cataplana vessel.",
+  "cuisine": "British",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "smoked cod",
+      "amount": "12 oz",
+      "notes": "flaked"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "sausages",
+      "amount": "4",
+      "notes": "vegetarian"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in the cataplana vessel over medium heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the chopped spinach and cook until wilted.",
+    "Add the diced tomatoes, smoked paprika, and hot sauce, and stir to combine.",
+    "Make four wells in the mixture and crack an egg into each well.",
+    "Add the flaked smoked cod on top of the eggs.",
+    "Drizzle the apricot jam over the cod.",
+    "Add the vegetarian sausages to the cataplana vessel.",
+    "Transfer the cataplana vessel to the preheated oven and bake for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-breakfast",
+    "full-english",
+    "one-pan",
+    "pescatarian",
+    "smoked-fish",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "unique-umami-british-fish-full-english-breakfast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-british-fish-full-english-breakfast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:58:34Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "smoke-hot",
+    "primaryIngredient": "apricot",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "fish",
+    "descriptor": "unique umami",
+    "dishForm": "Full English Breakfast"
+  }
+}
