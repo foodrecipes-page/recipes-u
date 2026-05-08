@@ -1,0 +1,98 @@
+{
+  "title": "Under-Seasoned Middle Eastern Oatmeal Tabbouleh Salad",
+  "description": "A refreshing Middle Eastern-inspired salad to cure a hangover, featuring under-seasoned oatmeal, bulgur, and herbs. Perfect for a spring morning.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bulgur",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grated Carrot",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lebanese Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cracked Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring 2 cups of water to a boil over high heat.",
+    "Add 1/4 cup of bulgur and a pinch of salt. Reduce heat to low and simmer, covered, for 10 minutes.",
+    "In a large bowl, combine cooked bulgur, 1 cup of rolled oats, 1/4 cup of chopped scallions, 1/4 cup of grated carrot, and 1/4 cup each of chopped parsley and mint.",
+    "In a small bowl, whisk together 2 tablespoons of pomegranate molasses, 2 tablespoons of olive oil, and a pinch of salt and pepper.",
+    "Pour the dressing over the bulgur mixture and toss to combine.",
+    "Serve warm, garnished with additional parsley and mint if desired.",
+    "Note: This salad is intentionally under-seasoned to allow for individual taste preferences."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-dish",
+    "hangover-cure",
+    "high-fiber",
+    "one-pan",
+    "ovo-vegetarian",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "under-seasoned-middle-eastern-oatmeal-tabbouleh-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/under-seasoned-middle-eastern-oatmeal-tabbouleh-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:01:16Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "bain-marie",
+    "primaryIngredient": "oatmeal",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "oatmeal",
+    "descriptor": "Under-Seasoned",
+    "dishForm": "Tabbouleh Salad"
+  }
+}
