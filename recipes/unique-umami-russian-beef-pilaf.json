@@ -1,0 +1,102 @@
+{
+  "title": "Unique Umami Russian Beef Pilaf",
+  "description": "A nutty and velvety Russian dish featuring ground annatto and a smoky heat, perfect for those looking for a sugar-free friendly meal option.",
+  "cuisine": "Russian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "long grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the ground annatto, smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the long grain rice and cook for 2 minutes, until the rice is coated in the spice mixture and slightly toasted.",
+    "Add the beef broth to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 20 minutes, until the rice is cooked and the liquid has been absorbed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "russian-cuisine",
+    "smoky",
+    "sugar-free",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "unique-umami-russian-beef-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-russian-beef-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:52:25Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "smoke-hot",
+    "primaryIngredient": "ground annatto",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "unique umami",
+    "dishForm": "Pilaf"
+  }
+}
