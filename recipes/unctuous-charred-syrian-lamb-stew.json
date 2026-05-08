@@ -1,0 +1,104 @@
+{
+  "title": "Unctuous Charred Syrian Lamb Stew",
+  "description": "A rich and flavorful Syrian lamb stew with a charred twist, featuring tabasco sauce and slow-cooked to perfection in a kadhai.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tabasco sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a kadhai over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the kadhai and set aside.",
+    "Add the chopped onion to the kadhai and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the tabasco sauce, cumin, paprika, salt, and black pepper to the kadhai and stir to combine.",
+    "Add the browned lamb back to the kadhai and pour in the chicken broth.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours.",
+    "Remove the kadhai from the heat and let the stew rest, covered, for 10 minutes.",
+    "Serve the stew hot, garnished with fresh parsley or cilantro.",
+    "Char the top of the stew with a kitchen torch, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lamb-recipes",
+    "one-pot",
+    "slow-cooked",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "unctuous-charred-syrian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-charred-syrian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:56:51Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "slow-cook",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Unctuous Charred",
+    "dishForm": "Stew"
+  }
+}
