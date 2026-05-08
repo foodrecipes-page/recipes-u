@@ -1,0 +1,101 @@
+{
+  "title": "Unbridled Midnight Cravings Peruvian Gochujang Suspiro-Limeno",
+  "description": "A rich, springy Peruvian dish featuring gochujang, yuzu-cure, and satvik-friendly ingredients, served in a corn-husk wrap.",
+  "cuisine": "peruvian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "grouper fillet",
+      "amount": "120g",
+      "notes": "sustainably sourced"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "60ml"
+    },
+    {
+      "name": "gochujang",
+      "amount": "120g"
+    },
+    {
+      "name": "toasted corn husk",
+      "amount": "4"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "20g"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "10g"
+    },
+    {
+      "name": "crushed plantain chips",
+      "amount": "20g"
+    },
+    {
+      "name": "dried cilantro",
+      "amount": "10g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together gochujang, yuzu juice, salt, and black pepper.",
+    "Add the grouper fillet to the marinade and refrigerate for at least 2 hours.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the grouper from the marinade and cook for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, toast the corn husks on the grill or in a dry pan until lightly charred.",
+    "Mash the avocado oil, yuzu zest, and crushed plantain chips together in a small bowl.",
+    "Once the grouper is cooked, wrap each fillet in a toasted corn husk and top with the mashed avocado mixture.",
+    "Garnish with dried cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fish",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "satvik",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "unbridled-midnight-cravings-peruvian-gochujang-suspiro-limeno",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unbridled-midnight-cravings-peruvian-gochujang-suspiro-limeno",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:15:01Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "gochujang",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "gochujang",
+    "descriptor": "Unbridled Midnight Cravings",
+    "dishForm": "Suspiro-Limeno"
+  }
+}
