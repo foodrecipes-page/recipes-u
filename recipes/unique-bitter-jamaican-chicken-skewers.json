@@ -1,0 +1,95 @@
+{
+  "title": "Unique Bitter Jamaican Chicken Skewers",
+  "description": "A quick-fix Jamaican dish featuring cider vinegar and wok-hei, these bitter chicken skewers are perfect for a snack or dinner. The combination of spices and vinegar gives the dish a unique flavor profile.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together cider vinegar, soy sauce, brown sugar, scotch bonnet pepper, thyme, and garlic.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through.",
+    "While the chicken is cooking, heat a wok or large skillet over high heat.",
+    "Once the chicken is done, add it to the wok and stir-fry for 1-2 minutes to develop the wok-hei flavor.",
+    "Serve the skewers hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-flavors",
+    "gluten-free",
+    "grilled-chicken",
+    "jamaican-cuisine",
+    "quick-fix",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "unique-bitter-jamaican-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-bitter-jamaican-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:37:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "wok-hei",
+    "primaryIngredient": "cider vinegar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Unique Bitter",
+    "dishForm": "Skewers"
+  }
+}
