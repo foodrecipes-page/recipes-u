@@ -1,0 +1,98 @@
+{
+  "title": "Unique Glassy Australian Spring Onions Skillet",
+  "description": "A kid-friendly Australian dish featuring spring onions in a floral and glassy jelly sauce, made with beurre-monte and FODMAP-friendly ingredients. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gelatin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "edible flowers",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped spring onions and cook until they are softened.",
+    "In a small bowl, whisk together the gelatin and chicken broth until the gelatin is dissolved.",
+    "Add the gelatin mixture to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook until it has thickened into a glassy jelly sauce.",
+    "Stir in the beurre-monte, salt, pepper, and lemon juice.",
+    "Continue to cook for an additional 2 minutes, until the sauce has coated the spring onions.",
+    "Garnish with edible flowers, if desired.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "fodmap-friendly",
+    "gluten-free",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "unique-glassy-australian-spring-onions-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-glassy-australian-spring-onions-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:13:13Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "beurre-monte",
+    "primaryIngredient": "spring onions",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "spring onions",
+    "descriptor": "Unique glassy",
+    "dishForm": "Skillet"
+  }
+}
