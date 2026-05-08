@@ -1,0 +1,104 @@
+{
+  "title": "Unbelievably Tender Croatian Pork Stew",
+  "description": "A hearty and savory stew featuring tender pork, Bramley apples, and a rich deglaze fond, perfect for a comforting meal or hangover cure. This low-carb-friendly dish is a staple of Croatian cuisine.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "Bramley apples",
+      "amount": "2 medium",
+      "notes": "peeled, cored, and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat, then sear the pork until browned on all sides.",
+    "Remove the pork from the pot and set it aside, then add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the paprika, caraway seeds, salt, and pepper, and cook for 1 minute, stirring constantly.",
+    "Add the sliced apples and cook for 2-3 minutes, stirring occasionally, until they start to soften.",
+    "Add the chicken broth and red wine, scraping up any browned bits from the bottom of the pot.",
+    "Return the pork to the pot, bring the stew to a boil, then cover and transfer it to the oven.",
+    "Bake the stew at 300 degrees Fahrenheit for 2 1/2 hours, or until the pork is tender and the apples are cooked through.",
+    "Remove the pot from the oven and let it cool slightly, then serve the stew hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "hearty-stew",
+    "low-carb",
+    "one-pot",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "unbelievably-tender-croatian-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unbelievably-tender-croatian-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:05:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "bramley apples",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "unbelievably tender",
+    "dishForm": "Stew"
+  }
+}
