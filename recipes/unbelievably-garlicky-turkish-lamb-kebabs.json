@@ -1,0 +1,92 @@
+{
+  "title": "Unbelievably Garlicky Turkish Lamb Kebabs",
+  "description": "A flavorful and aromatic Turkish dish featuring lamb, garlic, and lemon zest, perfect for satisfying midnight cravings. This macrobiotic-friendly recipe uses fry-grind-rice-khao-khua for added texture.",
+  "cuisine": "Turkish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "khao khuah powder",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, combine lamb cubes, minced garlic, lemon zest, olive oil, salt, and black pepper, and mix well.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until they are cooked through.",
+    "In a small bowl, whisk together rice vinegar and khao khuah powder.",
+    "Brush the kebabs with the vinegar mixture during the last minute of grilling.",
+    "Serve the kebabs hot, garnished with additional lemon zest if desired.",
+    "Let the kebabs rest for a few minutes before serving.",
+    "Serve with a side of fry-grind-rice-khao-khua for a satisfying snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic-lovers",
+    "lamb-recipes",
+    "macrobiotic-friendly",
+    "midnight-cravings",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "unbelievably-garlicky-turkish-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unbelievably-garlicky-turkish-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:42:51Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "lemon zest",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Unbelievably garlicky",
+    "dishForm": "Kebabs"
+  }
+}
