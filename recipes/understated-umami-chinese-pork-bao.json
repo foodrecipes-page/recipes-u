@@ -1,0 +1,104 @@
+{
+  "title": "Understated Umami Chinese Pork Bao",
+  "description": "A salty, bouncy-qq, sick-day Chinese dish featuring rosemary, served in a donabe, this kosher-friendly recipe is perfect for a comforting meal. It originates from Jiangsu cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "brine-wet"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bao dough",
+      "amount": "1 package",
+      "notes": "store-bought"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe over medium heat.",
+    "Heat the vegetable oil in the donabe and sear the pork shoulder until browned on all sides.",
+    "Add the sliced ginger and cook for 1 minute.",
+    "Add the soy sauce, sesame oil, salt, and black pepper, and stir to combine.",
+    "Add the brine-wet pork shoulder back to the donabe and cook for 10 minutes.",
+    "Meanwhile, prepare the bao dough according to the package instructions.",
+    "Assemble the bao by placing a portion of the pork mixture onto a dough circle and topping with chopped green onions and a sprig of rosemary.",
+    "Steam the bao for 10 minutes.",
+    "Serve the Understated Umami Chinese Pork Bao hot.",
+    "Garnish with additional green onions and rosemary if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "comfort-food",
+    "homemade-bao",
+    "kosher-friendly",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "understated-umami-chinese-pork-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/understated-umami-chinese-pork-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:46:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "brine-wet",
+    "primaryIngredient": "rosemary",
+    "diet": "kosher",
+    "region": "jiangsu",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "understated umami",
+    "dishForm": "Bao"
+  }
+}
