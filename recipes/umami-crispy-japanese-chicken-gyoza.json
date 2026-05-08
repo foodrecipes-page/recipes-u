@@ -53,7 +53,8 @@
     "Repeat the process with the remaining wrappers and filling.",
     "Brush the tops of the gyoza with sesame seed oil and sprinkle with sesame seeds.",
     "Place the gyoza on a baking sheet lined with parchment paper and broil for 5 minutes on each side, or until crispy and golden brown.",
-    "Serve the gyoza hot with your favorite dipping sauce."
+    "Serve the gyoza hot with your favorite dipping sauce.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -90,5 +91,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Umami Crispy",
     "dishForm": "Gyoza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

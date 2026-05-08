@@ -2,9 +2,7 @@
   "title": "Unique Umami Chinese Shrimp Flatbread",
   "description": "Savory Chinese dish featuring naan bread, tempering chocolate, and shrimp, perfect for a pescatarian friendly meal.",
   "cuisine": "Chinese",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -64,7 +62,6 @@
     "chinese-food",
     "chocolate",
     "flatbread",
-    "pescatarian",
     "seafood",
     "umami"
   ],
@@ -91,5 +88,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Unique Umami",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

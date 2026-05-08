@@ -3,8 +3,7 @@
   "description": "A citrusy and creamy Thai dish featuring plum sauce, wood-fired baked on an iron teppan, this low-calorie friendly pad thai is a quick fix for any meal",
   "cuisine": "Thai",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "low-calorie",
     "one-pan",
     "quick-fix",
@@ -96,5 +94,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Unique Umami",
     "dishForm": "Pad Thai"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

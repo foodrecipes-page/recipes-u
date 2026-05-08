@@ -73,7 +73,8 @@
     "Heat 1 tbsp vegetable oil in a deep fryer or heavy pot to 350°F (175°C).",
     "Fry empanadas in batches for 2-3 minutes per side, or until golden and crispy.",
     "Drain on paper towels to remove excess oil.",
-    "Serve hot, optionally with a side of fresh lime wedges."
+    "Serve hot, optionally with a side of fresh lime wedges.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -110,5 +111,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Uplifting",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

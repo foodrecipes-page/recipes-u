@@ -3,7 +3,6 @@
   "description": "A light and velvety dish featuring a seafood stock base that is dairy-free-friendly.",
   "cuisine": "Filipino",
   "diet": [
-    "vegan",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -96,5 +95,9 @@
     "mainIngredient": "Shellfish",
     "descriptor": "Umami Velvety Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A creamy, midnight-craving stir-fry that marries fresh bok choi with umami sauces, perfect for flexitarian nights.",
   "cuisine": "Malaysian",
   "diet": [
-    "flexitarian",
-    "vegetarian"
+    "flexitarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -101,5 +100,9 @@
     "mainIngredient": "bok choi",
     "descriptor": "Umami",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

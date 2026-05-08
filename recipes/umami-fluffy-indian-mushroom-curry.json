@@ -3,7 +3,6 @@
   "description": "A rich and indulgent Indian curry featuring roasted mushrooms and a deep umami flavor, made vegan-friendly with a chicken stock cube alternative. This dish is perfect for a special occasion or a cozy night in.",
   "cuisine": "Indian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -69,7 +68,8 @@
     "Add the roasted mushrooms to the pan and stir to combine.",
     "Reduce the heat to low and let the curry simmer for 10-15 minutes, or until the sauce has thickened and the flavors have melded together.",
     "Season the curry with salt to taste.",
-    "Garnish with chopped cilantro and serve over rice or with naan bread."
+    "Garnish with chopped cilantro and serve over rice or with naan bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -106,5 +106,10 @@
     "mainIngredient": "mushrooms",
     "descriptor": "umami fluffy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

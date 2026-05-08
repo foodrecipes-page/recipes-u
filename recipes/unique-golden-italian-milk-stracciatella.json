@@ -3,8 +3,7 @@
   "description": "A festive Italian dessert featuring golden syrup and a lamination-puff pastry, this stracciatella is a unique twist on a classic Calabrian dish, with anti-inflammatory friendly ingredients.",
   "cuisine": "Italian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -63,7 +62,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "golden-syrup",
     "italian-dessert",
     "puff-pastry",
@@ -92,5 +90,9 @@
     "mainIngredient": "milk",
     "descriptor": "Unique Golden",
     "dishForm": "Stracciatella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

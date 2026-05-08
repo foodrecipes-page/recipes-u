@@ -59,7 +59,9 @@
     "Stir in the all purpose flour to thicken the pilaf.",
     "Cook for an additional 2 minutes, or until the pilaf has reached the desired consistency.",
     "Stir in the chopped parsley.",
-    "Serve the pilaf on a talavera plate."
+    "Serve the pilaf on a talavera plate.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -97,5 +99,10 @@
     "mainIngredient": "nuka pickle",
     "descriptor": "unhurried umami",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

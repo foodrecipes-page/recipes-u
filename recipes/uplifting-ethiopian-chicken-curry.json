@@ -61,7 +61,8 @@
     "Reduce the heat to low and let the curry simmer for 20 minutes.",
     "Season the curry with salt and black pepper to taste.",
     "Flambe the curry by adding a small amount of oil to the pan and igniting it.",
-    "Serve the curry in scallop shells and enjoy."
+    "Serve the curry in scallop shells and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -99,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "unique uplifting",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

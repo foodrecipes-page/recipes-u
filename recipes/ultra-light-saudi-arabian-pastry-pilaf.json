@@ -2,9 +2,7 @@
   "title": "Ultra Light Saudi Arabian Pastry Pilaf",
   "description": "A sweet and pillowy Saudi Arabian dish featuring garam masala and lamination-puff, vegan-friendly and perfect for a light meal.",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -89,5 +87,9 @@
     "mainIngredient": "pastry",
     "descriptor": "Ultra Light",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

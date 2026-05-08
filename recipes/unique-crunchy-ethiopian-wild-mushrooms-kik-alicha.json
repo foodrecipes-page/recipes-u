@@ -2,9 +2,7 @@
   "title": "Unique Crunchy Ethiopian Wild Mushrooms Kik Alicha",
   "description": "A citrusy and adventurous Ethiopian dish featuring wild mushrooms, this vegan-friendly recipe is a twist on the traditional kik alicha, with a crunchy texture from blanched mushrooms. It is a hearty and flavorful meal that is perfect for lunch or dinner.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -69,7 +67,6 @@
     "ethiopian-cuisine",
     "gluten-free",
     "one-pan",
-    "vegan",
     "wild-mushrooms"
   ],
   "nutrition": {
@@ -95,5 +92,9 @@
     "mainIngredient": "wild mushrooms",
     "descriptor": "unique crunchy",
     "dishForm": "Kik Alicha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

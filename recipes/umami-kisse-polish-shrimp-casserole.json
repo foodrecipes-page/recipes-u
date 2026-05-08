@@ -50,7 +50,8 @@
     "Reheat leftovers in the microwave or oven before serving.",
     "Freeze leftovers in an airtight container for up to 3 months.",
     "Thaw frozen leftovers in the refrigerator before reheating.",
-    "Discard any leftovers after 3 months."
+    "Discard any leftovers after 3 months.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -87,5 +88,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "umami kisse",
     "dishForm": "casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

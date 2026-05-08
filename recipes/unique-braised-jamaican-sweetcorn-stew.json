@@ -57,7 +57,8 @@
     "Add the sweetcorn, thyme, and allspice, and stir to combine.",
     "Pour in the coconut milk and chicken broth, and bring to a simmer.",
     "Reduce the heat to low and braise, covered, for 20 minutes, or until the corn is tender.",
-    "Season with salt and pepper to taste, and serve hot."
+    "Season with salt and pepper to taste, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -94,5 +95,9 @@
     "mainIngredient": "sweetcorn",
     "descriptor": "Unique Braised",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

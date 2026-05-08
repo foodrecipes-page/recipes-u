@@ -2,9 +2,7 @@
   "title": "Understated Umami Chinese Pork Bao",
   "description": "A salty, bouncy-qq, sick-day Chinese dish featuring rosemary, served in a donabe, this kosher-friendly recipe is perfect for a comforting meal. It originates from Jiangsu cuisine.",
   "cuisine": "Chinese",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,8 @@
     "Assemble the bao by placing a portion of the pork mixture onto a dough circle and topping with chopped green onions and a sprig of rosemary.",
     "Steam the bao for 10 minutes.",
     "Serve the Understated Umami Chinese Pork Bao hot.",
-    "Garnish with additional green onions and rosemary if desired."
+    "Garnish with additional green onions and rosemary if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -100,5 +99,10 @@
     "mainIngredient": "pork",
     "descriptor": "understated umami",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-pork_no_temp"
+  ]
 }

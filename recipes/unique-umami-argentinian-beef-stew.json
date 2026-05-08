@@ -63,7 +63,8 @@
     "Add the beef broth, tomato paste, potatoes, and carrots.",
     "Bring the stew to a boil, then reduce the heat to low and simmer for 2 hours.",
     "Stir in the chopped nuka pickle and season with salt and pepper to taste.",
-    "Serve the stew hot, garnished with fresh herbs if desired."
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -100,5 +101,9 @@
     "mainIngredient": "beef",
     "descriptor": "unique umami",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

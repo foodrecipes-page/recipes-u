@@ -3,7 +3,6 @@
   "description": "A light and refreshing Jamaican-inspired bowl made with ground cardamom, fold, and Jain-friendly ingredients.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegan",
     "gluten-free",
     "jain"
   ],
@@ -77,7 +76,6 @@
     "healthy",
     "jamaican",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -103,5 +101,9 @@
     "mainIngredient": "rice",
     "descriptor": "Uplifting",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A zesty Filipino ceviche featuring marinated salmon, fermented umami sauce, and a delightful crispy coating.",
   "cuisine": "Filipino",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -79,8 +78,7 @@
     "ceviche",
     "filipino",
     "salmon",
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "nutrition": {
     "calories": 314,
@@ -105,5 +103,9 @@
     "mainIngredient": "salmon",
     "descriptor": "Umami Crispy",
     "dishForm": "Ceviche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

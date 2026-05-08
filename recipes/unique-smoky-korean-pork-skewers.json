@@ -3,7 +3,6 @@
   "description": "A tangy and crisp Korean dish featuring prosciutto and smoked to perfection on a binchotan grill, perfect for a date night",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "egg-free"
   ],
   "meal": "dinner",
@@ -95,5 +94,9 @@
     "mainIngredient": "pork",
     "descriptor": "Unique Smoky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

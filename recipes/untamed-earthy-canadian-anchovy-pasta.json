@@ -3,8 +3,7 @@
   "description": "A springy Canadian dish featuring anchovy fillet in a mother-sauce-base, served in a mason jar, jain-friendly and perfect for meal prep. This earthy pasta is a delicious and healthy option for a quick lunch.",
   "cuisine": "Canadian",
   "diet": [
-    "jain",
-    "vegetarian"
+    "jain"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -81,8 +80,7 @@
     "meal-prep",
     "one-pot",
     "pasta",
-    "spring-recipe",
-    "vegetarian"
+    "spring-recipe"
   ],
   "nutrition": {
     "calories": 420,
@@ -107,5 +105,9 @@
     "mainIngredient": "anchovy",
     "descriptor": "Untamed Earthy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

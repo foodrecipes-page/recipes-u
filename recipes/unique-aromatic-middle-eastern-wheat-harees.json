@@ -3,8 +3,7 @@
   "description": "A malty, aerated, and flavorful Middle Eastern dish featuring fennel seeds, katsuramuki-cut wheat, and Mediterranean-friendly ingredients, formed into a traditional harees shape.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -61,7 +60,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "middle-eastern",
     "one-pot",
     "vegetarian",
@@ -90,5 +88,9 @@
     "mainIngredient": "wheat",
     "descriptor": "Unique Aromatic",
     "dishForm": "Harees"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

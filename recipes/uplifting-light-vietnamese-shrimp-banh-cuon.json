@@ -3,8 +3,7 @@
   "description": "A briny and light Vietnamese dish featuring shrimp and 00-flour, perfect for a post-workout meal. This dish is tagine-cooked and Buddhist-temple-friendly.",
   "cuisine": "Vietnamese",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -69,7 +68,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "pescatarian",
     "post-workout",
     "seafood",
@@ -99,5 +97,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Uplifting Light",
     "dishForm": "Banh Cuon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

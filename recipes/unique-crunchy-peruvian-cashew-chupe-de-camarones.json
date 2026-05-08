@@ -3,8 +3,7 @@
   "description": "A winey, crisp, and adventurous Peruvian dish featuring cashews, cooked in a clay pot, and suitable for Jain-friendly diets. This form of chupe de camarones is a twist on the traditional Peruvian shrimp stew.",
   "cuisine": "Peruvian",
   "diet": [
-    "jain",
-    "vegetarian"
+    "jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "cashews",
     "descriptor": "unique crunchy",
     "dishForm": "Chupe De Camarones"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A lazy Sunday Egyptian dish featuring frozen seafood mix, toast, and umami flavors, perfect for a raw-friendly and indulgent meal. This recipe combines the richness of seafood with the crunch of toasted bread and the depth of Egyptian spices.",
   "cuisine": "Egyptian",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "seafood",
     "descriptor": "umami chewy",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

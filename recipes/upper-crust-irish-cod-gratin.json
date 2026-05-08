@@ -2,9 +2,7 @@
   "title": "Upper Crust Irish Cod Gratin",
   "description": "A sour, flaky, cozy Irish dish featuring soda water and a grill, making it gluten-free friendly.",
   "cuisine": "Irish",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -74,7 +72,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "grill",
     "irish",
     "seafood",
@@ -104,5 +101,9 @@
     "mainIngredient": "Cod",
     "descriptor": "Upper Crust",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

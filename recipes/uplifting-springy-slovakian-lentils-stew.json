@@ -2,9 +2,7 @@
   "title": "Uplifting Springy Slovakian Lentils Stew",
   "description": "A hearty brown lentil stew with a subtle dashi kick, fresh herbs, and a crisp spring broth, served in a rustic wooden board.",
   "cuisine": "Slovakian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -83,7 +81,6 @@
     "slovakian",
     "spring-flavor",
     "vegan-friendly",
-    "vegetarian",
     "wooden-board"
   ],
   "nutrition": {
@@ -109,5 +106,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Uplifting Springy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

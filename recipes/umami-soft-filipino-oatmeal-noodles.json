@@ -2,10 +2,7 @@
   "title": "Umami Soft Filipino Oatmeal Noodles",
   "description": "A pillowy, savory noodle dish made with rolled oats and coconut oil, served in a cedar plank for a subtle smoky flavor.",
   "cuisine": "Filipino",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -96,5 +93,10 @@
     "mainIngredient": "Oatmeal",
     "descriptor": "Umami Soft",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

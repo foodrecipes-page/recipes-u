@@ -3,8 +3,6 @@
   "description": "A cultured, glassy-jelly dessert that blends coconut cream, star anise, and pickled cucumber for a uniquely adventurous Australian flavor. It is sugar‑free, vegan, and ready in under an hour plus chilling time.",
   "cuisine": "Australian",
   "diet": [
-    "vegetarian",
-    "vegan",
     "sugar-free"
   ],
   "meal": "dessert",
@@ -57,7 +55,8 @@
     "Pour the mousse mixture into individual serving glasses or a shallow dish.",
     "Refrigerate the glasses for at least 240 minutes until the mousse has set into a glassy jelly.",
     "Serve chilled, optionally garnish with a small piece of nuka‑pickle or a pinch of ground star anise.",
-    "Store any leftovers in the refrigerator for up to 48 hours."
+    "Store any leftovers in the refrigerator for up to 48 hours.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -95,5 +94,11 @@
     "mainIngredient": "coconut",
     "descriptor": "Unusual",
     "dishForm": "Mousse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A fresh and snappy Portuguese dish featuring buns, ferment kimchi, and low calorie friendly ingredients, perfect for a hangover cure.",
   "cuisine": "Portuguese",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -68,7 +67,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "hangover-cure",
     "low-calorie",
     "lunch-ideas",
@@ -98,5 +96,9 @@
     "mainIngredient": "pork",
     "descriptor": "Unique Spicy",
     "dishForm": "Buns"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A light, savory miso soup bursting with umami flavors, enriched by tofu, seaweed, and mushrooms.",
   "cuisine": "Japanese",
   "diet": [
-    "vegetarian",
     "egg-free"
   ],
   "meal": "lunch",
@@ -73,7 +72,6 @@
   "tags": [
     "soup",
     "umami",
-    "vegetarian",
     "egg-free",
     "dashi",
     "misofused"
@@ -101,5 +99,9 @@
     "mainIngredient": "Miso",
     "descriptor": "Umami",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

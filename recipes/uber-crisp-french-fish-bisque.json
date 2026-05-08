@@ -3,8 +3,7 @@
   "description": "A keto-friendly, floral, and crisp French fish bisque, made for a weeknight dinner. The coconut milk adds a rich and creamy texture.",
   "cuisine": "French",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -119,5 +118,9 @@
     "mainIngredient": "fish",
     "descriptor": "Uber Crisp",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

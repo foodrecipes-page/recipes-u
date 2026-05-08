@@ -3,8 +3,7 @@
   "description": "A quick and satisfying post-workout meal featuring a rich blend of umami flavors and crispy white flour, perfect for those following a fodmap-friendly diet.",
   "cuisine": "Malaysian",
   "diet": [
-    "low-carb",
-    "vegan"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "flour",
     "descriptor": "Umami Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

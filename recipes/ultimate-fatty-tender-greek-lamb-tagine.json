@@ -74,7 +74,8 @@
     "Remove the cataplana from the heat and let it sit, covered, for 10 minutes.",
     "Serve the lamb hot, garnished with fresh herbs and crusty bread on the side.",
     "Deglaze the cataplana with a little water and scrape up any browned bits from the bottom.",
-    "Strain the sauce before serving to remove any solids."
+    "Strain the sauce before serving to remove any solids.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -112,5 +113,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Ultimate Fatty Tender",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

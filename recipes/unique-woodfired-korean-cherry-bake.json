@@ -56,7 +56,7 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 30,
-  "totalTimeMin": 120,
+  "totalTimeMin": 60,
   "servings": 8,
   "difficulty": "medium",
   "tags": [
@@ -90,5 +90,9 @@
     "mainIngredient": "cherries",
     "descriptor": "Unique Woodfired",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

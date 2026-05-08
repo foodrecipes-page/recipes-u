@@ -68,7 +68,8 @@
     "Add the chicken broth, dried apricots, salt, and black pepper to the pot and stir to combine.",
     "Return the lamb to the pot and bring to a boil.",
     "Cover the pot and transfer to the oven, where it will cook at 300 degrees for 2 1/2 hours.",
-    "Remove the pot from the oven and let cool slightly before serving."
+    "Remove the pot from the oven and let cool slightly before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -106,5 +107,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Unique Spicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

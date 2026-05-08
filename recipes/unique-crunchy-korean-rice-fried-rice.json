@@ -3,8 +3,7 @@
   "description": "A fatty and shaggy Korean dish from Busan featuring rice krispies and ayurvedic-sattvic-friendly ingredients, this recipe is perfect for those looking for a light and crunchy meal.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -72,7 +71,6 @@
   "tags": [
     "easy-meal",
     "fried-rice",
-    "gluten-free",
     "korean-food",
     "lunch-ideas",
     "vegetarian"
@@ -100,5 +98,9 @@
     "mainIngredient": "rice",
     "descriptor": "Unique Crunchy",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -51,7 +51,8 @@
     "Warm the whole wheat tortilla in the microwave for 20 seconds",
     "Assemble the wrap by spreading the tomato mixture down the center of the tortilla",
     "Top with shredded lettuce, sliced cucumber, and grilled chicken breast",
-    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll up the wrap to enclose"
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll up the wrap to enclose",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -89,5 +90,9 @@
     "mainIngredient": "tomatoes",
     "descriptor": "Unique Crisp",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

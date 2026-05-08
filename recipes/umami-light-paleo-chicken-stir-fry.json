@@ -67,7 +67,8 @@
     "Return chicken pieces to the pan along with any accumulated juices. Pour the seasoned liquid over all ingredients in the pan. Mix well so that every piece of chicken is coated with the sauce.",
     "Transfer the stir-fry mix into an oven-safe dish and bake for 10 minutes or until most vegetables are tender.",
     "Finish off by adding bell peppers on top of the chicken, reduce heat to low-medium, cover and cook for another 5-7 minutes. Adjust seasoning as needed.",
-    "Garnish with fresh herbs (optional) before serving."
+    "Garnish with fresh herbs (optional) before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -103,5 +104,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Umami Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

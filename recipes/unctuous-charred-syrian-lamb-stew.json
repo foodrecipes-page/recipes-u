@@ -62,7 +62,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours.",
     "Remove the kadhai from the heat and let the stew rest, covered, for 10 minutes.",
     "Serve the stew hot, garnished with fresh parsley or cilantro.",
-    "Char the top of the stew with a kitchen torch, if desired."
+    "Char the top of the stew with a kitchen torch, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -100,5 +101,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Unctuous Charred",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

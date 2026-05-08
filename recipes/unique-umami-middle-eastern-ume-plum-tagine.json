@@ -3,8 +3,7 @@
   "description": "A briny and dense festive Middle Eastern dish featuring ume-plum, simmered to perfection in a terracotta dish, with anti-inflammatory friendly ingredients.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -70,7 +69,8 @@
     "Bring the mixture to a boil, then cover the dish with a lid and transfer it to the preheated oven.",
     "Simmer the tagine for 2 hours, or until the flavors have melded together and the ume plums are tender.",
     "Remove the dish from the oven and let it cool slightly before serving.",
-    "Serve the tagine hot, garnished with fresh herbs if desired."
+    "Serve the tagine hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -81,8 +81,7 @@
     "comfort-food",
     "gluten-free",
     "middle-eastern",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,
@@ -107,5 +106,10 @@
     "mainIngredient": "ume plum",
     "descriptor": "Unique Umami",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

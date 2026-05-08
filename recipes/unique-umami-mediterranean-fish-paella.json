@@ -63,7 +63,8 @@
     "Close the lid of the pressure cooker and set the valve to sealing.",
     "Cook the paella in the pressure cooker for 10 minutes at high pressure.",
     "Let the pressure release naturally for 10 minutes, then quick release any remaining pressure.",
-    "Serve the paella hot, garnished with chopped fresh parsley if desired."
+    "Serve the paella hot, garnished with chopped fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -102,5 +103,9 @@
     "mainIngredient": "fish",
     "descriptor": "Unique Umami",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

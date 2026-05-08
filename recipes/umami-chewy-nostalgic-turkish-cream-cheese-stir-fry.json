@@ -59,7 +59,8 @@
     "Transfer the seasoned mixture onto a baking sheet lined with parchment paper.",
     "Spread out evenly to create uniform pieces for better broiling. Broil until golden brown spots appear on top, about 10 minutes.",
     "In another pan, melt cream cheese over low heat while adding lemon juice and tomato paste. Stir well until fully combined into a smooth sauce.",
-    "Drizzle the creamy sauce over the toasted chicken mixture and serve immediately."
+    "Drizzle the creamy sauce over the toasted chicken mixture and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 10,
@@ -96,5 +97,9 @@
     "mainIngredient": "Cream Cheese",
     "descriptor": "Umami Chewy Nostalgic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

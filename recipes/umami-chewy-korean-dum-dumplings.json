@@ -3,8 +3,7 @@
   "description": "A comforting, mustardy, chewy dumpling dish from Busan, Korea that is easy to make and macrobiotic-friendly.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -111,5 +110,9 @@
     "mainIngredient": "dum",
     "descriptor": "umami chewy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

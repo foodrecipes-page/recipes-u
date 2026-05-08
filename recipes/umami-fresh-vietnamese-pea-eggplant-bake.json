@@ -2,9 +2,7 @@
   "title": "Umami Fresh Vietnamese pea eggplant Bake",
   "description": "Savory and nostalgic Vietnamese dish featuring thin eggplant slices topped with a sweet and salty pea mixture, finished on a robata grill for a smoky finish.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -74,8 +72,7 @@
     "comfort-food",
     "one-pan",
     "quick",
-    "savory",
-    "vegetarian"
+    "savory"
   ],
   "nutrition": {
     "calories": 250,
@@ -100,5 +97,9 @@
     "mainIngredient": "pea eggplant",
     "descriptor": "Umami Fresh",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

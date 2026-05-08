@@ -3,8 +3,7 @@
   "description": "A rich and flavorful Thai curry made with fermented ingredients and maple syrup, perfect for a comforting meal. This dish is braised in a claypot and is friendly to Buddhist temple dietary restrictions.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -55,7 +54,8 @@
     "Pour in the coconut milk and add the kaffir lime leaves.",
     "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 2 hours.",
     "Stir in the chopped Thai basil and cook for an additional 10 minutes.",
-    "Serve the curry hot, garnished with additional basil if desired."
+    "Serve the curry hot, garnished with additional basil if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 130,
@@ -92,5 +92,10 @@
     "mainIngredient": "pork",
     "descriptor": "unctuous braised",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-pork_no_temp"
+  ]
 }

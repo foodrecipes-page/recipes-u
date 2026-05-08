@@ -215,7 +215,6 @@
     "dinner-idea",
     "easy-to-make",
     "eggfree-recipe",
-    "gluten-free",
     "high-protein",
     "low-carb",
     "lunch-idea",
@@ -251,5 +250,9 @@
     "mainIngredient": "tortillas",
     "descriptor": "Uniquely energizing",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

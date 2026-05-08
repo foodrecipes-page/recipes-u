@@ -69,7 +69,8 @@
     "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
     "Braise the lamb for 2 1/2 hours, or until tender.",
     "Deglaze the pot with 2 tablespoons of water and stir to combine.",
-    "Serve the lamb hot, garnished with parsley, if desired."
+    "Serve the lamb hot, garnished with parsley, if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -106,5 +107,9 @@
     "mainIngredient": "lamb",
     "descriptor": "unusually chewy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

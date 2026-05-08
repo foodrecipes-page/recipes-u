@@ -2,9 +2,7 @@
   "title": "Unique Buttery Thai Veal Moo Ping",
   "description": "A buttery, dense, and comforting Thai street dish featuring veal, nuka-pickle, and gluten-free friendly ingredients in a traditional moo ping form",
   "cuisine": "Thai",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -70,7 +68,6 @@
     "asian-inspired",
     "comfort-food",
     "dinner-ideas",
-    "gluten-free",
     "thai-street-food",
     "veal-recipes"
   ],
@@ -97,5 +94,9 @@
     "mainIngredient": "veal",
     "descriptor": "Unique Buttery",
     "dishForm": "Moo Ping"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

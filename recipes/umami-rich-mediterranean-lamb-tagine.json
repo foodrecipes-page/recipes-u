@@ -63,7 +63,8 @@
     "Add the sherry, bonito flakes, dried apricots, prunes, chicken broth, salt, and black pepper, and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours, or until the lamb is tender.",
     "Remove the tagine from the heat and let it cool slightly before serving.",
-    "Serve the lamb and sauce over couscous or rice, garnished with fresh herbs if desired."
+    "Serve the lamb and sauce over couscous or rice, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -100,5 +101,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Umami Rich",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -83,7 +83,8 @@
     "Place the stuffed peppers in the preheated tandoor clay pot and dot the top of each pepper with butter.",
     "Sprinkle the dark chocolate chips over the top of each pepper and sprinkle with Tandoori Spice.",
     "Cook the peppers in the tandoor clay pot for 20 minutes.",
-    "Remove the peppers from the pot and let them rest for 5 minutes before serving."
+    "Remove the peppers from the pot and let them rest for 5 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -120,5 +121,9 @@
     "mainIngredient": "roast",
     "descriptor": "Ultimate Hangover Cure",
     "dishForm": "Rocoto Relleno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

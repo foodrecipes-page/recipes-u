@@ -3,7 +3,6 @@
   "description": "Crispy plantain empanadas filled with rosemary-infused refried beans, served with a tangy glaze and a side of avocado.",
   "cuisine": "Venezuelan",
   "diet": [
-    "gluten-free",
     "vegetarian",
     "vegan"
   ],
@@ -76,7 +75,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "vegan",
@@ -105,5 +103,9 @@
     "mainIngredient": "Plantain",
     "descriptor": "Ultimate",
     "dishForm": "Empanada"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

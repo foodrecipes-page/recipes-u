@@ -65,7 +65,8 @@
     "Transfer the chicken mixture to a casserole dish, spreading it evenly.",
     "Sprinkle shredded cheddar cheese over the top of the casserole.",
     "Bake uncovered for 20 minutes until the cheese is melted and bubbly.",
-    "Let the casserole rest for 5 minutes before serving to set."
+    "Let the casserole rest for 5 minutes before serving to set.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -105,5 +106,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Uncompromising",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

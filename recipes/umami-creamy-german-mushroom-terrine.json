@@ -3,8 +3,7 @@
   "description": "A light and creamy German-inspired dish featuring the deep umami flavor of mushrooms, set with gelatine leafs and steamed to perfection. This Jain-friendly recipe is perfect for a special occasion or a fancy dinner party.",
   "cuisine": "German",
   "diet": [
-    "Jain",
-    "vegetarian"
+    "Jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,6 @@
     "german-cuisine",
     "mushroom-recipes",
     "jain-friendly",
-    "vegetarian",
     "umami-flavors"
   ],
   "nutrition": {
@@ -98,5 +96,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "umami creamy",
     "dishForm": "Terrine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

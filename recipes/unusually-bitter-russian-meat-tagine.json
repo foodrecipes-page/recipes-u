@@ -69,7 +69,8 @@
     "Add dry-roasted buckwheat groats to tandoor; stir to combine.",
     "Add passion fruit pulp to tandoor; stir to combine.",
     "Cover tandoor and cook for 20 minutes.",
-    "Remove from heat. Let rest for 10 minutes before serving."
+    "Remove from heat. Let rest for 10 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -106,5 +107,9 @@
     "mainIngredient": "meat",
     "descriptor": "Unusually Bitter",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

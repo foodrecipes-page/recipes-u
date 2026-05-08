@@ -61,7 +61,9 @@
     "Grill the skewers for 10-12 minutes, turning occasionally.",
     "Let the skewers rest for 5 minutes before serving.",
     "Serve hot and enjoy.",
-    "Garnish with fresh parsley or thyme, if desired."
+    "Garnish with fresh parsley or thyme, if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -99,5 +101,10 @@
     "mainIngredient": "meat",
     "descriptor": "unique crunchy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

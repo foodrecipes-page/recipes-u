@@ -68,7 +68,8 @@
     "Pour in the chicken broth, pineapple, honey, saffron infusion, salt, and pepper; stir gently.",
     "Seal the pressure cooker and cook on high pressure for 10 minutes.",
     "Allow natural pressure release for 5 minutes, then quick release remaining pressure.",
-    "Fluff the rice with a fork, transfer to a serving dish, and serve hot; leftover can be stored in airtight containers for meal prep."
+    "Fluff the rice with a fork, transfer to a serving dish, and serve hot; leftover can be stored in airtight containers for meal prep.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -106,5 +107,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Ultra Sweet",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

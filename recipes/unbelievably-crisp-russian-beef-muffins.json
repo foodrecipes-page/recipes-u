@@ -60,7 +60,8 @@
     "While the muffins are baking, heat the beef broth and tomato paste in a saucepan over medium heat, stirring constantly.",
     "After the muffins have baked for 20 minutes, remove them from the oven and brush the tops with the beef broth and tomato paste mixture.",
     "Return the muffins to the oven and bake for an additional 10 minutes, or until the tops are charred and crisp.",
-    "Remove the muffins from the oven and let them cool for a few minutes before serving."
+    "Remove the muffins from the oven and let them cool for a few minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -98,5 +99,9 @@
     "mainIngredient": "beef",
     "descriptor": "Unbelievably Crisp",
     "dishForm": "Muffins"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

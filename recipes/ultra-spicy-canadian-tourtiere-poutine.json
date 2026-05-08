@@ -67,7 +67,8 @@
     "Transfer the pot to the preheated oven and cook, covered, for 2 1/2 hours.",
     "Remove the pot from the oven and stir in the coconut cream. Taste and adjust the seasoning as needed.",
     "Serve the tourtière over crispy fries, garnished with chopped cilantro.",
-    "Garnish with additional red pepper flakes, if desired."
+    "Garnish with additional red pepper flakes, if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -105,5 +106,9 @@
     "mainIngredient": "tourtière",
     "descriptor": "ultra-spicy",
     "dishForm": "poutine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

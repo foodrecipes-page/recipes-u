@@ -2,9 +2,7 @@
   "title": "ultramodern filipino egg tagine",
   "description": "a rich and aromatic filipino dish featuring egg rolls, cure, and seafood. serve with steamed rice and fresh vegetables.",
   "cuisine": "filipino",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -84,7 +82,6 @@
     "filipino",
     "lard",
     "one-pan",
-    "pescatarian",
     "seafood",
     "spicy",
     "weeknight"
@@ -112,5 +109,9 @@
     "mainIngredient": "egg",
     "descriptor": "ultramodern",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

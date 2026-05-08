@@ -59,7 +59,8 @@
     "Pour the blackberry sauce over the beef mixture.",
     "Place the puff pastry over the filling, pressing the edges to seal.",
     "Brush the pastry with a little water and cut a few slits in the top to allow steam to escape.",
-    "Place the bamboo steamer in the oven and bake for 25 minutes, or until the pastry is golden brown."
+    "Place the bamboo steamer in the oven and bake for 25 minutes, or until the pastry is golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -97,5 +98,9 @@
     "mainIngredient": "blackberries",
     "descriptor": "Unique Ultra",
     "dishForm": "Shepherds Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

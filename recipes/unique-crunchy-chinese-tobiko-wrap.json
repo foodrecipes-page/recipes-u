@@ -3,8 +3,7 @@
   "description": "A rich and crumbly Chinese dish featuring tobiko, ssam-wrap, and low-glycemic-friendly ingredients, perfect for a festive meal",
   "cuisine": "Chinese",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -54,7 +53,8 @@
     "Sprinkle the sesame seeds over the top of each wrap",
     "Bake the wraps in the preheated oven for 10 minutes, or until crispy and golden brown",
     "Remove the wraps from the oven and top each one with a spoonful of tobiko",
-    "Serve the wraps immediately, garnished with additional green onions if desired"
+    "Serve the wraps immediately, garnished with additional green onions if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -65,7 +65,6 @@
     "chinese-food",
     "crunchy",
     "festive",
-    "gluten-free",
     "low-glycemic",
     "seafood"
   ],
@@ -92,5 +91,10 @@
     "mainIngredient": "tobiko",
     "descriptor": "Unique Crunchy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

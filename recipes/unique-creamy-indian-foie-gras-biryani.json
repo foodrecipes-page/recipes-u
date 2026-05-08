@@ -3,7 +3,6 @@
   "description": "A cultured and fluffy monsoon Indian dish featuring foie-gras and lardons-render, made dairy-free friendly. This creamy biryani combines the richness of foie gras with the warmth of Indian spices.",
   "cuisine": "Indian",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -78,7 +77,6 @@
   "difficulty": "medium",
   "tags": [
     "biryani",
-    "dairy-free",
     "foie-gras",
     "gluten-free",
     "indian-cuisine",
@@ -107,5 +105,9 @@
     "mainIngredient": "foie gras",
     "descriptor": "Unique Creamy",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

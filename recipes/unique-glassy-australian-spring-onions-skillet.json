@@ -56,7 +56,8 @@
     "Stir in the beurre-monte, salt, pepper, and lemon juice.",
     "Continue to cook for an additional 2 minutes, until the sauce has coated the spring onions.",
     "Garnish with edible flowers, if desired.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -94,5 +95,9 @@
     "mainIngredient": "spring onions",
     "descriptor": "Unique glassy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

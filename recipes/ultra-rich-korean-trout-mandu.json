@@ -3,8 +3,7 @@
   "description": "A fatty and molten Korean dish featuring trout, cooked in a tagine style and served in individual mini cocottes, perfect for a lazy Sunday, this sugar free friendly dish is a must try.",
   "cuisine": "Korean",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -95,5 +94,9 @@
     "mainIngredient": "trout",
     "descriptor": "ultra rich",
     "dishForm": "Mandu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

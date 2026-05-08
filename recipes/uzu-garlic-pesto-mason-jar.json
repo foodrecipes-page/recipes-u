@@ -30,7 +30,7 @@
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 0,
-  "totalTimeMin": 60,
+  "totalTimeMin": 5,
   "servings": 2,
   "difficulty": "easy",
   "tags": [
@@ -61,5 +61,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Anti-Inflammatory-friendly",
     "dishForm": "Pesto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

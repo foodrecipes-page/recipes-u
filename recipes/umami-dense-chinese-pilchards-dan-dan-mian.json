@@ -3,8 +3,6 @@
   "description": "A savory Hakka Chinese noodle dish packed with umami flavor, featuring pilchards in a spicy bhuna sauce, served in a mason jar. This recipe is anti-inflammatory-friendly and perfect for a quick lunch.",
   "cuisine": "Hakka Chinese",
   "diet": [
-    "vegetarian",
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -111,5 +109,10 @@
     "mainIngredient": "pilchards",
     "descriptor": "Umami Dense",
     "dishForm": "Dan Dan Mian"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

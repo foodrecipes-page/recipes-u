@@ -2,9 +2,7 @@
   "title": "Umami Creamy Argentinian Tofu Stir-fry",
   "description": "A cozy vegan-friendly dish featuring an umami-rich creamy tofu stir-fry using vegetable stock cube and air-fried for a satisfying texture.",
   "cuisine": "Argentinian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,8 +70,7 @@
     "argentinian",
     "umami",
     "creamy",
-    "stir-fry",
-    "vegan"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 270,
@@ -98,5 +95,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Umami Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

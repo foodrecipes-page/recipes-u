@@ -69,8 +69,7 @@
     "umami",
     "tender",
     "crowd-pleaser",
-    "russian",
-    "gluten-free"
+    "russian"
   ],
   "nutrition": {
     "calories": 160,
@@ -95,5 +94,9 @@
     "mainIngredient": "tomato",
     "descriptor": "Umami Tender",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

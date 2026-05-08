@@ -3,8 +3,7 @@
   "description": "A floral and chewy Irish dish featuring peanut butter and ferment, friendly to nut-free diets, perfect for meal prep",
   "cuisine": "Irish",
   "diet": [
-    "vegetarian",
-    "nut-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -64,7 +63,6 @@
     "high-fiber",
     "irish-inspired",
     "meal-prep",
-    "nut-free",
     "vegetarian-friendly"
   ],
   "nutrition": {
@@ -90,5 +88,9 @@
     "mainIngredient": "oats",
     "descriptor": "Unique Chewy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

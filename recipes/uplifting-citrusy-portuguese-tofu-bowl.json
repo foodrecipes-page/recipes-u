@@ -2,9 +2,7 @@
   "title": "Uplifting Citrusy Portuguese Tofu Bowl",
   "description": "A vegan friendly and energizing Portuguese dish featuring citrusy flavors and a snappy texture, served in a lacquerware bowl.",
   "cuisine": "Portuguese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -74,8 +72,7 @@
     "healthy",
     "lunch",
     "one-bowl",
-    "portuguese",
-    "vegan"
+    "portuguese"
   ],
   "nutrition": {
     "calories": 420,
@@ -100,5 +97,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Uplifting Citrusy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

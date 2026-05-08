@@ -3,7 +3,6 @@
   "description": "A jammy and dense Vietnamese dish featuring chicken bouillon powder, perfect for a cozy meal. This recipe is sugar-free-friendly and made with mi-quang noodles.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "sugar-free"
   ],
   "meal": "dinner",
@@ -59,7 +58,8 @@
     "Garnish with scallions and serve immediately.",
     "Use a whisk to mix the broth and toppings together before serving.",
     "Serve the dish hot and enjoy.",
-    "Repeat the process to make additional servings."
+    "Repeat the process to make additional servings.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -96,5 +96,10 @@
     "mainIngredient": "noodles",
     "descriptor": "ultra dense",
     "dishForm": "Mi Quang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

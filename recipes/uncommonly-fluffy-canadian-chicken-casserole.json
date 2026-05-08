@@ -2,9 +2,7 @@
   "title": "Uncommonly Fluffy Canadian Chicken Casserole",
   "description": "A weeknight Canadian dish featuring apricot and fluffy texture, made with kosher-friendly ingredients, this casserole is perfect for a family dinner.",
   "cuisine": "Canadian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -57,7 +55,8 @@
     "In a large mixing bowl, combine the cooked chicken, sauce mixture, and frozen peas and carrots.",
     "Transfer the mixture to a 9x13 inch baking dish and top with shredded cheddar cheese.",
     "Bake for 35 minutes or until the cheese is melted and bubbly.",
-    "Let the casserole rest for 10 minutes before serving."
+    "Let the casserole rest for 10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -95,5 +94,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Uncommonly fluffy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

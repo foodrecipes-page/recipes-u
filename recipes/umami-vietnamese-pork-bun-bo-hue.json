@@ -2,10 +2,7 @@
   "title": "Bun Bo Hue Umami Vietnamese Pork",
   "description": "A Vietnamese breakfast dish featuring pork, Thai chilli jam, and fermented shrimp paste for a bold umami flavor. This recipe serves 4-6 people and can be made in under an hour.",
   "cuisine": "vietnamese",
-  "diet": [
-    "kosher",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -73,7 +70,8 @@
     "Add the bean sprouts to the pot and cook, stirring constantly, until they are slightly tender, about 2-3 minutes.",
     "Add the cooked noodles to the pot and stir to combine with the pork and sauce.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the bun bo hue in individual bowls with lime wedges and additional umami sauce on the side, if desired."
+    "Serve the bun bo hue in individual bowls with lime wedges and additional umami sauce on the side, if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -111,5 +109,11 @@
     "mainIngredient": "pork",
     "descriptor": "umami",
     "dishForm": "Bun Bo Hue"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-kosher",
+    "added-safety-pork_no_temp"
+  ]
 }

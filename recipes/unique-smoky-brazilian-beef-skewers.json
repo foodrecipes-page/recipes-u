@@ -3,8 +3,7 @@
   "description": "Charred and molten Brazilian dish featuring ground annatto, perfect for a meal prep dinner, with anti-inflammatory friendly ingredients",
   "cuisine": "Brazilian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -97,5 +96,9 @@
     "mainIngredient": "beef",
     "descriptor": "Unique Smoky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

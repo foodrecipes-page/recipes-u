@@ -2,9 +2,7 @@
   "title": "Creamy Brazilian Bowtie Pasta",
   "description": "A winey, snappy, lazy-sunday Brazilian dish featuring bowtie pasta, this recipe is perfect for a relaxing day at home, it is also gluten-free-friendly by using gluten-free pasta",
   "cuisine": "brazilian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -69,7 +67,6 @@
   "tags": [
     "brazilian-inspired",
     "comfort-food",
-    "gluten-free",
     "one-pot",
     "weekend-meal"
   ],
@@ -96,5 +93,9 @@
     "mainIngredient": "pasta",
     "descriptor": "unique creamy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

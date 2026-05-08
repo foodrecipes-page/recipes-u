@@ -3,8 +3,7 @@
   "description": "A delicious and quick Irish dish featuring fennel bulb, these dumplings are buttery and shattering, perfect for a low-glycemic diet. They can be prepared in no time and are great as a side dish.",
   "cuisine": "Irish",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -52,7 +51,8 @@
     "Bring a large pot of salted water to a boil and gently add the dumplings to the pot.",
     "Reduce the heat to a simmer and cook the dumplings for 10-12 minutes, or until they float to the surface.",
     "Remove the dumplings from the water with a slotted spoon and drain off any excess water.",
-    "Serve the dumplings hot, garnished with chopped parsley."
+    "Serve the dumplings hot, garnished with chopped parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -62,7 +62,6 @@
   "tags": [
     "comfort-food",
     "easy-to-make",
-    "gluten-free",
     "homemade",
     "irish-food",
     "low-glycemic"
@@ -90,5 +89,10 @@
     "mainIngredient": "fennel",
     "descriptor": "Unique Buttery",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Umami Crunchy Japanese Pecan Nuts Ramen",
   "description": "A hearty, slow-cooked Japanese-inspired ramen featuring crunchy pecan nuts and a rich umami flavor profile.",
   "cuisine": "Japanese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -62,7 +60,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 2 hours.",
     "Add the pecan nuts to the pot and cook for an additional 30 minutes.",
     "Cook the noodles according to the package instructions and set aside.",
-    "To serve, place some noodles in a bowl, then add some of the hot broth and top with sliced green onions and additional pecan nuts if desired."
+    "To serve, place some noodles in a bowl, then add some of the hot broth and top with sliced green onions and additional pecan nuts if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 240,
@@ -71,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "crunchy",
-    "halal",
     "high-protein",
     "one-pan",
     "slow-cooked",
@@ -101,5 +99,10 @@
     "mainIngredient": "Pecan nuts",
     "descriptor": "Umami Crunchy",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

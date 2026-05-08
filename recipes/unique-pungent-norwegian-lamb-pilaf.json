@@ -2,9 +2,7 @@
   "title": "Norwegian Lamb Couscous Pilaf",
   "description": "A pungent and tender Norwegian dish featuring lamb, couscous, and a blend of spices, perfect for a special occasion. This recipe is gluten-free friendly and showcases the unique flavors of Norway.",
   "cuisine": "Norwegian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,8 @@
     "Bake the lamb mixture for 2 1/2 hours, or until the lamb is tender and falls apart easily.",
     "About 30 minutes before the lamb is done, prepare the couscous according to the package instructions.",
     "Fluff the cooked couscous with a fork and stir in any remaining liquid from the lamb mixture.",
-    "Serve the lamb over the couscous, garnished with fresh herbs if desired."
+    "Serve the lamb over the couscous, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -72,7 +71,6 @@
   "difficulty": "hard",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "lamb-recipes",
     "norwegian-cuisine",
     "one-pot",
@@ -101,5 +99,10 @@
     "mainIngredient": "lamb",
     "descriptor": "unique pungent",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

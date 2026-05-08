@@ -4,8 +4,7 @@
   "cuisine": "American",
   "diet": [
     "gluten-free",
-    "low-carb",
-    "pescatarian"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -110,5 +109,9 @@
     "mainIngredient": "lettuce",
     "descriptor": "umami gooey",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

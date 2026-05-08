@@ -2,9 +2,7 @@
   "title": "Umami Smoked Italian Pork Polenta",
   "description": "A savory, shaggy, adventurous Italian (Piedmontese) dish featuring sweet sherry and a smoke-cold flavor profile, halal-friendly.",
   "cuisine": "Italian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -102,5 +100,9 @@
     "mainIngredient": "pork",
     "descriptor": "Umami Smoked",
     "dishForm": "Polenta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A spicy and springy Brazilian dish featuring paccheri pasta, stir-fry, and high-protein chicken, perfect for a quick-fix dinner",
   "cuisine": "Brazilian",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Unique Spicy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

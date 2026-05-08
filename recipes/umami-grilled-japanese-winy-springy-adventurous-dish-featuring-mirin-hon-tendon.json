@@ -77,7 +77,6 @@
   "difficulty": "hard",
   "tags": [
     "adventurous",
-    "gluten-free",
     "grilled",
     "japanese",
     "low-carb",
@@ -108,5 +107,9 @@
     "mainIngredient": "winy springy adventurous dish featuring mirin-hon",
     "descriptor": "Umami Grilled",
     "dishForm": "Tendon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

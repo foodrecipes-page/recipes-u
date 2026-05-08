@@ -3,7 +3,6 @@
   "description": "A hearty, comforting German casserole featuring tender beef, pickles, and a tangy sauce. Serve as a solo dinner or alongside your favorite sides.",
   "cuisine": "german",
   "diet": [
-    "gluten-free",
     "dairy-free-friendly"
   ],
   "meal": "dinner",
@@ -76,8 +75,7 @@
     "casserole",
     "comfort-food",
     "dairy-free-friendly",
-    "german",
-    "gluten-free"
+    "german"
   ],
   "nutrition": {
     "calories": 540,
@@ -96,11 +94,16 @@
     "mood": "solo-dinner",
     "technique": "pickle",
     "primaryIngredient": "full fat sour cream",
-    "diet": "dairy-free",
+    "diet": "dairy-free-friendly",
     "region": null,
     "cuisineAdjective": "German",
     "mainIngredient": "Sauerbraten",
     "descriptor": "Uplifting",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

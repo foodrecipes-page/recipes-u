@@ -66,7 +66,8 @@
     "Heat a wok over medium-high heat and add a splash of sesame oil.",
     "Place the bao in the wok and cover with a lid, steaming for 8 minutes.",
     "Remove the lid and turn the bao over, steaming for an additional 4 minutes.",
-    "Serve hot with sliced scallions on top."
+    "Serve hot with sliced scallions on top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -98,11 +99,16 @@
     "mood": "sick-day",
     "technique": "tandoor",
     "primaryIngredient": "tahini",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Chinese",
     "mainIngredient": "Tahini",
     "descriptor": "Uplifted",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

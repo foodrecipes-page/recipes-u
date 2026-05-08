@@ -48,7 +48,8 @@
     "Sear lamb chops in a non-stick pan until golden brown on both sides; about 2-3 minutes per side.",
     "Transfer seared lamb to the greased baking sheet. Add more olive oil if necessary, then add minced garlic and sauté for another minute.",
     "Return lamb to the pan, reduce heat to medium, cover with a lid or foil, and cook until tender, about 15-20 minutes.",
-    "Serve hot with steamed dill pickles as a side dish. Garnish with fresh herbs if desired."
+    "Serve hot with steamed dill pickles as a side dish. Garnish with fresh herbs if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -84,5 +85,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Umami Tender",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

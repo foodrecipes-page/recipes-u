@@ -2,9 +2,7 @@
   "title": "underground roasted Moroccan potatoes Gratin",
   "description": "A rich, creamy, and aromatic Moroccan-inspired dish featuring roasted charlotte potatoes with a fluffy top and a hint of spices.",
   "cuisine": "Moroccan",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,7 +65,8 @@
     "In a small bowl, whisk together the Greek yogurt and a pinch of salt.",
     "Pour the yogurt mixture over the top of the potatoes and return the dish to the oven.",
     "Bake for an additional 5-10 minutes, or until the top is creamy and set.",
-    "Remove the dish from the oven and let it cool for a few minutes before serving."
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 55,
@@ -78,7 +77,6 @@
     "comfort-food",
     "moroccan",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -104,5 +102,10 @@
     "mainIngredient": "potatoes",
     "descriptor": "underground Roasted",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

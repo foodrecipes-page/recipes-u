@@ -3,8 +3,7 @@
   "description": "A rich and savory show-off Russian dish featuring marinated tofu, a creamy pasta water emulsion, and a delicate balance of umami flavors.",
   "cuisine": "Russian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Umami tender",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

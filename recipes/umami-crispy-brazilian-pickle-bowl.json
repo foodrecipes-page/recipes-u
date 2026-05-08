@@ -2,10 +2,7 @@
   "title": "Umami Crispy Brazilian Pickle Bowl",
   "description": "A vegan-friendly, umami-rich dinner bowl featuring crispy Rice Krispies, tangy pickles, and bold Brazilian flavors. Perfect for a solo dinner, this dish combines crunchy textures with savory flavors.",
   "cuisine": "Brazilian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -61,7 +58,8 @@
     "Add the pickle slices to the pan and cook for 2-3 minutes on each side, or until caramelized and crispy.",
     "In a small bowl, whisk together vegan mayo and a pinch of salt and pepper.",
     "To assemble the bowl, place a scoop of crispy Rice Krispies at the bottom, followed by a few pickle slices, and a dollop of vegan mayo.",
-    "Garnish with chopped fresh cilantro and serve immediately."
+    "Garnish with chopped fresh cilantro and serve immediately.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -70,8 +68,6 @@
   "difficulty": "easy",
   "tags": [
     "brazilian",
-    "vegan",
-    "gluten-free",
     "umami",
     "crispy",
     "pickle",
@@ -100,5 +96,11 @@
     "mainIngredient": "pickle",
     "descriptor": "umami crispy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -58,7 +58,8 @@
     "Add the browned pork back to the skillet and stir to combine with the vegetables.",
     "In a small bowl, whisk together the caster sugar, salt, black pepper, and apple cider vinegar.",
     "Pour the sugar and vinegar mixture over the pork and vegetables in the skillet.",
-    "Stir everything together and cook for an additional 2 minutes."
+    "Stir everything together and cook for an additional 2 minutes.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -95,5 +96,9 @@
     "mainIngredient": "pork",
     "descriptor": "Unique Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

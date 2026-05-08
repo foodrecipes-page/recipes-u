@@ -3,7 +3,6 @@
   "description": "A smoky and crumbly Japanese dish featuring chicken and orange juice, originating from the Tohoku region, this oyakodon is a show-off dish that is onion and garlic free.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "lunch",
@@ -68,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "chicken-recipes",
-    "gluten-free",
     "japanese-cuisine",
     "low-carb",
     "one-pot",
@@ -97,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Unsmoked Crumbly",
     "dishForm": "Oyakodon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

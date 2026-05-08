@@ -3,7 +3,6 @@
   "description": "A fluffy, nutty, halal-friendly chana masala featuring tender white asparagus for a comforting sick‑day dish.",
   "cuisine": "Indian",
   "diet": [
-    "vegan",
     "halal"
   ],
   "meal": "dinner",
@@ -81,8 +80,7 @@
     "easy",
     "halal",
     "nutty",
-    "one-pot",
-    "vegan"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 350,
@@ -107,5 +105,9 @@
     "mainIngredient": "Asparagus",
     "descriptor": "Ultra Nutty",
     "dishForm": "Chana Masala"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

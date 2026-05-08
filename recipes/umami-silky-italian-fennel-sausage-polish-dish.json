@@ -49,7 +49,8 @@
     "Mix in fresh thyme, chicken stock, red wine vinegar, and olive oil. Bring to a simmer.",
     "Transfer mixture to an oven-safe dish. Top with grated pecorino romano cheese.",
     "Bake for 15-20 minutes or until the cheese is melted and bubbly.",
-    "Serve immediately."
+    "Serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -86,5 +87,9 @@
     "mainIngredient": "Fennel Sausages",
     "descriptor": "Umami Silky",
     "dishForm": "Polish Dish"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

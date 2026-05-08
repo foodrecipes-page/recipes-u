@@ -3,8 +3,7 @@
   "description": "A low-fat-friendly Moroccan-inspired one-pot dish featuring umami flavors from soy sauce and dark miso, complemented by the sharpness of dill pickles and the flaky texture of dumplings.",
   "cuisine": "Moroccan",
   "diet": [
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -48,8 +47,7 @@
     "moroccan",
     "one-pot",
     "dumplings",
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "nutrition": {
     "calories": 260,
@@ -70,5 +68,9 @@
     "primaryIngredient": "dill pickles",
     "diet": "low-fat",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

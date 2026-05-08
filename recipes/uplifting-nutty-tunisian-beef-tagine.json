@@ -64,7 +64,8 @@
     "Pour in chicken broth to deglaze, scraping up any browned bits, and bring to a simmer.",
     "Reduce heat to low, cover the pot, and let the tagine cook gently for 45 minutes, or until the beef is tender.",
     "Stir in toasted almonds, season with salt and pepper, and simmer uncovered for an additional 5 minutes to meld flavors.",
-    "Remove from heat, garnish with fresh parsley if desired, and serve hot over couscous or with crusty bread."
+    "Remove from heat, garnish with fresh parsley if desired, and serve hot over couscous or with crusty bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 60,
@@ -96,11 +97,16 @@
     "mood": "energizing",
     "technique": "soffritto-base",
     "primaryIngredient": "beef cutlet",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Tunisian",
     "mainIngredient": "beef",
     "descriptor": "Uplifting Nutty",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

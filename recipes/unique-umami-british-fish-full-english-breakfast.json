@@ -2,9 +2,7 @@
   "title": "Unique Umami British Fish Full English Breakfast",
   "description": "A pescatarian-friendly full English breakfast featuring smoked fish, apricot, and earthy flavors, all cooked in a cataplana vessel.",
   "cuisine": "British",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -74,7 +72,6 @@
     "british-breakfast",
     "full-english",
     "one-pan",
-    "pescatarian",
     "smoked-fish",
     "umami-rich"
   ],
@@ -101,5 +98,9 @@
     "mainIngredient": "fish",
     "descriptor": "unique umami",
     "dishForm": "Full English Breakfast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

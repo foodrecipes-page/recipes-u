@@ -2,9 +2,7 @@
   "title": "Uplifting Dutch Rice Stew",
   "description": "A fermented, pillowy rice stew with garam masala and Mediterranean flair served from an agave leaf.",
   "cuisine": "Dutch-Mediterranean fusion",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -84,8 +82,7 @@
     "fermented",
     "lazy-sunday",
     "mediterranean-friendly",
-    "pillowy",
-    "vegan"
+    "pillowy"
   ],
   "nutrition": {
     "calories": 230,
@@ -110,5 +107,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Uplifting",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

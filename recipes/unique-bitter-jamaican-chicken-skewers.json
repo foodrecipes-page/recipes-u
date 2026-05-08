@@ -3,7 +3,6 @@
   "description": "A quick-fix Jamaican dish featuring cider vinegar and wok-hei, these bitter chicken skewers are perfect for a snack or dinner. The combination of spices and vinegar gives the dish a unique flavor profile.",
   "cuisine": "Jamaican",
   "diet": [
-    "gluten-free",
     "egg-free"
   ],
   "meal": "dinner",
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "bitter-flavors",
-    "gluten-free",
     "grilled-chicken",
     "jamaican-cuisine",
     "quick-fix",
@@ -91,5 +89,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Unique Bitter",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

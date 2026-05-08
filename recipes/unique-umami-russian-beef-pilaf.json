@@ -60,7 +60,8 @@
     "Stir in the ground annatto, smoked paprika, salt, and black pepper, and cook for 1 minute.",
     "Add the long grain rice and cook for 2 minutes, until the rice is coated in the spice mixture and slightly toasted.",
     "Add the beef broth to the skillet and bring to a boil.",
-    "Reduce the heat to low, cover the skillet, and simmer for 20 minutes, until the rice is cooked and the liquid has been absorbed."
+    "Reduce the heat to low, cover the skillet, and simmer for 20 minutes, until the rice is cooked and the liquid has been absorbed.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -98,5 +99,9 @@
     "mainIngredient": "beef",
     "descriptor": "unique umami",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A tangy and savory Chinese Chaozhou-inspired dish featuring a cheese-pull duck bao, perfect for date night. The addition of duck sauce and a dairy-free-friendly sauce brings a unique twist to this traditional dish.",
   "cuisine": "chinese",
   "diet": [
-    "dairy-free-friendly",
-    "vegetarian"
+    "dairy-free-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -121,11 +120,16 @@
     "mood": "date-night",
     "technique": "simmer",
     "primaryIngredient": "duck sauce",
-    "diet": "dairy-free",
+    "diet": "dairy-free-friendly",
     "region": "chaozhou",
     "cuisineAdjective": "Chinese",
     "mainIngredient": "duck",
     "descriptor": "Understatedly Sweet",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "aligned-axes-diet"
+  ]
 }

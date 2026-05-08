@@ -69,7 +69,8 @@
     "Add the vegetable broth, tomato paste, thyme, bay leaves, and red pepper flakes, and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
     "Season the bouillabaisse with salt and pepper to taste.",
-    "Serve the bouillabaisse hot, garnished with chopped fresh herbs if desired."
+    "Serve the bouillabaisse hot, garnished with chopped fresh herbs if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -106,5 +107,9 @@
     "mainIngredient": "bananas",
     "descriptor": "Unusual Pungent",
     "dishForm": "Bouillabaisse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

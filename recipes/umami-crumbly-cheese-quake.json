@@ -32,7 +32,7 @@
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 0,
-  "totalTimeMin": 30,
+  "totalTimeMin": 5,
   "servings": 1,
   "difficulty": "easy",
   "tags": [
@@ -60,5 +60,9 @@
     "primaryIngredient": "liquid cheese",
     "diet": "whole30",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

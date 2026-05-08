@@ -61,7 +61,8 @@
     "Pour in dry sherry, scrape the bottom, and let it reduce by half.",
     "Add date syrup, spice mix, salt, pepper, and chicken broth, bring to simmer.",
     "Cover and cook for 20 minutes until chicken is tender.",
-    "Adjust seasoning if needed and serve hot."
+    "Adjust seasoning if needed and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -100,5 +101,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Umami Spicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

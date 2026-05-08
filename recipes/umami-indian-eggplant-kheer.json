@@ -4,7 +4,6 @@
   "cuisine": "Indian",
   "diet": [
     "vegetarian",
-    "vegan",
     null
   ],
   "meal": "dinner",
@@ -72,7 +71,8 @@
   ],
   "instructions": [
     "Heat oil in a pan over medium heat. Add cumin seeds and mustard seeds and let sizzle. Add chopped onion and saut\u00105 until softened. Add grated ginger and minced garlic and cook for 1 minute. Add sliced eggplant and cook until tender. Add nuka-pickle and stir well. Add coconut milk, turmeric, salt, sugar and cardamom powder. Stir well and let simmer for 10 minutes. Taste and adjust seasoning.",
-    "Serve warm or chilled, garnished with fresh cilantro if desired."
+    "Serve warm or chilled, garnished with fresh cilantro if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -83,7 +83,6 @@
     "dinner",
     "indian",
     "one-pot",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -109,5 +108,10 @@
     "mainIngredient": "eggplant",
     "descriptor": "UMAMI",
     "dishForm": "Kheer"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-preserving_no_acid"
+  ]
 }

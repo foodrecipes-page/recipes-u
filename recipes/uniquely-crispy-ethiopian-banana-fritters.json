@@ -2,9 +2,7 @@
   "title": "Uniquely Crispy Ethiopian Banana Fritters",
   "description": "A crispy and citrusy Ethiopian dish featuring fried ripe bananas, perfect for a midnight craving, this recipe is slow-cooked and gluten-free-friendly.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -63,7 +61,6 @@
     "crispy",
     "ethiopian",
     "fried",
-    "gluten-free",
     "midnight-craving"
   ],
   "nutrition": {
@@ -89,5 +86,9 @@
     "mainIngredient": "bananas",
     "descriptor": "Uniquely crispy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

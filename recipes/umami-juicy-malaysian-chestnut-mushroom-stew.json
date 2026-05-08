@@ -12,7 +12,7 @@
       "amount": "300 g"
     },
     {
-      "name": "skin\u2011less chicken thighs",
+      "name": "skin‑less chicken thighs",
       "amount": "200 g"
     },
     {
@@ -48,7 +48,7 @@
       "amount": "100 ml"
     },
     {
-      "name": "low\u2011sodium chicken broth",
+      "name": "low‑sodium chicken broth",
       "amount": "2 cups"
     },
     {
@@ -58,15 +58,16 @@
   ],
   "instructions": [
     "Heat the coconut oil in a deep pot over medium heat.",
-    "Add the ginger & garlic paste and saut\u00e9 until fragrant, about 2 minutes.",
+    "Add the ginger & garlic paste and sauté until fragrant, about 2 minutes.",
     "Add the sliced red chili and curry leaves; cook for another minute.",
     "Toss in the chicken thighs and brown them on all sides, about 5 minutes.",
     "Stir in the chestnut mushrooms and cook until they start to release moisture.",
     "Pour in the fermented soy sauce blend, tamarind paste, and lime juice; stir well.",
-    "Add the low\u2011sodium chicken broth and bring to a gentle boil.",
+    "Add the low‑sodium chicken broth and bring to a gentle boil.",
     "Reduce heat to a simmer, cover, and let the stew cook for 15 minutes.",
     "Stir in the coconut milk and black pepper; simmer uncovered for an additional 5 minutes until the sauce thickens slightly.",
-    "Taste and adjust seasoning if needed; serve hot, garnished with extra curry leaves if desired."
+    "Taste and adjust seasoning if needed; serve hot, garnished with extra curry leaves if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -104,5 +105,9 @@
     "mainIngredient": "chestnut mushroom",
     "descriptor": "Umami Juicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

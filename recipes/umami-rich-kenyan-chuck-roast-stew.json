@@ -2,9 +2,7 @@
   "title": "Umami Rich Kenyan Chuck Roast Stew",
   "description": "A hearty and flavorful Kenyan-inspired stew featuring tender chuck roast, namul-blanch-seasoned vegetables, and a rich umami broth, perfect for a cozy dinner",
   "cuisine": "Kenyan",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -102,5 +100,9 @@
     "mainIngredient": "chuck roast",
     "descriptor": "Umami Rich",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

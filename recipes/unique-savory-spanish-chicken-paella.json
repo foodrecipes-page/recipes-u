@@ -53,7 +53,8 @@
     "Add the low sodium chicken broth to the pan and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 20 minutes or until the rice is tender.",
     "Stir in the smoked paprika and salt free seasoning blend.",
-    "Return the chicken to the pan and cook for an additional 2 minutes."
+    "Return the chicken to the pan and cook for an additional 2 minutes.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -90,5 +91,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Unique Savory",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

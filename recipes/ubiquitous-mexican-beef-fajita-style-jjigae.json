@@ -3,8 +3,7 @@
   "description": "A fusion of Mexican and Korean flavors in a savory, juicy, and indulgent fajita-style dish.",
   "cuisine": "Mexican",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "low-carb",
     "one-pan",
@@ -94,5 +92,9 @@
     "mainIngredient": "beef",
     "descriptor": "ubiquitous",
     "dishForm": "Fajita-Style Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

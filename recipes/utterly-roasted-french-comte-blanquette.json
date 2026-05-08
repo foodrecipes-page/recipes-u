@@ -2,10 +2,7 @@
   "title": "Utterly Roasted French Comte Blanquette",
   "description": "A roasted, crisp, nostalgic French dish featuring Comte cheese in a dairy-free friendly mother sauce base, served in scallop shells.",
   "cuisine": "French",
-  "diet": [
-    "dairy-free",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,7 +66,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "french-cuisine",
     "roasted-vegetables",
     "special-occasion"
@@ -97,5 +93,10 @@
     "mainIngredient": "Comte",
     "descriptor": "Utterly Roasted",
     "dishForm": "Blanquette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

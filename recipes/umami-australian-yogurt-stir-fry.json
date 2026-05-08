@@ -2,9 +2,7 @@
   "title": "Umami Australian Yogurt Stir-fry",
   "description": "A tender and energizing gluten-free-friendly dish featuring full fat yogurt in a vibrant steam-based stir-fry.",
   "cuisine": "Australian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,5 +75,9 @@
     "mainIngredient": "Yogurt",
     "descriptor": "Umami",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A comforting and creamy Korean stew featuring small potatoes and tempering chocolate, inspired by the cuisine of Busan, with ayurvedic tamasic friendly ingredients.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,6 @@
   "tags": [
     "ayurvedic",
     "comfort-food",
-    "gluten-free",
     "korean-inspired",
     "one-pot",
     "vegetarian-friendly"
@@ -101,5 +99,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "unctuous creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

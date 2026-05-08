@@ -64,7 +64,8 @@
     "Char the aji amarillo peppers over an open flame, or in a dry skillet, until the skin is blistered and blackened.",
     "Peel the peppers and chop them into small pieces, then stir them into the cooked rice.",
     "Chop the cilantro and garlic, and stir them into the rice mixture.",
-    "To serve, place a duck leg on each plate, then spoon the smoky rice mixture alongside."
+    "To serve, place a duck leg on each plate, then spoon the smoky rice mixture alongside.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -102,5 +103,9 @@
     "mainIngredient": "duck",
     "descriptor": "Unctuous Smoky",
     "dishForm": "Arroz Con Pato"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

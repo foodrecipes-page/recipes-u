@@ -3,8 +3,7 @@
   "description": "A fresh and light Peruvian dish featuring floury potatoes, formed into picarones and fried until crispy, this keto-friendly recipe is perfect for a snack or dessert. The combination of potatoes, rice flour, and khao khuas gives it a unique flavor and texture.",
   "cuisine": "Peruvian",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "snack",
   "ingredients": [
@@ -52,7 +51,6 @@
   "difficulty": "medium",
   "tags": [
     "fried-foods",
-    "gluten-free",
     "keto-friendly",
     "peruvian-cuisine",
     "potato-recipes"
@@ -80,5 +78,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Unique Flaky",
     "dishForm": "Picarones"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

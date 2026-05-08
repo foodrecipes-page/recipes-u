@@ -2,10 +2,7 @@
   "title": "Ultra Crispy Japanese Chicken Skewers",
   "description": "Fatty and velvety, these Chugoku-inspired chicken skewers are a show-off dish featuring sunflower oil and a satvik-friendly flavor profile.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -116,5 +113,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Ultra Crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

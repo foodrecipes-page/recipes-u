@@ -2,9 +2,7 @@
   "title": "Unique Umami Moroccan Eggplant Zaalouk",
   "description": "A kid-friendly Moroccan dish featuring streaky bacon and eggplant, cooked in a clay pot and steamed in a bamboo steamer to create a grassy and creamy flavor profile.",
   "cuisine": "Moroccan",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Unique Umami",
     "dishForm": "Zaalouk"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

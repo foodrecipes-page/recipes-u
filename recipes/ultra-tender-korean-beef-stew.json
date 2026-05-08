@@ -3,7 +3,6 @@
   "description": "A savory, fluffy one-pot dish featuring tender beef, sweet pineapple, and a hint of Korean spices. Perfect for a weeknight dinner or special occasion.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -102,11 +101,16 @@
     "mood": "one-pot",
     "technique": "roast",
     "primaryIngredient": "pineapple chunks",
-    "diet": "nut-free",
+    "diet": "dairy-free",
     "region": null,
     "cuisineAdjective": "Korean",
     "mainIngredient": "beef",
     "descriptor": "Ultra Tender",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "aligned-axes-diet"
+  ]
 }

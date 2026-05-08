@@ -2,10 +2,7 @@
   "title": "Umami Crispy Argentinian Flour Empanadas",
   "description": "A savory and energizing empanada dish featuring dashi-extract and self-raising flour, perfect as a snack or light meal.",
   "cuisine": "argentinian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -107,5 +104,10 @@
     "mainIngredient": "flour",
     "descriptor": "umami crispy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -73,7 +73,9 @@
     "Stir in tomato paste, soy sauce, fish sauce, coconut milk, and papaya (if using).",
     "Bring to a simmer, then reduce heat to low and let the mixture reduce slightly. Add kaffir lime leaves and let them infuse for about 5 minutes.",
     "Taste and adjust seasoning if necessary. Stir in the chopped noodles and continue to cook until all liquid is absorbed and the sauce coats evenly over the noodles.",
-    "Remove from heat, garnish with fresh herbs like coriander or mint (optional), serve hot."
+    "Remove from heat, garnish with fresh herbs like coriander or mint (optional), serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -110,5 +112,10 @@
     "mainIngredient": "tagliatelle",
     "descriptor": "umami juicy show-off",
     "dishForm": "braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

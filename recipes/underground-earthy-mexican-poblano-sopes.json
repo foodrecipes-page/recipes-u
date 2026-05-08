@@ -76,7 +76,8 @@
     "divide the dough into 6-8 equal pieces, and shape each piece into a ball.",
     "roll out each ball of dough into a thin circle, about 1/8 inch thick.",
     "heat a large skillet or hot pot vessel over medium-high heat, and cook the dough circles for 1-2 minutes on each side, until crispy and golden brown.",
-    "top each sopes with the grilled chicken, a spoonful of the ancho chili pepper mixture, and a sprinkle of cilantro, if desired."
+    "top each sopes with the grilled chicken, a spoonful of the ancho chili pepper mixture, and a sprinkle of cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -111,5 +112,9 @@
     "mainIngredient": "poblano",
     "descriptor": "Underground earthy",
     "dishForm": "Sopes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

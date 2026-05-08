@@ -2,9 +2,7 @@
   "title": "Unique Crisp Vietnamese Tofu Noodles",
   "description": "A lazy Sunday Vietnamese dish featuring fermented tofu, cheddar cheese, and coconut cream, all in a vegan-friendly format",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -87,5 +85,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Unique Crisp",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

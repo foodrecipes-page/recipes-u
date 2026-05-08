@@ -3,8 +3,6 @@
   "description": "A rich and comforting Shikoku-inspired dish featuring paneer, served in a crispy tonkotsu ramen bowl.",
   "cuisine": "japanese",
   "diet": [
-    "vegetarian",
-    "gluten-free",
     "sattvic"
   ],
   "meal": "lunch",
@@ -137,5 +135,10 @@
     "mainIngredient": "Paneer",
     "descriptor": "Umami",
     "dishForm": "Tonkotsu Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

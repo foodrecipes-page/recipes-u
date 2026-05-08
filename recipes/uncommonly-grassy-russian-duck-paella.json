@@ -56,7 +56,8 @@
     "Transfer the paella pan to the preheated oven and bake for 25 minutes.",
     "Remove the paella pan from the oven and stir in the lemon juice.",
     "Return the paella pan to the oven and bake for an additional 10 minutes.",
-    "Remove the paella pan from the oven and let it cool for 5 minutes before serving."
+    "Remove the paella pan from the oven and let it cool for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -94,5 +95,9 @@
     "mainIngredient": "duck",
     "descriptor": "Uncommonly Grassy",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

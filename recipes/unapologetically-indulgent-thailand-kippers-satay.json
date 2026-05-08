@@ -2,11 +2,7 @@
   "title": "unapologetically-indulgent-thailand-kippers-satay",
   "description": "This dish is a unique fusion of traditional Thai Isaan flavors with the rich, savory taste of kippers. It's a low-calorie-friendly twist on the classic satay.",
   "cuisine": "thai",
-  "diet": [
-    "vegetarian",
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -81,7 +77,6 @@
   "servings": 4,
   "difficulty": "hard",
   "tags": [
-    "gluten-free",
     "high-protein",
     "low-calorie-friendly",
     "one-pan",
@@ -112,5 +107,11 @@
     "mainIngredient": "kippers",
     "descriptor": "Unapologetically Indulgent",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

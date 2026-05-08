@@ -63,8 +63,7 @@
     "umami",
     "romantic",
     "slovenian",
-    "stir-fry",
-    "dairy-free"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 320,
@@ -89,5 +88,9 @@
     "mainIngredient": "Tomato",
     "descriptor": "Umami Gooey Romantic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

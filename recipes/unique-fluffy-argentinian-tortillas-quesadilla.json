@@ -3,8 +3,7 @@
   "description": "A fresh and fluffy Argentinian dish featuring tortillas, perfect for midnight cravings, and is egg-free friendly. This recipe is a twist on traditional quesadillas with a sweet and tangy glaze.",
   "cuisine": "Argentinian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -63,7 +62,6 @@
   "tags": [
     "argentinian-cuisine",
     "cheesy",
-    "gluten-free",
     "midnight-cravings",
     "tortilla-based",
     "vegetarian-friendly"
@@ -91,5 +89,9 @@
     "mainIngredient": "tortillas",
     "descriptor": "Unique Fluffy",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

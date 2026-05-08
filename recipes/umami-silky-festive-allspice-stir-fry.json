@@ -3,8 +3,7 @@
   "description": "This low-carb-friendly festive dish features a savory marinade of ground allspice and umami-rich ingredients to create a silky texture in your favorite stir-fry.",
   "cuisine": "Slovakian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -85,5 +84,9 @@
     "mainIngredient": "Allspice",
     "descriptor": "Umami Silky Festive",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

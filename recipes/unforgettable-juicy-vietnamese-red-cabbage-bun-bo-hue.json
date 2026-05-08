@@ -3,7 +3,6 @@
   "description": "a vibrant, nourishing bun bo hue recipe featuring red cabbage and a variety of spices. this dish is a perfect combination of crunchy, nutty, and energizing flavors.",
   "cuisine": "vietnamese",
   "diet": [
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "lunch",
@@ -86,7 +85,6 @@
   "difficulty": "hard",
   "tags": [
     "fodmap-friendly",
-    "gluten-free",
     "high-protein",
     "nutritious",
     "one-pan",
@@ -116,5 +114,9 @@
     "mainIngredient": "Red Cabbage",
     "descriptor": "Unforgettable Juicy",
     "dishForm": "Bun Bo Hue"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A plant-based twist on the classic Scotch egg, featuring tofu and confit tomato, served on a tagliere board for a light and satisfying meal.",
   "cuisine": "British",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Untouched Light",
     "dishForm": "Scotch Egg"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

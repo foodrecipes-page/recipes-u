@@ -100,11 +100,15 @@
     "mood": "monsoon",
     "technique": "mantecare-emulsify",
     "primaryIngredient": "marmite",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Ukrainian",
     "mainIngredient": "beet",
     "descriptor": "unique umami",
     "dishForm": "Borscht"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

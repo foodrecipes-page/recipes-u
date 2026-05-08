@@ -2,9 +2,7 @@
   "title": "Unctuous Brazilian Rice Stew",
   "description": "A creamy, comforting broth that blends ginger, tomatoes, and coconut milk with fluffy rice, perfect for a sick day.",
   "cuisine": "Brazilian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -77,7 +75,8 @@
     "Add the jasmine rice, salt, and black pepper, stir to combine, then cover the pot.",
     "Reduce the heat to low, and simmer for 18 minutes until the rice is tender and the liquid is absorbed.",
     "Turn off the heat, let the stew sit covered for 5 minutes to steam further.",
-    "Fluff the rice with a fork, then serve hot, garnished with fresh cilantro."
+    "Fluff the rice with a fork, then serve hot, garnished with fresh cilantro.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -87,7 +86,6 @@
   "tags": [
     "bold-flavors",
     "comfort-food",
-    "dairy-free",
     "nimono",
     "rice-dish",
     "sick-day"
@@ -115,5 +113,10 @@
     "mainIngredient": "Rice",
     "descriptor": "Unctuous",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

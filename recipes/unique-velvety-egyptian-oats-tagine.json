@@ -65,7 +65,8 @@
     "Add the rolled oats, chicken broth, dried apricots, almonds, ras el hanout, salt, and black pepper, and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
     "Remove the clay pot from the heat and let it cool slightly.",
-    "Serve the tagine hot, garnished with additional sliced almonds if desired."
+    "Serve the tagine hot, garnished with additional sliced almonds if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -103,5 +104,9 @@
     "mainIngredient": "oats",
     "descriptor": "Unique Velvety",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

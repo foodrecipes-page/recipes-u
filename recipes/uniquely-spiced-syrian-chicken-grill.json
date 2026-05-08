@@ -3,8 +3,7 @@
   "description": "sweet, fluffy, meal-prep syrian dish featuring chilli sauce, confit-tomato, suitable for shojin diet, cooked on iron teppan",
   "cuisine": "syrian",
   "diet": [
-    "shojin",
-    "vegetarian"
+    "shojin"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -115,5 +114,9 @@
     "mainIngredient": "chicken",
     "descriptor": "uniquely-spiced",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

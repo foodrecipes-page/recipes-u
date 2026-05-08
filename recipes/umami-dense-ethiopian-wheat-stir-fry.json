@@ -2,9 +2,7 @@
   "title": "Umami Dense Ethiopian Wheat Stir-fry",
   "description": "A quick-fix ethiopian dish featuring gluten-free wheat and a spicy sauce made with umami flavor for a dense and flavorful meal.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -83,5 +81,9 @@
     "mainIngredient": "Wheat",
     "descriptor": "Umami Dense",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

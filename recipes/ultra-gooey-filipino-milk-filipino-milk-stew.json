@@ -3,7 +3,6 @@
   "description": "A comforting, ultra-gooey Filipino dish perfect for a lazy Sunday.",
   "cuisine": "Filipino",
   "diet": [
-    "vegetarian",
     "low-calorie-friendly"
   ],
   "meal": "breakfast",
@@ -53,7 +52,8 @@
     "Add the rice flour and whisk until smooth.",
     "Bring the mixture to a boil, then reduce heat to low and simmer for 10 minutes.",
     "Stir in salt and pepper to taste.",
-    "Serve hot, garnished with a sprinkle of salt and a few drops of melted butter, if desired."
+    "Serve hot, garnished with a sprinkle of salt and a few drops of melted butter, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -65,8 +65,7 @@
     "filipino",
     "lazy-sunday",
     "low-calorie-friendly",
-    "one-pot-meal",
-    "vegetarian"
+    "one-pot-meal"
   ],
   "nutrition": {
     "calories": 240,
@@ -91,5 +90,10 @@
     "mainIngredient": "milk",
     "descriptor": "ultra gooey",
     "dishForm": "Filipino Milk Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

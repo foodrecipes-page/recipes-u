@@ -68,7 +68,8 @@
     "Heat the vegetable oil in a large skillet over medium-high heat.",
     "When the oil is hot, add a few of the spring rolls to the skillet and fry until golden brown, about 3-4 minutes on each side.",
     "Remove the spring rolls from the oil and drain on paper towels.",
-    "Serve the spring rolls hot with your favorite dipping sauce."
+    "Serve the spring rolls hot with your favorite dipping sauce.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -106,5 +107,9 @@
     "mainIngredient": "meat",
     "descriptor": "Unique Savory",
     "dishForm": "Spring-Rolls"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

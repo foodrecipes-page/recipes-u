@@ -3,8 +3,7 @@
   "description": "A herbal and comforting Indian dish featuring toast, perfect for a light meal, this recipe is egg free and friendly for all diets.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -72,7 +71,6 @@
     "herbal",
     "indian-food",
     "light-meal",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -98,5 +96,9 @@
     "mainIngredient": "bread",
     "descriptor": "Unique Light",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

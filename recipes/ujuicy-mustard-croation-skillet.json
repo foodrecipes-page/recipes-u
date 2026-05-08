@@ -44,7 +44,8 @@
     "Add mustard, chicken pieces, peas and carrots, garlic, olive oil, salt, and pepper. Stir well.",
     "Reduce heat to low, cover, and simmer for 10 minutes.",
     "Stir occasionally and add more broth if needed for desired consistency.",
-    "Serve hot as a side or main dish."
+    "Serve hot as a side or main dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -80,5 +81,9 @@
     "mainIngredient": "mustard",
     "descriptor": "Juicy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

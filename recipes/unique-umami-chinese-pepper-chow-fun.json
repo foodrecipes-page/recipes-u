@@ -61,7 +61,8 @@
     "Add the Chinese peppercorns, soy sauce, and oyster sauce to the skillet and stir to combine.",
     "Add the cooked noodles to the skillet and stir to combine with the pork and sauce.",
     "Add the chopped scallions and red pepper flakes to the skillet and stir to combine.",
-    "Cook for an additional 2 minutes, stirring constantly, until the noodles are well coated with the sauce."
+    "Cook for an additional 2 minutes, stirring constantly, until the noodles are well coated with the sauce.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -99,5 +100,9 @@
     "mainIngredient": "pepper",
     "descriptor": "Unique Umami",
     "dishForm": "Chow Fun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Ultra Crispy Turkish Chicken Casserole",
   "description": "A malty, flaky, post-workout Turkish casserole that is double-fried for ultimate crispness and cooked in a ramekin for a perfect serving.",
   "cuisine": "turkish",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -48,7 +46,8 @@
     "Remove the chicken and let it rest on paper towels to drain excess oil.",
     "Reheat the skillet and fry the rested chicken again for 2 minutes per side to achieve a double-crispy finish.",
     "Transfer the double-fried chicken into a preheated ramekin and bake at 180°C for 8 minutes to finish cooking.",
-    "Serve hot with a side of roasted vegetables or a simple green salad."
+    "Serve hot with a side of roasted vegetables or a simple green salad.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -86,5 +85,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Ultra Crispy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

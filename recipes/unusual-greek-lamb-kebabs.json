@@ -4,8 +4,7 @@
   "cuisine": "Greek",
   "diet": [
     "lacto-ovo-vegetarian",
-    "pescetarian",
-    "vegan"
+    "pescetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -115,5 +114,9 @@
     "mainIngredient": "lamb",
     "descriptor": "unusual",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

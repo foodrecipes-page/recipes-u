@@ -3,8 +3,7 @@
   "description": "Savory Venezuelan dish featuring caster sugar and wok-hei, perfect for a low-glycemic diet, this recipe combines the energizing flavors of Venezuela with the sweetness of caster sugar.",
   "cuisine": "Venezuelan",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -53,7 +52,8 @@
     "While the chicken is cooking, mix the caster sugar and 1 tablespoon of water in a small saucepan.",
     "Bring the sugar mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
     "Brush the sugar glaze onto the chicken during the last 2 minutes of cooking.",
-    "Serve the chicken skewers hot, garnished with chopped fresh cilantro if desired."
+    "Serve the chicken skewers hot, garnished with chopped fresh cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -61,7 +61,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "grilled-chicken",
     "high-protein",
     "low-glycemic",
@@ -91,5 +90,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Unique Umami",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

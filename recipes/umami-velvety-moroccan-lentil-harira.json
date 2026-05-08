@@ -3,8 +3,6 @@
   "description": "A comforting Moroccan dish featuring dashi and nuka-pickle for a rich umami flavor, this satvik-friendly harira is a perfect blend of fermented and velvety textures. It is a hearty and comforting meal for any time of the day.",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
-    "vegan",
     "satvik"
   ],
   "meal": "dinner",
@@ -64,7 +62,8 @@
     "Stir well to combine, then bring the mixture to a boil.",
     "Reduce the heat to low and simmer, covered, for 30 minutes, or until the lentils are tender.",
     "Use an immersion blender to puree the harira to a velvety texture, or allow it to cool and puree it in a blender.",
-    "Serve the harira hot, garnished with chopped fresh herbs or a dollop of yogurt, if desired."
+    "Serve the harira hot, garnished with chopped fresh herbs or a dollop of yogurt, if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -102,5 +101,11 @@
     "mainIngredient": "lentils",
     "descriptor": "Umami Velvety",
     "dishForm": "Harira"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-preserving_no_acid"
+  ]
 }

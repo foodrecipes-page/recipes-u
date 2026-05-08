@@ -64,7 +64,8 @@
     "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
     "Place the rolls seam side down in a baking dish and repeat with the remaining wrappers and filling.",
     "Bake the rolls in the preheated oven for 15 minutes, or until golden brown.",
-    "Serve the Unique Peppery Spanish Egg Crema Catalana hot, garnished with chopped fresh herbs if desired."
+    "Serve the Unique Peppery Spanish Egg Crema Catalana hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -102,5 +103,9 @@
     "mainIngredient": "egg",
     "descriptor": "Unique Peppery",
     "dishForm": "Crema Catalana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }
