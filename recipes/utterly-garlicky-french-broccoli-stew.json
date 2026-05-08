@@ -1,0 +1,110 @@
+{
+  "title": "Utterly Garlicky French Broccoli Stew",
+  "description": "A hearty and comforting French stew featuring broccoli, dumplings, and a rich garlicky flavor, inspired by the cuisine of Normandy, made in a kadhai and suitable for halal diets.",
+  "cuisine": "French",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "3 cups",
+      "notes": "fresh, cut into florets"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dumplings"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten, for dumplings"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large kadhai, melt the butter over medium heat and saute the chopped onion until softened.",
+    "Add the minced garlic and cook for an additional 2 minutes, stirring constantly to prevent burning.",
+    "Add the broccoli florets and cook for 5 minutes, or until they start to soften.",
+    "In a separate bowl, whisk together the flour, egg, and a pinch of salt to make the dumpling mixture.",
+    "Gradually add the chicken broth and milk to the kadhai, whisking continuously to prevent lumps.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the broccoli is tender.",
+    "Using a spoon, drop the dumpling mixture into the simmering stew, covering the kadhai with a lid.",
+    "Cook for an additional 10 minutes, or until the dumplings are cooked through and float to the surface.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broccoli-recipes",
+    "comfort-food",
+    "french-cuisine",
+    "garlic-lovers",
+    "halal-friendly",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "utterly-garlicky-french-broccoli-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/utterly-garlicky-french-broccoli-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:49:23Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "dum",
+    "primaryIngredient": "broccoli",
+    "diet": "halal",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "broccoli",
+    "descriptor": "utterly garlicky",
+    "dishForm": "Stew"
+  }
+}
