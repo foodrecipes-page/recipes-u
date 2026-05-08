@@ -1,0 +1,105 @@
+{
+  "title": "Unique Umami Ethiopian Fish Stew",
+  "description": "A cozy Ethiopian dish featuring charred fish, Thai sweet basil, and nuka pickle, all combined in a rich and savory stew. This pescatarian-friendly recipe is perfect for a chilly evening.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until it is translucent and starting to caramelize.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Add the berbere spice and cook for 1 minute, stirring constantly.",
+    "Add the fish and cook until it is browned on all sides.",
+    "Add the nuka pickle and cook for 2 minutes, stirring constantly.",
+    "Add the fish stock and tomato paste, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 10 minutes.",
+    "Stir in the Thai sweet basil and cook for 1 minute.",
+    "Season the stew with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dinner",
+    "fish-based",
+    "international-cuisine",
+    "one-pot",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "unique-umami-ethiopian-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-ethiopian-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:53:18Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "fish",
+    "descriptor": "unique umami",
+    "dishForm": "Stew"
+  }
+}
