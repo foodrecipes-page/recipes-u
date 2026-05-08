@@ -1,0 +1,102 @@
+{
+  "title": "Unique Citrusy Greek Pork Skewers",
+  "description": "A light and refreshing Greek dish featuring pork, perfect for a crowd, this recipe is a unique blend of citrusy flavors and traditional Greek ingredients, and is also shojin-friendly, meaning it is suitable for a Buddhist vegetarian diet with the omission of the pork, which can be replaced with a plant based alternative.",
+  "cuisine": "Greek",
+  "diet": [
+    "shojin-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, oregano, thyme, salt, and pepper.",
+    "Add the pork cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each cube.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the pork is cooked through.",
+    "While the skewers are grilling, mix together orange zest and orange juice in a small bowl.",
+    "Brush the orange mixture onto the skewers during the last 2 minutes of grilling.",
+    "Remove the skewers from the grill and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crowd-pleaser",
+    "greek-food",
+    "grilled-pork",
+    "light-meal",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "unique-citrusy-greek-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-citrusy-greek-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:44:27Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "rest",
+    "primaryIngredient": "pork",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pork",
+    "descriptor": "Unique Citrusy",
+    "dishForm": "Skewers"
+  }
+}
