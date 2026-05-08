@@ -1,0 +1,104 @@
+{
+  "title": "Ultimate Roasted Turkish Eggplant Imam Bayildi",
+  "description": "A traditional Turkish dish featuring roasted eggplant filled with a creamy mixture, served with double rise bread, this recipe is a solo dinner delight.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "preferably firm and heavy"
+    },
+    {
+      "name": "double rise bread",
+      "amount": "1 loaf",
+      "notes": "day old bread works best"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "creme patissiere",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the eggplant in half lengthwise and scoop out the flesh, leaving a shell about 1/4 inch thick.",
+    "Chop the scooped out eggplant flesh and saute it in olive oil until it is tender.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Stir in the creme patissiere, salt, and black pepper, and cook for an additional 2 minutes.",
+    "Stuff each eggplant shell with the eggplant and creme patissiere mixture and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the tops with olive oil and bake for 30 minutes, or until the eggplant is tender and lightly browned.",
+    "Slice the double rise bread into 1 inch thick slices and toast until crispy.",
+    "Serve the roasted eggplant with toasted bread and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mediterranean-diet",
+    "roasted-vegetables",
+    "turkish-cuisine",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "ultimate-roasted-turkish-eggplant-imam-bayildi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultimate-roasted-turkish-eggplant-imam-bayildi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:32:48Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "eggplant",
+    "descriptor": "Ultimate Roasted",
+    "dishForm": "Imam Bayildi"
+  }
+}
