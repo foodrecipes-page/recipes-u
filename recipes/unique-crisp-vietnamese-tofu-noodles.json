@@ -1,0 +1,91 @@
+{
+  "title": "Unique Crisp Vietnamese Tofu Noodles",
+  "description": "A lazy Sunday Vietnamese dish featuring fermented tofu, cheddar cheese, and coconut cream, all in a vegan-friendly format",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "fermented"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "vegan alternative"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch"
+    }
+  ],
+  "instructions": [
+    "Cut the fermented tofu into small cubes and set aside",
+    "Cook the rice noodles according to package instructions and drain",
+    "In a large pan, heat the vegetable oil over medium heat",
+    "Add the tofu cubes to the pan and cook until crispy and golden brown",
+    "In a small bowl, mix together the soy sauce and sesame oil",
+    "Pour the soy sauce mixture over the tofu and noodles",
+    "Stir in the coconut cream and vegan cheddar cheese until well combined",
+    "Top with chopped scallions and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream-based",
+    "lazy-sunday",
+    "one-pan-meal",
+    "vegan-recipes",
+    "vietnamese-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-crisp-vietnamese-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crisp-vietnamese-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:10:37Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Unique Crisp",
+    "dishForm": "Noodles"
+  }
+}
