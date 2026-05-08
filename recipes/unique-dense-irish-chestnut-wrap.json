@@ -1,0 +1,97 @@
+{
+  "title": "Unique Dense Irish Chestnut Wrap",
+  "description": "A savory Irish dish featuring cooked chestnuts and leaf-wrapped steam cooking, low in sodium. This recipe showcases the richness of Irish cuisine with a unique twist.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "kale leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped chestnuts with 1 tablespoon of olive oil and salt-free seasoning until they are evenly coated.",
+    "Spread the chestnuts on a baking sheet and roast in the oven for 20 minutes, or until they are tender.",
+    "While the chestnuts are roasting, sauté the chopped onion and carrots in the remaining 1 tablespoon of olive oil over medium heat until they are tender.",
+    "Add the chopped potatoes to the pan and continue to cook for an additional 5 minutes, stirring occasionally.",
+    "Once the chestnuts are done roasting, let them cool slightly, then add them to the pan with the onion, carrots, and potatoes.",
+    "Stir in the black pepper and continue to cook for 1 minute.",
+    "To assemble the wraps, lay a large kale leaf flat on a work surface and spoon about 1/2 cup of the chestnut and vegetable mixture onto the center of the leaf.",
+    "Fold the stem end of the kale leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining kale leaves and filling.",
+    "Place the wraps in a steamer basket and steam over boiling water for 5 minutes, or until the kale is tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chestnut-recipes",
+    "irish-cuisine",
+    "kale-wraps",
+    "low-sodium",
+    "steamed-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-dense-irish-chestnut-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-dense-irish-chestnut-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:31:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "chestnut",
+    "descriptor": "Unique Dense",
+    "dishForm": "Wrap"
+  }
+}
