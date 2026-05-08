@@ -1,0 +1,102 @@
+{
+  "title": "Unique Velvety Goan Sauerkraut Lassi",
+  "description": "A yeasty and velvety Goan-inspired lassi featuring white sauerkraut, perfect for a weeknight dinner, this low-fat-friendly dish is a twist on traditional Indian cuisine.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "white bread",
+      "amount": "2 slices",
+      "notes": "for toast"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine the sauerkraut, yogurt, water, salt, cumin powder, coriander powder, and garam masala powder.",
+    "Blend the mixture on high speed until smooth and creamy.",
+    "Heat the butter in a small pan over medium heat.",
+    "Add the yeast to the melted butter and stir until dissolved.",
+    "Add the yeast mixture to the blender and blend until well combined.",
+    "Toast the bread until lightly browned.",
+    "Cut the toast into small cubes and set aside.",
+    "Pour the lassi mixture into glasses and top with toasted bread cubes.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "goan-cuisine",
+    "indian-inspired",
+    "low-fat",
+    "velvety",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "unique-velvety-goan-sauerkraut-lassi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-velvety-goan-sauerkraut-lassi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:52:35Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "toast",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "low-fat",
+    "region": "goan",
+    "cuisineAdjective": "Goan",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "Unique Velvety",
+    "dishForm": "Lassi"
+  }
+}
