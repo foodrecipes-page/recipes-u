@@ -1,0 +1,103 @@
+{
+  "title": "Unique Dense Saudi Arabian Lamb Wrap",
+  "description": "A dense and flavorful Saudi Arabian dish featuring lamb and vegetable stock cube, wrapped in a low-carb ssam-wrap, this recipe is a nostalgic treat for those looking for a funky twist on traditional Middle Eastern cuisine.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and cut into small pieces"
+    },
+    {
+      "name": "vegetable stock cube",
+      "amount": "2 cubes",
+      "notes": "dissolved in 2 cups of water"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 wraps",
+      "notes": "low-carb and large enough to wrap filling"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the lamb pieces and cook until they are browned on all sides and cooked through.",
+    "Add the dissolved vegetable stock cube, cumin, coriander, salt, and pepper, and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Warm the ssam-wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the lamb and vegetable mixture onto the center of each wrap and folding the bottom half up over the filling, then folding in the sides and rolling the wrap up tightly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "flavorful",
+    "lamb-based",
+    "low-carb",
+    "middle-eastern",
+    "ssam-wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "unique-dense-saudi-arabian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-dense-saudi-arabian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:17:15Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Unique Dense",
+    "dishForm": "Wrap"
+  }
+}
