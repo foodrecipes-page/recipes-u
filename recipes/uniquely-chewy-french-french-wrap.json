@@ -1,0 +1,124 @@
+{
+  "title": "uniquely Chewy French French Wrap",
+  "description": "a meal-prep french dish that combines the flavors of dutch stroop and ssam-wrap for a uniquely cultured and chewy treat.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ssam-wrap",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "dutch stroop",
+      "amount": "3 oz",
+      "notes": null
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sliced banana",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "sliced cucumber",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "1/2 lb",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "grill the chicken breast to 165 f",
+    "slice the banana and cucumber into thin pieces",
+    "apply a layer of dutch stroop to the ssam-wrap",
+    "spread the almond butter on top of the stroop",
+    "sprinkle the shredded lettuce and sliced banana and cucumber on top of the almond butter",
+    "drizzle the honey and sugar mixture on top of the lettuce",
+    "sprinkle the vanilla extract and salt and pepper on top of the honey",
+    "drizzle the coconut oil on top of the chicken breast",
+    "assemble the wrap by placing the grilled chicken breast on top of the lettuce",
+    "fold the ssam-wrap to enclose the filling"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "uniquely-chewy-french-french-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/uniquely-chewy-french-french-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:40:32Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "dutch stroop",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "French",
+    "descriptor": "Uniquely chewy",
+    "dishForm": "Wrap"
+  }
+}
