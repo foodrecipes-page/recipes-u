@@ -1,0 +1,105 @@
+{
+  "title": "Unique British Cod Shepherds Pie",
+  "description": "A sweet and springy pescatarian-friendly dish featuring cod, sultanas, and a robata-grill twist, served in a tagliere vessel, inspired by British Cornish cuisine.",
+  "cuisine": "British",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "sultanas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "frozen"
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "2 cups",
+      "notes": "prepared with butter and milk"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "robata-grill seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "Season the cod fillets with salt, pepper, and robata-grill seasoning.",
+    "Grill the cod fillets for 4 minutes per side, until cooked through.",
+    "In a large pan, heat the olive oil over medium heat and saute the diced onion until softened.",
+    "Add the diced carrots to the pan and cook for an additional 5 minutes, until tender.",
+    "Stir in the frozen peas, sultanas, and cooked cod, breaking the cod into flakes as it's added.",
+    "Transfer the cod mixture to a tagliere vessel.",
+    "Spread the prepared mashed potatoes over the top of the cod mixture.",
+    "Bake in a preheated oven at 375 degrees Fahrenheit for 20 minutes, until the potatoes are golden brown.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "pescatarian-friendly",
+    "robata-grill",
+    "romantic-dinner",
+    "seafood-lovers",
+    "spring-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "unique-british-cod-shepherds-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-british-cod-shepherds-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:57:09Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "robata-grill",
+    "primaryIngredient": "sultanas",
+    "diet": "pescatarian",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "cod",
+    "descriptor": "Unique Springy",
+    "dishForm": "Shepherds Pie"
+  }
+}
