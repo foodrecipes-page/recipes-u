@@ -1,0 +1,92 @@
+{
+  "title": "Umami Peruvian Sweet Potato Picarones",
+  "description": "Pillowy Peruvian picarones filled with umami flavor, perfect for a brunch mood, made with sweet potatoes and beurre-monte, in a plant-based friendly form",
+  "cuisine": "Peruvian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "umami seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, combine the mashed sweet potatoes, flour, bicarbonate of soda, and salt.",
+    "Add the beurre-monte, umami seasoning, and water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and fry in the hot oil for 2-3 minutes on each side.",
+    "Drain the picarones on paper towels and serve warm.",
+    "Sprinkle with additional umami seasoning if desired.",
+    "Serve the picarones with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "peruvian-cuisine",
+    "plant-based-brunch",
+    "sweet-potato-recipes",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "umami-peruvian-sweet-potato-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-peruvian-sweet-potato-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:28:56Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "beurre-monte",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "umami pillowy",
+    "dishForm": "Picarones"
+  }
+}
