@@ -1,0 +1,96 @@
+{
+  "title": "Unforgettably Bitter Uruguayan Trout Paella",
+  "description": "Romantic and silky Uruguayan-inspired dish featuring rainbow trout, namul-blanch-season, dash-friendly and cooked in a comal",
+  "cuisine": "uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow Trout Fillets",
+      "amount": "4",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "Softened"
+    },
+    {
+      "name": "Namul-Blanch-Season",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Season the trout fillets with salt and black pepper.",
+    "Heat 1 tablespoon of butter in a large comal over medium-high heat.",
+    "Add the trout fillets to the comal and cook for 3 minutes on each side.",
+    "Transfer the trout to a plate and set aside.",
+    "Add the remaining 1 tablespoon of butter to the comal.",
+    "Add the namul-blanch-season, lime juice, honey, cumin, smoked paprika, salt, and pepper to the comal.",
+    "Stir to combine and cook for 1-2 minutes.",
+    "Return the trout to the comal and spoon some of the sauce over each fillet.",
+    "Cook for an additional 2-3 minutes or until the trout is cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "seafood",
+    "silky",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 50,
+    "carbs": 5,
+    "fat": 35
+  },
+  "slug": "unforgettably-bitter-uruguayan-trout-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unforgettably-bitter-uruguayan-trout-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:47:54Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "rainbow trout",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "trout",
+    "descriptor": "Unforgettably Bitter",
+    "dishForm": "Paella"
+  }
+}
