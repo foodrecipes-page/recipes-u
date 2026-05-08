@@ -1,0 +1,100 @@
+{
+  "title": "Umami Rich Uruguayan Beef Skewers",
+  "description": "A low-glycemic-friendly Uruguayan dish featuring chilli bean paste and mirepoix-base, perfect for a date-night dinner",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "grass-fed, cut into 1-inch pieces"
+    },
+    {
+      "name": "chilli bean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot stone plate to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together chilli bean paste, olive oil, sea salt, and black pepper",
+    "Add the beef strips to the bowl and toss to coat with the chilli bean paste mixture",
+    "Thread the beef strips onto skewers, leaving a small space between each piece",
+    "In a large skillet, saute the onion, carrot, and celery over medium heat until the vegetables are tender",
+    "Add the garlic to the skillet and cook for 1 minute, until fragrant",
+    "Place the skewers on the preheated hot stone plate and cook for 10-12 minutes, turning occasionally",
+    "Serve the beef skewers on top of the sauteed mirepoix-base and garnish with fresh parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "date-night",
+    "gluten-free",
+    "hot-stone-plate",
+    "low-glycemic",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "umami-rich-uruguayan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-rich-uruguayan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:27:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Umami Rich",
+    "dishForm": "Skewers"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Unique Glazed Australian Brussels Sprouts Skillet",
+  "description": "A one-pot Australian dish featuring Brussels sprouts and rest-meat in a funky, glassy-jelly glaze, served in a fondue pot, diabetic-friendly and delicious.",
+  "cuisine": "Australian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1/2 pound",
+      "notes": "diced, leftover roast beef"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large fondue pot over medium-high heat.",
+    "Add the diced rest-meat and cook until browned, about 5 minutes.",
+    "Add the trimmed and halved Brussels sprouts to the pot and cook until they start to brown, about 5 minutes.",
+    "In a small bowl, whisk together the balsamic vinegar, honey, Dijon mustard, salt, black pepper, garlic powder, and paprika.",
+    "Pour the glaze over the Brussels sprouts and rest-meat in the pot.",
+    "Reduce the heat to medium-low and simmer, covered, until the Brussels sprouts are tender and the glaze is thick and syrupy, about 15 minutes.",
+    "Serve the Unique Glazed Australian Brussels Sprouts Skillet hot, directly from the fondue pot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "brussels-sprouts",
+    "diabetic-friendly",
+    "dinner-ideas",
+    "gluten-free",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "unique-glazed-australian-brussels-sprouts-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-glazed-australian-brussels-sprouts-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:27:40Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "rest-meat",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "brussels sprouts",
+    "descriptor": "unique glazed",
+    "dishForm": "Skillet"
+  }
+}
