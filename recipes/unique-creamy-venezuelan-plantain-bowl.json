@@ -1,0 +1,106 @@
+{
+  "title": "Unique Creamy Venezuelan Plantain Bowl",
+  "description": "A funky and romantic Venezuelan dish featuring light rum and ferment, this vegan-friendly plantain bowl is served in an earthenware bowl. It combines the sweetness of plantains with the creaminess of a cashew-based sauce.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "4",
+      "notes": "ripe"
+    },
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "light rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment",
+      "amount": "1 teaspoon",
+      "notes": "such as nutritional yeast"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Peel the plantains and slice them into 1-inch rounds.",
+    "Place the plantain slices on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "While the plantains are baking, blend the soaked cashews with 1/2 cup of water until smooth.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion and minced garlic until softened.",
+    "Add the light rum, ferment, salt, and black pepper to the skillet and stir to combine.",
+    "Add the blended cashew mixture to the skillet and stir to combine.",
+    "Once the plantains are done baking, add them to the skillet and stir to combine with the cashew sauce.",
+    "Transfer the plantain mixture to an earthenware bowl and garnish with chopped fresh cilantro.",
+    "Serve the unique creamy Venezuelan plantain bowl hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "international",
+    "one-bowl",
+    "plant-based",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-creamy-venezuelan-plantain-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-creamy-venezuelan-plantain-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:31:12Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "ferment",
+    "primaryIngredient": "light rum",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantains",
+    "descriptor": "unique creamy",
+    "dishForm": "Bowl"
+  }
+}
