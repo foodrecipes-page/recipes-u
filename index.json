@@ -2388,6 +2388,22 @@
     "shard": "u"
   },
   {
+    "slug": "unctuous-moroccan-pork-knuckle-tagine",
+    "title": "Unctuous Moroccan Pork Knuckle Tagine",
+    "tags": [
+      "flexitarian",
+      "grilled",
+      "moroccan",
+      "one-pot",
+      "pork",
+      "special-occasion",
+      "tagine"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 150,
+    "shard": "u"
+  },
+  {
     "slug": "unctuous-mustard-cornish-amaretti-pudding",
     "title": "Unctuous Mustard Cornish Amaretti Pudding",
     "tags": [
@@ -3274,6 +3290,20 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 32,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-tunisian-pineapple-tagine",
+    "title": "Unique Tunisian Pineapple Tagine",
+    "tags": [
+      "one-pan-meals",
+      "pineapple-recipes",
+      "tunisian-cuisine",
+      "vegetarian-dishes",
+      "weeknight-dinners"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
