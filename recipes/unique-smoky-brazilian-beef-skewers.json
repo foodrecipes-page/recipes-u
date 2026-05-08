@@ -1,0 +1,101 @@
+{
+  "title": "Unique Smoky Brazilian Beef Skewers",
+  "description": "Charred and molten Brazilian dish featuring ground annatto, perfect for a meal prep dinner, with anti-inflammatory friendly ingredients",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10 skewers",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "In a large bowl, combine ground beef, ground annatto, olive oil, coconut milk, lime juice, minced garlic, salt, black pepper, and turmeric, mix well with your hands until just combined",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld",
+    "Thread the beef mixture onto the bamboo skewers, leaving a small space between each piece",
+    "Place the skewers on the grill and cook for 8-10 minutes per side, or until the beef is cooked to an internal temperature of 160 degrees Fahrenheit",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve the skewers hot, garnished with fresh cilantro and lime wedges",
+    "Refrigerate or freeze any leftovers for up to 3 days"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "grilled",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "unique-smoky-brazilian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-smoky-brazilian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:09:41Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "brine-wet",
+    "primaryIngredient": "ground annatto",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beef",
+    "descriptor": "Unique Smoky",
+    "dishForm": "Skewers"
+  }
+}
