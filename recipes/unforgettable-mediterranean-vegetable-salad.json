@@ -1,0 +1,108 @@
+{
+  "title": "Unforgettable Mediterranean Vegetable Salad",
+  "description": "A savory and pillowy Mediterranean dish featuring raw vegetables and infused oil, perfect for a low-glycemic friendly meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-glycemic",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "any color, seeded and thinly sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sliced cucumber, bell peppers, cherry tomatoes, and red onion.",
+    "In a small bowl, whisk together the olive oil, lemon juice, and minced garlic.",
+    "Pour the dressing over the vegetables and toss to coat.",
+    "Sprinkle the crumbled feta cheese and chopped parsley over the top of the salad.",
+    "Season with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in the pitted kalamata olives.",
+    "Serve the salad chilled, garnished with additional parsley if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "healthy-snack",
+    "low-carb",
+    "mediterranean-inspired",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 14
+  },
+  "slug": "unforgettable-mediterranean-vegetable-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unforgettable-mediterranean-vegetable-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:15:13Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "raw vegetables",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "vegetables",
+    "descriptor": "Unforgettable",
+    "dishForm": "Salad"
+  }
+}
