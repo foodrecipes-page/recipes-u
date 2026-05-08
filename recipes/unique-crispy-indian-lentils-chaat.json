@@ -1,0 +1,96 @@
+{
+  "title": "Unique Crispy Indian Lentils Chaat",
+  "description": "A funky and comforting Indian dish featuring crispy lentils, coco sugar, and tempering chocolate, made with low-glycemic ingredients for a guilt-free snack. This chaat is perfect for satisfying your cravings.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "coco sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "Drain the lentils and boil them in 2 cups of water until they are tender.",
+    "Heat the ghee in a pan over medium heat and add the cumin seeds.",
+    "Let the cumin seeds sizzle for a few seconds, then add the coriander powder and salt.",
+    "Stir well and add the cooked lentils to the pan, mixing everything together.",
+    "Add the coco sugar and stir until it is well combined with the lentils.",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 10-second increments, stirring between each interval.",
+    "Add the melted chocolate to the lentil mixture and stir until everything is well combined.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Let the chaat cool completely before storing it in an airtight container."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indian-street-food",
+    "lentil-recipes",
+    "low-glycemic",
+    "snack-ideas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "unique-crispy-indian-lentils-chaat",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crispy-indian-lentils-chaat",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:07:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "coco sugar",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Unique Crispy",
+    "dishForm": "Chaat"
+  }
+}
