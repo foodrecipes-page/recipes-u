@@ -1,0 +1,108 @@
+{
+  "title": "Unbelievably Indulgent Australian Shrimp Pie",
+  "description": "A savory, fluffy, indulgent Australian dish featuring saeujeot-shrimp-paste and a dash-friendly glaze. Perfect for a special occasion.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp paste (saeujeot)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shrimp",
+      "amount": "250g"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "2"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Melt butter in a large skillet over medium heat. Add diced onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1-2 minutes.",
+    "Add shrimp and cook until pink and just cooked through, about 2-3 minutes per side.",
+    "Stir in shrimp paste (saeujeot) and cook for 1 minute.",
+    "In a separate bowl, whisk together chicken broth, heavy cream, and paprika.",
+    "Add the wet ingredients to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook until slightly thickened, about 2-3 minutes.",
+    "In a separate bowl, mix together flour and egg until a dough forms.",
+    "Roll out the dough on a floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch pie dish and fill with the shrimp mixture.",
+    "Top the pie with grated cheddar cheese and bake for 25-30 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "comfort-food",
+    "indulgent",
+    "pie",
+    "seafood",
+    "shrimp",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "unbelievably-indulgent-australian-shrimp-pie",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unbelievably-indulgent-australian-shrimp-pie",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:10:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "glaze",
+    "primaryIngredient": "saeujeot-shrimp-paste",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shrimp",
+    "descriptor": "unbelievably indulgent",
+    "dishForm": "Pie"
+  }
+}
