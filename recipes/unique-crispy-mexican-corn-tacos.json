@@ -1,0 +1,104 @@
+{
+  "title": "Unique Crispy Mexican Corn Tacos",
+  "description": "A crispy and citrusy Mexican dish featuring caraway seed and spherified elements, perfect for a lacto-vegetarian meal during the monsoon season, served in a mason jar.",
+  "cuisine": "Mexican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "2 cups",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Mix the corn kernels, caraway seeds, lime juice, and olive oil in a bowl.",
+    "Spread the corn mixture on a baking sheet and roast for 20 minutes.",
+    "Allow the corn to cool, then mix with sodium alginate and water to create a spherification bath.",
+    "Using a syringe, drop the corn mixture into the bath to create spherified corn pearls.",
+    "Rinse the pearls with cold water and set aside.",
+    "Heat the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Fry the tortillas in hot oil until crispy and golden brown.",
+    "Drain the tortillas on paper towels and fill with the spherified corn, shredded cheese, and chopped cilantro.",
+    "Season with salt to taste and serve in a mason jar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caraway-seed",
+    "crispy",
+    "lacto-vegetarian",
+    "mason-jar",
+    "mexican",
+    "monsoon",
+    "spherify"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-crispy-mexican-corn-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crispy-mexican-corn-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:08:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "spherify",
+    "primaryIngredient": "caraway seed",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Unique Crispy",
+    "dishForm": "Tacos"
+  }
+}
