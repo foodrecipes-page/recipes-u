@@ -1,0 +1,97 @@
+{
+  "title": "Unique Crispy Canadian Portobello Mushrooms Skillet",
+  "description": "A sweet and crispy vegetarian dish featuring marinated portobello mushrooms, perfect for a weeknight dinner, with the brightness of lemons and the warmth of Canadian cuisine",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "4 large",
+      "notes": "stems removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together lemon juice, olive oil, garlic powder, salt, and black pepper to make the marinade.",
+    "Add the sliced portobello mushrooms to the marinade and toss to coat, letting them marinate for at least 15 minutes.",
+    "In a shallow dish, mix together panko breadcrumbs and grated parmesan cheese.",
+    "Remove the mushrooms from the marinade, allowing any excess to drip off, and coat each slice in the breadcrumb mixture, pressing gently to adhere.",
+    "Heat about 1/2 inch of olive oil in a large skillet over medium-high heat until it reaches 350 degrees Fahrenheit.",
+    "Add the coated mushroom slices to the hot oil and cook for about 3-4 minutes on each side, or until golden brown and crispy.",
+    "Using a slotted spoon, remove the mushrooms from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "In the same skillet, add the maple syrup and cook over medium heat, stirring constantly, until the syrup is bubbly and slightly caramelized.",
+    "Return the crispy mushroom slices to the skillet and toss them in the maple syrup glaze to coat.",
+    "Serve the unique crispy Canadian portobello mushrooms skillet hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "crispy-food",
+    "mushroom-recipes",
+    "one-pan-meal",
+    "vegetarian-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "unique-crispy-canadian-portobello-mushrooms-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crispy-canadian-portobello-mushrooms-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:52:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "marinate",
+    "primaryIngredient": "lemons",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "unique crispy",
+    "dishForm": "Skillet"
+  }
+}
