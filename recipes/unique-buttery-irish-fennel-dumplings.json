@@ -1,0 +1,94 @@
+{
+  "title": "Unique Buttery Irish Fennel Dumplings",
+  "description": "A delicious and quick Irish dish featuring fennel bulb, these dumplings are buttery and shattering, perfect for a low-glycemic diet. They can be prepared in no time and are great as a side dish.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chopped fennel, flour, melted butter, eggs, salt, and black pepper, and mix well.",
+    "Gradually add the chicken broth to the bowl and mix until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings to the pot.",
+    "Reduce the heat to a simmer and cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and drain off any excess water.",
+    "Serve the dumplings hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "gluten-free",
+    "homemade",
+    "irish-food",
+    "low-glycemic"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "unique-buttery-irish-fennel-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-buttery-irish-fennel-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:01:47Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "fennel bulb",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "fennel",
+    "descriptor": "Unique Buttery",
+    "dishForm": "Dumplings"
+  }
+}
