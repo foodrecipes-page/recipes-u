@@ -1,0 +1,105 @@
+{
+  "title": "Saudi Arabian Fish Curry",
+  "description": "A unique velvety fish curry featuring fresh basil and tandoor flavors, perfect for a monsoon evening, this dish is a pescatarian friendly delight with grassy notes.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tandoor masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the fish fillets with salt, black pepper, and tandoor masala.",
+    "Heat oil in a large skillet over medium heat and sear the fish fillets until browned on both sides.",
+    "Remove the fish from the skillet and set aside.",
+    "Add more oil to the skillet if necessary, then saute the chopped onion until softened.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Stir in the curry powder and cook for 1 minute until the spices are fragrant.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Return the fish fillets to the skillet and spoon some of the curry sauce over the top of each fillet.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes until the fish is cooked through.",
+    "Stir in the chopped fresh basil and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "middle-eastern",
+    "monsoon-curry",
+    "pescatarian-friendly",
+    "seafood-lovers",
+    "tandoor-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "unique-velvety-saudi-arabian-fish-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-velvety-saudi-arabian-fish-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:11:24Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "fresh basil",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "fish",
+    "descriptor": "unique velvety",
+    "dishForm": "Curry"
+  }
+}
