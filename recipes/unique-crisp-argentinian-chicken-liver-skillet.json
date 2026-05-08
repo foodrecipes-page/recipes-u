@@ -1,0 +1,99 @@
+{
+  "title": "Unique Crisp Argentinian Chicken Liver Skillet",
+  "description": "A mustardy and cozy Argentinian dish featuring chicken liver, this skillet is perfect for a cold evening, and its ingredients are chosen to be anti-inflammatory friendly. The combination of chicken liver, garlic, and herbs creates a delicious and savory flavor profile.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh oregano",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "for anti-inflammatory properties"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken liver to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken liver from the skillet and set aside.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Stir in the dijon mustard and cook for 1 minute, until heated through.",
+    "Add the chopped parsley and oregano to the skillet and cook until wilted, about 2 minutes.",
+    "Return the chicken liver to the skillet and stir to combine with the garlic and herb mixture.",
+    "Season with salt, black pepper, and turmeric, and cook for an additional 2 minutes, until the liver is cooked through.",
+    "Serve the chicken liver skillet hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "unique-crisp-argentinian-chicken-liver-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crisp-argentinian-chicken-liver-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:01:09Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "rest",
+    "primaryIngredient": "chicken liver",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken liver",
+    "descriptor": "Unique Crisp",
+    "dishForm": "Skillet"
+  }
+}
