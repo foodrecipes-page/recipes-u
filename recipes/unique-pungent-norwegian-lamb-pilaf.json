@@ -1,0 +1,105 @@
+{
+  "title": "Norwegian Lamb Couscous Pilaf",
+  "description": "A pungent and tender Norwegian dish featuring lamb, couscous, and a blend of spices, perfect for a special occasion. This recipe is gluten-free friendly and showcases the unique flavors of Norway.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 1-inch pieces"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the lamb pieces with salt, pepper, and thyme until they are evenly coated.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat and sear the lamb until browned on all sides.",
+    "Add the chopped onion to the pot and cook until it is translucent and starting to caramelize.",
+    "Add the garlic to the pot and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the chicken broth to the pot and bring to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake the lamb mixture for 2 1/2 hours, or until the lamb is tender and falls apart easily.",
+    "About 30 minutes before the lamb is done, prepare the couscous according to the package instructions.",
+    "Fluff the cooked couscous with a fork and stir in any remaining liquid from the lamb mixture.",
+    "Serve the lamb over the couscous, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "unique-pungent-norwegian-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-pungent-norwegian-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:43:24Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "brine-dry",
+    "primaryIngredient": "couscous",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "unique pungent",
+    "dishForm": "Pilaf"
+  }
+}

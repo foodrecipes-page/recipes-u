@@ -3407,6 +3407,21 @@
     "shard": "u"
   },
   {
+    "slug": "unique-pungent-norwegian-lamb-pilaf",
+    "title": "Norwegian Lamb Couscous Pilaf",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "lamb-recipes",
+      "norwegian-cuisine",
+      "one-pot",
+      "special-occasion"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 180,
+    "shard": "u"
+  },
+  {
     "slug": "unique-roasted-turkish-lamb-kebabs",
     "title": "Unique Roasted Turkish Lamb Kebabs",
     "tags": [
@@ -3947,6 +3962,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 45,
+    "shard": "u"
+  },
+  {
+    "slug": "untamed-syrian-chicken-kebabs",
+    "title": "Untamed Syrian Chicken Kebabs",
+    "tags": [
+      "diabetic-friendly",
+      "grilled",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 32,
     "shard": "u"
   },
   {
