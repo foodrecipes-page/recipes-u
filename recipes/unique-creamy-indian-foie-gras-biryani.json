@@ -1,0 +1,111 @@
+{
+  "title": "Unique Creamy Indian Foie Gras Biryani",
+  "description": "A cultured and fluffy monsoon Indian dish featuring foie-gras and lardons-render, made dairy-free friendly. This creamy biryani combines the richness of foie gras with the warmth of Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "foie gras",
+      "amount": "1 pound",
+      "notes": "seared and diced"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/2 cup",
+      "notes": "rendered and crispy"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup",
+      "notes": "or dairy-free alternative"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened and translucent.",
+    "Add the ground cumin, coriander, and garam masala, and cook for 1 minute.",
+    "Add the basmati rice and cook for 2 minutes, stirring constantly.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "While the rice is cooking, sear the foie gras in a hot skillet until browned on all sides.",
+    "Dice the seared foie gras and add it to the rice mixture.",
+    "Stir in the rendered lardons and season with salt and black pepper to taste.",
+    "Serve the biryani hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "biryani",
+    "dairy-free",
+    "foie-gras",
+    "gluten-free",
+    "indian-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 100,
+    "fat": 80
+  },
+  "slug": "unique-creamy-indian-foie-gras-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-creamy-indian-foie-gras-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:26:23Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "lardons-render",
+    "primaryIngredient": "foie-gras",
+    "diet": "dairy-free",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "foie gras",
+    "descriptor": "Unique Creamy",
+    "dishForm": "Biryani"
+  }
+}
