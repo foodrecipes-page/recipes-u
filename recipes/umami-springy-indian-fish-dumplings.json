@@ -1,0 +1,95 @@
+{
+  "title": "Umami Springy Indian Fish Dumplings",
+  "description": "A pescatarian-friendly Andhra dish featuring sea salt and dum, made with fish and steamed in a bamboo steamer to create a springy and energizing meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dum masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Grind the fish fillets into a fine paste using a food processor.",
+    "In a bowl, mix together the fish paste, sea salt, ginger paste, garlic paste, coriander powder, cumin powder, turmeric powder, and dum masala.",
+    "Divide the mixture into small portions and shape each portion into a ball.",
+    "Place the balls into a bamboo steamer lined with parchment paper.",
+    "Steam the dumplings over boiling water for 10 minutes.",
+    "Remove the dumplings from the steamer and serve hot with a squeeze of lemon juice.",
+    "Garnish with chopped cilantro or scallions if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "indian-cuisine",
+    "pescatarian",
+    "seafood",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "umami-springy-indian-fish-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-springy-indian-fish-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:32:59Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "dum",
+    "primaryIngredient": "sea salt",
+    "diet": "pescatarian",
+    "region": "andhra",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fish",
+    "descriptor": "umami springy",
+    "dishForm": "Dumplings"
+  }
+}
