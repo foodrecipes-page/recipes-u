@@ -1,0 +1,110 @@
+{
+  "title": "Under-the-sea Jamaican Fish Grill",
+  "description": "A flavorful and refreshing Jamaican dish featuring a tender white fish, roasted to perfection with a hint of spices and aromatics.",
+  "cuisine": "jamaican",
+  "diet": [
+    "high-protein",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "4",
+      "notes": "such as mahi-mahi or snapper"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling and finishing"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "preferably freshly ground"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the fish fillets with salt, black pepper, and a pinch of allspice.",
+    "Grill the fish for 4-5 minutes per side, or until cooked through.",
+    "Transfer the fish to a plate and brush with coconut oil.",
+    "Sprinkle the chopped cilantro and a pinch of thyme over the fish.",
+    "Drizzle the lemon juice and honey (if using) over the fish.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "jamaican",
+    "one-pan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 10
+  },
+  "slug": "under-the-sea-jamaican-fish-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/under-the-sea-jamaican-fish-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:20:19Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "roast",
+    "primaryIngredient": "white fish",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fish",
+    "descriptor": "Under-the-sea",
+    "dishForm": "Grill"
+  }
+}
