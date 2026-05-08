@@ -4818,6 +4818,21 @@
     "shard": "u"
   },
   {
+    "slug": "unique-savory-american-chicken-tagine",
+    "title": "Unique Savory American Chicken Tagine",
+    "tags": [
+      "american-cuisine",
+      "comfort-food",
+      "gluten-free",
+      "healthy-dinner",
+      "low-calorie",
+      "one-pot"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
     "slug": "unique-savory-portuguese-fish-stir-fry",
     "title": "Portuguese Fish Stir Fry",
     "tags": [

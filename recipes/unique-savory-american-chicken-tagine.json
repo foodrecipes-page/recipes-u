@@ -1,0 +1,108 @@
+{
+  "title": "Unique Savory American Chicken Tagine",
+  "description": "A sweet and savory American twist on traditional tagine, featuring cilantro leaves and a low-calorie profile, perfect for a comforting sick day meal.",
+  "cuisine": "American",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the chicken to the pot and cook until it is browned on all sides, about 5-7 minutes.",
+    "Add the chopped cilantro, dried apricots, chicken broth, honey, ground cumin, salt, and black pepper to the pot.",
+    "Stir to combine, then bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer, stirring occasionally, until the chicken is cooked through and the sauce has thickened, about 25-30 minutes.",
+    "Serve the tagine hot, garnished with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "healthy-dinner",
+    "low-calorie",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "unique-savory-american-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-savory-american-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:31:25Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "tagine-cook",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "unique savory",
+    "dishForm": "Tagine"
+  }
+}
