@@ -1,0 +1,109 @@
+{
+  "title": "Ultimate Roasted British Salt Cod Cottage Pie",
+  "description": "A comforting and creamy British dish featuring roasted salt cod, perfect for a sick day, made in a satvik-friendly and air-fryer adapted cottage pie form.",
+  "cuisine": "British",
+  "diet": [
+    "satvik",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "1 pound",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Air-fry the soaked and drained salt cod until golden brown.",
+    "In a large pan, heat the olive oil over medium heat and saute the chopped onion until softened.",
+    "Add the minced garlic to the pan and cook for an additional minute.",
+    "In a large bowl, combine the cooked salt cod, sauteed onion and garlic, frozen peas, and mashed potatoes.",
+    "In a separate saucepan, melt the butter over medium heat and whisk in the flour to make a roux.",
+    "Slowly add the milk to the saucepan, whisking constantly, and bring the mixture to a simmer.",
+    "Remove the saucepan from the heat and stir in the salt and black pepper.",
+    "Pour the sauce over the salt cod mixture and stir until combined.",
+    "Transfer the mixture to a baking dish and top with additional mashed potatoes if desired.",
+    "Bake the cottage pie in the preheated oven for 25 minutes, or until the potatoes are golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "comfort-food",
+    "cottage-pie",
+    "home-cooking",
+    "seafood",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "ultimate-roasted-british-salt-cod-cottage-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultimate-roasted-british-salt-cod-cottage-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:59:48Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "air-fry",
+    "primaryIngredient": "salt cod",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "salt cod",
+    "descriptor": "Ultimate Roasted",
+    "dishForm": "Cottage Pie"
+  }
+}
