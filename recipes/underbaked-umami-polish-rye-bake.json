@@ -1,0 +1,92 @@
+{
+  "title": "Underbaked, Umami Polish Rye Bake",
+  "description": "A dense, sour, and cozy Polish dish featuring the umami flavor of ssamjang, perfectly suited for a cold winter evening.",
+  "cuisine": "Polish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rye flour",
+      "amount": "200g",
+      "notes": "high-protein flour"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "10g",
+      "notes": "for authentic flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "10g"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "20g"
+    },
+    {
+      "name": "molasses",
+      "amount": "50g"
+    },
+    {
+      "name": "water",
+      "amount": "100g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C.",
+    "Mix the rye flour, caraway seeds, and salt in a large bowl.",
+    "In a separate bowl, mix together the ssamjang, molasses, and water.",
+    "Add the wet ingredients to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Shape the dough into a round loaf and place it on a slate tile.",
+    "Brush the top of the loaf with vegetable oil.",
+    "Bake the loaf in the preheated oven for 35 minutes.",
+    "Remove the loaf from the oven and let it cool for 10 minutes.",
+    "Cut the loaf in half and serve with your favorite Polish sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "cozy",
+    "dense",
+    "one-pan",
+    "polish",
+    "rye",
+    "sour",
+    "umami",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 20,
+    "carbs": 180,
+    "fat": 40
+  },
+  "slug": "underbaked-umami-polish-rye-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/underbaked-umami-polish-rye-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:04:00Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "salt-bake",
+    "primaryIngredient": "ssamjang",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Rye",
+    "descriptor": "Underbaked, Umami",
+    "dishForm": "Bake"
+  }
+}
