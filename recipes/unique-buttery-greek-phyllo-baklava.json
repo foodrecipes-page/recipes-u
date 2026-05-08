@@ -1,0 +1,96 @@
+{
+  "title": "Unique Buttery Greek Phyllo Baklava",
+  "description": "A low-calorie friendly Greek dish featuring marmite and phyllo, served in a bento box. This adventurous recipe combines the savory flavor of marmite with the crunch of phyllo.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "marmite",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a small bowl, whisk together the melted butter and marmite until well combined.",
+    "Layer the phyllo dough in a bento box, brushing each layer with the butter and marmite mixture.",
+    "Sprinkle the chopped walnuts and pistachios over the phyllo dough.",
+    "Drizzle the honey over the nuts.",
+    "Sprinkle the cinnamon and lemon zest over the top layer of phyllo dough.",
+    "Bake the baklava for 25 minutes, or until the phyllo dough is golden brown.",
+    "Allow the baklava to cool completely before serving.",
+    "Cut the baklava into small pieces and serve in the bento box."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "greek-food",
+    "low-calorie",
+    "phyllo-dough",
+    "unique-desserts",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "unique-buttery-greek-phyllo-baklava",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-buttery-greek-phyllo-baklava",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:25:05Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "emulsify",
+    "primaryIngredient": "marmite",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "phyllo",
+    "descriptor": "Unique Buttery",
+    "dishForm": "Baklava"
+  }
+}
