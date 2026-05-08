@@ -1,0 +1,103 @@
+{
+  "title": "Unique Crunchy Peruvian Cashew Chupe De Camarones",
+  "description": "A winey, crisp, and adventurous Peruvian dish featuring cashews, cooked in a clay pot, and suitable for Jain-friendly diets. This form of chupe de camarones is a twist on the traditional Peruvian shrimp stew.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the clay pot over medium heat and add the chopped onion to saute until translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the sliced aji amarillo peppers and cook for 2 minutes, until they start to soften.",
+    "Add the white wine and bring the mixture to a simmer, scraping the bottom of the pot to release any browned bits.",
+    "Add the vegetable broth, diced tomatoes, and peeled shrimp, and stir to combine.",
+    "Reduce the heat to low and let the mixture simmer for 10 minutes, or until the shrimp are pink and fully cooked.",
+    "Stir in the unsalted cashews and cook for an additional 2 minutes, until they are lightly toasted and fragrant.",
+    "Season the chupe de camarones with salt and pepper to taste, then stir in the chopped fresh cilantro.",
+    "Serve the chupe de camarones hot, garnished with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cashew-recipes",
+    "clay-pot-cooking",
+    "jain-friendly",
+    "peruvian-cuisine",
+    "seafood-stew",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "unique-crunchy-peruvian-cashew-chupe-de-camarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crunchy-peruvian-cashew-chupe-de-camarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:27:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "cashews",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cashews",
+    "descriptor": "unique crunchy",
+    "dishForm": "Chupe De Camarones"
+  }
+}
