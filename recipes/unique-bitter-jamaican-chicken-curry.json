@@ -1,0 +1,107 @@
+{
+  "title": "Unique Bitter Jamaican Chicken Curry",
+  "description": "A light and romantic Jamaican dish featuring tinned tomatoes and a mortar-pestle-pound technique, perfect for a bitter and high-protein friendly meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "tinned tomatoes",
+      "amount": "14 oz",
+      "notes": "crushed"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the curry powder, thyme, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the chopped scotch bonnet pepper and cook for an additional minute.",
+    "Add the crushed tinned tomatoes and stir to combine.",
+    "Add the chicken breast and stir to coat with the curry mixture.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, or until the chicken is cooked through.",
+    "Use a mortar and pestle to pound the curry mixture and create a smooth sauce.",
+    "Serve the chicken and sauce over rice or with roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-foods",
+    "high-protein",
+    "jamaican-cuisine",
+    "one-pan",
+    "romantic-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "unique-bitter-jamaican-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-bitter-jamaican-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:08:25Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "unique bitter",
+    "dishForm": "Curry"
+  }
+}
