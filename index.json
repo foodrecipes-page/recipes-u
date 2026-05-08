@@ -2485,6 +2485,21 @@
     "shard": "u"
   },
   {
+    "slug": "unctuous-australian-cheese-lasagna",
+    "title": "Unctuous Australian Cheese Lasagna",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "garlicky",
+      "lacto-vegetarian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 75,
+    "shard": "u"
+  },
+  {
     "slug": "unctuous-brazilian-rice-stew",
     "title": "Unctuous Brazilian Rice Stew",
     "tags": [

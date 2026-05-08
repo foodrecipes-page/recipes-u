@@ -1,0 +1,98 @@
+{
+  "title": "Unctuous Australian Cheese Lasagna",
+  "description": "A rich and satisfying lacto-vegetarian dish featuring a unique combination of peanut butter and long-fermentation dough, perfect for a comforting meal. This garlicky, cheese-pull lasagna is a great hangover cure.",
+  "cuisine": "Australian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long-fermentation dough",
+      "amount": "1 pound",
+      "notes": "preferably 24 hour fermentation"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the long-fermentation dough to a thickness of about 1/8 inch.",
+    "Spread a layer of peanut butter on the dough, leaving a 1 inch border around the edges.",
+    "Sprinkle shredded mozzarella cheese and grated parmesan cheese over the peanut butter layer.",
+    "Spread a layer of tomato sauce over the cheese layer.",
+    "Repeat the layers two more times, ending with a layer of mozzarella cheese on top.",
+    "Drizzle olive oil over the top layer of cheese and sprinkle with salt and black pepper.",
+    "Place the lasagna in a donabe and bake for 45 minutes.",
+    "Remove the lasagna from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "garlicky",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "unctuous-australian-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-australian-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:40:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "peanut butter",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cheese",
+    "descriptor": "unctuous garlicky",
+    "dishForm": "Lasagna"
+  }
+}
