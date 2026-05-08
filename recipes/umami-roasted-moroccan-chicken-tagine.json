@@ -1,0 +1,105 @@
+{
+  "title": "Umami Roasted Moroccan Chicken Tagine",
+  "description": "A light and festive Moroccan dish featuring sweet smoked paprika, perfect for a low-carb dinner option",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "sweet smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, sweet smoked paprika, garlic, ginger, salt, and black pepper.",
+    "Add the chicken thighs to the bowl and toss to coat evenly with the marinade.",
+    "Transfer the chicken to a large Dutch oven or oven-safe pot with a lid.",
+    "Add the chopped dried apricots and chicken broth to the pot.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Roast the chicken for 30 minutes, then remove the lid and continue roasting for an additional 20 minutes.",
+    "Remove the pot from the oven and sprinkle the chopped fresh parsley over the top.",
+    "Let the chicken rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "gluten-free",
+    "low-carb",
+    "moroccan",
+    "one-pot",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "umami-roasted-moroccan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-roasted-moroccan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:09:56Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Umami Roasted",
+    "dishForm": "Tagine"
+  }
+}
