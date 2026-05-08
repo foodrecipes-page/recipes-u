@@ -1,0 +1,93 @@
+{
+  "title": "Unique Dense British Potatoes Casserole",
+  "description": "A garlicky, dense, and cozy British dish featuring baby new potatoes, this casserole is a perfect comfort food for any occasion, and its Buddhist-temple-friendly ingredients make it accessible to everyone.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "double-fry KFC seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the baby new potatoes with vegetable oil, garlic powder, onion powder, salt, and black pepper until they are evenly coated.",
+    "Line a baking sheet with parchment paper and arrange the potatoes in a single layer, then roast for 20 minutes.",
+    "While the potatoes are roasting, heat a non-stick skillet over medium heat and add the double-fry KFC seasoning, cooking for 1 minute.",
+    "Add the crumbled tofu to the skillet and cook until it is lightly browned, about 5 minutes.",
+    "In a large casserole dish, arrange a layer of roasted potatoes, followed by a layer of the tofu mixture, and repeat this process until all ingredients are used, ending with a layer of potatoes on top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the top layer of potatoes is lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "unique-dense-british-potatoes-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-dense-british-potatoes-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:44:14Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "buddhist-temple",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "potatoes",
+    "descriptor": "Unique Dense",
+    "dishForm": "Casserole"
+  }
+}

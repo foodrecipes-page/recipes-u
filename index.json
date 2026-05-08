@@ -4273,6 +4273,21 @@
     "shard": "u"
   },
   {
+    "slug": "unique-dense-british-potatoes-casserole",
+    "title": "Unique Dense British Potatoes Casserole",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "one-pan",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 75,
+    "shard": "u"
+  },
+  {
     "slug": "unique-dense-irish-chestnut-wrap",
     "title": "Unique Dense Irish Chestnut Wrap",
     "tags": [
