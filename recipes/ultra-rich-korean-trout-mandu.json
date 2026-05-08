@@ -1,0 +1,99 @@
+{
+  "title": "Ultra Rich Korean Trout Mandu",
+  "description": "A fatty and molten Korean dish featuring trout, cooked in a tagine style and served in individual mini cocottes, perfect for a lazy Sunday, this sugar free friendly dish is a must try.",
+  "cuisine": "Korean",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "12 ounces",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "mandu wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender, combine chili flakes, soy sauce, sesame oil, green onions, garlic, and ginger to make the marinade.",
+    "Place the trout fillets in a large bowl and pour the marinade over them, making sure they are fully coated.",
+    "Let the trout marinate for at least 30 minutes.",
+    "Lay a mandu wrapper on a flat surface and place a marinated trout fillet in the center of the wrapper.",
+    "Dip your finger in water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle and press the edges together to seal the mandu.",
+    "Place the mandu in individual mini cocottes and bake for 12 minutes.",
+    "Serve the mandu hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-food",
+    "lazy-sunday",
+    "one-pan",
+    "seafood",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "ultra-rich-korean-trout-mandu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-rich-korean-trout-mandu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:32:17Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "tagine-cook",
+    "primaryIngredient": "trout",
+    "diet": "sugar-free",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "trout",
+    "descriptor": "ultra rich",
+    "dishForm": "Mandu"
+  }
+}
