@@ -1,0 +1,93 @@
+{
+  "title": "Ultra Light Saudi Arabian Pastry Pilaf",
+  "description": "A sweet and pillowy Saudi Arabian dish featuring garam masala and lamination-puff, vegan-friendly and perfect for a light meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "use vegan friendly flour"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "date syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed and vegan friendly"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together flour and garam masala.",
+    "Add melted vegan butter, date syrup, and rose water to the bowl and mix until a dough forms.",
+    "Roll out the dough to a thickness of 1/4 inch.",
+    "Place the puff pastry on top of the dough and roll out to a thickness of 1/8 inch.",
+    "Cut into desired shapes and place on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes or until golden brown.",
+    "Allow to cool and dust with powdered sugar and cardamom powder."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-syrup",
+    "dessert",
+    "garam-masala",
+    "pastry",
+    "saudi-arabian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "ultra-light-saudi-arabian-pastry-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-light-saudi-arabian-pastry-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:27:20Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "lamination-puff",
+    "primaryIngredient": "garam masala",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "pastry",
+    "descriptor": "Ultra Light",
+    "dishForm": "Pilaf"
+  }
+}
