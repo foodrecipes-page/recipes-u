@@ -1,0 +1,94 @@
+{
+  "title": "Unique Umami Spanish Soya Bean Paella",
+  "description": "A malty, chewy, and cozy Spanish dish featuring soya bean, fry-grind-rice-khao-khua, and shojin-friendly ingredients, inspired by Galician cuisine. This paella is perfect for a cold winter night.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soya beans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "khao khuay rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "malt extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the smoked paprika and cook for 1 minute.",
+    "Add the cooked soya beans, khao khuay rice, malt extract, and sea salt.",
+    "Stir well to combine and cook for 5 minutes.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "galician",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "unique-umami-spanish-soya-bean-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-spanish-soya-bean-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:24:42Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "soya bean",
+    "diet": "shojin",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "soya bean",
+    "descriptor": "unique umami",
+    "dishForm": "Paella"
+  }
+}
