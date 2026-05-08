@@ -1,0 +1,103 @@
+{
+  "title": "Utterly Tender Dutch Vegetable Casserole",
+  "description": "A hearty, lacto-vegetarian Dutch casserole featuring tender vegetables and a hint of sesame seed oil, perfect for a cozy dinner",
+  "cuisine": "Dutch",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, toss the sliced carrots and halved brussels sprouts with 1 tablespoon of sesame seed oil, salt, and black pepper until they are evenly coated",
+    "Spread the vegetables in a single layer on a baking sheet and roast for 20 minutes",
+    "In a large skillet, sauté the chopped onion and minced garlic in the remaining 1 tablespoon of sesame seed oil until the onion is translucent",
+    "In a large bowl, combine the roasted vegetables, sautéed onion and garlic, and vegetable broth",
+    "In a greased 9x13 inch baking dish, arrange half of the vegetable mixture in the bottom of the dish",
+    "Sprinkle half of the shredded gruyere cheese over the vegetables",
+    "Repeat the layers, starting with the remaining vegetable mixture, then the remaining gruyere cheese, and finally the breadcrumbs",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the top is golden brown and the casserole is heated through"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "utterly-tender-dutch-vegetable-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/utterly-tender-dutch-vegetable-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:50:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "salt-bake",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "vegetables",
+    "descriptor": "utterly tender",
+    "dishForm": "Casserole"
+  }
+}
