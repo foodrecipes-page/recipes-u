@@ -1,0 +1,94 @@
+{
+  "title": "Spanish Papelon Onigiri",
+  "description": "A unique Catalan dish featuring papelon, shaped like nigiri, and served in a terracotta dish, perfect for a light snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "1 cup",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "short grain rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the crushed papelon, cooked rice, olive oil, and salt until well combined.",
+    "Add the beaten egg and water to the bowl and mix until a sticky dough forms.",
+    "Divide the dough into 6 equal pieces and shape each piece into a triangle, like nigiri.",
+    "Place the shaped onigiri on a baking sheet lined with parchment paper.",
+    "Bake the onigiri in the preheated oven for 15 minutes, or until lightly browned on the bottom.",
+    "Remove the onigiri from the oven and let them cool for a few minutes.",
+    "Serve the onigiri in a terracotta dish, garnished with sesame seeds and chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ovo-vegetarian",
+    "papelon-recipes",
+    "snack-ideas",
+    "spanish-cuisine",
+    "terracotta-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "unique-spanish-papelon-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-spanish-papelon-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:29:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "papelon",
+    "diet": "ovo-vegetarian",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "papelon",
+    "descriptor": "unique tender",
+    "dishForm": "Onigiri"
+  }
+}
