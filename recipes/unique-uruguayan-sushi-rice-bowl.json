@@ -1,0 +1,105 @@
+{
+  "title": "Unique Uruguayan Sushi Rice Bowl",
+  "description": "A flexitarian friendly dish featuring sushi rice, served in a lacquerware bowl, with earthy and crisp flavors, inspired by Uruguayan cuisine.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "Japanese short grain rice"
+    },
+    {
+      "name": "water",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grilled portobello mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "roasted butternut squash",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "pickled red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted pumpkin seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice thoroughly and cook it according to the package instructions with 2 1/4 cups of water.",
+    "In a small saucepan, combine the rice vinegar and 1 tablespoon of water, and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer the vinegar mixture for 5 minutes.",
+    "Prepare the grilled portobello mushrooms by brushing them with oil and seasoning with salt.",
+    "Grill the mushrooms over medium heat for 3-4 minutes per side, until tender.",
+    "Prepare the roasted butternut squash by tossing it with oil, salt, and sesame seeds, and roasting it in the oven at 400 degrees Fahrenheit for 20 minutes.",
+    "Prepare the pickled red onion by soaking it in a mixture of vinegar and water for at least 30 minutes.",
+    "To assemble the bowls, divide the cooked sushi rice among four lacquerware bowls.",
+    "Top the rice with the grilled mushrooms, roasted squash, pickled onion, and toasted pumpkin seeds.",
+    "Drizzle the chimichurri sauce over the top of each bowl and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "flexitarian",
+    "healthy",
+    "one-bowl",
+    "south-american",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "unique-uruguayan-sushi-rice-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-uruguayan-sushi-rice-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:26:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "sushi rice",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "sushi rice",
+    "descriptor": "unique earthy",
+    "dishForm": "Bowl"
+  }
+}
