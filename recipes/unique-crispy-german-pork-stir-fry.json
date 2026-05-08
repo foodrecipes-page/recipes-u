@@ -1,0 +1,99 @@
+{
+  "title": "Unique Crispy German Pork Stir Fry",
+  "description": "A charred and crisp German dish featuring pork, vegetables, and a hint of sweetness from caster sugar, this stir-fry is an adventurous twist on traditional German cuisine, and is friendly to those with nut allergies.",
+  "cuisine": "German",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the pork to the skillet and cook until browned, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook until it starts to caramelize, about 5 minutes.",
+    "Add the sliced bell pepper to the skillet and cook until it starts to soften, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the browned pork back to the skillet and stir to combine with the vegetables.",
+    "In a small bowl, whisk together the caster sugar, salt, black pepper, and apple cider vinegar.",
+    "Pour the sugar and vinegar mixture over the pork and vegetables in the skillet.",
+    "Stir everything together and cook for an additional 2 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "german-cuisine",
+    "nut-free",
+    "one-pan",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "unique-crispy-german-pork-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crispy-german-pork-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:17:17Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "stir-fry",
+    "primaryIngredient": "caster sugar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Unique Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
