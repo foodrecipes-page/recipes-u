@@ -1,0 +1,101 @@
+{
+  "title": "Utterly Roasted French Comte Blanquette",
+  "description": "A roasted, crisp, nostalgic French dish featuring Comte cheese in a dairy-free friendly mother sauce base, served in scallop shells.",
+  "cuisine": "French",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scalloped shells",
+      "amount": "12",
+      "notes": "empty and clean"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a saucepan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Sprinkle the flour over the onion mixture and cook for 1 minute.",
+    "Slowly pour in the non-dairy milk, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook until thickened, about 5 minutes.",
+    "Remove the sauce from the heat and stir in the shredded Comte cheese until melted.",
+    "Season the sauce with salt and black pepper to taste.",
+    "Spoon the sauce into the scalloped shells and place on a baking sheet.",
+    "Roast the filled shells in the preheated oven for 15 minutes, or until golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "french-cuisine",
+    "roasted-vegetables",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "utterly-roasted-french-comte-blanquette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/utterly-roasted-french-comte-blanquette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:26:46Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "comte",
+    "diet": "dairy-free",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Comte",
+    "descriptor": "Utterly Roasted",
+    "dishForm": "Blanquette"
+  }
+}
