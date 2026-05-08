@@ -1,0 +1,113 @@
+{
+  "title": "Understated Earthy Italian Haddock Trofie",
+  "description": "A comforting and earthy Italian dish featuring haddock, trofie pasta, and a dairy-free friendly sauce, perfect for a midnight craving.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4 fillets",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "trofie pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced, cremini"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the trofie pasta according to package instructions until al dente.",
+    "While the pasta cooks, heat the olive oil in a large skillet over medium heat.",
+    "Add the sliced mushrooms to the skillet and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the white wine to the skillet and cook until the liquid has almost completely evaporated, about 2 minutes.",
+    "Add the vegetable broth to the skillet and bring to a simmer.",
+    "Reduce the heat to low and let the sauce simmer while the pasta finishes cooking.",
+    "Once the pasta is cooked, drain it and add it to the skillet with the sauce, tossing to combine.",
+    "Add the cooked haddock fillets to the skillet and toss to combine with the pasta and sauce.",
+    "Stir in the chopped parsley, lemon juice, salt, and black pepper.",
+    "Serve the trofie pasta hot, topped with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "italian-food",
+    "one-pot",
+    "pasta-dishes",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "understated-earthy-italian-haddock-trofie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/understated-earthy-italian-haddock-trofie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:43:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "haddock",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "haddock",
+    "descriptor": "understated earthy",
+    "dishForm": "Trofie"
+  }
+}
