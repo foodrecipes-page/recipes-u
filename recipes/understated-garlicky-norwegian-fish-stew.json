@@ -1,0 +1,108 @@
+{
+  "title": "Understated Garlicky Norwegian Fish Stew",
+  "description": "A comforting and flavorful Norwegian fish stew featuring a garlicky mirepoix base and low sodium fish sauce, served in a tagliere vessel.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "low sodium chicken or fish broth optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the cod fillets under cold water, pat dry with paper towels, and set aside.",
+    "Heat a large tagliere vessel over medium heat, adding the minced garlic and cooking until fragrant.",
+    "Add the chopped carrots, celery, and onions, cooking until the vegetables are tender, about 8 minutes.",
+    "Add the fish sauce, water, and black pepper, stirring to combine and bringing the mixture to a simmer.",
+    "Add the cod fillets to the stew, covering the vessel and cooking for an additional 8 minutes, or until the fish is cooked through.",
+    "Stir in the chopped parsley and season with additional black pepper if needed.",
+    "Serve the stew hot, with lemon wedges on the side if desired.",
+    "Let the stew rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "fish-stew",
+    "healthy-dinner",
+    "low-sodium",
+    "norwegian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "understated-garlicky-norwegian-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/understated-garlicky-norwegian-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:16:12Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "fish sauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "understated garlicky",
+    "dishForm": "Stew"
+  }
+}
