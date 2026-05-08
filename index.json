@@ -1974,6 +1974,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-rich-kenyan-chuck-roast-stew",
+    "title": "Umami Rich Kenyan Chuck Roast Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "kenyan-cuisine",
+      "slow-cooked",
+      "umami-rich"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 180,
+    "shard": "u"
+  },
+  {
     "slug": "umami-rich-thai-chicken-stir-fry",
     "title": "Umami Rich Thai Chicken Stir-fry",
     "tags": [

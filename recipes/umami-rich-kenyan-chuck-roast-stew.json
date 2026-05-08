@@ -1,0 +1,106 @@
+{
+  "title": "Umami Rich Kenyan Chuck Roast Stew",
+  "description": "A hearty and flavorful Kenyan-inspired stew featuring tender chuck roast, namul-blanch-seasoned vegetables, and a rich umami broth, perfect for a cozy dinner",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat",
+    "Add the chuck roast cubes and cook until browned on all sides, about 5 minutes",
+    "Remove the browned chuck roast from the pot and set aside",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes",
+    "Add the minced garlic to the pot and cook for 1 minute",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes",
+    "Add the tomato paste to the pot and cook for 1 minute",
+    "Add the beef broth, soy sauce, and browned chuck roast to the pot",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours",
+    "Season the stew with salt and pepper to taste",
+    "Stir in the chopped fresh parsley"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "kenyan-cuisine",
+    "slow-cooked",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "umami-rich-kenyan-chuck-roast-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-rich-kenyan-chuck-roast-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:25:49Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "chuck roast",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chuck roast",
+    "descriptor": "Umami Rich",
+    "dishForm": "Stew"
+  }
+}
