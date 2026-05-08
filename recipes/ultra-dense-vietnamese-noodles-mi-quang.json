@@ -1,0 +1,100 @@
+{
+  "title": "Ultra Dense Vietnamese Noodles Mi Quang",
+  "description": "A jammy and dense Vietnamese dish featuring chicken bouillon powder, perfect for a cozy meal. This recipe is sugar-free-friendly and made with mi-quang noodles.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mi-quang noodles",
+      "amount": "1 pound",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pork broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grilled pork",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 cup",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the mi-quang noodles according to the package instructions and set aside.",
+    "In a large pot, combine the pork broth, chicken bouillon powder, and fish sauce, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the grilled pork, shrimp, and bean sprouts to the pot and cook for an additional 5 minutes.",
+    "Stir in the lime juice and cook for 1 minute.",
+    "To assemble the dish, place some noodles in a bowl and add the hot broth and toppings.",
+    "Garnish with scallions and serve immediately.",
+    "Use a whisk to mix the broth and toppings together before serving.",
+    "Serve the dish hot and enjoy.",
+    "Repeat the process to make additional servings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "noodle-dish",
+    "one-pot",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "ultra-dense-vietnamese-noodles-mi-quang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-dense-vietnamese-noodles-mi-quang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:25:26Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "whisk",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "noodles",
+    "descriptor": "ultra dense",
+    "dishForm": "Mi Quang"
+  }
+}
