@@ -1,0 +1,103 @@
+{
+  "title": "Unique Umami Chinese Pepper Chow Fun",
+  "description": "A spicy and comforting Chinese dish featuring pepper and fry-grind-rice-khao-khua, suitable for diabetics, in a chow fun form.",
+  "cuisine": "Chinese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "chow fun style"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Chinese peppercorns",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "Heat the sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the ground pork and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the Chinese peppercorns, soy sauce, and oyster sauce to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine with the pork and sauce.",
+    "Add the chopped scallions and red pepper flakes to the skillet and stir to combine.",
+    "Cook for an additional 2 minutes, stirring constantly, until the noodles are well coated with the sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "noodle-dish",
+    "one-pan",
+    "spicy-food",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unique-umami-chinese-pepper-chow-fun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-chinese-pepper-chow-fun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:56:54Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "pepper",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pepper",
+    "descriptor": "Unique Umami",
+    "dishForm": "Chow Fun"
+  }
+}
