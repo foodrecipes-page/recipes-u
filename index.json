@@ -4527,6 +4527,21 @@
     "shard": "u"
   },
   {
+    "slug": "unique-midnight-egyptian-shrimp-skewers",
+    "title": "Unique Midnight Egyptian Shrimp Skewers",
+    "tags": [
+      "egyptian-cuisine",
+      "grilled",
+      "midnight-cravings",
+      "nut-free",
+      "seafood",
+      "shrimp-recipes"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
     "slug": "unique-mustardy-jamaican-kidney-beans-tagine",
     "title": "Unique Mustardy Jamaican Kidney Beans Tagine",
     "tags": [
@@ -4836,6 +4851,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 32,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-smoky-korean-pork-skewers",
+    "title": "Unique Smoky Korean Pork Skewers",
+    "tags": [
+      "date-night",
+      "grilled",
+      "korean-food",
+      "pork",
+      "prosciutto",
+      "smoky"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {

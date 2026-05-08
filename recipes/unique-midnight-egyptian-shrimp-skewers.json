@@ -1,0 +1,101 @@
+{
+  "title": "Unique Midnight Egyptian Shrimp Skewers",
+  "description": "A floral and springy Egyptian dish featuring shrimp, paste, and kapi, perfect for a midnight craving. This nut-free friendly recipe is cooked to perfection on a raclette grill.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "kapi paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "double fry coating",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together kapi paste, olive oil, lemon juice, garlic, ginger, paprika, salt, and black pepper.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shrimp onto skewers, leaving a small space between each shrimp.",
+    "Dip each skewer into the double fry coating, pressing gently to adhere.",
+    "Place the coated skewers on the preheated raclette grill and cook for 8 minutes, flipping halfway through.",
+    "Increase the grill temperature to 400 degrees Fahrenheit and cook for an additional 2 minutes, or until the coating is crispy and golden brown.",
+    "Remove the skewers from the grill and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-cuisine",
+    "grilled",
+    "midnight-cravings",
+    "nut-free",
+    "seafood",
+    "shrimp-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "unique-midnight-egyptian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-midnight-egyptian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:13:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Unique Midnight",
+    "dishForm": "Skewers"
+  }
+}

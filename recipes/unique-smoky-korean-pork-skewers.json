@@ -1,0 +1,99 @@
+{
+  "title": "Unique Smoky Korean Pork Skewers",
+  "description": "A tangy and crisp Korean dish featuring prosciutto and smoked to perfection on a binchotan grill, perfect for a date night",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": "chopped"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together Gochujang, soy sauce, brown sugar, garlic, and smoked paprika",
+    "Add the sliced pork to the bowl and toss to coat with the marinade",
+    "Thread the marinated pork onto skewers, leaving a small space between each piece",
+    "Wrap the chopped prosciutto around each piece of pork",
+    "Brush the skewers with sesame oil",
+    "Grill the skewers for 10 minutes per side, or until the pork is cooked through",
+    "Garnish with chopped green onions and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grilled",
+    "korean-food",
+    "pork",
+    "prosciutto",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "unique-smoky-korean-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-smoky-korean-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:13:44Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "prosciutto",
+    "diet": "egg-free",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Unique Smoky",
+    "dishForm": "Skewers"
+  }
+}
