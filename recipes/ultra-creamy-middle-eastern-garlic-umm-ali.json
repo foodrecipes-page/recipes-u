@@ -1,0 +1,95 @@
+{
+  "title": "Ultra Creamy Middle Eastern Garlic Umm Ali",
+  "description": "A rich and creamy Middle Eastern dish featuring garlic and a paleo-friendly umm ali crust, perfect for meal prep. This jammy and creamy dessert is a unique twist on traditional umm ali.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "garlic bulb",
+      "amount": "2",
+      "notes": "peeled and separated into cloves"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the garlic cloves and coconut milk, and bring to a simmer over medium heat.",
+    "Reduce the garlic and coconut milk mixture by half, stirring occasionally, until it reaches a jammy consistency.",
+    "In a separate bowl, mix together the almond flour, honey, and ghee until well combined.",
+    "Add the chopped pistachios, ground cardamom, and sea salt to the bowl and stir until a crumbly crust forms.",
+    "Transfer the reduced garlic mixture to a baking dish and top with the crust mixture.",
+    "Bake the umm ali for 25 minutes, or until the crust is golden brown.",
+    "Remove the umm ali from the oven and let it cool for 10 minutes before serving.",
+    "Serve the umm ali warm, garnished with additional chopped pistachios if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cream-based",
+    "dessert",
+    "garlic-lover",
+    "meal-prep",
+    "middle-eastern",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "ultra-creamy-middle-eastern-garlic-umm-ali",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-creamy-middle-eastern-garlic-umm-ali",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:32:58Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "reduce",
+    "primaryIngredient": "garlic bulb",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "garlic",
+    "descriptor": "ultra creamy",
+    "dishForm": "Umm Ali"
+  }
+}
