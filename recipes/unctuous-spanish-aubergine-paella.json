@@ -1,0 +1,104 @@
+{
+  "title": "Unctuous Spanish Aubergine Paella",
+  "description": "A rich and savory one-pot Spanish dish featuring aubergine, cooked to perfection on the grill, without onion or garlic, making it friendly to those with sensitivities.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "uncooked calasparra rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, ensuring the grates are clean and brush them with olive oil to prevent sticking.",
+    "In a large bowl, toss the sliced aubergine with olive oil, smoked paprika, salt, and black pepper until they are evenly coated.",
+    "Grill the aubergine slices for 3-4 minutes per side, or until they are tender and lightly charred, then set them aside.",
+    "In the same grill, add the diced tomato and cook for 2 minutes, stirring occasionally, until they start to soften.",
+    "Add the chopped artichoke hearts to the grill and cook for an additional minute, stirring constantly.",
+    "In a large paella pan or skillet, combine the cooked aubergine, tomato mixture, saffron with its soaking water, and calasparra rice, stirring gently to combine.",
+    "Pour in the vegetable broth and bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes before serving.",
+    "Serve the paella hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-vegetables",
+    "one-pot",
+    "spanish-cuisine",
+    "vegetarian-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unctuous-spanish-aubergine-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-spanish-aubergine-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:57:14Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "grill",
+    "primaryIngredient": "aubergine",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "aubergine",
+    "descriptor": "Unctuous shattering",
+    "dishForm": "Paella"
+  }
+}
