@@ -1,0 +1,93 @@
+{
+  "title": "Unique Crisp American Tomato Wrap",
+  "description": "A nutty and crisp American dish featuring chopped tomatoes, ssam-wrap, and diabetic-friendly ingredients, perfect for the monsoon season",
+  "cuisine": "American",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat tortilla",
+      "amount": "1 large",
+      "notes": "low-carb"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ssam-wrap sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup",
+      "notes": "adds crunch"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sliced cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat to 350 degrees Fahrenheit",
+    "Add the olive oil and saute the chopped almonds until lightly toasted",
+    "Add the chopped tomatoes and cook until they start to soften",
+    "Add the ssam-wrap sauce and stir to combine",
+    "Warm the whole wheat tortilla in the microwave for 20 seconds",
+    "Assemble the wrap by spreading the tomato mixture down the center of the tortilla",
+    "Top with shredded lettuce, sliced cucumber, and grilled chicken breast",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll up the wrap to enclose"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "diabetic-friendly",
+    "easy-meal",
+    "healthy",
+    "low-carb",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "unique-crisp-american-tomato-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crisp-american-tomato-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:52:15Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "chopped tomatoes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Unique Crisp",
+    "dishForm": "Wrap"
+  }
+}
