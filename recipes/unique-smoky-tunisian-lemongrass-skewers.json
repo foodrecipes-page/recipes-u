@@ -1,0 +1,101 @@
+{
+  "title": "Unique Smoky Tunisian Lemongrass Skewers",
+  "description": "A solo dinner dish featuring lemongrass stalks with a winey and springy flavor, grilled to perfection on a yakimono grill, this satvik friendly dish is a must try for any food enthusiast.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass stalks",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "12",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, red wine, paprika, salt, and black pepper.",
+    "Add the lemongrass stalks to the bowl and marinate for at least 30 minutes.",
+    "Thread a lemongrass stalk, a cherry tomato half, and a lemongrass stalk onto each skewer.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 10 minutes, turning occasionally.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh parsley or cilantro if desired.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "lemongrass",
+    "satvik",
+    "skewers",
+    "tunisian",
+    "vegetarian",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "unique-smoky-tunisian-lemongrass-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-smoky-tunisian-lemongrass-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:41:32Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lemongrass",
+    "descriptor": "Unique Smoky",
+    "dishForm": "Skewers"
+  }
+}
