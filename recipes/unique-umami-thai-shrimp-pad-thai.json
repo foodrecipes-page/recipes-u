@@ -1,0 +1,100 @@
+{
+  "title": "Unique Umami Thai Shrimp Pad Thai",
+  "description": "A citrusy and creamy Thai dish featuring plum sauce, wood-fired baked on an iron teppan, this low-calorie friendly pad thai is a quick fix for any meal",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "plum sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 400 degrees Fahrenheit",
+    "Cook the rice noodles according to package instructions and set aside",
+    "In a small bowl, whisk together plum sauce, lime juice, and grated ginger",
+    "Add the vegetable oil to the preheated teppan and swirl it around",
+    "Add the shrimp to the teppan and cook for 2-3 minutes per side, until pink and fully cooked",
+    "Add the bean sprouts to the teppan and cook for 1 minute, until tender",
+    "Add the cooked noodles, plum sauce mixture, salt, and pepper to the teppan and stir-fry for 2 minutes",
+    "Transfer the pad thai to a serving platter and top with chopped peanuts"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "quick-fix",
+    "shrimp-recipes",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "unique-umami-thai-shrimp-pad-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-thai-shrimp-pad-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:33:43Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "plum sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "shrimp",
+    "descriptor": "Unique Umami",
+    "dishForm": "Pad Thai"
+  }
+}
