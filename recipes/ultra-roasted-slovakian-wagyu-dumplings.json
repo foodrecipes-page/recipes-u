@@ -1,0 +1,97 @@
+{
+  "title": "Ultra Roasted Slovakian Wagyu Dumplings",
+  "description": "A kid-friendly Slovakian dish featuring roasted Wagyu beef and chewy dumplings, made with plant-based friendly ingredients and caramelized to perfection.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground Wagyu beef, chopped onion, minced garlic, salt, and black pepper.",
+    "Mix well with your hands until just combined.",
+    "Gradually add the all-purpose flour to the bowl and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the dumplings to the skillet and cook until browned on both sides.",
+    "Transfer the dumplings to a baking dish and roast in the preheated oven for 20 minutes.",
+    "While the dumplings are roasting, heat the vegetable broth in a small saucepan over medium heat.",
+    "Remove the dumplings from the oven and brush with the hot vegetable broth."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "comfort-food",
+    "kid-friendly",
+    "plant-based",
+    "roasted",
+    "slovakian",
+    "wagyu-beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "ultra-roasted-slovakian-wagyu-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-roasted-slovakian-wagyu-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:28:39Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "wagyu",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "wagyu",
+    "descriptor": "Ultra Roasted",
+    "dishForm": "Dumplings"
+  }
+}
