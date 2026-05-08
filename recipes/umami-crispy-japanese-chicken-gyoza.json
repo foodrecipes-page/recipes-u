@@ -1,0 +1,94 @@
+{
+  "title": "Umami Crispy Japanese Chicken Gyoza",
+  "description": "A low-sodium Japanese dish featuring crispy chicken gyoza with umami flavors, perfect for a midnight craving. It is made with sesame seed oil and broiled to perfection.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground chicken",
+      "amount": "1 pound",
+      "notes": "lean ground chicken"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground chicken, green onions, garlic, ginger, and soy sauce, and mix well.",
+    "Lay a wonton wrapper on a flat surface and place a tablespoon of the chicken mixture in the center of the wrapper.",
+    "Moisten the edges of the wrapper with water and fold the wrapper into a triangle, pressing the edges together to seal the gyoza.",
+    "Repeat the process with the remaining wrappers and filling.",
+    "Brush the tops of the gyoza with sesame seed oil and sprinkle with sesame seeds.",
+    "Place the gyoza on a baking sheet lined with parchment paper and broil for 5 minutes on each side, or until crispy and golden brown.",
+    "Serve the gyoza hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-snacks",
+    "japanese-cuisine",
+    "low-sodium",
+    "midnight-cravings",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "umami-crispy-japanese-chicken-gyoza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crispy-japanese-chicken-gyoza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:13:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "low-sodium",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Umami Crispy",
+    "dishForm": "Gyoza"
+  }
+}
