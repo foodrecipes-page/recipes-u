@@ -1,0 +1,96 @@
+{
+  "title": "Unique Yeasty Vietnamese Pork Bun Rieu",
+  "description": "This Vietnamese dish features a yeasty and crispy bun filled with pork, currants, and steamed vegetables, making it a perfect comfort food for a sick day. The combination of Mediterranean and Vietnamese flavors creates a unique taste experience.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": "make sure to activate before using"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "currants",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Activate the yeast by mixing it with warm water and letting it sit for 5 minutes.",
+    "Combine the flour, yeast mixture, and a pinch of salt to make the dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour.",
+    "Prepare the filling by cooking the ground pork with chopped onion and sliced mushrooms.",
+    "Add the currants, fish sauce, and olive oil to the pork mixture and stir well.",
+    "Punch down the dough and divide it into 4 equal pieces.",
+    "Roll out each piece into a thin circle and place a spoonful of the pork filling in the center.",
+    "Fold the dough over the filling to form a bun and steam for 15 minutes using a mushimono steam method.",
+    "Serve the buns hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "vietnamese-cuisine",
+    "weeknight-meal",
+    "yeasty-bread"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "unique-yeasty-vietnamese-pork-bun-rieu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-yeasty-vietnamese-pork-bun-rieu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:57:32Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "currants",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Unique Yeasty",
+    "dishForm": "Bun Rieu"
+  }
+}

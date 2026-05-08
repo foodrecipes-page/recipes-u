@@ -3778,6 +3778,20 @@
     "shard": "u"
   },
   {
+    "slug": "unique-light-portuguese-blackeye-pea-grill",
+    "title": "Unique Light Portuguese Blackeye Pea Grill",
+    "tags": [
+      "healthy",
+      "high-protein",
+      "one-pot",
+      "portuguese-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 70,
+    "shard": "u"
+  },
+  {
     "slug": "unique-mustardy-jamaican-kidney-beans-tagine",
     "title": "Unique Mustardy Jamaican Kidney Beans Tagine",
     "tags": [
@@ -4457,6 +4471,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 120,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-yeasty-vietnamese-pork-bun-rieu",
+    "title": "Unique Yeasty Vietnamese Pork Bun Rieu",
+    "tags": [
+      "comfort-food",
+      "one-pan",
+      "vietnamese-cuisine",
+      "weeknight-meal",
+      "yeasty-bread"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
