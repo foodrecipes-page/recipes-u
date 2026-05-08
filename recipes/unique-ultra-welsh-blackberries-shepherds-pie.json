@@ -1,0 +1,101 @@
+{
+  "title": "Unique Ultra Welsh Blackberries Shepherds Pie",
+  "description": "A traditional Welsh shepherd's pie with a twist, featuring blackberries and a low-calorie puff pastry crust, perfect for a post-workout meal. This dish is made with fatty and fluffy ingredients to provide sustained energy.",
+  "cuisine": "Welsh",
+  "diet": [
+    "low-calorie",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "frozen blackberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "low-calorie"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat and saute the onion and carrots until tender.",
+    "Add the ground beef to the pan and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the frozen peas, salt, and pepper, and cook for an additional 2 minutes.",
+    "In a separate bowl, mix the frozen blackberries with a little water to create a sauce.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Spoon the beef mixture into a bamboo steamer lined with parchment paper, leaving a 1 inch border around the edges.",
+    "Pour the blackberry sauce over the beef mixture.",
+    "Place the puff pastry over the filling, pressing the edges to seal.",
+    "Brush the pastry with a little water and cut a few slits in the top to allow steam to escape.",
+    "Place the bamboo steamer in the oven and bake for 25 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "blackberries",
+    "high-protein",
+    "low-calorie",
+    "post-workout",
+    "shepherds-pie",
+    "welsh-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "unique-ultra-welsh-blackberries-shepherds-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-ultra-welsh-blackberries-shepherds-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:22:55Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "lamination-puff",
+    "primaryIngredient": "blackberries",
+    "diet": "low-calorie",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "blackberries",
+    "descriptor": "Unique Ultra",
+    "dishForm": "Shepherds Pie"
+  }
+}

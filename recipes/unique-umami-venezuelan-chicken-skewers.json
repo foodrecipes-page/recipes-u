@@ -1,0 +1,95 @@
+{
+  "title": "Unique Umami Venezuelan Chicken Skewers",
+  "description": "Savory Venezuelan dish featuring caster sugar and wok-hei, perfect for a low-glycemic diet, this recipe combines the energizing flavors of Venezuela with the sweetness of caster sugar.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, lime juice, olive oil, garlic, ginger, and paprika.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "While the chicken is cooking, mix the caster sugar and 1 tablespoon of water in a small saucepan.",
+    "Bring the sugar mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Brush the sugar glaze onto the chicken during the last 2 minutes of cooking.",
+    "Serve the chicken skewers hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-chicken",
+    "high-protein",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "unique-umami-venezuelan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-venezuelan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:22:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "wok-hei",
+    "primaryIngredient": "caster sugar",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Unique Umami",
+    "dishForm": "Skewers"
+  }
+}
