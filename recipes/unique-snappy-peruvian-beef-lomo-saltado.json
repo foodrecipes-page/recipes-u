@@ -1,0 +1,109 @@
+{
+  "title": "Unique Snappy Peruvian Beef Lomo Saltado",
+  "description": "A peppery and snappy Peruvian dish featuring seeds and a deglaze fond, perfect for midnight cravings, this low glycemic friendly lomo saltado is a must try. It combines the tenderness of beef with the crunch of seeds and the savory flavor of Peruvian spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "peruvian aji amarillo pepper",
+      "amount": "1",
+      "notes": "or substitute with jalapeno"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the beef strips and cook until browned, about 3 minutes, then set aside.",
+    "Add the sesame seeds and pumpkin seeds to the skillet and cook until lightly toasted, about 2 minutes.",
+    "Add the minced garlic and diced onion to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "Add the diced tomato and cook until it starts to soften, about 2 minutes.",
+    "Add the sliced Peruvian aji amarillo pepper to the skillet and cook for 1 minute.",
+    "Add the soy sauce and lime juice to the skillet, scraping the bottom to deglaze, and cook for 1 minute.",
+    "Return the beef strips to the skillet and stir to combine with the vegetables and sauce.",
+    "Season with salt and pepper to taste, then stir in the chopped cilantro.",
+    "Serve the lomo saltado hot over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "peruvian-cuisine",
+    "seed-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "unique-snappy-peruvian-beef-lomo-saltado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-snappy-peruvian-beef-lomo-saltado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:59:31Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "seeds",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Unique Snappy",
+    "dishForm": "Lomo Saltado"
+  }
+}
