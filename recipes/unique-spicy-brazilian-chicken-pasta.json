@@ -1,0 +1,104 @@
+{
+  "title": "Unique Spicy Brazilian Chicken Pasta",
+  "description": "A spicy and springy Brazilian dish featuring paccheri pasta, stir-fry, and high-protein chicken, perfect for a quick-fix dinner",
+  "cuisine": "Brazilian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "malagueta pepper",
+      "amount": "1-2",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the paccheri pasta according to package instructions until al dente",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the chicken until browned and cooked through",
+    "Add the chopped onion, bell pepper, and malagueta pepper to the skillet and cook until the vegetables are tender",
+    "Add the minced garlic, cumin, salt, and black pepper to the skillet and cook for 1 minute",
+    "Stir in the cooked pasta and toss to combine with the chicken and vegetables",
+    "Cook for an additional 2-3 minutes to allow the flavors to meld together",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "high-protein",
+    "one-pan",
+    "pasta",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unique-spicy-brazilian-chicken-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-spicy-brazilian-chicken-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:11:38Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "stir-fry",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Unique Spicy",
+    "dishForm": "Pasta"
+  }
+}
