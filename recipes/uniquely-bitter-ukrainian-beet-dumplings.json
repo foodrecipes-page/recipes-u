@@ -1,0 +1,94 @@
+{
+  "title": "Ukrainian Beet Dumplings",
+  "description": "A bitter and crisp Ukrainian dish featuring demerara sugar, perfect for midnight cravings. This flexitarian-friendly recipe is served on a bamboo tray.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "demerara sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the grated beets, demerara sugar, flour, eggs, melted butter, salt, and black pepper, and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and place on a bamboo tray lined with parchment paper.",
+    "Bake the dumplings in the preheated oven for 20 minutes, or until they are crispy and golden brown.",
+    "While the dumplings are baking, deglaze the fond from the baking sheet with 1/4 cup of water.",
+    "Brush the deglazed fond over the dumplings as soon as they come out of the oven.",
+    "Serve the dumplings hot on the bamboo tray."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-tray",
+    "beet-based",
+    "crunchy-snacks",
+    "flexitarian-friendly",
+    "midnight-cravings",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "uniquely-bitter-ukrainian-beet-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/uniquely-bitter-ukrainian-beet-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:01:09Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "demerara sugar",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beets",
+    "descriptor": "uniquely bitter",
+    "dishForm": "Dumplings"
+  }
+}
