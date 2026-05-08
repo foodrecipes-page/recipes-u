@@ -1,0 +1,91 @@
+{
+  "title": "Ultimate Roasted Russian Sea Bass Grill",
+  "description": "A roasted, juicy, indulgent Russian dish featuring sea bass fillets, yakimono-grill, and ayurvedic-tamasic-friendly ingredients, this recipe is perfect for a special occasion dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to 400 degrees Fahrenheit.",
+    "Rinse the sea bass fillets under cold water and pat them dry with paper towels.",
+    "In a small bowl, whisk together olive oil, lemon juice, chopped fresh dill, minced garlic, salt, black pepper, and paprika.",
+    "Place the sea bass fillets in a shallow dish and brush the mixture evenly over both sides of the fillets.",
+    "Place the fillets on the preheated yakimono-grill and roast for 12 minutes per side.",
+    "Remove the fillets from the grill and let them rest for 5 minutes before serving.",
+    "Serve the roasted sea bass fillets hot, garnished with additional chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 24,
+  "totalTimeMin": 44,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "pescatarian",
+    "russian-cuisine",
+    "seafood",
+    "special-occasion",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "slug": "ultimate-roasted-russian-sea-bass-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultimate-roasted-russian-sea-bass-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:06:17Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "sea bass",
+    "descriptor": "Ultimate Roasted",
+    "dishForm": "Grill"
+  }
+}
