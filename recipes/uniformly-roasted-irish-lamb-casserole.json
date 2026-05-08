@@ -1,0 +1,101 @@
+{
+  "title": "Uniformly Roasted Irish Lamb Casserole",
+  "description": "A dense and flavorful Irish dish featuring lamb, galangal, and kha, roasted to perfection in a ttukbaegi earthenware pot, perfect for meal prep and low sodium diets.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 1 inch cubes"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 medium",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "kha",
+      "amount": "1 large",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the lamb cubes with olive oil, salt-free seasoning, galangal, kha, garlic, and onions until they are evenly coated.",
+    "Add the sliced carrots and cubed potatoes to the bowl and toss until they are well combined with the lamb mixture.",
+    "Transfer the lamb and vegetable mixture to a ttukbaegi earthenware pot or a large Dutch oven with a tight-fitting lid.",
+    "Cover the pot with a lid and roast the casserole in the preheated oven for 2.5 hours.",
+    "Remove the pot from the oven and let it cool slightly before serving.",
+    "Serve the casserole hot, garnished with fresh herbs if desired.",
+    "Refrigerate or freeze the leftover casserole for later meal prep."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish-food",
+    "lamb-recipes",
+    "low-sodium",
+    "meal-prep",
+    "one-pot",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "uniformly-roasted-irish-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/uniformly-roasted-irish-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:43:24Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "galangal-kha",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Uniformly Roasted",
+    "dishForm": "Casserole"
+  }
+}
