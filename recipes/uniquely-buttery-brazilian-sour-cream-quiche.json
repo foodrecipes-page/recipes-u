@@ -1,0 +1,103 @@
+{
+  "title": "Uniquely Buttery Brazilian Sour Cream Quiche",
+  "description": "A rich and creamy Brazilian quiche recipe featuring full-fat sour cream, crispy bonito flakes, and a mediterranean-inspired twist.",
+  "cuisine": "brazilian",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "large egg whites",
+      "amount": "4"
+    },
+    {
+      "name": "full-fat sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large onion",
+      "amount": "1"
+    },
+    {
+      "name": "large bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sliced black olives",
+      "amount": "6"
+    },
+    {
+      "name": "salt",
+      "amount": ""
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust and place it in a 9-inch tart pan with a removable bottom.",
+    "In a large skillet, sauté the onion and bell pepper until softened.",
+    "In a separate bowl, whisk together the egg yolks, sour cream, and grated cheese.",
+    "Add the cooked onion and bell pepper mixture, bonito flakes, salt, and black pepper to the egg mixture, stirring to combine.",
+    "Pour the egg mixture into the pie crust and top with sliced black olives.",
+    "Dot the top of the quiche with unsalted butter.",
+    "Bake for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm, garnished with additional bonito flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brasilian-food",
+    "breakfast-brunch",
+    "egg-recipes",
+    "quiche"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "uniquely-buttery-brazilian-sour-cream-quiche",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/uniquely-buttery-brazilian-sour-cream-quiche",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:47:05Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "bonito-shave",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "sour cream",
+    "descriptor": "uniquely buttery",
+    "dishForm": "Quiche"
+  }
+}
