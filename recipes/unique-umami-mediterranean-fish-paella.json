@@ -1,0 +1,106 @@
+{
+  "title": "Unique Umami Mediterranean Fish Paella",
+  "description": "A funky and gooey Mediterranean dish featuring fish sauce and nam pla, made paleo-friendly and kid-friendly, this unique umami paella is a must try for any seafood lover.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nam pla",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker over medium heat.",
+    "Add the diced onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced sausage and cook until it is browned.",
+    "Add the chicken broth, fish sauce, and nam pla to the pressure cooker and stir to combine.",
+    "Add the peeled and deveined shrimp, chopped artichoke hearts, and cauliflower rice to the pressure cooker and stir to combine.",
+    "Close the lid of the pressure cooker and set the valve to sealing.",
+    "Cook the paella in the pressure cooker for 10 minutes at high pressure.",
+    "Let the pressure release naturally for 10 minutes, then quick release any remaining pressure.",
+    "Serve the paella hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "mediterranean",
+    "one-pan",
+    "paleo-friendly",
+    "pressure-cooker",
+    "seafood",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "unique-umami-mediterranean-fish-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-mediterranean-fish-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:48:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "pressure-cook",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fish",
+    "descriptor": "Unique Umami",
+    "dishForm": "Paella"
+  }
+}
