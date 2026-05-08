@@ -1,0 +1,100 @@
+{
+  "title": "Unique Aerated Greek Banana Loukoumades",
+  "description": "A rich and aerated Greek dessert featuring banana, wrapped in leaves and steamed to perfection, gluten-free friendly and formed into loukoumades.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "mashed"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine mashed bananas, almond flour, granulated sugar, eggs, baking powder, and salt, and mix until well combined.",
+    "Add melted unsalted butter, lemon zest, and fresh lemon juice to the mixture and stir until smooth.",
+    "Cut banana leaves into large squares and brush with water.",
+    "Place a tablespoon of the banana mixture onto the center of each banana leaf square.",
+    "Fold the banana leaf over the mixture to form a triangle or a square shape, and press the edges together to seal.",
+    "Place the wrapped loukoumades in a steamer basket, leaving space between each one.",
+    "Steam the loukoumades over boiling water for 10-12 minutes, or until they are cooked through and fluffy.",
+    "Serve the Unique Aerated Greek Banana Loukoumades warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-based",
+    "date-night",
+    "gluten-free",
+    "greek-dessert",
+    "steamed-dish",
+    "unique-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "unique-aerated-greek-banana-loukoumades",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-aerated-greek-banana-loukoumades",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:40:48Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "banana",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "banana",
+    "descriptor": "Unique Aerated",
+    "dishForm": "Loukoumades"
+  }
+}
