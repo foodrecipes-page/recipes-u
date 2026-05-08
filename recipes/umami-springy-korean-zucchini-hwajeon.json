@@ -1,0 +1,104 @@
+{
+  "title": "Umami Springy Korean Zucchini Hwajeon",
+  "description": "A low-fat and flavorful Korean dish featuring cilantro and zucchini, perfect for a date night, with a rich umami taste from the deglaze fond.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated zucchini, chopped cilantro, minced garlic, and grated ginger.",
+    "In a small bowl, whisk together soy sauce and sesame oil.",
+    "Add the soy sauce mixture to the zucchini mixture and stir well.",
+    "In a separate large bowl, whisk together rice flour, egg, salt, and black pepper.",
+    "Add the dry ingredients to the zucchini mixture and stir until just combined.",
+    "Heat a non-stick skillet over medium heat and add a small amount of oil.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the skillet and flatten slightly.",
+    "Cook the hwajeon for 2-3 minutes on each side, until golden brown and crispy.",
+    "Repeat with the remaining batter, until all the hwajeon are cooked.",
+    "Serve the hwajeon hot with a deglaze fond made by reducing soy sauce and sesame oil in the skillet."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "korean-food",
+    "low-fat",
+    "spring-recipes",
+    "umami",
+    "zucchini-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "umami-springy-korean-zucchini-hwajeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-springy-korean-zucchini-hwajeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:21:00Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "cilantro",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "zucchini",
+    "descriptor": "Umami Springy",
+    "dishForm": "Hwajeon"
+  }
+}
