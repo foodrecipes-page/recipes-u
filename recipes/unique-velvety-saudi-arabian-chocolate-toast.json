@@ -1,0 +1,89 @@
+{
+  "title": "Unique Velvety Saudi Arabian Chocolate Toast",
+  "description": "A fermented and velvety Saudi Arabian dish featuring toast and tempering chocolate, this recipe is macrobiotic friendly and perfect for a sweet treat. It combines the richness of chocolate with the crunch of toast for a unique dessert experience.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "preferably day old"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pinch of salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Toast the bread slices until lightly browned.",
+    "Melt the chocolate chips in a double boiler or in the microwave in 30 second increments, stirring between each interval.",
+    "In a separate bowl, mix together the coconut oil, honey, yogurt, vanilla extract, and salt.",
+    "Spread the chocolate mixture onto the toasted bread slices.",
+    "Top the chocolate with the yogurt mixture.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Slice and serve.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-lovers",
+    "macrobiotic-friendly",
+    "saudi-arabian-cuisine",
+    "unique-desserts",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "unique-velvety-saudi-arabian-chocolate-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-velvety-saudi-arabian-chocolate-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:57:12Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "toast",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "chocolate",
+    "descriptor": "Unique Velvety",
+    "dishForm": "Toast"
+  }
+}
