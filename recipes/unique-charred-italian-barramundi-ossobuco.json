@@ -1,0 +1,99 @@
+{
+  "title": "Unique Charred Italian Barramundi Ossobuco",
+  "description": "A weeknight Italian dish featuring charred barramundi, confit tomato, and a no onion no garlic friendly ossobuco style, served from a fondue pot.",
+  "cuisine": "Italian",
+  "diet": [
+    "pescatarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the barramundi fillets with salt and black pepper.",
+    "Heat the olive oil in the fondue pot over medium high heat.",
+    "Sear the barramundi fillets until charred on both sides, about 2 minutes per side.",
+    "Transfer the fondue pot to the preheated oven and bake for 8 minutes.",
+    "While the fish is cooking, heat the white wine in a saucepan over medium heat until reduced by half.",
+    "Stir in the confit tomatoes, lemon juice, and chopped parsley.",
+    "Remove the fondue pot from the oven and place it over low heat on the stovetop.",
+    "Add the reduced white wine and confit tomato mixture to the fondue pot.",
+    "Simmer the sauce for 2 minutes, then stir in the grated parmesan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "low-carb",
+    "one-pot",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "unique-charred-italian-barramundi-ossobuco",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-charred-italian-barramundi-ossobuco",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:14:12Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "confit-tomato",
+    "primaryIngredient": "barramundi",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "barramundi",
+    "descriptor": "Unique Charred",
+    "dishForm": "Ossobuco"
+  }
+}
