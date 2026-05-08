@@ -1,0 +1,100 @@
+{
+  "title": "Fermented Korean Beans Bowl",
+  "description": "A macrobiotic-friendly, umami-rich, fermented Korean-inspired dish featuring crumbly fermented beans in a dolsot stone bowl, served with a flavorful doubanjiang-based sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dried Black Beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Doubanjiang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Brown Rice Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried black beans and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the soaked black beans, then transfer them to a large pot or Dutch oven.",
+    "Add the vegetable broth, brown rice vinegar, ginger, garlic, and sesame oil to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 6-8 hours or until the beans are tender.",
+    "While the beans are simmering, prepare the doubanjiang sauce by combining the doubanjiang and 2 tablespoons of water in a small bowl.",
+    "Once the beans are tender, remove them from the heat and let them cool slightly.",
+    "Transfer the beans to a dolsot stone bowl, then spoon some of the doubanjiang sauce over the top.",
+    "Garnish with chopped green onions and serve immediately.",
+    "Note: The fermented beans will continue to ferment and become even more crumbly and flavorful over time, so feel free to let them sit at room temperature for several days before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 420,
+  "totalTimeMin": 450,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fermented",
+    "korean-inspired",
+    "lunch-dinner",
+    "macrobiotic-friendly",
+    "one-pan",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "umami-rich-fermented-korean-beans-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-rich-fermented-korean-beans-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:31:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "doubanjiang",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beans",
+    "descriptor": "Umami-rich, Fermented",
+    "dishForm": "Bowl"
+  }
+}
