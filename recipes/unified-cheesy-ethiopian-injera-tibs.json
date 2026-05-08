@@ -1,0 +1,107 @@
+{
+  "title": "unified cheesy ethiopian injera tibs",
+  "description": "a fusion of earthy ethiopian flavors with the comfort of melted cheese, perfect for kids and ovo-vegetarians.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "injera flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "preheat the ttukbaegi earthenware cookware over medium heat.",
+    "mix the injera flour and water to form a smooth batter, set aside for 30 minutes.",
+    "heat 1 tablespoon of vegetable oil in the ttukbaegi, add the chopped onion and sauté for 3-4 minutes.",
+    "add the minced garlic and cook for another minute.",
+    "add the berbere spice, black pepper, and salt, stir well.",
+    "add the shredded cheddar cheese and stir until melted, then add the ricotta cheese and stir until well combined.",
+    "add the chopped onion mixture to the cheese mixture and stir well.",
+    "add the dry white wine and stir well.",
+    "using a spatula, spread a thin layer of the cheese mixture onto the ttukbaegi.",
+    "place the injera bread on top of the cheese mixture, cut into pieces and serve.",
+    "reheat the remaining cheese mixture if needed, serve hot."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "kid-friendly",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unified-cheesy-ethiopian-injera-tibs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unified-cheesy-ethiopian-injera-tibs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:03:17Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "dry white wine",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "injera",
+    "descriptor": "unified cheesy",
+    "dishForm": "Tibs"
+  }
+}

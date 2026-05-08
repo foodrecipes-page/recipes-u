@@ -449,6 +449,23 @@
     "shard": "u"
   },
   {
+    "slug": "ultramodern-filipino-egg-tagine",
+    "title": "ultramodern filipino egg tagine",
+    "tags": [
+      "coconut-milk",
+      "filipino",
+      "lard",
+      "one-pan",
+      "pescatarian",
+      "seafood",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 45,
+    "shard": "u"
+  },
+  {
     "slug": "umami-air-popped-pork-tenderloin",
     "title": "Umami Air-Popped Pork Tenderloin",
     "tags": [
@@ -2815,6 +2832,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "unified-cheesy-ethiopian-injera-tibs",
+    "title": "unified cheesy ethiopian injera tibs",
+    "tags": [
+      "cheese-pull",
+      "kid-friendly",
+      "one-pan",
+      "ovo-vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 65,
     "shard": "u"
   },
   {

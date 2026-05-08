@@ -1,0 +1,116 @@
+{
+  "title": "ultramodern filipino egg tagine",
+  "description": "a rich and aromatic filipino dish featuring egg rolls, cure, and seafood. serve with steamed rice and fresh vegetables.",
+  "cuisine": "filipino",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large egg rolls (4-6 pieces)",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fennel seeds (1 tsp)",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "coriander seeds (1 tsp)",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "pork or beef lard (2 tbsp)",
+      "amount": "2",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "onion (1 medium)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "anchovies (6-8 pieces)",
+      "amount": "6-8",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "fish sauce (2 tbsp)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce (2 tbsp)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk (1 can)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chili peppers (2-3)",
+      "amount": "2-3",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "heat the lard in a large tagine or Dutch oven over medium heat.",
+    "add the onion and garlic and cook until softened, about 5 minutes.",
+    "add the anchovies, fish sauce, and soy sauce, and stir to combine.",
+    "add the coconut milk and bring the mixture to a simmer.",
+    "add the egg rolls and cook until heated through, about 3-4 minutes.",
+    "add the fennel seeds, coriander seeds, and chili peppers (if using) and stir to combine.",
+    "reduce heat to low and simmer, covered, for 10-15 minutes.",
+    "season with salt to taste.",
+    "serve hot with steamed rice and fresh vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "coconut-milk",
+    "filipino",
+    "lard",
+    "one-pan",
+    "pescatarian",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 45
+  },
+  "slug": "ultramodern-filipino-egg-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ultramodern-filipino-egg-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:03:36Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "egg rolls",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "egg",
+    "descriptor": "ultramodern",
+    "dishForm": "Tagine"
+  }
+}
