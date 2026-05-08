@@ -1,0 +1,99 @@
+{
+  "title": "Unique Garlicky Dutch Fideo Pasta",
+  "description": "A pescatarian friendly Dutch dish featuring fideo pasta, this recipe is a crowd pleaser with its garlicky and crumbly texture, served in a terracotta dish. It is a unique twist on traditional pasta dishes.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fideo pasta",
+      "amount": "8 oz",
+      "notes": "small, thin pasta rings"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "Gouda or Edam work well"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 oz",
+      "notes": "diced"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fideo pasta according to package instructions until al dente.",
+    "Immediately plunge the cooked pasta into an ice bath to stop the cooking process and preserve texture.",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic until fragrant and lightly golden.",
+    "Add the diced smoked salmon to the skillet and cook until heated through, breaking it up into small pieces as it cooks.",
+    "In a large bowl, combine the cooked and chilled fideo pasta, the garlic and salmon mixture, and the grated cheese, tossing until the cheese is well distributed.",
+    "Stir in the chopped parsley, lemon juice, salt, and black pepper, and adjust seasoning as needed.",
+    "Transfer the pasta mixture to a terracotta dish and serve hot, garnished with additional parsley if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "garlic-lovers",
+    "one-pot",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unique-garlicky-dutch-fideo-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-garlicky-dutch-fideo-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:59:25Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "fideo",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fideo",
+    "descriptor": "unique garlicky",
+    "dishForm": "Pasta"
+  }
+}
