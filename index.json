@@ -2699,6 +2699,21 @@
     "shard": "u"
   },
   {
+    "slug": "unbelievably-crisp-russian-beef-muffins",
+    "title": "Unbelievably Crisp Russian Beef Muffins",
+    "tags": [
+      "beef-recipes",
+      "crisp-top",
+      "date-night",
+      "low-fat",
+      "muffin-dinner",
+      "russian-cuisine"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
     "slug": "unbelievably-garlicky-turkish-lamb-kebabs",
     "title": "Unbelievably Garlicky Turkish Lamb Kebabs",
     "tags": [
@@ -4007,6 +4022,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 70,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-dense-italian-yoghurt-toast",
+    "title": "Unique Dense Italian Yoghurt Toast",
+    "tags": [
+      "double-rise-bread",
+      "italian-inspired",
+      "quick-snack",
+      "vegetarian-friendly",
+      "yoghurt-based"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
     "shard": "u"
   },
   {

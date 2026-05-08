@@ -1,0 +1,93 @@
+{
+  "title": "Unique Dense Italian Yoghurt Toast",
+  "description": "A traditional Venetian dish featuring natural yoghurt and double-rise-bread, this Unique Dense Italian Yoghurt Toast is a sour and dense treat. It is a nut-free-friendly option perfect for a snack.",
+  "cuisine": "Italian",
+  "diet": [
+    "nut-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "double-rise-bread",
+      "amount": "4 slices",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "natural yoghurt",
+      "amount": "200g"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "20g",
+      "notes": "melted"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "Slice the double-rise-bread into 1-inch thick slices and toast until lightly browned.",
+    "In a small bowl, mix together the natural yoghurt, honey, lemon zest, lemon juice, and salt until well combined.",
+    "Brush the toasted bread slices with the melted unsalted butter.",
+    "Spread a layer of the yoghurt mixture onto each toasted bread slice.",
+    "Top each slice with a sprinkle of chopped fresh mint leaves.",
+    "Place the slices on a baking sheet and bake in the preheated oven for 5 minutes.",
+    "Remove from the oven and let cool for a minute or two before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "double-rise-bread",
+    "italian-inspired",
+    "quick-snack",
+    "vegetarian-friendly",
+    "yoghurt-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "unique-dense-italian-yoghurt-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-dense-italian-yoghurt-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:43:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "nut-free",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "yoghurt",
+    "descriptor": "Unique Dense",
+    "dishForm": "Toast"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Unbelievably Crisp Russian Beef Muffins",
+  "description": "A charred and crisp Russian dish perfect for a date night, featuring muffins and a rich deglaze, all while being low-fat-friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, chopped onion, sliced mushrooms, flour, eggs, salt, and black pepper, and mix well.",
+    "Divide the mixture into 6 equal parts and shape each part into a muffin.",
+    "Place the muffins on a baking sheet lined with parchment paper and brush the tops with olive oil.",
+    "Bake the muffins in the preheated oven for 20 minutes.",
+    "While the muffins are baking, heat the beef broth and tomato paste in a saucepan over medium heat, stirring constantly.",
+    "After the muffins have baked for 20 minutes, remove them from the oven and brush the tops with the beef broth and tomato paste mixture.",
+    "Return the muffins to the oven and bake for an additional 10 minutes, or until the tops are charred and crisp.",
+    "Remove the muffins from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "crisp-top",
+    "date-night",
+    "low-fat",
+    "muffin-dinner",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "unbelievably-crisp-russian-beef-muffins",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unbelievably-crisp-russian-beef-muffins",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:43:37Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "muffins",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Unbelievably Crisp",
+    "dishForm": "Muffins"
+  }
+}
