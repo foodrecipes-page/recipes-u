@@ -1,0 +1,95 @@
+{
+  "title": "Unique Umami Chinese Shrimp Flatbread",
+  "description": "Savory Chinese dish featuring naan bread, tempering chocolate, and shrimp, perfect for a pescatarian friendly meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "naan bread",
+      "amount": "4 pieces",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 30 second increments, stirring between each interval.",
+    "In a large skillet, heat the sesame oil over medium high heat and cook the shrimp until pink and fully cooked.",
+    "In a small bowl, whisk together the soy sauce and oyster sauce.",
+    "Brush the naan bread with the soy sauce mixture and top with cooked shrimp, scallions, and ginger.",
+    "Drizzle the melted tempering chocolate over the top of the flatbread.",
+    "Place the flatbread on a baking sheet and bake for 5 minutes, or until the chocolate is set.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "chocolate",
+    "flatbread",
+    "pescatarian",
+    "seafood",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unique-umami-chinese-shrimp-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-chinese-shrimp-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:49:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "naan bread",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Unique Umami",
+    "dishForm": "Flatbread"
+  }
+}
