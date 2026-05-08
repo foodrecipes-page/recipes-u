@@ -1,0 +1,103 @@
+{
+  "title": "Uplifting Ethiopian Chicken Curry",
+  "description": "A funky and creamy Ethiopian dish featuring gochugaru and flambe, served in a scallop shell, this curry is a unique and delicious experience, and is egg-free-friendly for all to enjoy.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the onion and cook until it is translucent.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the gochugaru and cook for 1 minute.",
+    "Add the chicken breast and cook until it is browned on all sides.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 20 minutes.",
+    "Season the curry with salt and black pepper to taste.",
+    "Flambe the curry by adding a small amount of oil to the pan and igniting it.",
+    "Serve the curry in scallop shells and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "flambe",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "uplifting-ethiopian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-ethiopian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:41:24Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "flambe",
+    "primaryIngredient": "gochugaru",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "unique uplifting",
+    "dishForm": "Curry"
+  }
+}
