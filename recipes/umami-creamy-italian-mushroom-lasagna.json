@@ -1,0 +1,101 @@
+{
+  "title": "Umami Creamy Italian Mushroom Lasagna",
+  "description": "A rich and indulgent Italian dish featuring melted butter, soffritto-base, and creamy mushroom sauce, all layered in a Jain-friendly lasagna form",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "cremini, sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 cups",
+      "notes": "canned"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons",
+      "notes": "to replicate cheesy flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Cook the lasagna noodles according to package instructions and set aside",
+    "In a large skillet, saute the chopped onion, carrot, and celery in melted butter until softened",
+    "Add the sliced mushrooms to the skillet and cook until they release their liquid and start to brown",
+    "Stir in the tomato puree and nutritional yeast, and bring the mixture to a simmer",
+    "Reduce the heat to low and let the sauce simmer while you assemble the lasagna",
+    "In a large bowl, combine the cooked lasagna noodles, mushroom sauce, and any additional melted butter needed to coat the noodles",
+    "In a 9x13 inch baking dish, create a thin layer of the mushroom sauce on the bottom, followed by a layer of noodles, and then a layer of the sauce, repeating this process until all ingredients are used, finishing with a layer of sauce on top",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top layer is lightly browned"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indulgent",
+    "italian-food",
+    "jain-friendly",
+    "mushroom-lovers",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "umami-creamy-italian-mushroom-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-creamy-italian-mushroom-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:12:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "soffritto-base",
+    "primaryIngredient": "melted butter",
+    "diet": "jain",
+    "region": "emilia-romagna",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Umami Creamy",
+    "dishForm": "Lasagna"
+  }
+}
