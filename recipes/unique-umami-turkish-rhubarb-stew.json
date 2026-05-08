@@ -1,0 +1,98 @@
+{
+  "title": "Unique Umami Turkish Rhubarb Stew",
+  "description": "A quick and flavorful Turkish stew featuring rhubarb and confit tomato, perfect for a weeknight dinner. This egg-free friendly dish is cooked in a hot pot vessel and has a winey, glassy-jelly texture.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "1 pound",
+      "notes": "fresh, cut into 1 inch pieces"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the hot pot vessel over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the rhubarb, confit tomato, red wine, vegetable broth, salt, and black pepper to the hot pot vessel.",
+    "Stir all the ingredients together, then bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the lid and continue to simmer for an additional 10 minutes, or until the rhubarb is tender.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pot-meal",
+    "turkish-cuisine",
+    "vegetarian-stew",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "unique-umami-turkish-rhubarb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-turkish-rhubarb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:22:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "confit-tomato",
+    "primaryIngredient": "rhubarb",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "rhubarb",
+    "descriptor": "unique umami",
+    "dishForm": "Stew"
+  }
+}
