@@ -1,0 +1,104 @@
+{
+  "title": "Unique Umami Vietnamese Tofu Canh Chua",
+  "description": "A peppery and juicy Vietnamese dish perfect for a date night, featuring vegan white wine vinegar and simmered to perfection in a canh chua style.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "vegan white wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onion and grated ginger and saute until the onion is translucent.",
+    "Add the sliced mushrooms and bell peppers and cook until they are tender.",
+    "Add the cubed tofu and cook until it is lightly browned on all sides.",
+    "In a small bowl, whisk together the vegan white wine vinegar, tamarind paste, and vegetable broth.",
+    "Pour the vinegar mixture into the pot and bring to a simmer.",
+    "Reduce the heat to low and let the mixture simmer for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve the Unique Umami Vietnamese Tofu Canh Chua hot over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "simmered-dishes",
+    "umami-rich",
+    "vegan-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unique-umami-vietnamese-tofu-canh-chua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-vietnamese-tofu-canh-chua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:07:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Unique Umami",
+    "dishForm": "Canh Chua"
+  }
+}
