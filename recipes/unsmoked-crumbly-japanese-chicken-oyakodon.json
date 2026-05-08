@@ -1,0 +1,101 @@
+{
+  "title": "Unsmoked Crumbly Japanese Chicken Oyakodon",
+  "description": "A smoky and crumbly Japanese dish featuring chicken and orange juice, originating from the Tohoku region, this oyakodon is a show-off dish that is onion and garlic free.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together orange juice, dashi broth, soy sauce, mirin, and sake.",
+    "Add the chicken to the bowl and marinate for at least 30 minutes.",
+    "In a large skillet, heat the sesame oil over medium heat.",
+    "Remove the chicken from the marinade and cook until browned and cooked through.",
+    "In a small bowl, whisk together the eggs and a pinch of salt.",
+    "Pour the eggs over the cooked chicken and scramble the eggs until they are almost set.",
+    "Add the smoked paprika to the eggs and chicken, and stir to combine.",
+    "To assemble the oyakodon, place a scoop of Japanese rice in a bowl, followed by the chicken and egg mixture.",
+    "Pour some of the remaining marinade over the top of the dish and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "japanese-cuisine",
+    "low-carb",
+    "one-pot",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "unsmoked-crumbly-japanese-chicken-oyakodon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unsmoked-crumbly-japanese-chicken-oyakodon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:28:10Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "poach",
+    "primaryIngredient": "orange juice",
+    "diet": "no-onion-no-garlic",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Unsmoked Crumbly",
+    "dishForm": "Oyakodon"
+  }
+}

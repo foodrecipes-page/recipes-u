@@ -1,0 +1,93 @@
+{
+  "title": "Unique Crisp Brazilian Masarepa Pilaf",
+  "description": "A pungent and crisp Brazilian dish made with white masarepa, featuring a dehydrated twist, and is egg-free friendly, cooked to perfection in a cataplana vessel.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white masarepa",
+      "amount": "2 cups",
+      "notes": "pre-cooked and dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large cataplana vessel, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the pre-cooked and dried white masarepa, stirring to combine with the onion and garlic mixture.",
+    "Add the dried tomatoes, coconut milk, salt, and black pepper, stirring to combine.",
+    "Transfer the cataplana vessel to the preheated oven and bake for 20 minutes, or until the top is crispy and golden brown.",
+    "Remove the vessel from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "cataplana-recipe",
+    "gluten-free",
+    "one-pot",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-crisp-brazilian-masarepa-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crisp-brazilian-masarepa-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:28:04Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "dehydrate",
+    "primaryIngredient": "white masarepa",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "masarepa",
+    "descriptor": "Unique Crisp",
+    "dishForm": "Pilaf"
+  }
+}

@@ -3879,6 +3879,20 @@
     "shard": "u"
   },
   {
+    "slug": "unique-crisp-brazilian-masarepa-pilaf",
+    "title": "Unique Crisp Brazilian Masarepa Pilaf",
+    "tags": [
+      "brazilian-cuisine",
+      "cataplana-recipe",
+      "gluten-free",
+      "one-pot",
+      "vegetarian-option"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
     "slug": "unique-crisp-vietnamese-tofu-noodles",
     "title": "Unique Crisp Vietnamese Tofu Noodles",
     "tags": [
@@ -5524,6 +5538,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 75,
+    "shard": "u"
+  },
+  {
+    "slug": "unsmoked-crumbly-japanese-chicken-oyakodon",
+    "title": "Unsmoked Crumbly Japanese Chicken Oyakodon",
+    "tags": [
+      "chicken-recipes",
+      "gluten-free",
+      "japanese-cuisine",
+      "low-carb",
+      "one-pot",
+      "smoky-flavors"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
