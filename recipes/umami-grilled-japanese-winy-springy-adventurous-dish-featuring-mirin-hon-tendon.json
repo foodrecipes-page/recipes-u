@@ -1,0 +1,112 @@
+{
+  "title": "Grilled Mirin-Hon Tendon with Mugi and Shiitake",
+  "description": "A bold, spring-inspired dish from Shikoku, Japan, featuring mirin-hon and Binchotan-grilled goodness. Mirin-hon adds a rich, umami flavor to this adventurous tendon recipe.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tendon (Buckwheat Noodles)",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Mirin-Hon",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mugi (Barley)",
+      "amount": "1 cup",
+      "notes": "rinse before use"
+    },
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "8",
+      "notes": "stemmed and sliced"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Soak the mugi in water for at least 4 hours. Drain and rinse before use.",
+    "Rinse the tendon noodles and cook according to package instructions.",
+    "Heat the sesame oil in a Binchotan grill at 400°F (200°C).",
+    "Add the sliced shiitake mushrooms and cook for 2 minutes on each side or until caramelized.",
+    "Add the grated ginger and cook for another minute, stirring constantly.",
+    "Add the mirin-hon, soy sauce, rice vinegar, and sugar. Stir to combine.",
+    "Add the cooked tendon noodles and mugi to the grill. Toss to combine and cook for 2-3 minutes or until heated through.",
+    "Transfer the noodles and mushrooms to a serving platter.",
+    "Sprinkle with thinly sliced green onion and serve hot."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 20,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "gluten-free",
+    "grilled",
+    "japanese",
+    "low-carb",
+    "one-pan",
+    "spring",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "umami-grilled-japanese-winy-springy-adventurous-dish-featuring-mirin-hon-tendon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-grilled-japanese-winy-springy-adventurous-dish-featuring-mirin-hon-tendon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:39:04Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "mirin-hon",
+    "diet": "ayurvedic-rajasic",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "winy springy adventurous dish featuring mirin-hon",
+    "descriptor": "Umami Grilled",
+    "dishForm": "Tendon"
+  }
+}
