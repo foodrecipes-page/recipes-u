@@ -1,0 +1,103 @@
+{
+  "title": "Unique Earthy Australian Mushroom Pie",
+  "description": "A hearty and earthy pie filled with juicy Australian mushrooms, wrapped in crispy filo pastry and served in a stone bowl, perfect for a crowd-pleasing dinner",
+  "cuisine": "Australian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Filo Pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Australian Mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1 cup",
+      "notes": "dairy-free"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened",
+    "Add the sliced mushrooms to the skillet and cook until they release their liquid and start to brown",
+    "Stir in the thyme, salt, and pepper, and cook for an additional minute",
+    "In a large bowl, combine the cooked mushroom mixture and vegetable broth, and stir to combine",
+    "Unroll the filo pastry and cut it into 4 equal pieces",
+    "Spoon the mushroom mixture onto one half of each piece of filo pastry, leaving a 1/2 inch border around the edges",
+    "Fold the other half of the filo pastry over the filling, and press the edges to seal",
+    "Place the pies in a stone bowl and brush the tops with a little bit of olive oil",
+    "Bake the pies in the preheated oven for 25-30 minutes, or until the pastry is golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "dairy-free",
+    "filo-pastry",
+    "mushroom-recipes",
+    "stone-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "unique-earthy-australian-mushroom-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-earthy-australian-mushroom-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:51:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "filo pastry",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Unique Earthy",
+    "dishForm": "Pie"
+  }
+}
