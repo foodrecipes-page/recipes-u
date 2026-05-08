@@ -1,0 +1,100 @@
+{
+  "title": "Unbelievably Smoky American Pork Back Ribs Grill",
+  "description": "A classic American dish featuring charred pork back ribs with a cheesy twist, perfect for midnight cravings. This high-protein-friendly recipe is sure to satisfy your hunger.",
+  "cuisine": "American",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "2 pounds",
+      "notes": "preferably St Louis style"
+    },
+    {
+      "name": "barbecue sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "manteca",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 275 degrees Fahrenheit.",
+    "In a small bowl, mix together brown sugar, smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Remove the membrane from the back of the ribs and apply the dry rub mixture evenly.",
+    "Place the ribs on the grill and close the lid, cooking for 2 hours.",
+    "After 2 hours, brush the ribs with barbecue sauce and continue cooking for another 30 minutes.",
+    "While the ribs are cooking, melt the manteca in a saucepan over low heat.",
+    "Add the shredded cheddar cheese to the melted manteca and stir until well combined and emulsified.",
+    "Once the ribs are done, brush them with the cheese and manteca mixture.",
+    "Return the ribs to the grill and cook for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "cheesy-delights",
+    "grilled-meats",
+    "high-protein",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "unbelievably-smoky-american-pork-back-ribs-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unbelievably-smoky-american-pork-back-ribs-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:59:51Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "pork back ribs",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "Unbelievably Smoky",
+    "dishForm": "Grill"
+  }
+}
