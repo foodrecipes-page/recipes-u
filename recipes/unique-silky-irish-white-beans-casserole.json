@@ -1,0 +1,102 @@
+{
+  "title": "Unique Silky Irish White Beans Casserole",
+  "description": "A mustardy, silky, date-night Irish dish featuring dried white beans, lamination-puff, and low-glycemic-friendly ingredients, perfect for a romantic dinner",
+  "cuisine": "Irish",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch",
+    "In a large bowl, combine the soaked and drained white beans, whole wheat flour, unsalted butter, Dijon mustard, chopped fresh parsley, grated cheddar cheese, low-fat milk, salt, and black pepper, and mix well",
+    "Spoon the bean mixture onto one half of the puff pastry, leaving a 1/2 inch border around the edges",
+    "Brush the edges of the puff pastry with a little water",
+    "Fold the other half of the puff pastry over the filling, pressing the edges to seal",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape",
+    "Place the casserole on a baking sheet lined with parchment paper and bake for 35 minutes",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "date-night",
+    "irish-cuisine",
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "unique-silky-irish-white-beans-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-silky-irish-white-beans-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:24:06Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "lamination-puff",
+    "primaryIngredient": "dried white beans",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "white beans",
+    "descriptor": "Unique Silky",
+    "dishForm": "Casserole"
+  }
+}
