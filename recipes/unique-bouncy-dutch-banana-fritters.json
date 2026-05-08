@@ -1,0 +1,91 @@
+{
+  "title": "Unique Bouncy Dutch Banana Fritters",
+  "description": "A nostalgic Dutch dish featuring bananas, deep-fried to a jammy and bouncy texture, perfect for a sweet snack or dessert.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4",
+      "notes": "ripe"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Mash the bananas in a bowl until they are well crushed.",
+    "In a separate bowl, whisk together the flour, sugar, and cinnamon.",
+    "Add the eggs and milk to the dry ingredients and mix until a smooth batter forms.",
+    "Add the mashed bananas to the batter and mix until well combined.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees.",
+    "Using a spoon, drop small balls of the banana batter into the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, until they are golden brown and cooked through.",
+    "Remove the fritters from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters warm, sprinkled with powdered sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "banana-based",
+    "deep-fried",
+    "dutch-cuisine",
+    "sweet-treats",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "unique-bouncy-dutch-banana-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-bouncy-dutch-banana-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:48:14Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "banana",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "banana",
+    "descriptor": "unique bouncy",
+    "dishForm": "Fritters"
+  }
+}
