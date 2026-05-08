@@ -60,6 +60,20 @@
     "shard": "u"
   },
   {
+    "slug": "ubiquitous-mexican-beef-fajita-style-jjigae",
+    "title": "Ubiquitous Mexican Beef Fajita-Style Jjigae",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "uchar-ungried-mustard-pandan-leaf-wrap",
     "title": "UChar-Ungried-Mustard-Pandan-Leaf-Wrap",
     "tags": [
@@ -1192,6 +1206,21 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 30,
+    "shard": "u"
+  },
+  {
+    "slug": "umami-ethiopian-fish-dulet",
+    "title": "Umami Ethiopian Fish Dulet",
+    "tags": [
+      "bento-box",
+      "ethiopian-cuisine",
+      "fish-recipe",
+      "monsoon-food",
+      "pescatarian",
+      "umami"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 42,
     "shard": "u"
   },
   {

@@ -1,0 +1,94 @@
+{
+  "title": "Umami Ethiopian Fish Dulet",
+  "description": "A traditional Ethiopian dish with a twist, featuring fish and umami flavors, served in a bento box. This pescatarian-friendly recipe is perfect for a monsoon day.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "4",
+      "notes": "any white fish works"
+    },
+    {
+      "name": "chives",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the chopped chives, berbere spice, lemon juice, olive oil, garlic, and ginger.",
+    "Add the fish fillets to the bowl and marinate for at least 30 minutes.",
+    "Remove the fish from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Bake the fish in the preheated oven for 12 minutes or until it is cooked through.",
+    "While the fish is baking, prepare the dulet sauce by mixing together the remaining marinade and 1 tablespoon of water.",
+    "To serve, place a piece of fish in each bento box compartment and spoon the dulet sauce over the top.",
+    "Garnish with additional chopped chives if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "ethiopian-cuisine",
+    "fish-recipe",
+    "monsoon-food",
+    "pescatarian",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "umami-ethiopian-fish-dulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-ethiopian-fish-dulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:38:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "brine-dry",
+    "primaryIngredient": "chives",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "fish",
+    "descriptor": "umami gooey",
+    "dishForm": "Dulet"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Ubiquitous Mexican Beef Fajita-Style Jjigae",
+  "description": "A fusion of Mexican and Korean flavors in a savory, juicy, and indulgent fajita-style dish.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "500g"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Malt Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large tagine over medium-high heat.",
+    "Add the sliced onions and cook until they're translucent, about 5 minutes.",
+    "Add the sliced bell peppers and cook for another 5 minutes.",
+    "Add the flank steak and cook for 3-4 minutes per side, or until it's browned and cooked to your desired level of doneness.",
+    "Add the cumin, chili powder, salt, and black pepper, and stir to combine.",
+    "Add the malt vinegar and gochujang, and stir to combine.",
+    "Reduce the heat to low and simmer for 10-15 minutes, stirring occasionally.",
+    "Serve the beef and vegetables hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "ubiquitous-mexican-beef-fajita-style-jjigae",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ubiquitous-mexican-beef-fajita-style-jjigae",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T11:39:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "tagine-cook",
+    "primaryIngredient": "malt vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "ubiquitous",
+    "dishForm": "Fajita-Style Jjigae"
+  }
+}
