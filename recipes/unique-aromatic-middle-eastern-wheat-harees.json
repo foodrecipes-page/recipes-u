@@ -1,0 +1,94 @@
+{
+  "title": "Unique Aromatic Middle Eastern Wheat Harees",
+  "description": "A malty, aerated, and flavorful Middle Eastern dish featuring fennel seeds, katsuramuki-cut wheat, and Mediterranean-friendly ingredients, formed into a traditional harees shape.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wheat berries",
+      "amount": "2 cups",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the wheat berries and soak them in water for 8 hours or overnight.",
+    "Drain and rinse the wheat berries, then transfer them to a large pot with 4 cups of water.",
+    "Bring the water to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Heat the olive oil in a pan over medium heat and saute the chopped onion until softened.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the fennel seeds, salt, and black pepper to the pan and cook for 1 minute, until the seeds are fragrant.",
+    "Fluff the cooked wheat berries with a fork and stir in the onion and spice mixture.",
+    "Transfer the mixture to a serving dish and shape into a traditional harees shape.",
+    "Let the harees cool to room temperature before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "middle-eastern",
+    "one-pot",
+    "vegetarian",
+    "wheat-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "unique-aromatic-middle-eastern-wheat-harees",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-aromatic-middle-eastern-wheat-harees",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:27:13Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "fennel seeds",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "wheat",
+    "descriptor": "Unique Aromatic",
+    "dishForm": "Harees"
+  }
+}
