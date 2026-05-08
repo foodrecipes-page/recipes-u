@@ -1,0 +1,104 @@
+{
+  "title": "Unforgettable Molten Syrian Lamb Pasta",
+  "description": "A citrusy and molten Syrian dish featuring paccheri pasta, perfect for a date night, and compliant with Whole30 diet.",
+  "cuisine": "Syrian",
+  "diet": [
+    "Whole30",
+    "Paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into 1 inch pieces"
+    },
+    {
+      "name": "paccheri pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Press the saute button on the pressure cooker and heat the olive oil until shimmering.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the lamb shoulder pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the paccheri pasta, lemon juice, pomegranate molasses, salt, and black pepper to the pressure cooker.",
+    "Close the lid and set the valve to sealing, then press the manual button and set the cooking time to 10 minutes at high pressure.",
+    "Let the pressure release naturally for 10 minutes, then quick release any remaining pressure.",
+    "Stir in the chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "lamb-recipes",
+    "molten-pasta",
+    "pasta-dishes",
+    "pressure-cooker",
+    "syrian-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "unforgettable-molten-syrian-lamb-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unforgettable-molten-syrian-lamb-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:57:23Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "pressure-cook",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Unforgettable Molten",
+    "dishForm": "Pasta"
+  }
+}
