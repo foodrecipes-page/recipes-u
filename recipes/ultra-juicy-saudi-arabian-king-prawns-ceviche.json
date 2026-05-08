@@ -1,0 +1,94 @@
+{
+  "title": "Ultra Juicy Saudi Arabian King Prawns Ceviche",
+  "description": "A refreshing and flavorful Saudi Arabian dish featuring raw king prawns, perfect for a sick day, made with dairy-free friendly ingredients. This ceviche is a fatty and juicy treat that will help you feel better in no time.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "1 pound",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Rinse the king prawns under cold water and pat them dry with paper towels.",
+    "Submerge the prawns in an ice bath to shock them and stop any cooking process.",
+    "In a large bowl, mix together the lemon juice, olive oil, chopped cilantro, chopped scallions, salt, and black pepper.",
+    "Add the diced cucumber to the bowl and stir to combine.",
+    "Remove the prawns from the ice bath and add them to the bowl, making sure they are fully coated with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the ceviche a good stir and adjust the seasoning if needed.",
+    "Serve the ceviche chilled, garnished with additional cilantro and scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-snack",
+    "middle-eastern",
+    "raw-food",
+    "refreshing",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "ultra-juicy-saudi-arabian-king-prawns-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-juicy-saudi-arabian-king-prawns-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:35:22Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "raw king prawns",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "king prawns",
+    "descriptor": "ultra juicy",
+    "dishForm": "Ceviche"
+  }
+}
