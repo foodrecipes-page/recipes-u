@@ -854,6 +854,21 @@
     "shard": "u"
   },
   {
+    "slug": "umami-creamy-canadian-hazelnut-pasta",
+    "title": "Umami Creamy Canadian Hazelnut Pasta",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "creamy-pasta",
+      "hazelnut-based",
+      "pescatarian-friendly",
+      "umami-rich"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "umami-creamy-german-mushroom-terrine",
     "title": "Umami Creamy German Mushroom Terrine",
     "tags": [

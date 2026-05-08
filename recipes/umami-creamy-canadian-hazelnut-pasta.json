@@ -1,0 +1,108 @@
+{
+  "title": "Umami Creamy Canadian Hazelnut Pasta",
+  "description": "A pescatarian friendly Canadian dish featuring hazelnuts and beurre-monte, rich in umami flavor and creaminess, perfect for a cold winter night.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fettuccine pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 oz",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fettuccine pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the chopped hazelnuts to the skillet and cook for 2-3 minutes until lightly toasted.",
+    "Add the beurre-monte to the skillet and stir until melted and smooth.",
+    "Add the heavy cream to the skillet and stir until the sauce is creamy and well combined.",
+    "Stir in the grated grana padano cheese until melted and smooth.",
+    "Add the dried thyme, salt, and black pepper to the skillet and stir until well combined.",
+    "Add the cooked fettuccine pasta to the skillet and toss until the pasta is well coated with the sauce.",
+    "Stir in the diced smoked salmon and cook until heated through.",
+    "Serve the pasta hot, garnished with additional hazelnuts and grana padano cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "creamy-pasta",
+    "hazelnut-based",
+    "pescatarian-friendly",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "umami-creamy-canadian-hazelnut-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-creamy-canadian-hazelnut-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:11:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "beurre-monte",
+    "primaryIngredient": "hazlenuts",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Umami Creamy",
+    "dishForm": "Pasta"
+  }
+}
