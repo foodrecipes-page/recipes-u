@@ -1,0 +1,98 @@
+{
+  "title": "Umami Canadian Nectarine Crumble",
+  "description": "A monsoon Canadian dessert featuring nectarines, lacquer glaze, and ayurvedic rajasic friendly ingredients, this umami crumble is a perfect treat for any time of the year. The combination of crunchy oats and sweet nectarines creates a delightful flavor experience.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Nectarines",
+      "amount": "4 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "Rolled Oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Lacquer Glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the rolled oats, brown sugar, sesame seeds, salt, cinnamon, and nutmeg.",
+    "Add the melted butter to the bowl and stir until the mixture is crumbly.",
+    "In a separate bowl, mix together the diced nectarines and lacquer glaze.",
+    "Transfer the nectarine mixture to a 9x9 inch baking dish.",
+    "Top the nectarine mixture with the crumbly oat mixture.",
+    "Bake the crumble in the preheated oven for 40 minutes.",
+    "Remove the crumble from the oven and let it cool for 10 minutes.",
+    "Serve the crumble warm, garnished with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "canadian-dish",
+    "fruit-crumble",
+    "monsoon-recipe",
+    "umami-flavors",
+    "vegetarian-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "umami-canadian-nectarine-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-canadian-nectarine-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:58:51Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "nectarines",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "nectarines",
+    "descriptor": "umami crumbly",
+    "dishForm": "Crumble"
+  }
+}
