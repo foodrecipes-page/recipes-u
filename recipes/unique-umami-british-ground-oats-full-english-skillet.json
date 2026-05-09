@@ -1,0 +1,96 @@
+{
+  "title": "Unique Umami British Ground Oats Full English Skillet",
+  "description": "A tangy and savory one-pot dish featuring ground oats and rest-meat, perfect for a full English breakfast. This Buddhist-temple-friendly recipe is easy to make and packed with umami flavor.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground oats",
+      "amount": "1 cup",
+      "notes": "rolled or steel-cut oats work too"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1 pound",
+      "notes": "such as tofu or tempeh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the rest-meat and cook until browned, about 5 minutes.",
+    "Add the diced tomato, vegetable broth, soy sauce, and ground oats to the skillet.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, until the oats have absorbed most of the liquid and the mixture is thick and creamy, about 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "high-fiber",
+    "one-pan",
+    "umami-rich",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "unique-umami-british-ground-oats-full-english-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-british-ground-oats-full-english-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:57:54Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "rest-meat",
+    "primaryIngredient": "ground oats",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "ground oats",
+    "descriptor": "Unique Umami",
+    "dishForm": "Full English Skillet"
+  }
+}
