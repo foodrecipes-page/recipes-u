@@ -1,0 +1,94 @@
+{
+  "title": "Savory Kenyan Fish Tagine",
+  "description": "A salty and flaky Kenyan dish featuring chervil, poached in a tagine pot, perfect for a low-carb dinner",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "4 pieces",
+      "notes": "any white fish"
+    },
+    {
+      "name": "chervil",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine pot over medium heat",
+    "Add the garlic and ginger and saute until fragrant",
+    "Add the fish fillets and poach for 5 minutes on each side",
+    "Add the chervil, lemon juice, salt, and black pepper, and stir gently",
+    "Add the water and bring to a boil, then reduce heat to low and simmer for 10 minutes",
+    "Serve the fish hot, garnished with additional chervil if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipes",
+    "gluten-free",
+    "kenyan-cuisine",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "unique-savory-kenyan-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-savory-kenyan-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:45:54Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "poach",
+    "primaryIngredient": "chervil",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "fish",
+    "descriptor": "unique savory",
+    "dishForm": "Tagine"
+  }
+}

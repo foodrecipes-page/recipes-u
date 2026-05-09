@@ -5862,6 +5862,20 @@
     "shard": "u"
   },
   {
+    "slug": "unique-savory-kenyan-fish-tagine",
+    "title": "Savory Kenyan Fish Tagine",
+    "tags": [
+      "fish-recipes",
+      "gluten-free",
+      "kenyan-cuisine",
+      "low-carb",
+      "one-pot"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
     "slug": "unique-savory-portuguese-fish-stir-fry",
     "title": "Portuguese Fish Stir Fry",
     "tags": [
