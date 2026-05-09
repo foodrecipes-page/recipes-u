@@ -1,0 +1,105 @@
+{
+  "title": "Untamed Earthy Canadian Bison Skewers",
+  "description": "A hearty and earthy Canadian dish featuring bison, perfect for a date night, with the bold flavors of red wine vinegar and the char of a yakimono-grill, all made possible on a gluten-free friendly tava-griddle.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian bison",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button, cut into halves"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill or tava-griddle to medium-high heat, ensuring it reaches a safe temperature for cooking.",
+    "In a large bowl, whisk together red wine vinegar, olive oil, garlic, thyme, rosemary, salt, and black pepper to make the marinade.",
+    "Add the bison cubes to the marinade, toss to coat, cover the bowl with plastic wrap, and refrigerate for at least 2 hours or overnight.",
+    "Thread the marinated bison, onion, and mushrooms onto skewers, leaving a little space between each piece for even cooking.",
+    "Place the skewers on the preheated yakimono-grill or tava-griddle and cook for 10-12 minutes, turning occasionally, until the bison reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Once cooked, remove the skewers from the heat and let them rest for a few minutes before serving.",
+    "Serve the skewers hot, garnished with additional thyme and rosemary if desired.",
+    "For an added earthy flavor, serve with a side of roasted vegetables or a simple green salad."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "date-night",
+    "gluten-free",
+    "grilled-meats",
+    "healthy-dinner",
+    "high-protein",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "untamed-earthy-canadian-bison-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/untamed-earthy-canadian-bison-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:57:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "bison",
+    "descriptor": "Untamed Earthy",
+    "dishForm": "Skewers"
+  }
+}
