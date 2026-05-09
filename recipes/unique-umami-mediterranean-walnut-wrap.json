@@ -1,0 +1,98 @@
+{
+  "title": "Unique Umami Mediterranean Walnut Wrap",
+  "description": "A herbal and snappy Mediterranean dish featuring walnuts, bonito-shave, and wrapped in a ti-leaf, perfect for a sick day pick me up",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit",
+    "Toast the chopped walnuts in the oven for 5 minutes",
+    "In a bowl, mix together the toasted walnuts, bonito flakes, kalamata olives, artichoke hearts, and sun dried tomatoes",
+    "Add the chopped fresh parsley and lemon juice to the bowl and mix well",
+    "Lay a ti leaf flat and add a quarter of the walnut mixture to the center of the leaf",
+    "Drizzle the olive oil over the walnut mixture",
+    "Fold the ti leaf over the filling to form a wrap",
+    "Repeat with the remaining ingredients to make three more wraps"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-lunch",
+    "healthy-snacks",
+    "mediterranean-diet",
+    "sick-day-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "unique-umami-mediterranean-walnut-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-mediterranean-walnut-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:48:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "bonito-shave",
+    "primaryIngredient": "walnuts",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "walnuts",
+    "descriptor": "Unique Umami",
+    "dishForm": "Wrap"
+  }
+}
