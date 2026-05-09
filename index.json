@@ -418,6 +418,21 @@
     "shard": "u"
   },
   {
+    "slug": "ultra-gooey-brazilian-cherry-bake",
+    "title": "Ultra Gooey Brazilian Cherry Bake",
+    "tags": [
+      "brazilian-desserts",
+      "cherries",
+      "gooey",
+      "lacto-vegetarian",
+      "midnight-cravings",
+      "wood-fired"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 60,
+    "shard": "u"
+  },
+  {
     "slug": "ultra-gooey-filipino-milk-filipino-milk-stew",
     "title": "Filipino Milk Stew (Saweet Bilo)",
     "tags": [
@@ -6396,6 +6411,21 @@
       "vegetarian"
     ],
     "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-umami-chinese-chicken-kung-pao",
+    "title": "Unique Umami Chinese Chicken Kung Pao",
+    "tags": [
+      "chinese-inspired",
+      "high-protein",
+      "mediterranean-friendly",
+      "one-pan",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
     "totalTimeMin": 35,
     "shard": "u"
   },

@@ -1,0 +1,92 @@
+{
+  "title": "Ultra Gooey Brazilian Cherry Bake",
+  "description": "A citrusy and gooey Brazilian dish featuring cherries, perfect for midnight cravings, baked to perfection in a wood-fired Dutch oven. This lacto-vegetarian friendly dessert is sure to satisfy any sweet tooth.",
+  "cuisine": "brazilian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and eggs.",
+    "Add the melted butter, orange juice, and milk to the bowl and mix until well combined.",
+    "Gently fold in the cherries.",
+    "Pour the mixture into a Dutch oven.",
+    "Bake for 40 minutes or until the edges are golden brown and the center is still slightly gooey.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Drizzle with vanilla extract and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-desserts",
+    "cherries",
+    "gooey",
+    "lacto-vegetarian",
+    "midnight-cravings",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "ultra-gooey-brazilian-cherry-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-gooey-brazilian-cherry-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:42:58Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "cherries",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "cherries",
+    "descriptor": "ultra gooey",
+    "dishForm": "Bake"
+  }
+}

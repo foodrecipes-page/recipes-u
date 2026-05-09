@@ -1,0 +1,109 @@
+{
+  "title": "Unique Umami Chinese Chicken Kung Pao",
+  "description": "A tangy and pillowy Chinese dish featuring canned tomatoes and score-fat, made in a cataplana vessel, with a Mediterranean-friendly twist on the classic Kung Pao form.",
+  "cuisine": "Chinese",
+  "diet": [
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons",
+      "notes": "or pork fat"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the score-fat in the cataplana vessel over medium-high heat.",
+    "Add the chicken to the vessel and cook until browned, about 5 minutes.",
+    "Add the grated ginger and minced garlic to the vessel and cook for 1 minute.",
+    "Add the soy sauce, shaoxing wine, and canned tomatoes to the vessel, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Stir in the chopped scallions and roasted peanuts.",
+    "Season the mixture with salt and pepper to taste.",
+    "Serve the Unique Umami Chinese Chicken Kung Pao hot, garnished with additional scallions and peanuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-inspired",
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "unique-umami-chinese-chicken-kung-pao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-chinese-chicken-kung-pao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:42:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "score-fat",
+    "primaryIngredient": "canned tomatoes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "Unique Umami",
+    "dishForm": "Kung Pao"
+  }
+}
