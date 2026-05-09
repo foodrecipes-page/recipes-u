@@ -76,6 +76,22 @@
     "shard": "u"
   },
   {
+    "slug": "ubiquitous-light-chinese-pork-knuckle-bao",
+    "title": "ubiquitous light chinese pork knuckle bao",
+    "tags": [
+      "chinese",
+      "high-protein",
+      "knuckle",
+      "one-pan",
+      "pork",
+      "weeknight",
+      "xinjiang"
+    ],
+    "cuisine": "xinjiang",
+    "totalTimeMin": 150,
+    "shard": "u"
+  },
+  {
     "slug": "ubiquitous-mexican-beef-fajita-style-jjigae",
     "title": "Ubiquitous Mexican Beef Fajita-Style Jjigae",
     "tags": [
@@ -3860,6 +3876,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
+    "slug": "understated-umami-italian-cabbage-risotto",
+    "title": "Understated Umami Italian Cabbage Risotto",
+    "tags": [
+      "comfort-food",
+      "italian",
+      "low-calorie",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "piedmontese",
+    "totalTimeMin": 55,
     "shard": "u"
   },
   {

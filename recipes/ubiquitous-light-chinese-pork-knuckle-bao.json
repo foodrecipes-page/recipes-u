@@ -1,0 +1,108 @@
+{
+  "title": "ubiquitous light chinese pork knuckle bao",
+  "description": "savory, light, and flavorful chinese dish featuring pork knuckle in a soffritto-based filling, served in a soft bun",
+  "cuisine": "xinjiang",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 kg pork knuckle",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 medium onions",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "1 medium ginger",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground coriander",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp vegetable oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "4 Chinese buns",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat and brown the pork knuckle on all sides.",
+    "Remove the pork from the pan and set aside, then reduce heat to medium.",
+    "Add the sliced onions, garlic, and ginger to the pan and cook until the onions are translucent.",
+    "Add the cumin, coriander, salt, and pepper to the pan and cook for 1 minute, stirring constantly.",
+    "Return the pork knuckle to the pan and pour in enough water to cover the meat.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour, or until the pork is tender.",
+    "Shred the pork into bite-sized pieces and set aside.",
+    "Split the Chinese buns in half and toast until lightly browned.",
+    "Assemble the baos by spooning the pork mixture into the buns and serving immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "high-protein",
+    "knuckle",
+    "one-pan",
+    "pork",
+    "weeknight",
+    "xinjiang"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "ubiquitous-light-chinese-pork-knuckle-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ubiquitous-light-chinese-pork-knuckle-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:41:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "soffritto-base",
+    "primaryIngredient": "pork knuckle",
+    "diet": "egg-free",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork knuckle",
+    "descriptor": "ubiquitous light",
+    "dishForm": "Bao"
+  }
+}
