@@ -1,0 +1,111 @@
+{
+  "title": "Umami French Chestnut Mushroom Terrine",
+  "description": "A keto-friendly French dish featuring chestnut mushrooms, with a citrusy and crunchy texture, cooked in a clay pot and formed into a terrine, served in a hot pot vessel.",
+  "cuisine": "French",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnut mushrooms",
+      "amount": "12 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "duck fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tbsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "full fat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large skillet, saute the shallots and garlic in duck fat until softened.",
+    "Add the chestnut mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Stir in the thyme, salt, and black pepper, and cook for 1 minute.",
+    "In a large bowl, combine the cooked mushroom mixture, lemon zest, egg, and heavy cream, and mix well.",
+    "Transfer the mixture to a hot pot vessel and smooth the top.",
+    "Cover the vessel with a lid and place it in the oven to cook for 25 minutes.",
+    "Remove the vessel from the oven and let it cool to room temperature.",
+    "Refrigerate the terrine for at least 2 hours before serving.",
+    "Slice the terrine into thick slices and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "french-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "mushroom-recipes",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 36
+  },
+  "slug": "umami-french-chestnut-mushroom-terrine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-french-chestnut-mushroom-terrine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:22:53Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "Umami Crunchy",
+    "dishForm": "Terrine"
+  }
+}
