@@ -1,0 +1,92 @@
+{
+  "title": "Unusual Crunchy Norwegian Dates Wrap",
+  "description": "A pungent and crunchy Norwegian dish featuring stoned dates and ssam-wrap, low-glycemic-friendly and perfect for a snack or dessert.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "stoned dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "6 sheets"
+    },
+    {
+      "name": "crunchy almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "goat cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Spread the almonds on a baking sheet and roast for 10 minutes.",
+    "In a bowl, mix together the goat cheese, parsley, salt, and black pepper.",
+    "Stuff each date with the cheese mixture.",
+    "Wrap each stuffed date with a sheet of ssam wrap.",
+    "Drizzle the olive oil over the wrapped dates.",
+    "Sprinkle the roasted almonds over the dates.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "date-recipes",
+    "easy-to-make",
+    "gluten-free",
+    "low-glycemic",
+    "norwegian-cuisine",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "unusual-crunchy-norwegian-dates-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unusual-crunchy-norwegian-dates-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:05:27Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "stoned dates",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "dates",
+    "descriptor": "Unusual crunchy",
+    "dishForm": "Wrap"
+  }
+}
