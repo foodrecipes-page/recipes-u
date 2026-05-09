@@ -1,0 +1,110 @@
+{
+  "title": "Unique Unwrapped Croatian Bread Wrap",
+  "description": "A cultured and indulgent Croatian dish featuring bread rolls, leaf wrap steam, and low calorie friendly ingredients, this unique unwrapped Croatian bread wrap is a must try.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat bread rolls",
+      "amount": "4",
+      "notes": "preferably day old"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "12",
+      "notes": "large leaves"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the bread rolls in half and hollow out the insides.",
+    "Steam the spinach leaves until they are soft and pliable.",
+    "Fill each bread roll with a spoonful of feta cheese, a few kalamata olives, some artichoke hearts, and a sprinkle of red onion.",
+    "Drizzle the olive oil over the filling and sprinkle with garlic.",
+    "Season with salt and black pepper to taste.",
+    "Wrap each bread roll in a steamed spinach leaf and serve immediately.",
+    "Serve with a side of mixed greens or a simple salad for a light and refreshing meal.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "healthy",
+    "low-calorie",
+    "mediterranean",
+    "quick-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "unique-unwrapped-croatian-bread-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-unwrapped-croatian-bread-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:34:46Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "bread rolls",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "bread rolls",
+    "descriptor": "Unique Unwrapped",
+    "dishForm": "Wrap"
+  }
+}
