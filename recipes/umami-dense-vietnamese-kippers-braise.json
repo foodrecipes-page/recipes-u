@@ -1,0 +1,93 @@
+{
+  "title": "Umami Dense Vietnamese Kippers Braise",
+  "description": "A pungent and dense Vietnamese dish featuring kippers in a rich braise, this recipe is perfect for adventurous eaters, and is satvik-friendly. It combines the bold flavors of Vietnam with the richness of kippers.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "satvik",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kippers",
+      "amount": "1 pound",
+      "notes": "smoked and dried"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 pods"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium heat.",
+    "Add the garlic and ginger and saute until fragrant.",
+    "Add the kippers and cook until browned on all sides.",
+    "Add the fish sauce, soy sauce, and rice vinegar, and stir to combine.",
+    "Add the star anise and bring the mixture to a simmer.",
+    "Reduce the heat to low and braise the kippers for 20 minutes.",
+    "Remove the kippers from the pot and set them aside.",
+    "Strain the braising liquid and discard the solids.",
+    "Serve the kippers with the braising liquid spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braise",
+    "one-pot",
+    "pescatarian",
+    "seafood",
+    "umami",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "umami-dense-vietnamese-kippers-braise",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-dense-vietnamese-kippers-braise",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:50:41Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "braise",
+    "primaryIngredient": "kippers",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "kippers",
+    "descriptor": "Umami Dense",
+    "dishForm": "Braise"
+  }
+}
