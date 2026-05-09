@@ -1,0 +1,127 @@
+{
+  "title": "Umami Korean Noodle Soup Sujebi",
+  "description": "A comforting, molten, and nostalgic Korean dish from Busan featuring ancho chilies, perfect for a cold evening.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "anchovy paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "anchos",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "korrito wheat flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crushed sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "sujebi noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine ancho chilies, garlic, gochujang, and 2 tablespoons of water. Bring to a simmer and let reduce until thick and almost molten.",
+    "Add gochugaru, sugar, and black pepper, and stir to combine.",
+    "In a separate saucepan, heat 2 tablespoons of vegetable oil and add the flour to make a roux, stirring constantly until it lightly browns.",
+    "Slowly add water, whisking constantly to avoid lumps, and cook until the sauce thickens and emulsifies.",
+    "Add beef broth and bring to a boil, then reduce heat to a simmer.",
+    "Add the noodles to the saucepan and cook until just tender, about 3-5 minutes. Drain and set aside.",
+    "In a separate saucepan, heat 2 tablespoons of vegetable oil and add crushed sesame seeds and stir-fry until lightly browned.",
+    "Add the scallions and stir-fry until wilted. Set aside.",
+    "To assemble the sujebi, place noodles in a bowl and top with the spicy sauce, sesame seeds and scallions, and finally sprinkle anchovy paste on top.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "busan",
+    "comfort-food",
+    "korean",
+    "noodle-soup",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 28
+  },
+  "slug": "umami-korean-noodle-soup-sujebi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-korean-noodle-soup-sujebi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:14:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "fry",
+    "primaryIngredient": "ancho chillies",
+    "diet": "sugar-free",
+    "region": "busan",
+    "cuisineAdjective": "korean",
+    "mainIngredient": "noodle soup",
+    "descriptor": "umami",
+    "dishForm": "sujebi"
+  }
+}
