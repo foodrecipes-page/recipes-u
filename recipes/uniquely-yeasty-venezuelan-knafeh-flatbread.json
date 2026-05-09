@@ -1,0 +1,96 @@
+{
+  "title": "Uniquely Yeasty Venezuelan Knafeh Flatbread",
+  "description": "This Venezuelan flatbread combines the flaky texture of knafeh with the adventurous spirit of wok-hei, making it a unique and delicious treat that is also Buddhist-temple-friendly, featuring no animal products or byproducts.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "knafeh dough",
+      "amount": "1 package",
+      "notes": "usually found in middle eastern markets"
+    },
+    {
+      "name": "wok hei oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine the flour, yeast, salt, and sugar in a large mixing bowl and stir until well combined.",
+    "Gradually add in the wok hei oil and sesame oil, stirring with a wooden spoon until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Roll out the dough into a large circle, about 1/4 inch thick.",
+    "Place the knafeh dough on top of the rolled out dough, leaving a 1 inch border around the edges.",
+    "Fold the edges of the dough up over the knafeh to form a crust.",
+    "Brush the top of the flatbread with a little bit of wok hei oil.",
+    "Bake the flatbread in a preheated oven at 400 degrees for 20 minutes, or until golden brown.",
+    "Remove the flatbread from the oven and garnish with chopped scallions.",
+    "Let the flatbread cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "snack",
+    "south-american",
+    "street-food",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "uniquely-yeasty-venezuelan-knafeh-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/uniquely-yeasty-venezuelan-knafeh-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:03:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "wok-hei",
+    "primaryIngredient": "knafeh",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "knafeh",
+    "descriptor": "Uniquely Yeasty",
+    "dishForm": "Flatbread"
+  }
+}
