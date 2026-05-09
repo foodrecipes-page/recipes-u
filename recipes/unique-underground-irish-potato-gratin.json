@@ -1,0 +1,94 @@
+{
+  "title": "Unique Underground Irish Potato Gratin",
+  "description": "A romantic Irish dish featuring sweet and aerated potatoes, ghee, and a hot stone plate, perfect for a special occasion. This Mediterranean-friendly recipe is sure to impress.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "irish potatoes",
+      "amount": "4 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and ice water to cover, then let it sit for 30 minutes.",
+    "Drain the potatoes and immediately submerge them in an ice bath to stop the cooking process.",
+    "In a small saucepan, melt the ghee over medium heat and add the minced garlic, cooking for 1 minute until fragrant.",
+    "In a separate bowl, whisk together the heavy cream, salt, and black pepper.",
+    "Add the chopped rosemary and shaved parmesan cheese to the cream mixture and stir to combine.",
+    "In a hot stone plate, create a layer of potatoes, followed by a spoonful of the garlic ghee and a sprinkle of the cream mixture.",
+    "Repeat the layering process until all the ingredients are used, finishing with a layer of cream on top.",
+    "Bake the gratin in the preheated oven for 45 minutes, or until the top is golden brown and the potatoes are tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hot-stone-plate",
+    "irish-cuisine",
+    "mediterranean-inspired",
+    "romantic-dinner",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "unique-underground-irish-potato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-underground-irish-potato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:47:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "ghee",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Unique Underground",
+    "dishForm": "Gratin"
+  }
+}
