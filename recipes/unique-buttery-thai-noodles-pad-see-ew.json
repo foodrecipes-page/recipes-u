@@ -1,0 +1,95 @@
+{
+  "title": "Unique Buttery Thai Noodles Pad See Ew",
+  "description": "A buttery and tender Thai dish featuring barbeque sauce and a rich deglaze fond, perfect for a brunch mood, this pad see ew recipe is egg free friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Barbeque sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions until they are tender.",
+    "In a small bowl, whisk together the barbeque sauce, soy sauce, and oyster sauce.",
+    "In a large skillet or wok, heat the vegetable oil over medium high heat.",
+    "Add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the Chinese broccoli and cook until it starts to soften, about 2 minutes.",
+    "Add the cooked noodles to the skillet and stir to combine with the garlic and broccoli.",
+    "Pour the barbeque sauce mixture into the skillet and stir to coat the noodles.",
+    "Add the unsalted butter to the skillet and stir until it is melted and the noodles are well coated.",
+    "Use a spatula to deglaze the fond from the bottom of the skillet and stir it into the noodles.",
+    "Season with salt to taste and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "noodle-dishes",
+    "one-pan",
+    "thai-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-buttery-thai-noodles-pad-see-ew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-buttery-thai-noodles-pad-see-ew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:00:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "noodles",
+    "descriptor": "Unique Buttery",
+    "dishForm": "Pad See Ew"
+  }
+}
