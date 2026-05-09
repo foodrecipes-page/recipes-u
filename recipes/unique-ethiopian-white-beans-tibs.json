@@ -1,0 +1,102 @@
+{
+  "title": "Unique Ethiopian White Beans Tibs",
+  "description": "A sweet and crumbly Ethiopian dish featuring dried white beans, marinated and cooked to perfection, served in a scallop shell.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the soaked white beans and cook them in boiling water until tender.",
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the berbere spice, salt, and black pepper, and stir well.",
+    "Add the cooked white beans to the pan and stir to combine.",
+    "Squeeze the lemon juice over the beans and stir well.",
+    "Simmer the mixture for 10 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Spoon the bean mixture into scallop shells and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "unique-ethiopian-white-beans-tibs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-ethiopian-white-beans-tibs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:39:23Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "marinate",
+    "primaryIngredient": "dried white beans",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "white beans",
+    "descriptor": "unique crumbly",
+    "dishForm": "Tibs"
+  }
+}
