@@ -1,0 +1,104 @@
+{
+  "title": "Unctuous Silky Slovakian Chicken Noodles",
+  "description": "A cultured and silky post-workout Slovakian dish featuring sesame seed oil and flambe, high in protein to aid in muscle recovery.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the egg noodles according to package instructions.",
+    "In a large skillet, heat the sesame seed oil over medium-high heat and add the chicken, cooking until browned on all sides and cooked through.",
+    "Remove the chicken from the skillet and set aside, then add the sliced onion and cook until caramelized.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Add the chicken broth to the skillet and bring to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Stir in the sour cream and cook for an additional 2 minutes, until heated through.",
+    "Add the cooked noodles and chicken back to the skillet and toss to combine.",
+    "Use a match or lighter to flambe the dish, being careful not to burn the ingredients.",
+    "Serve the noodles and chicken hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "high-protein",
+    "noodle-dish",
+    "one-pan",
+    "post-workout",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unctuous-silky-slovakian-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-silky-slovakian-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:43:14Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "flambe",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chicken",
+    "descriptor": "unctuous silky",
+    "dishForm": "Noodles"
+  }
+}
