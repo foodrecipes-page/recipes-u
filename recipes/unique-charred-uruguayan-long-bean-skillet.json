@@ -1,0 +1,100 @@
+{
+  "title": "Unique Charred Uruguayan Long Bean Skillet",
+  "description": "A charred, crisp, and delicious Uruguayan dish featuring long beans, perfect for a brunch mood, made with beurre monte and ovo-vegetarian friendly ingredients.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "long beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add the butter to melt.",
+    "Add the garlic and red pepper flakes to the skillet and cook for 1 minute.",
+    "Add the long beans to the skillet and cook for 5 minutes or until they start to char.",
+    "Season the long beans with salt and black pepper and continue to cook for another 2 minutes.",
+    "Push the long beans to one side of the skillet and crack in the eggs.",
+    "Scramble the eggs until they are cooked through and then mix with the long beans.",
+    "Sprinkle the grated cheese over the top of the long bean and egg mixture and cook until melted.",
+    "Stir in the chopped parsley and lemon juice.",
+    "Serve the skillet hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "long-bean-recipe",
+    "one-pan-meal",
+    "ovo-vegetarian",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "unique-charred-uruguayan-long-bean-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-charred-uruguayan-long-bean-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:45:09Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "beurre-monte",
+    "primaryIngredient": "long-bean",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "long bean",
+    "descriptor": "unique charred",
+    "dishForm": "Skillet"
+  }
+}
