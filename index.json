@@ -4424,6 +4424,20 @@
     "shard": "u"
   },
   {
+    "slug": "unique-charred-syrian-asparagus-skewers",
+    "title": "Unique Charred Syrian Asparagus Skewers",
+    "tags": [
+      "grilled-vegetables",
+      "middle-eastern",
+      "quick-and-easy",
+      "syrian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 32,
+    "shard": "u"
+  },
+  {
     "slug": "unique-chewy-irish-oats-bake",
     "title": "Unique Chewy Irish Oats Bake",
     "tags": [
@@ -4747,6 +4761,21 @@
       "one-pot-meal"
     ],
     "cuisine": "Australian",
+    "totalTimeMin": 45,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-crumbly-croatian-tamarind-bake",
+    "title": "Croatian Tamarind Bake",
+    "tags": [
+      "croatian",
+      "crumbly",
+      "jain-friendly",
+      "lacto-vegetarian",
+      "tamarind",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
     "totalTimeMin": 45,
     "shard": "u"
   },

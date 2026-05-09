@@ -1,0 +1,92 @@
+{
+  "title": "Croatian Tamarind Bake",
+  "description": "A unique crumbly Croatian dish featuring tamarind, perfect for a weeknight dinner. It is a Jain-friendly recipe, making it suitable for those following a lacto-vegetarian diet.",
+  "cuisine": "Croatian",
+  "diet": [
+    "lacto-vegetarian",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "1/2 cup",
+      "notes": "fresh or bottled"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the flour, oats, brown sugar, and baking powder.",
+    "In a separate bowl, whisk together the tamarind paste, vegetable oil, salt, and lemon juice.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Transfer the mixture to a baking dish and shape into a ball.",
+    "Broil the tamarind ball for 5 minutes, or until lightly browned.",
+    "Reduce the oven temperature to 350 degrees Fahrenheit and bake for 20 minutes, or until crumbly.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "crumbly",
+    "jain-friendly",
+    "lacto-vegetarian",
+    "tamarind",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "unique-crumbly-croatian-tamarind-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crumbly-croatian-tamarind-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:06:31Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "broil",
+    "primaryIngredient": "tamarind ball",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "tamarind",
+    "descriptor": "Unique crumbly",
+    "dishForm": "Bake"
+  }
+}
