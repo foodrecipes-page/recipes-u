@@ -1,0 +1,95 @@
+{
+  "title": "Unique Yeasty Portuguese Dough Fritters",
+  "description": "A traditional Portuguese dessert featuring marjoram and candy, these yeasty dough fritters are kid-friendly and nut-free, cooked to perfection on a salt block.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "nut-free",
+    "kid-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "marjoram",
+      "amount": "1 tablespoon",
+      "notes": "dried"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1 cup",
+      "notes": "colorful"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, sugar, and salt.",
+    "In a separate bowl, whisk together eggs, milk, and marjoram.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat the salt block to 375 degrees Fahrenheit.",
+    "Divide the dough into 8 equal pieces and shape into balls.",
+    "Flatten each ball into a disk shape and place a few candy pieces in the center.",
+    "Fold the dough over the candy and seal the edges.",
+    "Cook the fritters on the salt block for 5 minutes on each side, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "nut-free",
+    "portuguese-desserts",
+    "salt-block-cooking",
+    "yeasty-treats"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "unique-yeasty-portuguese-dough-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-yeasty-portuguese-dough-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:54:20Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "candy",
+    "primaryIngredient": "marjoram",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "dough",
+    "descriptor": "Unique Yeasty",
+    "dishForm": "Fritters"
+  }
+}
