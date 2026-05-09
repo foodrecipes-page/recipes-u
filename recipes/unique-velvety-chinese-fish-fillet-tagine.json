@@ -1,0 +1,97 @@
+{
+  "title": "Unique Velvety Chinese Fish Fillet Tagine",
+  "description": "A crowd-pleasing Chinese dish featuring fish fillet cooked in a tagine with a unique blend of bitter and velvety flavors, perfect for a high-protein dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillet",
+      "amount": "4 fillets",
+      "notes": "any white fish works"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine over medium heat.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the diced bitter melon and cook until it starts to soften.",
+    "Add the fish fillets and cook for 2 minutes on each side.",
+    "In a small bowl, whisk together the soy sauce and honey.",
+    "Pour the soy sauce mixture over the fish and bitter melon.",
+    "Cover the tagine and cook for 10 minutes.",
+    "Drizzle the sesame oil over the top and serve.",
+    "Garnish with green onions and serve over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "fish-recipes",
+    "high-protein",
+    "one-pan",
+    "velvety-sauce",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "unique-velvety-chinese-fish-fillet-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-velvety-chinese-fish-fillet-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:20:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "tagine-cook",
+    "primaryIngredient": "fish fillet",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "fish fillet",
+    "descriptor": "unique velvety",
+    "dishForm": "Tagine"
+  }
+}
