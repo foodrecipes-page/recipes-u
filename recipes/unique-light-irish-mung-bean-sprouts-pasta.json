@@ -1,0 +1,101 @@
+{
+  "title": "Unique Light Irish Mung Bean Sprouts Pasta",
+  "description": "A light and refreshing Irish dish featuring mung bean sprouts, Mediterranean friendly flavors, and a unique cheese pull, made with fermented mung bean sprout sukjju.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "freshly sprouted"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the mung bean sprouts to the skillet and cook until they are tender, about 5 minutes.",
+    "Stir in the lemon juice and cook for an additional 1 minute.",
+    "Drain the pasta and add it to the skillet, tossing to combine with the mung bean sprout mixture.",
+    "Crumble the feta cheese over the top of the pasta and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pasta to a serving dish and sprinkle with chopped fresh parsley.",
+    "Serve immediately and enjoy the unique cheese pull."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "light-irish",
+    "mediterranean-friendly",
+    "mung-bean-sprouts",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "unique-light-irish-mung-bean-sprouts-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-light-irish-mung-bean-sprouts-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:16:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "ferment",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "unique light",
+    "dishForm": "Pasta"
+  }
+}
