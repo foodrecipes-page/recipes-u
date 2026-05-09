@@ -1,0 +1,98 @@
+{
+  "title": "Unique Nutty Egyptian Lentils Pilaf",
+  "description": "A flavorful and nutritious Egyptian dish featuring lentils, goose fat, and a blend of spices, perfect for a weeknight dinner. This recipe is also Buddhist-temple-friendly as it does not contain any animal by-products except for goose fat which can be substituted with a vegan alternative.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "goose fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the goose fat in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the cumin, coriander, salt, and black pepper, and stir to combine.",
+    "Add the green lentils and 2 cups of water to the saucepan, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the lentils are tender.",
+    "Fluff the lentils with a fork and stir in the chopped fresh parsley.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Let it rest for 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "high-protein",
+    "lentil-based",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "unique-nutty-egyptian-lentils-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-nutty-egyptian-lentils-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:55:16Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "goose fat",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "unique nutty",
+    "dishForm": "Pilaf"
+  }
+}
