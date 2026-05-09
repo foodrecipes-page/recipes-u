@@ -1,0 +1,100 @@
+{
+  "title": "Understated Earthy Irish Sea Bass Tagine",
+  "description": "A hearty and earthy Irish dish featuring sea bass, perfect for a post-workout meal, cooked in a traditional tagine pot with a creamy and cure-infused sauce.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "irish cider",
+      "amount": "1 cup",
+      "notes": "dry and crisp"
+    },
+    {
+      "name": "irish cheddar",
+      "amount": "1/2 cup",
+      "notes": "sharp and crumbly"
+    },
+    {
+      "name": "wild mushrooms",
+      "amount": "1 cup",
+      "notes": "mixed and sauteed"
+    },
+    {
+      "name": "leeks",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "high quality and fresh"
+    },
+    {
+      "name": "dulse flakes",
+      "amount": "1 tsp",
+      "notes": "smoked and flaky"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine pot over medium heat, adding a dash of oil to the bottom.",
+    "Add the sliced leeks and cook until they are softened and translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the mixed wild mushrooms and cook until they release their liquid and start to brown.",
+    "Add the irish cider and bring the mixture to a simmer, scraping the bottom of the pot.",
+    "Reduce the heat to low and add the sea bass fillets, spooning some of the sauce over the top of each fillet.",
+    "Cover the tagine pot and cook for 10 minutes, or until the fish is cooked through.",
+    "Stir in the heavy cream and irish cheddar, cooking for an additional 2 minutes, or until the sauce is creamy and the cheese is melted.",
+    "Season the dish with dulse flakes and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-sauce",
+    "earth-tones",
+    "irish-cuisine",
+    "one-pot",
+    "post-workout",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "understated-earthy-irish-sea-bass-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/understated-earthy-irish-sea-bass-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:07:10Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "sea bass",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "sea bass",
+    "descriptor": "Understated Earthy",
+    "dishForm": "Tagine"
+  }
+}
