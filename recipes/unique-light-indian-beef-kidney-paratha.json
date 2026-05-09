@@ -1,0 +1,102 @@
+{
+  "title": "Unique Light Indian Beef Kidney Paratha",
+  "description": "A briny and light Indian dish featuring beef kidney, this paratha is a crowd-pleaser and lacto-vegetarian-friendly. It is made with render-fat for added flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "sliced into small pieces"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pan over medium heat and saute the cumin seeds and curry leaves until fragrant.",
+    "Add the sliced beef kidney to the pan and cook until it is browned and cooked through.",
+    "Add the garam masala, salt, and rendered fat to the pan and stir to combine.",
+    "In a large bowl, combine the flour, yogurt, and water to make a dough.",
+    "Knead the dough for 5 minutes until it is smooth and elastic.",
+    "Divide the dough into 4-6 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle and place a spoonful of the beef kidney mixture in the center.",
+    "Fold the dough over the filling to form a paratha and seal the edges.",
+    "Heat a non-stick pan over medium heat and cook the parathas for 2-3 minutes on each side until they are golden brown.",
+    "Serve the parathas hot with a side of yogurt or chutney."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-kidney",
+    "brunch-ideas",
+    "indian-cuisine",
+    "lacto-vegetarian",
+    "lunch-recipes",
+    "paratha"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "unique-light-indian-beef-kidney-paratha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-light-indian-beef-kidney-paratha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:25:45Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "render-fat",
+    "primaryIngredient": "beef kidney",
+    "diet": "lacto-vegetarian",
+    "region": "tamil",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "unique light",
+    "dishForm": "Paratha"
+  }
+}
