@@ -1,0 +1,91 @@
+{
+  "title": "Unctuous Indian Sausage Idli",
+  "description": "A charred and gooey Indian dish featuring sausage, served in a idli form, perfect for adventurous eaters. This raw-friendly recipe is a twist on traditional idlis.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Indian sausage",
+      "amount": "1 pound",
+      "notes": "such as lamb or chicken sausage"
+    },
+    {
+      "name": "idli rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "urad dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Grind the idli rice and urad dal into a fine paste using a blender or food processor.",
+    "Mix the paste with yogurt, ghee, and a pinch of salt.",
+    "Chop the onion and ginger, and saute them in a pan until they are lightly browned.",
+    "Add the cumin seeds to the pan and let them sizzle for a few seconds.",
+    "Add the Indian sausage to the pan, breaking it up with a spoon as it cooks.",
+    "Once the sausage is cooked, add it to the idli paste and mix well.",
+    "Pour the mixture into idli molds and steam them for 15 minutes.",
+    "Serve the idlis hot, garnished with chopped fresh cilantro and a dollop of yogurt."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-recipe",
+    "idli-recipe",
+    "indian-cuisine",
+    "sausage-based",
+    "steamed-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unctuous-indian-sausage-idli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-indian-sausage-idli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:47:41Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "emulsify",
+    "primaryIngredient": "sausage",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "sausage",
+    "descriptor": "Unctuous",
+    "dishForm": "Idli"
+  }
+}
