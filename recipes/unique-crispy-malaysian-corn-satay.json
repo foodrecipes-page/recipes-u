@@ -1,0 +1,92 @@
+{
+  "title": "Unique Crispy Malaysian Corn Satay",
+  "description": "A funky and crispy Malaysian dish featuring fine yellow cornmeal, this crowd-pleaser is perfect for any occasion. It is a raw-friendly dish that is broiled to perfection.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fine yellow cornmeal",
+      "amount": "1 cup",
+      "notes": "freshly opened package"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cornmeal, coconut milk, vegetable oil, salt, black pepper, paprika, garlic powder, and onion powder until well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for 30 minutes to allow the mixture to chill.",
+    "Remove the bowl from the refrigerator and stir the mixture again.",
+    "Using a spoon, drop small balls of the mixture onto a baking sheet lined with parchment paper.",
+    "Broil the corn satay for 10-12 minutes, or until crispy and golden brown.",
+    "Remove the corn satay from the oven and let cool for 5 minutes.",
+    "Serve the Unique Crispy Malaysian Corn Satay warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-snacks",
+    "easy-recipes",
+    "gluten-free",
+    "malaysian-cuisine",
+    "snack-ideas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "unique-crispy-malaysian-corn-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crispy-malaysian-corn-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:29:21Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "broil",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "corn",
+    "descriptor": "Unique Crispy",
+    "dishForm": "Satay"
+  }
+}
