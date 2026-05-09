@@ -1,0 +1,97 @@
+{
+  "title": "Unique Crispy Canadian Refried Beans Tacos",
+  "description": "A peppery, crispy, comforting Canadian dish featuring refried beans, mortar-pestle-pound, no-onion-no-garlic-friendly, perfect for a snack or lunch.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "refried beans",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "taco shells",
+      "amount": "8-10 shells"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a mortar, pound the cilantro, salt, and black pepper into a coarse paste.",
+    "In a large bowl, mix the refried beans with the cilantro paste and lime juice until well combined.",
+    "Arrange the taco shells on a baking sheet and fill each shell with the bean mixture.",
+    "Sprinkle the shredded cheese over the beans in each shell.",
+    "Drizzle the vegetable oil over the cheese.",
+    "Bake the tacos in the preheated oven for 15 minutes, or until the cheese is melted and the shells are crispy.",
+    "Remove the tacos from the oven and top each one with diced tomatoes.",
+    "Serve the tacos hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "crispy",
+    "gluten-free",
+    "vegetarian-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "unique-crispy-canadian-refried-beans-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crispy-canadian-refried-beans-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:09:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "refried beans",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "refried beans",
+    "descriptor": "Unique Crispy",
+    "dishForm": "Tacos"
+  }
+}
