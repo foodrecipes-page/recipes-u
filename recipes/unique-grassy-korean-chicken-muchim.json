@@ -1,0 +1,102 @@
+{
+  "title": "Unique Grassy Korean Chicken Muchim",
+  "description": "A light and refreshing Korean dish featuring sweet peppadew peppers, perfect for a sick day, with a grassy twist and high protein content. This bake-style muchim is easy to make and delicious to eat.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "peppadew peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together gochujang, soy sauce, brown sugar, garlic, and ginger.",
+    "Add the chicken to the bowl and toss to coat with the sauce.",
+    "Spread the chicken on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "While the chicken is baking, toss the sliced peppadew peppers with sesame oil and spread on a separate baking sheet.",
+    "Bake the peppers for 10 minutes, or until slightly caramelized.",
+    "In a large bowl, combine the baked chicken, peppers, and chopped green onions.",
+    "Toss everything together to combine and serve hot.",
+    "Garnish with additional green onions if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "healthy-dish",
+    "high-protein",
+    "korean-inspired",
+    "one-pan",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "unique-grassy-korean-chicken-muchim",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-grassy-korean-chicken-muchim",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:26:25Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Unique Grassy",
+    "dishForm": "Muchim"
+  }
+}
