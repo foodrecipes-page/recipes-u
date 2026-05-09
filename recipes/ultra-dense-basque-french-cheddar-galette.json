@@ -1,0 +1,93 @@
+{
+  "title": "Ultra Dense Basque French Cheddar Galette",
+  "description": "A rich and decadent galette that showcases the flavors of mature cheddar cheese, perfect for special occasions or as a show-stopping appetizer. This dish is a unique fusion of Basque and French cuisines, with a dense and flaky crust, a creamy cheese filling, and a hint of caramelized onions.",
+  "cuisine": "Basque French",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mature Cheddar Cheese",
+      "amount": "12 oz (340 g)",
+      "notes": "Aged for at least 6 months"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1 cup (115 g)"
+    },
+    {
+      "name": "Puff Pastry Dough",
+      "amount": "1 sheet (9 in / 23 cm diameter)"
+    },
+    {
+      "name": "Egg Beaten",
+      "amount": "1 large",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp (5 g)"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp (2 g)"
+    },
+    {
+      "name": "Gruyère Cheese",
+      "amount": "8 oz (225 g)",
+      "notes": "Optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry dough to a thickness of 1/8 inch (3 mm).",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Spread the caramelized onions evenly over the center of the dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Crumble the mature cheddar cheese over the onions.",
+    "If using Gruyère cheese, sprinkle it over the cheddar cheese.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Brush the egg wash over the crust to give it a golden brown color.",
+    "Bake the galette for 25-30 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+    "Remove the galette from the oven and let it cool for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "appetizer",
+    "cheesy",
+    "dinner-party",
+    "gluten-free",
+    "gourmet",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "ultra-dense-basque-french-cheddar-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-dense-basque-french-cheddar-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T00:49:46Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "sous-vide",
+    "primaryIngredient": "mature cheddar",
+    "diet": "low-carb",
+    "region": "basque-french",
+    "cuisineAdjective": "Basque-French",
+    "mainIngredient": "Cheddar",
+    "descriptor": "Ultra-Dense",
+    "dishForm": "Galette"
+  }
+}
