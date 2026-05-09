@@ -1323,6 +1323,21 @@
     "shard": "u"
   },
   {
+    "slug": "umami-crunchy-jamaican-vegetable-salad",
+    "title": "Umami Crunchy Jamaican Vegetable Salad",
+    "tags": [
+      "crunchy",
+      "jamaican",
+      "salad",
+      "umami",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 52,
+    "shard": "u"
+  },
+  {
     "slug": "umami-crunchy-japanese-pecan-nuts-ramen",
     "title": "Umami Crunchy Japanese Pecan Nuts Ramen",
     "tags": [

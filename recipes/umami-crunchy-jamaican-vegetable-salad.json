@@ -1,0 +1,104 @@
+{
+  "title": "Umami Crunchy Jamaican Vegetable Salad",
+  "description": "A vegetarian-friendly Jamaican dish featuring raw and blanched vegetables, this salad is perfect for a weeknight dinner with its umami flavor and crunchy texture.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1-2",
+      "notes": " seeded and finely chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a boil and blanch the sliced zucchini for 2 minutes.",
+    "Immediately transfer the zucchini to an ice bath to stop the cooking process.",
+    "In a large bowl, combine the grated carrots, sliced red bell pepper, chopped green onions, and chopped scotch bonnet peppers.",
+    "In a small bowl, whisk together the soy sauce, lime juice, and olive oil to make the dressing.",
+    "Add the dressing to the bowl with the vegetables and toss to combine.",
+    "Add the blanched zucchini to the bowl and toss again to combine.",
+    "Season the salad with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate the salad for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good stir and adjust the seasoning if necessary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 2,
+  "totalTimeMin": 52,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "jamaican",
+    "salad",
+    "umami",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "umami-crunchy-jamaican-vegetable-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-crunchy-jamaican-vegetable-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:24:52Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "blanch",
+    "primaryIngredient": "raw vegetables",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "vegetables",
+    "descriptor": "Umami Crunchy",
+    "dishForm": "Salad"
+  }
+}
