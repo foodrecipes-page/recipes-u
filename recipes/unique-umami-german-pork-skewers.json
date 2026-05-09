@@ -1,0 +1,98 @@
+{
+  "title": "Unique Umami German Pork Skewers",
+  "description": "Tender pork skewers with a sweet and savory umami flavor, featuring maple syrup and char-grill yang, perfect for a diabetic-friendly dinner option.",
+  "cuisine": "German",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "In a large bowl, whisk together maple syrup, apple cider vinegar, Dijon mustard, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the pork cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, or until the pork reaches an internal temperature of 145 degrees.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Serve with a side of roasted vegetables or a salad for a well-rounded meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "german-cuisine",
+    "grilled-meats",
+    "low-carb",
+    "pork-recipes",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "unique-umami-german-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-german-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:08:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "maple syrup",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "unique umami",
+    "dishForm": "Skewers"
+  }
+}
