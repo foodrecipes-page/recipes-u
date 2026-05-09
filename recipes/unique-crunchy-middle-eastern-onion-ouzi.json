@@ -1,0 +1,95 @@
+{
+  "title": "Unique Crunchy Middle Eastern Onion Ouzi",
+  "description": "A salty, crunchy, nostalgic Middle Eastern dish featuring onion, served in a salt block vessel, this ouzi is anti-inflammatory friendly and full of flavor. It combines the crunch of fried onions with the comfort of khao khuas rice.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "khao khuas rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "fry grind rice",
+      "amount": "1/2 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the sliced onions and cook until they are golden brown and crispy.",
+    "In a large bowl, combine the cooked khao khuas rice, toasted fry grind rice, turmeric, paprika, salt, and black pepper.",
+    "Add the cooked onions to the bowl and stir until everything is well combined.",
+    "Spoon the mixture into a salt block vessel.",
+    "Serve the ouzi hot, garnished with additional paprika if desired.",
+    "Let it cool for a few minutes before serving.",
+    "Store any leftovers in an airtight container in the refrigerator.",
+    "Reheat the ouzi in the oven or microwave until it is crispy and hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crunchy",
+    "gluten-free",
+    "middle-eastern",
+    "salt-block",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-crunchy-middle-eastern-onion-ouzi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crunchy-middle-eastern-onion-ouzi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:27:31Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "onion",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "onion",
+    "descriptor": "unique crunchy",
+    "dishForm": "Ouzi"
+  }
+}
