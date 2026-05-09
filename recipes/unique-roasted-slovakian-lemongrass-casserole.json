@@ -1,0 +1,102 @@
+{
+  "title": "Unique Roasted Slovakian Lemongrass Casserole",
+  "description": "A roasted, velvety, nostalgic Slovakian dish featuring lemongrass, this casserole is perfect for a special occasion, it is ovo-vegetarian-friendly and has a unique smoky flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "cubed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the sliced onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced mushrooms and cook until they are tender.",
+    "Add the cubed tofu and cook until it is lightly browned.",
+    "Add the lemongrass, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Pour in the vegetable broth and bring the mixture to a simmer.",
+    "Transfer the mixture to a 9x13 inch baking dish and roast in the preheated oven for 30 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "ovo-vegetarian",
+    "roasted",
+    "smoky",
+    "special-occasion",
+    "unique"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "unique-roasted-slovakian-lemongrass-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-roasted-slovakian-lemongrass-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:36:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "smoke-hot",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lemongrass",
+    "descriptor": "Unique Roasted",
+    "dishForm": "Casserole"
+  }
+}

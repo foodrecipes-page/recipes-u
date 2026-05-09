@@ -1,0 +1,99 @@
+{
+  "title": "Unique Crunchy Australian Chicken Skewers",
+  "description": "A light Australian dish featuring tarragon-french flavors and a crunchy texture, this recipe is sugar-free-friendly and perfect for a snack or dinner. The combination of fatty chicken and shattering crunchy exterior makes for a delightful treat.",
+  "cuisine": "Australian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tarragon",
+      "amount": "2 tablespoons",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "french mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond meal",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the tarragon, french mustard, salt, and pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the tarragon mixture.",
+    "In a separate bowl, mix together the coconut flakes and almond meal.",
+    "Dip each chicken piece into the egg and then roll in the coconut flake mixture to coat.",
+    "Place the coated chicken pieces on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the chicken pieces.",
+    "Bake the chicken skewers in the preheated oven for 20 minutes.",
+    "Remove the chicken from the oven and let it cool for a few minutes.",
+    "Serve the chicken skewers hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "crunchy",
+    "high-protein",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "unique-crunchy-australian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crunchy-australian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:36:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "dehydrate",
+    "primaryIngredient": "tarragon-french",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "unique crunchy",
+    "dishForm": "Skewers"
+  }
+}

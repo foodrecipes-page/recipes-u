@@ -4348,6 +4348,21 @@
     "shard": "u"
   },
   {
+    "slug": "unique-crunchy-australian-chicken-skewers",
+    "title": "Unique Crunchy Australian Chicken Skewers",
+    "tags": [
+      "australian",
+      "crunchy",
+      "high-protein",
+      "one-pan",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
     "slug": "unique-crunchy-chinese-tobiko-wrap",
     "title": "Unique Crunchy Chinese Tobiko Wrap",
     "tags": [
@@ -5040,6 +5055,21 @@
     ],
     "cuisine": "Portuguese Korean",
     "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-roasted-slovakian-lemongrass-casserole",
+    "title": "Unique Roasted Slovakian Lemongrass Casserole",
+    "tags": [
+      "flavorful",
+      "ovo-vegetarian",
+      "roasted",
+      "smoky",
+      "special-occasion",
+      "unique"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
