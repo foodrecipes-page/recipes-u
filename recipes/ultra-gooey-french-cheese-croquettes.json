@@ -1,0 +1,96 @@
+{
+  "title": "Ultra Gooey French Cheese Croquettes",
+  "description": "A peppery and gooey French dish from Brittany, perfect for a post-workout snack, featuring tamarind paste and deep-fried to a crispy golden brown, this recipe is onion and garlic free.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "emmental cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the shredded gruyere and emmental cheese.",
+    "Add the tamarind paste, melted butter, and black pepper to the cheese mixture and stir until well combined.",
+    "In a separate bowl, whisk the eggs and set aside.",
+    "Add the flour to the cheese mixture and stir until a dough forms.",
+    "Using your hands, shape the dough into small balls, about 1 inch in diameter.",
+    "Dip each ball into the whisked eggs, coating completely, then roll in the panko breadcrumbs to coat.",
+    "Heat about 2-3 inches of oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Carefully place the coated cheese balls into the hot oil and fry until golden brown, about 2-3 minutes on each side.",
+    "Remove the croquettes from the oil with a slotted spoon and place on a paper towel lined plate to drain excess oil.",
+    "Serve the ultra gooey French cheese croquettes hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-recipes",
+    "deep-fried",
+    "french-cuisine",
+    "post-workout",
+    "snack-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "ultra-gooey-french-cheese-croquettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-gooey-french-cheese-croquettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:07:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "tamarind paste",
+    "diet": "no-onion-no-garlic",
+    "region": "brittany",
+    "cuisineAdjective": "french",
+    "mainIngredient": "cheese",
+    "descriptor": "ultra gooey",
+    "dishForm": "Croquettes"
+  }
+}
