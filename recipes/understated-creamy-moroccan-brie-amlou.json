@@ -1,0 +1,94 @@
+{
+  "title": "understated creamy moroccan brie amlou",
+  "description": "a light, cultured moroccan dish featuring brie cheese, perfect for a weeknight dinner in a ceramic tagine",
+  "cuisine": "moroccan",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brie cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "almonds",
+      "amount": "50g"
+    },
+    {
+      "name": "honey",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a ceramic tagine over medium heat.",
+    "add the bonito flakes and cook for 2 minutes, until fragrant.",
+    "add the almonds and cook for 1 minute, until lightly toasted.",
+    "add the honey, orange blossom water, salt, and pepper. stir to combine.",
+    "add the brie cheese and stir until melted and smooth.",
+    "reduce heat to low and simmer for 5 minutes, until the sauce has thickened slightly.",
+    "taste and adjust seasoning as needed.",
+    "serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "lacto-ovo-vegetarian",
+    "moroccan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "understated-creamy-moroccan-brie-amlou",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/understated-creamy-moroccan-brie-amlou",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T20:11:25Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "bonito-shave",
+    "primaryIngredient": "brie",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "brie",
+    "descriptor": "Understated Creamy",
+    "dishForm": "Amlou"
+  }
+}
