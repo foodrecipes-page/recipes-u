@@ -1,0 +1,98 @@
+{
+  "title": "Unique Garlicky Canadian Lamb Stew",
+  "description": "A hearty and cozy Canadian dish featuring lamb, garlic, and oregano, perfect for a cold winter's night. This satvik-friendly stew is made with fresh and natural ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "canned"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine lamb cubes, minced garlic, and dried oregano, and mix well to coat the lamb evenly.",
+    "Heat a large Dutch oven over medium-high heat, then add the lamb mixture and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion to the pot and cook until it is translucent, about 5 minutes.",
+    "Add the sliced carrots and cubed potatoes to the pot, and cook for an additional 5 minutes.",
+    "Add the lamb broth and tomato paste to the pot, and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer the stew for 1 1/2 hours, or until the lamb is tender.",
+    "After 1 hour of cooking, prepare an ice bath by filling a large bowl with ice and water.",
+    "Once the stew is cooked, remove the pot from the heat and carefully place it into the ice bath to stop the cooking process.",
+    "Let the stew cool slightly, then serve hot, garnished with fresh oregano if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "lamb-recipes",
+    "one-pot",
+    "winter-stews"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 29
+  },
+  "slug": "unique-garlicky-canadian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-garlicky-canadian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:23:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "oregano",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lamb",
+    "descriptor": "unique garlicky",
+    "dishForm": "Stew"
+  }
+}
