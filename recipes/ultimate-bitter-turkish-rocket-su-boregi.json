@@ -1,0 +1,106 @@
+{
+  "title": "ultimate bitter turkish rocket su boregi",
+  "description": "a bitter, crisp turkish dish featuring rocket, a potential hangover cure, that is also diabetic-friendly",
+  "cuisine": "turkish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rocket",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null,
+      "},{": ",",
+      " ": "garlic"
+    },
+    {
+      "      : ": ",",
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "      : ": ",",
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "      : ": ",",
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "      : ": ",",
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "      :": ",",
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 package",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "combine rocket, pumpkin, red onion, garlic, lemon juice, olive oil, allspice, cumin, red pepper flakes, and feta cheese in a bowl",
+    "mix well to combine",
+    "cover and refrigerate for at least 30 minutes",
+    "preheat oven to 400 degrees fahrenheit",
+    "line a baking sheet with parchment paper",
+    "place the flatbread on the prepared baking sheet",
+    "bake for 10-12 minutes or until crispy",
+    "remove from oven and let cool for 5 minutes",
+    "serve warm",
+    "crumble additional feta cheese on top, if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "breakfast",
+    "crisp",
+    "high-protein",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "ultimate-bitter-turkish-rocket-su-boregi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ultimate-bitter-turkish-rocket-su-boregi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:53Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "boil",
+    "primaryIngredient": "rocket",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Rocket",
+    "descriptor": "Ultimate Bitter",
+    "dishForm": "Su Boregi"
+  }
+}
