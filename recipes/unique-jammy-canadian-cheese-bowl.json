@@ -1,0 +1,96 @@
+{
+  "title": "Unique Jammy Canadian Cheese Bowl",
+  "description": "A dairy-free friendly Canadian dish featuring cheese slices, tandoor, and a jammy silky texture, served in an earthenware bowl.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tandoor bread",
+      "amount": "4 slices",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "vegan cheese slices",
+      "amount": "8 slices"
+    },
+    {
+      "name": "jam",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "earthenware bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit.",
+    "Slice the tandoor bread into 1-inch pieces and toast until lightly browned.",
+    "In a small bowl, mix together the jam and maple syrup until well combined.",
+    "Arrange the toasted bread pieces in the earthenware bowl.",
+    "Place the vegan cheese slices on top of the bread pieces.",
+    "Drizzle the jam and maple syrup mixture over the cheese slices.",
+    "Drizzle the olive oil over the top of the cheese slices.",
+    "Sprinkle the salt and black pepper over the top of the cheese slices.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "dairy-free",
+    "easy-lunch",
+    "gluten-free",
+    "jammy",
+    "silky",
+    "tandoor",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "unique-jammy-canadian-cheese-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-jammy-canadian-cheese-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:52:55Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "tandoor",
+    "primaryIngredient": "cheese slices",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cheese",
+    "descriptor": "unique jammy",
+    "dishForm": "Bowl"
+  }
+}
