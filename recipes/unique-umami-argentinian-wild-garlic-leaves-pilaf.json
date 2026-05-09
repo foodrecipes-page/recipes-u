@@ -1,0 +1,111 @@
+{
+  "title": "Unique Umami Argentinian Wild Garlic Leaves Pilaf",
+  "description": "This earthy and comforting Argentinian dish features wild garlic leaves and a rich, creamy flavor, all while being low in sodium and full of umami taste, with the added depth of wok-hei",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "1 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat",
+    "Add the diced onion and cook until it is translucent",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the chopped wild garlic leaves and cook until they are wilted",
+    "Add the arborio rice and cook for 1-2 minutes, stirring constantly",
+    "Add the white wine and cook until it is fully absorbed",
+    "Add the low sodium vegetable broth, one cup at a time, stirring constantly and allowing each cup to be absorbed before adding the next",
+    "Stir in the grated parmesan cheese and cook until it is melted and the rice is creamy",
+    "Season with salt and black pepper to taste",
+    "Transfer the pilaf to a serving dish and top with chopped fresh parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "comfort-food",
+    "low-sodium",
+    "one-pot",
+    "umami-rich",
+    "wild-garlic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "unique-umami-argentinian-wild-garlic-leaves-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-argentinian-wild-garlic-leaves-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:47:10Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "wok-hei",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "wild garlic leaves",
+    "descriptor": "unique umami",
+    "dishForm": "Pilaf"
+  }
+}
