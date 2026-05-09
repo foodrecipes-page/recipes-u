@@ -1,0 +1,108 @@
+{
+  "title": "Umami Buttery Greek Lentil Stifado",
+  "description": "A plant-based Greek stew featuring lentils, fines-herbes, and a smoky flavor, cooked to perfection in a tagine pot.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fines-herbes",
+      "amount": "1 tablespoon",
+      "notes": "dried"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the rinsed lentils, smoked paprika, fines-herbes, salt, and black pepper, and stir to combine.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the tagine pot, and simmer for 30 minutes.",
+    "Stir in the unsalted butter until melted and fully incorporated.",
+    "Serve the stifado hot, garnished with additional fines-herbes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "lentil-recipes",
+    "one-pot",
+    "plant-based",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "umami-buttery-greek-lentil-stifado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-buttery-greek-lentil-stifado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:07:58Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "smoke-hot",
+    "primaryIngredient": "fines-herbes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lentils",
+    "descriptor": "Umami Buttery",
+    "dishForm": "Stifado"
+  }
+}
