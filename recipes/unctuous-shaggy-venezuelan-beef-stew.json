@@ -1,0 +1,92 @@
+{
+  "title": "Unctuous Shaggy Venezuelan Beef Stew",
+  "description": "A rich and flavorful stew featuring feather blade beef and score-fat, perfect for special occasions. This dish is a show-off Venezuelan recipe with a unique fermentation process.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feather blade beef",
+      "amount": "2 pounds",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the score-fat in a large Dutch oven over medium heat.",
+    "Add the onion and cook until it is translucent and starting to caramelize.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the beef chunks and cook until they are browned on all sides.",
+    "Add the tomato paste, beef broth, red wine, and cumin, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours.",
+    "Remove the stew from the heat and let it cool to room temperature.",
+    "Refrigerate the stew overnight to allow the flavors to meld and the meat to become tender.",
+    "Reheat the stew over low heat, serving hot.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "unctuous-shaggy-venezuelan-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-shaggy-venezuelan-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:31:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "score-fat",
+    "primaryIngredient": "feather blade beef",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "Unctuous Shaggy",
+    "dishForm": "Stew"
+  }
+}
