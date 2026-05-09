@@ -1,0 +1,110 @@
+{
+  "title": "Unique Silky Mediterranean Chicken Pilaf",
+  "description": "This cultured dish is a crowd-pleaser featuring cranberry and is flexitarian-friendly, making it perfect for any gathering.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "cranberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, heat olive oil over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add basmati rice, chicken broth, salt, and black pepper, and stir to combine.",
+    "Bring mixture to a boil, then cover and transfer to preheated oven.",
+    "Bake for 25-30 minutes, or until rice is tender and liquid is absorbed.",
+    "Stir in cranberries and crumbly feta cheese.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "flexitarian",
+    "healthy",
+    "mediterranean-inspired",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "unique-silky-mediterranean-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-silky-mediterranean-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:34:40Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "rest",
+    "primaryIngredient": "cranberry",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Unique Silky",
+    "dishForm": "Pilaf"
+  }
+}
