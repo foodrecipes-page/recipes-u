@@ -1,0 +1,102 @@
+{
+  "title": "Unforgettable Briny Ukrainian Sugar Snap Peas Skewers",
+  "description": "A show-off Ukrainian dish featuring sugar snap peas, this recipe is a plant-based friendly option that is sure to impress, with a briny flavor and a unique cooking method using ttukbaegi earthenware on a cedar plank.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, apple cider vinegar, salt, black pepper, garlic powder, and dried dill weed.",
+    "Add the sugar snap peas to the bowl and toss to coat with the marinade.",
+    "Thread the marinated sugar snap peas onto skewers, leaving a small space between each pea.",
+    "Place the skewers on the preheated cedar plank and cook for 10 minutes, or until the peas are tender.",
+    "Brush the peas with lemon juice and water during the last 2 minutes of cooking.",
+    "Remove the skewers from the heat and let cool for a few minutes.",
+    "Serve the skewers on the cedar plank, garnished with additional dried dill weed if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-entertaining",
+    "gluten-free",
+    "plant-based",
+    "ukrainian-cuisine",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "unforgettable-briny-ukrainian-sugar-snap-peas-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unforgettable-briny-ukrainian-sugar-snap-peas-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:44:07Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "sugar snap peas",
+    "descriptor": "unforgettable briny",
+    "dishForm": "Skewers"
+  }
+}
