@@ -1,0 +1,94 @@
+{
+  "title": "Unique Comforting Malaysian Fromage-Blanc Fondue",
+  "description": "A comforting Malaysian dish featuring fromage-blanc, tempering chocolate, and herbal notes, served in a fondue pot. This vegetarian-friendly fondue is perfect for a cozy night in.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fromage-blanc",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a fondue pot, combine softened fromage-blanc, melted tempering chocolate, coconut milk, bruised lemongrass, sliced galangal, and kaffir lime leaves.",
+    "Heat the mixture over low heat, stirring constantly, until the fromage-blanc is melted and the mixture is smooth.",
+    "Add palm sugar and stir until dissolved.",
+    "Remove the lemongrass, galangal, and kaffir lime leaves from the pot.",
+    "Serve the fondue with an assortment of dippers, such as vegetables or crackers.",
+    "Drizzle with vegetable oil before serving.",
+    "Keep the fondue warm over low heat to prevent it from solidifying.",
+    "Stir the fondue occasionally to prevent scorching."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "comfort-food",
+    "fondue",
+    "herbal",
+    "malaysian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unique-comforting-malaysian-fromage-blanc-fondue",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-comforting-malaysian-fromage-blanc-fondue",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:01:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "fromage-blanc",
+    "descriptor": "unique comforting",
+    "dishForm": "Fondue"
+  }
+}
