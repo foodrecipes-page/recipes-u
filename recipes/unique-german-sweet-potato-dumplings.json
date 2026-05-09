@@ -1,0 +1,94 @@
+{
+  "title": "German Sweet Potato Dumplings",
+  "description": "Pillowy sweet potato dumplings infused with herbal flavors, deep-fried to a crispy golden brown, served as a romantic German dish, jain-friendly and delicious.",
+  "cuisine": "German",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mashed sweet potatoes, flour, cornstarch, salt, black pepper, and nutmeg, mixing well.",
+    "Stir in the chopped parsley.",
+    "Using your hands, shape the mixture into small dumplings, about 1 1/2 inches in diameter.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees.",
+    "When the oil is hot, add a few dumplings to the pan, being careful not to overcrowd.",
+    "Fry the dumplings until they are golden brown, about 3-4 minutes on each side.",
+    "Remove the dumplings from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the dumplings hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "german-cuisine",
+    "jain-friendly",
+    "romantic-dinner",
+    "sweet-potato-recipes",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "unique-german-sweet-potato-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-german-sweet-potato-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:24:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "unique pillowy",
+    "dishForm": "Dumplings"
+  }
+}
