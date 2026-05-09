@@ -1,0 +1,104 @@
+{
+  "title": "Uniquely Tangy Irish Ground Pork Tagine",
+  "description": "A tangy and indulgent Irish dish featuring ground pork cooked in a tagine on a salt block, perfect for a special occasion. This diabetic-friendly dish is a unique twist on traditional Irish cuisine.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "lean ground pork"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "reduced sugar"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block in the oven at 400 degrees Fahrenheit for 30 minutes.",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the ground pork until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the prunes, apple cider vinegar, salt, and black pepper to the skillet and stir to combine.",
+    "Transfer the mixture to the preheated salt block and cook for 20 minutes, stirring occasionally.",
+    "Stir in the chopped fresh parsley and cook for an additional 5 minutes.",
+    "Remove the tagine from the salt block and let it cool for a few minutes before serving.",
+    "Serve the uniquely tangy Irish ground pork tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "ground-pork",
+    "irish-cuisine",
+    "salt-block-cooking",
+    "special-occasion",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "uniquely-tangy-irish-ground-pork-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/uniquely-tangy-irish-ground-pork-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:29:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "tagine-cook",
+    "primaryIngredient": "ground pork",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "ground pork",
+    "descriptor": "uniquely tangy",
+    "dishForm": "Tagine"
+  }
+}
