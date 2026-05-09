@@ -1,0 +1,104 @@
+{
+  "title": "Unique Crunchy Peruvian Potatoes Papa Rellena",
+  "description": "A resinous and creamy Peruvian dish featuring peanut brittle and deep-fried potatoes, this recipe is a low-calorie-friendly version of the traditional papa rellena.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "peanut brittle",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "cooked and seasoned"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in salted water until they are tender.",
+    "Drain the potatoes and let them cool.",
+    "In a pan, heat the oil and fry the potatoes until they are golden brown.",
+    "In a bowl, mix the ground beef, onion, garlic, salt, and pepper.",
+    "Add the beaten egg to the bowl and mix well.",
+    "Stuff each potato half with the beef mixture and top with crushed peanut brittle.",
+    "Dip each stuffed potato in the beaten egg and then coat with crushed peanut brittle.",
+    "Fry the coated potatoes in hot oil until they are golden brown.",
+    "Drain the potatoes on paper towels and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "gluten-free",
+    "low-calorie",
+    "peruvian-cuisine",
+    "potato-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "unique-crunchy-peruvian-potatoes-papa-rellena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crunchy-peruvian-potatoes-papa-rellena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:06:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "peanut brittle",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Unique Crunchy",
+    "dishForm": "Papa Rellena"
+  }
+}
