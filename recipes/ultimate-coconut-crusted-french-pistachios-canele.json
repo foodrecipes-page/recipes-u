@@ -1,0 +1,64 @@
+{
+  "title": "Ultimate Coconut-Crusted French Pistachios Canele",
+  "description": "Rich, cheese-pull meal-prep dish inspired by Alsatian cuisine, featuring ground pistachios, coconut cream, and plant-based friendly ingredients.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ground Pistachios",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 can",
+      "notes": "Full-fat, 14 oz can"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a food processor, grind 1 cup of pistachios to a fine crumb.",
+    "In a large mixing bowl, whisk together the ground pistachios, 1/4 cup of granulated sugar, and 1/4 cup of unsweetened shredded coconut.",
+    "In a separate bowl, whip the coconut cream until it becomes stiff and holds its shape.",
+    "Using a rubber spatula, gently fold the whipped coconut cream into the pistachio mixture until well combined."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "alaskan",
+    "canele",
+    "coconut",
+    "crust",
+    "french",
+    "pistachio",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "ultimate-coconut-crusted-french-pistachios-canele",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ultimate-coconut-crusted-french-pistachios-canele",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:26Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "ground pistachios",
+    "diet": "plant-based",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "pistachios",
+    "descriptor": "Ultimate Coconut-Crusted",
+    "dishForm": "Canele"
+  }
+}
