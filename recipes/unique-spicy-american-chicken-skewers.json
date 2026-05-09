@@ -1,0 +1,92 @@
+{
+  "title": "Unique Spicy American Chicken Skewers",
+  "description": "Spicy and snappy chicken skewers with a yuzu cure, perfect for a date night, made with red chilli powder and served in a bento box.",
+  "cuisine": "American",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together yuzu juice, olive oil, garlic powder, salt, black pepper, and red chilli powder.",
+    "Add the chicken pieces to the bowl and toss to coat.",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve the skewers in a bento box, garnished with chopped cilantro.",
+    "Let the skewers rest for 2 minutes before serving.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "chicken",
+    "date-night",
+    "grilled",
+    "satvik-friendly",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "unique-spicy-american-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-spicy-american-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:58:26Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "red chilli powder",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Unique Spicy",
+    "dishForm": "Skewers"
+  }
+}
