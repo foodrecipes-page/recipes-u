@@ -1,0 +1,106 @@
+{
+  "title": "u-rich slow-cooked andalusi chickpeas tapas-platter",
+  "description": "lazy sunday spanish andalusian dish ideal for a plant-based tapas platter",
+  "cuisine": "spanish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "lardons",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "cocoa nibs",
+      "amount": "2 tablespoons",
+      "notes": "+ adds depth and richness in tapas-style"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "+ adds smoky depth"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "+ brightens flavors"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "+ garnish"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large Dutch oven over medium heat",
+    "add the lardons and cook until browned, about 5 minutes",
+    "add the garlic, smoked paprika, salt, and pepper and cook for 1 minute",
+    "add the chickpeas, cocoa nibs, and lemon juice and stir to combine",
+    "bring the mixture to a simmer and cook, covered, for 20 minutes",
+    "serve the tapas-style andalusian chickpea mixture in a bento box with chopped fresh parsley on top",
+    "consider garnishing with a few chocolate shavings for a fun touch"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "andalusian",
+    "chickpea",
+    "plant-based",
+    "spanish",
+    "tapas",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 20,
+    "carbs": 120,
+    "fat": 40
+  },
+  "slug": "u-rich-slow-cooked-andalusi-chickpeas-tapas-platter",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/u-rich-slow-cooked-andalusi-chickpeas-tapas-platter",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:13:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "lardons-render",
+    "primaryIngredient": "cocoa",
+    "diet": "plant-based",
+    "region": "andalusian",
+    "cuisineAdjective": "andalusi",
+    "mainIngredient": "chickpeas",
+    "descriptor": "u-rich slow-cooked",
+    "dishForm": "tapas-platter"
+  }
+}
