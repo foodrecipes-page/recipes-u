@@ -1,0 +1,100 @@
+{
+  "title": "Unique Greek Sirloin Steak Skewers",
+  "description": "A fresh and festive Greek dish featuring sirloin steak, tempered chocolate, and low sodium ingredients, perfect for a special occasion. This dish is sure to impress with its shattering flavors and textures.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "chocolate",
+      "amount": "1 ounce",
+      "notes": "dark, tempered"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, and oregano.",
+    "Add the sirloin steak cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated steak cubes onto the soaked wooden skewers.",
+    "Season the skewers with salt and pepper.",
+    "Grill the skewers for 10 minutes, turning occasionally.",
+    "Melt the tempered chocolate in a double boiler or in the microwave in 10 second increments, stirring between each interval.",
+    "Serve the grilled skewers with a drizzle of melted chocolate.",
+    "Garnish with fresh parsley or oregano, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-pairing",
+    "greek-food",
+    "grilled-meat",
+    "low-sodium",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "unique-greek-sirloin-steak-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-greek-sirloin-steak-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:01:11Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "sirloin steak",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "sirloin steak",
+    "descriptor": "Unique Grilled",
+    "dishForm": "Skewers"
+  }
+}
