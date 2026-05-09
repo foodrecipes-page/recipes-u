@@ -1,0 +1,97 @@
+{
+  "title": "Unique Crisp Middle Eastern Tequeños Skewers",
+  "description": "A briny, crisp, and light Middle Eastern dish featuring pre-fried tequeños, perfect for a low-carb snack or appetizer. This recipe combines the flavors of the Middle East with the crunch of tequeños.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pre-fried tequeños",
+      "amount": "12 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread 2-3 pre-fried tequeños onto each skewer, leaving a small space between each piece.",
+    "In a small bowl, whisk together olive oil, lemon juice, sumac, paprika, salt, and black pepper.",
+    "Brush the mixture evenly onto the tequeños, making sure they are fully coated.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 10 minutes.",
+    "Remove the skewers from the oven and sprinkle with chopped fresh parsley and crumbly feta cheese, if using.",
+    "Serve the tequeños skewers hot, garnished with additional parsley and lemon wedges on the side.",
+    "Let the skewers cool for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "easy-to-make",
+    "gluten-free",
+    "low-carb",
+    "middle-eastern",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "unique-crisp-middle-eastern-tequenos-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crisp-middle-eastern-tequenos-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:43:21Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "slow-cook",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "tequeños",
+    "descriptor": "Unique Crisp",
+    "dishForm": "Skewers"
+  }
+}
