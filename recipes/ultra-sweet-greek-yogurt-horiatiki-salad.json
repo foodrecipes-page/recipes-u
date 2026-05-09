@@ -1,0 +1,102 @@
+{
+  "title": "Ultra Sweet Greek Yogurt Horiatiki Salad",
+  "description": "A sweet and refreshing Greek dish featuring Greek yogurt and a soffritto base, perfect for a brunch mood. This sugar-free friendly recipe is served in an agave leaf vessel.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "or sugar-free alternative"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the Greek yogurt, honey, and lemon juice until smooth.",
+    "In a separate bowl, combine the sliced cucumber, diced tomato, and thinly sliced red onion.",
+    "Add the Kalamata olives to the bowl with the vegetables and toss to combine.",
+    "Drizzle the extra-virgin olive oil over the vegetable mixture and toss to coat.",
+    "Add the vegetable mixture to the bowl with the yogurt mixture and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh dill and serve in an agave leaf vessel.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "greek-cuisine",
+    "healthy-snacks",
+    "refreshing-salads",
+    "sugar-free-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "ultra-sweet-greek-yogurt-horiatiki-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-sweet-greek-yogurt-horiatiki-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:09:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "soffritto-base",
+    "primaryIngredient": "greek yogurt",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "yogurt",
+    "descriptor": "Ultra Sweet",
+    "dishForm": "Horiatiki Salad"
+  }
+}
