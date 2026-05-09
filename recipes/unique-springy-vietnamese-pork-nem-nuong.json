@@ -1,0 +1,100 @@
+{
+  "title": "Unique Springy Vietnamese Pork Nem Nuong",
+  "description": "A cultured and springy Vietnamese dish featuring cardamom, perfect for midnight cravings, made with Mediterranean-friendly ingredients in a nem nuong form and served in a hot pot vessel.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat content for flavor"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, fish sauce, cardamom powder, garlic, shallots, black pepper, and salt, then mix well with a whisk until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat a hot pot vessel or a large skillet over medium-high heat.",
+    "Using your hands, shape the pork mixture into small cylinders, about 1 inch in diameter and 2 inches long.",
+    "Add the rice vinegar to the hot pot vessel or skillet and bring to a simmer.",
+    "Add the bruised lemongrass to the simmering vinegar and cook for 2 minutes.",
+    "Add the pork cylinders to the hot pot vessel or skillet, leaving some space between each piece to allow for even cooking.",
+    "Cook the nem nuong for 5-7 minutes on each side, or until they are cooked through and slightly charred.",
+    "Serve the nem nuong hot, garnished with additional sliced shallots and a sprinkle of black pepper if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cardamom-spiced",
+    "dairy-free",
+    "gluten-free",
+    "hot-pot-recipes",
+    "pork-recipes",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "unique-springy-vietnamese-pork-nem-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-springy-vietnamese-pork-nem-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:49:19Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "whisk",
+    "primaryIngredient": "cardamom",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "unique springy",
+    "dishForm": "Nem Nuong"
+  }
+}
