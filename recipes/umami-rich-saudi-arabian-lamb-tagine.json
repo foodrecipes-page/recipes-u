@@ -1,0 +1,106 @@
+{
+  "title": "Umami Rich Saudi Arabian Lamb Tagine",
+  "description": "A creamy and umami-rich Saudi Arabian dish featuring lamb, liquid cheese, and puff pastry, cooked to perfection in an agave leaf vessel. This ayurvedic-rajasic-friendly recipe is perfect for a lazy Sunday.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "liquid cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "agave leaf",
+      "amount": "1 large",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with cumin and coriander.",
+    "Heat the olive oil in a large skillet over medium-high heat and sear the lamb until browned on all sides.",
+    "Add the chopped onion, minced garlic, and grated ginger to the skillet and cook until the onion is translucent.",
+    "Roll out the puff pastry on a floured surface to a large rectangle, about 1/4-inch thick.",
+    "Spoon the lamb and onion mixture onto one half of the pastry, leaving a 1/2-inch border around the edges.",
+    "Drizzle the liquid cheese over the lamb mixture.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Place the pastry in the agave leaf vessel and bake for 2 hours, or until the pastry is golden brown and the lamb is tender.",
+    "Remove the tagine from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-recipes",
+    "one-pot-meal",
+    "saudi-arabian-cuisine",
+    "special-occasion",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "umami-rich-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-rich-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:49:02Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "lamination-puff",
+    "primaryIngredient": "liquid cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Umami Rich",
+    "dishForm": "Tagine"
+  }
+}
