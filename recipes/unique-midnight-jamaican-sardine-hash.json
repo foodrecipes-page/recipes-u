@@ -1,0 +1,106 @@
+{
+  "title": "Unique Midnight Jamaican Sardine Hash",
+  "description": "A citrusy and gooey Jamaican dish featuring sardines, perfect for midnight cravings, made with Whole30-friendly ingredients and a spherification twist.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "Whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sardines",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the diced bell pepper and cook for an additional 2 minutes.",
+    "Add the diced scotch bonnet pepper and cook for 1 minute.",
+    "Add the chopped sardines, salt, and black pepper, and stir to combine.",
+    "Squeeze the lime juice over the top of the mixture and stir to combine.",
+    "In a small bowl, mix the sodium alginate and water to create a spherification bath.",
+    "Using a spoon, drop small amounts of the sardine mixture into the spherification bath and let sit for 2-3 minutes to form spheres.",
+    "Remove the spheres from the bath with a slotted spoon and place on a paper towel-lined plate to drain excess liquid.",
+    "Serve the sardine spheres hot, garnished with additional lime juice and scotch bonnet pepper if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jamaican",
+    "one-pan",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "unique-midnight-jamaican-sardine-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-midnight-jamaican-sardine-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:34:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "spherify",
+    "primaryIngredient": "sardines",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sardines",
+    "descriptor": "Unique Midnight",
+    "dishForm": "Hash"
+  }
+}
