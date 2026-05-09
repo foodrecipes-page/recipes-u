@@ -1,0 +1,98 @@
+{
+  "title": "Smoky Spanish Chicken Paella",
+  "description": "A paleo-friendly, smoky Spanish dish featuring sherry vinegar, this Basque-inspired paella is a show-off worthy meal, with pillowy rice and tender chicken.",
+  "cuisine": "Spanish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, whisk together smoked paprika, sherry vinegar, olive oil, sea salt, and black pepper.",
+    "Add the chicken breast to the bowl and toss to coat.",
+    "Heat a large skillet over medium-high heat and sear the chicken until browned on all sides.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the diced onion to the skillet and cook until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the cauliflower rice to the skillet and cook, stirring frequently, until lightly browned.",
+    "Add the browned chicken back to the skillet and stir to combine with the rice and onion mixture.",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "paleo-friendly",
+    "smoky",
+    "spanish-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "unique-smoky-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-smoky-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:30:40Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "paleo",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "unique smoky",
+    "dishForm": "Paella"
+  }
+}
