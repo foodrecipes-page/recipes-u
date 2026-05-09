@@ -1,0 +1,107 @@
+{
+  "title": "Garlicky Brazilian Turkey Ham Casserole",
+  "description": "A hearty, garlicky casserole featuring turkey ham and mantecare-emulsify, perfect for a sick day, this low-glycemic-friendly dish is a unique blend of Brazilian flavors, with a crumbly texture that will leave you wanting more.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "manteca",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "emulsifier",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brazilian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "paleo breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the diced turkey ham and minced garlic until the ham is lightly browned.",
+    "In a large bowl, combine the cooked turkey ham, manteca, emulsifier, cauliflower rice, low-fat milk, brazilian cheese, and paleo breadcrumbs.",
+    "In a small bowl, whisk the egg and set aside.",
+    "Add the whisked egg to the bowl with the turkey ham mixture and stir until well combined.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until the top is lightly browned and the casserole is set.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "comfort-food",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "unique-garlicky-brazilian-turkey-ham-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-garlicky-brazilian-turkey-ham-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:45:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "turkey ham",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "turkey ham",
+    "descriptor": "unique garlicky",
+    "dishForm": "Casserole"
+  }
+}
