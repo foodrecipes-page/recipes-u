@@ -1,0 +1,93 @@
+{
+  "title": "Unique Croatian Egg White Frittata",
+  "description": "A weeknight Croatian dish featuring egg white, temper, and floral flavors, served on a wooden board, this Unique Croatian Egg White Frittata is a shojin-friendly meal option that combines crunchy textures with delicate flavors, perfect for a quick dinner",
+  "cuisine": "Croatian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg whites",
+      "amount": "6 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "temper",
+      "amount": "1/2 cup",
+      "notes": "or substitute with apple cider vinegar"
+    },
+    {
+      "name": "dried lavender buds",
+      "amount": "1 tsp",
+      "notes": "food grade"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the egg whites, temper, dried lavender buds, salt, and black pepper until stiff peaks form.",
+    "Heat the olive oil in a 10 inch oven safe skillet over medium heat.",
+    "Add the chopped almonds to the skillet and cook until lightly toasted, about 2 minutes.",
+    "Pour the egg white mixture over the almonds in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes or until the edges are set and the center is slightly jiggly.",
+    "Remove the skillet from the oven and sprinkle the chopped parsley over the top of the frittata.",
+    "Let the frittata cool in the skillet for 5 minutes before slicing and serving on a wooden board."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-cuisine",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 6
+  },
+  "slug": "unique-croatian-egg-white-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-croatian-egg-white-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:48:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "egg white",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "egg white",
+    "descriptor": "unique crunchy",
+    "dishForm": "Frittata"
+  }
+}
