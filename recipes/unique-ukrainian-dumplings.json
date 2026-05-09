@@ -1,0 +1,98 @@
+{
+  "title": "Unique Ukrainian Dumplings",
+  "description": "Briny and silky Ukrainian dumplings featuring harissa spice, perfect for a brunch mood, cooked in a claypot and high in protein",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "harissa spice",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, eggs, sour cream, harissa spice, salt, and black pepper, mixing until a smooth dough forms",
+    "Knead the dough for 5 minutes until it becomes elastic and shiny",
+    "Divide the dough into small pieces and roll each into a ball",
+    "Flatten each ball into a disk shape",
+    "Place the dumplings in a claypot and add chicken broth",
+    "Bring the broth to a boil, then reduce heat to a simmer",
+    "Cook the dumplings for 10 minutes or until they float to the surface",
+    "Remove the dumplings from the pot and top with melted butter"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "claypot",
+    "dumplings",
+    "harissa",
+    "high-protein",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "unique-ukrainian-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-ukrainian-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:33:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "harissa spice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "dumplings",
+    "descriptor": "Unique Umami",
+    "dishForm": "Dumplings"
+  }
+}
