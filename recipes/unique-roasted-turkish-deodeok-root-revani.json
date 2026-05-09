@@ -1,0 +1,95 @@
+{
+  "title": "Unique Roasted Turkish Deodeok Root Revani",
+  "description": "A low-carb friendly Turkish dish featuring roasted Deodeok root, infused oil, and a cozy revani form, cooked in a tagine pot.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Deodeok root",
+      "amount": "2 large roots",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Infused oil",
+      "amount": "1/4 cup",
+      "notes": "with rose petals and lemon zest"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4 eggs"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chopped pistachios",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, granulated sweetener, and salt.",
+    "In a separate bowl, whisk together the infused oil, large eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Fold in the chopped Deodeok root.",
+    "Pour the mixture into a tagine pot or a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Garnish with chopped pistachios and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "desserts",
+    "gluten-free",
+    "low-carb",
+    "revani",
+    "tagine-pot",
+    "turkish-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "unique-roasted-turkish-deodeok-root-revani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-roasted-turkish-deodeok-root-revani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:36:05Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "infuse-oil",
+    "primaryIngredient": "deodeok-root",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "deodeok root",
+    "descriptor": "Unique Roasted",
+    "dishForm": "Revani"
+  }
+}
