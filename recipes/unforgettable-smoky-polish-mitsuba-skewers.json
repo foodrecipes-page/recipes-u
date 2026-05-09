@@ -1,0 +1,94 @@
+{
+  "title": "Unforgettable Smoky Polish Mitsuba Skewers",
+  "description": "Smoky and crunchy Polish dish featuring mitsuba, render fat, and low carb friendly ingredients, perfect for a dinner party show off",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mitsuba",
+      "amount": "1 bunch",
+      "notes": "Japanese parsley"
+    },
+    {
+      "name": "Pork fat",
+      "amount": "1/2 cup",
+      "notes": "Rendered"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into bite sized pieces"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit",
+    "Thread mitsuba, chicken, and pork fat onto skewers",
+    "In a small bowl mix together smoked paprika, garlic powder, salt, and black pepper",
+    "Brush the skewers with the spice mixture",
+    "Grill the skewers for 10 minutes per side",
+    "Brush the skewers with lemon juice during the last minute of grilling",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve the skewers hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "grilled",
+    "low-carb",
+    "polish-cuisine",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "unforgettable-smoky-polish-mitsuba-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unforgettable-smoky-polish-mitsuba-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:11:30Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "render-fat",
+    "primaryIngredient": "mitsuba",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "mitsuba",
+    "descriptor": "Unforgettable Smoky",
+    "dishForm": "Skewers"
+  }
+}
