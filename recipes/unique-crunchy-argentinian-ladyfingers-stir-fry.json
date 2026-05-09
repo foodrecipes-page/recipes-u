@@ -1,0 +1,94 @@
+{
+  "title": "Unique Crunchy Argentinian Ladyfingers Stir Fry",
+  "description": "A funky and crisp Argentinian dish featuring savoiardi ladyfingers, perfect for a date night, and prepared with ayurvedic tamasic friendly ingredients. This dish combines the crunch of ladyfingers with the savory flavors of Argentine cuisine.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoiardi ladyfingers",
+      "amount": "12-16 pieces",
+      "notes": "dried"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and saute for 1 minute until fragrant.",
+    "Add the sliced onion and red bell pepper and cook for 3-4 minutes until they start to soften.",
+    "Add the dried ladyfingers to the skillet and cook for 2-3 minutes on each side until they are crispy and golden brown.",
+    "Add the chimichurri sauce to the skillet and stir to combine with the ladyfingers and vegetables.",
+    "Season with salt and black pepper to taste.",
+    "Serve the Unique Crunchy Argentinian Ladyfingers Stir Fry hot, garnished with fresh parsley or oregano if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "crunchy",
+    "date-night",
+    "gluten-free",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-crunchy-argentinian-ladyfingers-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crunchy-argentinian-ladyfingers-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:40:44Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "savoiardi-ladyfingers",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "ladyfingers",
+    "descriptor": "Unique Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
