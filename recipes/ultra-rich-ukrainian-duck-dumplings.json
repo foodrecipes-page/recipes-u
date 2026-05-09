@@ -1,0 +1,98 @@
+{
+  "title": "Ultra Rich Ukrainian Duck Dumplings",
+  "description": "A hearty and comforting Ukrainian dish featuring duck and a rich mother sauce, perfect for a sick day or a cold winter night.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, eggs, and a pinch of salt, and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Roll out the dough to a thickness of about 1/4 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of shredded duck breast in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Bring the chicken broth to a boil in a large pot, then reduce the heat to a simmer.",
+    "Carefully add the dumplings to the pot and cook for 10 minutes, or until they float to the surface.",
+    "While the dumplings are cooking, melt the butter in a small saucepan over medium heat.",
+    "Add the sour cream to the saucepan and stir until it is heated through.",
+    "Season the sauce with salt, pepper, and dill weed."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "homemade",
+    "one-pot",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 32
+  },
+  "slug": "ultra-rich-ukrainian-duck-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-rich-ukrainian-duck-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:42:48Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "duck",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "duck",
+    "descriptor": "ultra rich",
+    "dishForm": "Dumplings"
+  }
+}
