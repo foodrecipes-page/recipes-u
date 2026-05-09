@@ -1,0 +1,108 @@
+{
+  "title": "Unctuous Moroccan Lamb Tagine",
+  "description": "A rich and flavorful Moroccan dish featuring lamb, pickle juice, and bhuna spices, perfect for a midnight craving. This nut-free-friendly recipe is sure to satisfy.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the lamb pieces and cook until they are browned on all sides, about 5 minutes.",
+    "Add the bhuna spice mix, salt, and black pepper, and cook for 1 minute, until the spices are fragrant.",
+    "Add the pickle juice, chicken broth, and honey, and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the tagine or Dutch oven, and simmer the mixture for 2 1/2 hours, until the lamb is tender.",
+    "Stir in the chopped dried apricots and continue to simmer the mixture for an additional 30 minutes, until the apricots are tender and the sauce has thickened.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb",
+    "moroccan",
+    "one-pot",
+    "slow-cooked",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "unctuous-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:46:25Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "bhuna",
+    "primaryIngredient": "pickle juice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Unctuous",
+    "dishForm": "Tagine"
+  }
+}
