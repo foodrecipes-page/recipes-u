@@ -1,0 +1,95 @@
+{
+  "title": "Umami Chinese Prosciutto Noodles",
+  "description": "A savory and pillowy Chinese dish featuring prosciutto and dashi extract, perfect for a midnight craving. This halal-friendly recipe is a twist on traditional Chaozhou cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the noodles according to the package instructions.",
+    "In a small bowl, whisk together the dashi extract and soy sauce.",
+    "In a large skillet, heat the vegetable oil over medium heat and cook the prosciutto until crispy.",
+    "Remove the prosciutto from the skillet and set aside, leaving the grease behind.",
+    "Add the minced garlic and grated ginger to the skillet and cook until fragrant.",
+    "Add the cooked noodles to the skillet and toss to combine with the garlic and ginger.",
+    "Pour the dashi extract mixture over the noodles and toss to coat.",
+    "Return the prosciutto to the skillet and toss to combine with the noodles.",
+    "Transfer the noodles to a serving platter and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "halal-friendly",
+    "midnight-cravings",
+    "noodle-dishes",
+    "prosciutto-recipes",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "umami-chinese-prosciutto-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-chinese-prosciutto-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:30:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "dashi-extract",
+    "primaryIngredient": "prosciutto",
+    "diet": "halal",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "umami pillowy",
+    "dishForm": "Noodles"
+  }
+}
