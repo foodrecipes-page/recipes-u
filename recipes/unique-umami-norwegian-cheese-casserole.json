@@ -1,0 +1,110 @@
+{
+  "title": "Unique Umami Norwegian Cheese Casserole",
+  "description": "A pungent and comforting Norwegian dish featuring green chilli and katsuramuki-cut cheese, perfect for a cold winter night. This ovo-vegetarian-friendly casserole is sure to become a favorite.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gammelost cheese",
+      "amount": "1 block",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "green chilli",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Grease a 9x13 inch baking dish with olive oil.",
+    "In a large skillet, saute the chopped onion and minced garlic until softened.",
+    "Add the sliced green chilli to the skillet and cook for an additional 2 minutes.",
+    "In a large bowl, whisk together the beaten eggs, sour cream, salt, black pepper, and smoked paprika.",
+    "Add the cooked onion and green chilli mixture to the bowl and stir to combine.",
+    "Arrange half of the katsuramuki-cut Gammelost cheese in the prepared baking dish.",
+    "Pour the egg mixture over the cheese in the baking dish.",
+    "Top the egg mixture with the remaining Gammelost cheese.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "norwegian-cuisine",
+    "one-pan",
+    "ovovegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "unique-umami-norwegian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-norwegian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:37:21Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "green chilli",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cheese",
+    "descriptor": "Unique Umami",
+    "dishForm": "Casserole"
+  }
+}
