@@ -1,0 +1,99 @@
+{
+  "title": "Unique Nutty Korean Almond Bibimbap",
+  "description": "A nutty and glassy-jelly Korean dish featuring ground almonds and coconut cream, perfect for post-workout meals. This ayurvedic-tamasic-friendly bibimbap is served in a cazuela.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": "1 cup",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "gomasio",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium heat.",
+    "Add the sliced zucchini and carrots and cook until they are tender.",
+    "Add the shiitake mushrooms and cook until they are softened.",
+    "In a small bowl, whisk together the coconut cream and soy sauce.",
+    "Add the cooked jasmine rice to the bowl and stir to combine.",
+    "In a separate pan, toast the ground almonds over low heat until fragrant.",
+    "To assemble the bibimbap, place a scoop of the rice mixture in the bottom of a cazuela.",
+    "Add the cooked vegetables and mushrooms on top of the rice.",
+    "Sprinkle the toasted ground almonds and gomasio over the top.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "korean-food",
+    "one-pan",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "unique-nutty-korean-almond-bibimbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-nutty-korean-almond-bibimbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:43:40Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "ground almonds",
+    "diet": "ayurvedic-tamasic",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "almonds",
+    "descriptor": "Unique Nutty",
+    "dishForm": "Bibimbap"
+  }
+}
