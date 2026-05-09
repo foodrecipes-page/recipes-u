@@ -1,0 +1,105 @@
+{
+  "title": "Umami Springy French Suet Clafoutis",
+  "description": "A savory French clafoutis featuring suet and spring vegetables, perfect for a weeknight dinner. This dish is ayurvedic-rajasic-friendly and packed with umami flavor.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef suet",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "leeks",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "asparagus",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Knead the chopped suet and flour together in a large bowl until well combined.",
+    "Add the sliced leeks, mushrooms, and asparagus to the bowl and mix until the vegetables are evenly distributed.",
+    "In a separate bowl, whisk together the eggs, shredded gruyere cheese, salt, and black pepper.",
+    "Add the wet ingredients to the dry ingredients and mix until a thick batter forms.",
+    "Pour the batter into a 9x13 inch baking dish and drizzle with olive oil.",
+    "Bake the clafoutis for 35-40 minutes, or until puffed and golden brown.",
+    "Remove the clafoutis from the oven and let it cool for 10 minutes before serving.",
+    "Serve the clafoutis warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free-option",
+    "savory-clafoutis",
+    "spring-vegetables",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "umami-springy-french-suet-clafoutis",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-springy-french-suet-clafoutis",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:34:20Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "knead",
+    "primaryIngredient": "suet",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "suet",
+    "descriptor": "Umami Springy",
+    "dishForm": "Clafoutis"
+  }
+}
