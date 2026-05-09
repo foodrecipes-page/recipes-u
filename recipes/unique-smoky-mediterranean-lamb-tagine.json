@@ -1,0 +1,99 @@
+{
+  "title": "Unique Smoky Mediterranean Lamb Tagine",
+  "description": "A charred and chewy Mediterranean dish featuring Gruyere, smoked paprika, and lamb, cooked in a copper pot, this recipe is FODMAP friendly and perfect for a show-off dinner party.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "Gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "FODMAP friendly"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with smoked paprika, salt, black pepper, and dried oregano.",
+    "Heat the olive oil in the copper pot over medium-high heat and sear the lamb until browned on all sides.",
+    "Add the garlic-infused oil to the pot and stir to combine.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the lamb for 2.5 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and stir in the shredded Gruyere cheese until melted and well combined.",
+    "Serve the lamb hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "lamb-recipes",
+    "low-fodmap",
+    "mediterranean-diet",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "unique-smoky-mediterranean-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-smoky-mediterranean-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:03:14Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "smoke-hot",
+    "primaryIngredient": "gruy re",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Unique Smoky",
+    "dishForm": "Tagine"
+  }
+}
