@@ -1,0 +1,103 @@
+{
+  "title": "Unusual Spanish Cheese Paella",
+  "description": "A sour and savory Spanish dish featuring Vasterbottensost cheese, perfect for a unique date night, this paella is ayurvedic-rajasic-friendly and has a glassy-jelly texture from the cheese and the kneading process.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vasterbottensost cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "uncooked calasparra rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pimenton",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dates",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Knead the Vasterbottensost cheese until it becomes smooth and pliable.",
+    "Heat the olive oil in a large paella pan over medium heat.",
+    "Add the pimenton and saffron threads to the oil and cook for 1 minute.",
+    "Add the uncooked calasparra rice to the pan and cook for 2 minutes.",
+    "Add the water, lemon juice, and salt to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the kneaded Vasterbottensost cheese and cook until melted and glassy.",
+    "Top the paella with dates and parsley.",
+    "Transfer the paella to the preheated oven and bake for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-friendly",
+    "cheese-lovers",
+    "date-night",
+    "spanish-food",
+    "unique-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "unusual-spanish-cheese-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unusual-spanish-cheese-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:16:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cheese",
+    "descriptor": "Unusual",
+    "dishForm": "Paella"
+  }
+}
