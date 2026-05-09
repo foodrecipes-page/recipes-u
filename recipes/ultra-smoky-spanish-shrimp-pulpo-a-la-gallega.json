@@ -1,0 +1,104 @@
+{
+  "title": "Ultra Smoky Spanish Shrimp Pulpo A La Gallega",
+  "description": "A quick and flavorful Spanish dish featuring shrimp and smoked paprika, perfect for a low glycemic diet",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": "diced, 14 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat",
+    "Add the chopped onion and cook until translucent, about 3 minutes",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the chopped bell pepper and cook until tender, about 4 minutes",
+    "Add the smoked paprika, salt, black pepper, and cayenne pepper, and stir to combine",
+    "Add the diced tomato and cook for 2 minutes, stirring occasionally",
+    "Add the peeled and deveined shrimp and cook until pink and fully cooked, about 4 minutes",
+    "Serve the shrimp and sauce hot, garnished with chopped fresh parsley if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "low-glycemic",
+    "quick-fix",
+    "seafood",
+    "smoky",
+    "spanish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "ultra-smoky-spanish-shrimp-pulpo-a-la-gallega",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-smoky-spanish-shrimp-pulpo-a-la-gallega",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:05:24Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "smoke-hot",
+    "primaryIngredient": "shrimp",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shrimp",
+    "descriptor": "Ultra Smoky",
+    "dishForm": "Pulpo A La Gallega"
+  }
+}
