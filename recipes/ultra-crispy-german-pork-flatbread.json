@@ -1,0 +1,92 @@
+{
+  "title": "Ultra Crispy German Pork Flatbread",
+  "description": "A rich and crispy German dish featuring white wine and long-fermentation-dough, perfect for a weeknight dinner. This recipe is onion and garlic free.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably German type 550"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt.",
+    "Gradually add white wine to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it ferment in the refrigerator for at least 24 hours.",
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Roll out the fermented dough to a thickness of about 1/4 inch.",
+    "Brush the dough with olive oil and sprinkle with caraway seeds and black pepper.",
+    "Arrange the sliced pork belly on top of the dough, leaving a 1 inch border around the edges.",
+    "Bake the flatbread in the preheated oven for 25 minutes or until the crust is golden brown and the pork is crispy.",
+    "Remove the flatbread from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "german-cuisine",
+    "long-fermentation",
+    "no-onion-no-garlic",
+    "pork-belly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "ultra-crispy-german-pork-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-crispy-german-pork-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:46:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "white wine",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Ultra Crispy",
+    "dishForm": "Flatbread"
+  }
+}
