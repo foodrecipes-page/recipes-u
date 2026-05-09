@@ -1,0 +1,108 @@
+{
+  "title": "Unglazed Tunisian Rice Tagine",
+  "description": "A traditional Tunisian dish made with rice, vegetables, and spices, cooked in a tagine and served in a lacquerware bowl, featuring a grassy and gooey texture, and providing an energizing meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until it is softened and translucent.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the chopped carrots and zucchini and cook for 5 minutes, stirring occasionally.",
+    "Add the tomato paste, ground cumin, paprika, and salt, and stir to combine.",
+    "Add the rinsed and drained rice to the tagine, stirring to combine with the vegetables and spices.",
+    "Add the water to the tagine and bring to a boil.",
+    "Reduce the heat to low, cover the tagine, and simmer for 20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the tagine from the heat and let it rest, covered, for 5 minutes.",
+    "Fluff the rice and vegetables with a fork and serve in a lacquerware bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "north-african",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "unglazed-tunisian-rice-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unglazed-tunisian-rice-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:45:28Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "tagine-cook",
+    "primaryIngredient": "rice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "rice",
+    "descriptor": "unglazed gooey",
+    "dishForm": "Tagine"
+  }
+}
