@@ -1,0 +1,114 @@
+{
+  "title": "Unique Jamaican Cumin Ground Delight Bao",
+  "description": "Nutty and springy, this nostalgic Jamaican dish features the bold flavor of ground cumin, cooked in a traditional ttukbaegi earthenware pot. Paleo-friendly and perfect for a quick dinner or snack.",
+  "cuisine": "jamaican",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons",
+      "notes": "freshly toasted for added flavor"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "lean and grass-fed for optimal nutrition"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced and caramelized for sweetness"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced and sautéed for depth of flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "coarse, Himalayan pink for added mineral content"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground for optimal flavor"
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": "crispy and crumbled for added texture"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free alternative for the paleo diet"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "filtered and cold for optimal hydration"
+    },
+    {
+      "name": "bacon fat",
+      "amount": "2 tablespoons",
+      "notes": "reserved and reused for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot over medium heat.",
+    "Add the bacon to the pot and cook until crispy, about 6 minutes.",
+    "Remove the bacon from the pot and set aside, leaving the fat behind.",
+    "Add the sliced onion to the pot and cook until caramelized, about 8 minutes.",
+    "Add the minced garlic to the pot and cook for an additional minute, stirring constantly.",
+    "Add the ground cumin to the pot and cook for 1 minute, stirring constantly.",
+    "Add the ground beef to the pot, breaking it up with a spoon as it cooks.",
+    "Add the salt and black pepper to the pot, stirring to combine.",
+    "Add the flour to the pot, stirring to combine.",
+    "Gradually add the water to the pot, stirring constantly to avoid lumps.",
+    "Return the crispy bacon to the pot, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the flavors have melded together and the beef is cooked through.",
+    "Serve the Unique Jamaican Cumin Ground Delight Bao hot, garnished with chopped fresh cilantro and scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "ground-cumin",
+    "jamaican",
+    "one-pan",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 16,
+    "fat": 40
+  },
+  "slug": "unique-jamaican-cumin-ground-delight-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-jamaican-cumin-ground-delight-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:10:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "ground cumin",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cumin ground",
+    "descriptor": "Unique Jamaican",
+    "dishForm": null
+  }
+}
