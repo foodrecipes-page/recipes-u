@@ -1,0 +1,98 @@
+{
+  "title": "Unique Smoky Australian Shrimp Skewers",
+  "description": "A cultured and creamy Australian dish featuring Thai chilli jam, reduced to perfection and grilled to a smoky finish on a robata grill, this recipe is a show-off dish that combines the best of Australian and Thai flavors, with a macrobiotic-friendly twist.",
+  "cuisine": "Australian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Thai chilli jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut milk, Thai chilli jam, lemon juice, olive oil, garlic, ginger, salt, and black pepper.",
+    "Add the shrimp to the bowl and toss to coat with the marinade, letting it sit for at least 10 minutes.",
+    "Thread the marinated shrimp onto skewers, leaving a small space between each shrimp.",
+    "Brush the grill with olive oil to prevent sticking and grill the shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "Let the shrimp rest for a few minutes before serving, garnished with fresh cilantro and a side of steamed vegetables.",
+    "Reduce the remaining marinade by cooking it over low heat for a few minutes, stirring constantly, until it thickens into a creamy sauce.",
+    "Serve the shrimp with the reduced sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "thai-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "unique-smoky-australian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-smoky-australian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:41:39Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shrimp",
+    "descriptor": "unique smoky",
+    "dishForm": "Skewers"
+  }
+}
