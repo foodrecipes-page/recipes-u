@@ -1,0 +1,130 @@
+{
+  "title": "Vietnamese Bun Rieu with Herbes de Provence",
+  "description": "A sweet, adventurous twist on the classic Vietnamese noodle soup, featuring herbes de Provence and a crispy fried shallot topping.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "halal",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork blood",
+      "amount": "1 cup",
+      "notes": "Halal-friendly, you can omit if not comfortable with blood."
+    },
+    {
+      "name": "Herbes de Provence",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "Use gluten-free fish sauce."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Canned, crushed."
+    },
+    {
+      "name": "Noodles",
+      "amount": "1 package",
+      "notes": "Rice stick noodles."
+    },
+    {
+      "name": "Shallots",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced, for garnish."
+    },
+    {
+      "name": "Pork fillet",
+      "amount": "1 lb",
+      "notes": "Braised in the broth."
+    },
+    {
+      "name": "Fish balls",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "8 oz",
+      "notes": "For the cheese pull."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large pot over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the pork blood and fish sauce. Cook for 2-3 minutes, until the blood is lightly browned.",
+    "Add the tomato puree, pork fillet, and fish balls. Simmer for 10-15 minutes, until the pork is cooked through.",
+    "Add the noodles to the pot and cook for 2-3 minutes, until heated through.",
+    "Stir in the cheese until melted and gooey.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with thinly sliced shallots, chopped cilantro, and a sprinkle of herbes de Provence.",
+    "Serve hot, with additional fish sauce and lime wedges on the side.",
+    "In a separate pan, heat a thin layer of oil over medium heat. Fry the shallots until crispy, about 5-7 minutes, until golden brown.",
+    "Drain the fried shallots on paper towels and sprinkle over the soup.",
+    "Serve immediately, with a cheese pull on top.",
+    "Bun Rieu is traditionally served with a crispy fried shallot topping, but you can omit if you prefer a lighter version."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "unmistakably-sweet-vietnamese-adventurous-bun-rieu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/unmistakably-sweet-vietnamese-adventurous-bun-rieu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:55:21Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "fry",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "adventurous",
+    "descriptor": "unmistakably sweet",
+    "dishForm": "Bun Rieu"
+  }
+}
