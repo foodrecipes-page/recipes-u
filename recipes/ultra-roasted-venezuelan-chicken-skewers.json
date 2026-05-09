@@ -1,0 +1,91 @@
+{
+  "title": "Ultra Roasted Venezuelan Chicken Skewers",
+  "description": "A solo dinner dish featuring roasted chicken skewers with a blend of Venezuelan spices and curry powder, served on a wooden board.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together curry powder, olive oil, lime juice, garlic, salt, black pepper, and paprika.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a wooden board lined with parchment paper.",
+    "Roast the chicken skewers in the preheated oven for 20 minutes, or until cooked through.",
+    "Remove the skewers from the oven and let rest for 5 minutes before serving.",
+    "Serve the chicken skewers hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "gluten-free",
+    "roasted-chicken",
+    "venezuelan-cuisine",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "ultra-roasted-venezuelan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-roasted-venezuelan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:22:49Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "emulsify",
+    "primaryIngredient": "curry powder",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Ultra Roasted",
+    "dishForm": "Skewers"
+  }
+}
