@@ -1,0 +1,95 @@
+{
+  "title": "Slovakian Rice Flour Pancakes",
+  "description": "A traditional Slovakian dish featuring fluffy rice flour pancakes, perfect for a post-workout meal, these briny pancakes are cooked on a cedar plank and are free from onions and garlic.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": "preferably finely milled"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the rice flour, sugar, yeast, and salt.",
+    "In a separate bowl, whisk together the milk, eggs, and melted butter.",
+    "Slowly add the wet ingredients to the dry ingredients and mix until a smooth batter forms.",
+    "Add the water to the batter and mix until fully incorporated.",
+    "Cover the bowl with a damp cloth and let the batter rest in a warm place for 30 minutes.",
+    "Preheat a cedar plank in a pressure cooker by heating it over medium heat for 5 minutes.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the preheated cedar plank.",
+    "Close the pressure cooker lid and cook for 5 minutes.",
+    "Remove the pancakes from the pressure cooker and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "gluten-free",
+    "high-protein",
+    "post-workout",
+    "pressure-cooker",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "unique-briny-slovakian-rice-flour-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-briny-slovakian-rice-flour-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:08:53Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "rice flour",
+    "descriptor": "unique briny",
+    "dishForm": "Pancakes"
+  }
+}
