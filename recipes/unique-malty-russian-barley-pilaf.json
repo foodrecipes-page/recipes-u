@@ -1,0 +1,98 @@
+{
+  "title": "Malty Russian Barley Pilaf",
+  "description": "A light and malty one-pot Russian dish featuring mirin-hon and cure, halal-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pearl barley",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mirin-hon",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cure",
+      "amount": "1 teaspoon",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the grated carrot and cook for an additional 2 minutes.",
+    "Add the pearl barley and cook for 1 minute, stirring constantly.",
+    "Add the water, mirin-hon, cure, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Remove from heat and let rest for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "barley-recipes",
+    "halal-friendly",
+    "light-meals",
+    "one-pot",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "unique-malty-russian-barley-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-malty-russian-barley-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:35:14Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "cure",
+    "primaryIngredient": "mirin-hon",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "barley",
+    "descriptor": "unique malty",
+    "dishForm": "Pilaf"
+  }
+}
