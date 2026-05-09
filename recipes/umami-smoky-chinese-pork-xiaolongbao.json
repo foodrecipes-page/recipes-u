@@ -1,0 +1,101 @@
+{
+  "title": "Umami Smoky Chinese Pork Xiaolongbao",
+  "description": "A Whole30-friendly, Chinese-inspired dish featuring hot smoked paprika and pressure-cooked pork, all wrapped up in a delicious xiaolongbao package.",
+  "cuisine": "Chinese",
+  "diet": [
+    "Whole30",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "round wonton wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together hot smoked paprika, coconut aminos, sesame oil, salt, and black pepper to create a marinade.",
+    "Place the pork shoulder in a large bowl and brush the marinade all over it, making sure to coat it evenly.",
+    "Let the pork shoulder marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Heat a pressure cooker over high heat and add the marinated pork shoulder, then close the lid and cook for 30 minutes.",
+    "Let the pressure release naturally, then open the lid and shred the pork shoulder into bite-sized pieces.",
+    "In a small pan, heat some sesame oil over medium heat and add the grated ginger and chopped green onions, cooking until fragrant.",
+    "Add the cooked ginger and green onions to the shredded pork and mix well.",
+    "Lay a wonton wrapper on a clean surface and place a small spoonful of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edge of the wrapper, then fold the wrapper into a triangle and press the edges together to seal the xiaolongbao.",
+    "Repeat with the remaining wrappers and filling, then serve the xiaolongbao hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "meal-prep",
+    "paleo",
+    "pressure-cooker",
+    "smoky",
+    "umami",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "umami-smoky-chinese-pork-xiaolongbao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-smoky-chinese-pork-xiaolongbao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:28:08Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "pressure-cook",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "whole30",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Umami Smoky",
+    "dishForm": "Xiaolongbao"
+  }
+}
