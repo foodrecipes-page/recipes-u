@@ -1,0 +1,110 @@
+{
+  "title": "Unique Umami Polish Paccheri Pasta",
+  "description": "A fermented, springy, quick-fix Polish dish featuring paccheri pasta and a mirepoix base, this vegetarian-friendly recipe is perfect for a weeknight dinner. It combines the richness of sauerkraut and the earthiness of mushrooms for a deep umami flavor.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the paccheri pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onions, carrots, and celery until they are softened.",
+    "Add the sliced mushrooms to the skillet and continue to cook until they release their moisture and start to brown.",
+    "Stir in the tomato paste and cook for 1 minute, until fragrant.",
+    "Add the vegetable broth to the skillet and bring to a simmer.",
+    "Reduce the heat to low and let the sauce simmer while the pasta cooks.",
+    "Stir in the sauerkraut and cook until heated through.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the sauce and sauerkraut.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mushroom-based",
+    "one-pot",
+    "pasta-dish",
+    "umami",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "unique-umami-polish-paccheri-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-polish-paccheri-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:39:23Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "polish",
+    "mainIngredient": "paccheri pasta",
+    "descriptor": "unique umami",
+    "dishForm": "pasta"
+  }
+}
