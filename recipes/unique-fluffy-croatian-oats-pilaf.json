@@ -1,0 +1,105 @@
+{
+  "title": "Croatian Oats Pilaf",
+  "description": "A fresh and fluffy Croatian dish featuring ground oats, perfect for a low-carb meal prep option. This recipe is a unique twist on traditional pilaf.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground oats",
+      "amount": "2 cups",
+      "notes": "rolled oats ground in a blender"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "shredded chicken",
+      "amount": "1 cup",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": "sauteed until translucent"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves",
+      "notes": "sauteed with onion"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": "smoked or sweet"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, bring the chicken broth to a boil over high heat.",
+    "Add the ground oats to the boiling broth, stirring constantly to prevent lumps.",
+    "Reduce the heat to medium-low and simmer, covered, for 20 minutes or until the oats have absorbed most of the liquid.",
+    "In a large skillet, saute the diced onion and minced garlic over medium heat until the onion is translucent.",
+    "Add the diced bell pepper to the skillet and continue to cook until the pepper is tender.",
+    "Stir in the shredded chicken, salt, black pepper, and paprika, and cook for an additional 2 minutes.",
+    "Fluff the cooked oats with a fork and stir in the chicken and vegetable mixture.",
+    "Serve the pilaf hot, garnished with chopped fresh herbs if desired.",
+    "Let the pilaf cool completely before refrigerating or freezing for meal prep."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-recipe",
+    "croatian-cuisine",
+    "gluten-free",
+    "healthy-eating",
+    "low-carb",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "unique-fluffy-croatian-oats-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-fluffy-croatian-oats-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:37:15Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "ground oats",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "oats",
+    "descriptor": "unique fluffy",
+    "dishForm": "Pilaf"
+  }
+}
