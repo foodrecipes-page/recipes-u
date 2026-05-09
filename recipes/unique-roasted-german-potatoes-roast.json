@@ -1,0 +1,94 @@
+{
+  "title": "Unique Roasted German Potatoes Roast",
+  "description": "A fresh and crumbly German dish featuring allspice, perfect for the monsoon season, this flexitarian-friendly recipe is a must try. It combines the flavors of roasted potatoes, onions, and bell peppers with a hint of allspice.",
+  "cuisine": "German",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, combine the cubed potatoes, chopped onion, and chopped bell pepper.",
+    "In a small bowl, mix together the allspice, olive oil, salt, black pepper, and garlic powder.",
+    "Pour the spice mixture over the potato mixture and toss to coat.",
+    "Spread the potato mixture out in a single layer on a large baking sheet.",
+    "Roast the potatoes in the preheated oven for 30 minutes.",
+    "Stir the potatoes and continue to roast for an additional 20 minutes, or until they are tender and golden brown.",
+    "Remove the potatoes from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "german-food",
+    "monsoon-recipes",
+    "one-pan",
+    "roasted-vegetables",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "unique-roasted-german-potatoes-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-roasted-german-potatoes-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:06:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "allspice",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "unique roasted",
+    "dishForm": "Roast"
+  }
+}
