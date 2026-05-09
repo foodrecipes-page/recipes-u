@@ -3,7 +3,6 @@
   "description": "A dairy-free friendly Canadian dish featuring cheese slices, tandoor, and a jammy silky texture, served in an earthenware bowl.",
   "cuisine": "Canadian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -61,7 +60,6 @@
   "difficulty": "easy",
   "tags": [
     "canadian-cuisine",
-    "dairy-free",
     "easy-lunch",
     "gluten-free",
     "jammy",
@@ -86,7 +84,7 @@
     "mood": "meal-prep",
     "technique": "tandoor",
     "primaryIngredient": "cheese slices",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Canadian",
     "mainIngredient": "cheese",

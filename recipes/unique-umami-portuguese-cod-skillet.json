@@ -2,9 +2,7 @@
   "title": "Unique Umami Portuguese Cod Skillet",
   "description": "A solo dinner Portuguese dish featuring cod, white vinegar, and a mantecare emulsify, cooked in a comal skillet with a yeasty and shaggy texture, this dish is perfect for a weeknight dinner",
   "cuisine": "Portuguese",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,7 +70,6 @@
   "tags": [
     "cod-recipes",
     "one-pan",
-    "pescatarian",
     "portuguese-cuisine",
     "umami-flavors",
     "weeknight"

@@ -3,8 +3,7 @@
   "description": "A plant-based Greek stew featuring lentils, fines-herbes, and a smoky flavor, cooked to perfection in a tagine pot.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [

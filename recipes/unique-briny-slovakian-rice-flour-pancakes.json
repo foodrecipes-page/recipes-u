@@ -3,7 +3,6 @@
   "description": "A traditional Slovakian dish featuring fluffy rice flour pancakes, perfect for a post-workout meal, these briny pancakes are cooked on a cedar plank and are free from onions and garlic.",
   "cuisine": "Slovakian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "cedar-plank",
-    "gluten-free",
     "high-protein",
     "post-workout",
     "pressure-cooker",

@@ -3,8 +3,7 @@
   "description": "A low-carb friendly Turkish dish featuring roasted Deodeok root, infused oil, and a cozy revani form, cooked in a tagine pot.",
   "cuisine": "Turkish",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "desserts",
-    "gluten-free",
     "low-carb",
     "revani",
     "tagine-pot",

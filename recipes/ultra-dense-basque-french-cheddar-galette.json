@@ -3,7 +3,6 @@
   "description": "A rich and decadent galette that showcases the flavors of mature cheddar cheese, perfect for special occasions or as a show-stopping appetizer. This dish is a unique fusion of Basque and French cuisines, with a dense and flaky crust, a creamy cheese filling, and a hint of caramelized onions.",
   "cuisine": "Basque French",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "dinner",
@@ -61,7 +60,6 @@
     "appetizer",
     "cheesy",
     "dinner-party",
-    "gluten-free",
     "gourmet",
     "high-protein",
     "weeknight"

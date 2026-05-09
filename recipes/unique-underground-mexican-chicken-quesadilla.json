@@ -2,9 +2,7 @@
   "title": "Unique Underground Mexican Chicken Quesadilla",
   "description": "A mustardy and velvety Mexican dish featuring shredded coconut, dehydrated and wrapped in a banana leaf, this unique quesadilla is a quick fix for any meal, it is gluten free friendly.",
   "cuisine": "Mexican",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -64,7 +62,6 @@
   "difficulty": "medium",
   "tags": [
     "chicken-recipes",
-    "gluten-free",
     "lunch-ideas",
     "mexican-food",
     "one-pan",

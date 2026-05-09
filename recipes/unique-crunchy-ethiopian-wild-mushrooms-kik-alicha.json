@@ -86,7 +86,7 @@
     "mood": "adventurous",
     "technique": "blanch",
     "primaryIngredient": "wild mushrooms",
-    "diet": "vegan",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Ethiopian",
     "mainIngredient": "wild mushrooms",

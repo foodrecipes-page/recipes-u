@@ -3,8 +3,7 @@
   "description": "Nutty and springy, this nostalgic Jamaican dish features the bold flavor of ground cumin, cooked in a traditional ttukbaegi earthenware pot. Paleo-friendly and perfect for a quick dinner or snack.",
   "cuisine": "jamaican",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,8 @@
     "Gradually add the water to the pot, stirring constantly to avoid lumps.",
     "Return the crispy bacon to the pot, stirring to combine.",
     "Bring the mixture to a simmer and cook for 10 minutes, or until the flavors have melded together and the beef is cooked through.",
-    "Serve the Unique Jamaican Cumin Ground Delight Bao hot, garnished with chopped fresh cilantro and scallions if desired."
+    "Serve the Unique Jamaican Cumin Ground Delight Bao hot, garnished with chopped fresh cilantro and scallions if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -81,7 +81,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-dinner",
-    "gluten-free",
     "ground-cumin",
     "jamaican",
     "one-pan",

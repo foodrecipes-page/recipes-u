@@ -69,11 +69,12 @@
     "Cover the vessel with a lid and place it in the oven to cook for 25 minutes.",
     "Remove the vessel from the oven and let it cool to room temperature.",
     "Refrigerate the terrine for at least 2 hours before serving.",
-    "Slice the terrine into thick slices and serve chilled."
+    "Slice the terrine into thick slices and serve chilled.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
-  "totalTimeMin": 65,
+  "totalTimeMin": 45,
   "servings": 6,
   "difficulty": "medium",
   "tags": [

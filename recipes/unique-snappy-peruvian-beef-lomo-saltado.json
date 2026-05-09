@@ -3,8 +3,7 @@
   "description": "A peppery and snappy Peruvian dish featuring seeds and a deglaze fond, perfect for midnight cravings, this low glycemic friendly lomo saltado is a must try. It combines the tenderness of beef with the crunch of seeds and the savory flavor of Peruvian spices.",
   "cuisine": "Peruvian",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -75,7 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "beef-recipes",
-    "gluten-free",
     "low-glycemic",
     "one-pan",
     "peruvian-cuisine",
