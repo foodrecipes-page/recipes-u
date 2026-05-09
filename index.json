@@ -744,6 +744,21 @@
     "shard": "u"
   },
   {
+    "slug": "ultracrisp-russian-tomato-pilaf",
+    "title": "Ultracrisp Russian Tomato Pilaf",
+    "tags": [
+      "comfort-food",
+      "high-carb",
+      "one-pan",
+      "ovo-vegetarian",
+      "russian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 60,
+    "shard": "u"
+  },
+  {
     "slug": "ultramodern-filipino-egg-tagine",
     "title": "ultramodern filipino egg tagine",
     "tags": [
