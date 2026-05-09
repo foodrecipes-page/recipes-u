@@ -1,0 +1,99 @@
+{
+  "title": "Unique Crunchy Algerian Pepper Wrap",
+  "description": "This mustardy and crunchy weeknight Algerian dish features mixed peppers and a ssam-wrap, perfect for a dairy-free friendly meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed peppers",
+      "amount": "2 cups",
+      "notes": "any color"
+    },
+    {
+      "name": "whole wheat tortilla",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "mustard",
+      "amount": "1/4 cup",
+      "notes": "whole grain"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "ssam wrap sauce",
+      "amount": "1/4 cup",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "crunchy fried onions",
+      "amount": "1/2 cup",
+      "notes": "store bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Slice the mixed peppers into thin strips and place on a baking sheet.",
+    "Drizzle the peppers with a little bit of oil and roast in the oven for 20 minutes.",
+    "In a large bowl, mix together the chickpeas, cucumber, carrots, and mustard.",
+    "Once the peppers are done roasting, let them cool and then add them to the bowl and mix well.",
+    "Warm the whole wheat tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by spooning the pepper and chickpea mixture onto the center of the tortilla and drizzling with ssam wrap sauce.",
+    "Top the wraps with crunchy fried onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "dairy-free",
+    "high-fiber",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "unique-crunchy-algerian-pepper-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crunchy-algerian-pepper-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:35:56Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "mixed peppers",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "peppers",
+    "descriptor": "unique crunchy",
+    "dishForm": "Wrap"
+  }
+}
