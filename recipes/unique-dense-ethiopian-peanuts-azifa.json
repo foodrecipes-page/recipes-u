@@ -1,0 +1,92 @@
+{
+  "title": "Unique Dense Ethiopian Peanuts Azifa",
+  "description": "A citrusy and dense Ethiopian dish featuring peanuts, this azifa is perfect for midnight cravings and is low-fat-friendly, with a unique nigiri-shaped form.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "raw, unsalted"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Grind the peanuts into a fine paste using a food processor.",
+    "Heat the lemon juice in a saucepan over low heat.",
+    "Add the garlic, ginger, berbere spice, salt, and black pepper to the saucepan and stir well.",
+    "Add the peanut paste to the saucepan and stir until well combined.",
+    "Gradually add the water to the saucepan and stir until the mixture forms a dense paste.",
+    "Remove the saucepan from the heat and let it cool.",
+    "Shape the paste into small nigiri-shaped forms.",
+    "Serve the azifa at room temperature or chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dense-snack",
+    "ethiopian-cuisine",
+    "high-protein",
+    "low-fat",
+    "midnight-craving",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "unique-dense-ethiopian-peanuts-azifa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-dense-ethiopian-peanuts-azifa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:57:15Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "peanuts",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Unique Dense",
+    "dishForm": "Azifa"
+  }
+}
