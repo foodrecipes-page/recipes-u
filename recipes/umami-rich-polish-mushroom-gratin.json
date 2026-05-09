@@ -1,0 +1,101 @@
+{
+  "title": "Umami Rich Polish Mushroom Gratin",
+  "description": "A savory Polish dish featuring mushrooms, pomegranate, and a mother sauce base, perfect for a hangover cure, made in individual mini cocottes. This satvik friendly recipe is a great option for a comforting meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until softened.",
+    "Add the mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "Stir in the bechamel sauce, salt, and black pepper, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for a few minutes until it thickens.",
+    "Stir in the chopped fresh thyme and pomegranate seeds.",
+    "Transfer the mixture to individual mini cocottes or ramekins.",
+    "Top each cocotte with shredded gruyere cheese.",
+    "Place the cocottes on a baking sheet and bake in the preheated oven for 15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the cocottes from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gratin",
+    "mushroom-recipes",
+    "one-pan",
+    "polish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "umami-rich-polish-mushroom-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-rich-polish-mushroom-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:20:14Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "pomegranate",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Umami Rich",
+    "dishForm": "Gratin"
+  }
+}
