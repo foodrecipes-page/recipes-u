@@ -1,0 +1,93 @@
+{
+  "title": "Unique Spicy Ethiopian Samphire Berbere Stew Bake",
+  "description": "A spicy and crisp Ethiopian dish featuring samphire in a berbere stew, perfect for a brunch mood, onion and garlic free, served on a wooden board.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "200g",
+      "notes": "fresh"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius.",
+    "Rinse the samphire and cut it into 5cm pieces.",
+    "In a large bowl, mix together the berbere spice mix, tomato paste, coconut oil, lemon juice, salt, and black pepper.",
+    "Add the samphire to the bowl and toss to coat with the spice mixture.",
+    "Transfer the samphire mixture to a baking dish and add the water.",
+    "Cover the dish with foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the samphire is tender and lightly browned.",
+    "Remove the dish from the oven and let it cool for a few minutes.",
+    "Serve the samphire berbere stew hot, directly on a wooden board."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "brunch-ideas",
+    "gluten-free",
+    "one-pan",
+    "spicy-food",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "unique-spicy-ethiopian-samphire-berbere-stew-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-spicy-ethiopian-samphire-berbere-stew-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:14:35Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "bake",
+    "primaryIngredient": "samphire",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "samphire",
+    "descriptor": "Unique Spicy",
+    "dishForm": "Berbere Stew"
+  }
+}
