@@ -1,0 +1,102 @@
+{
+  "title": "Untouched Fluffy Vietnamese Chicken Pho Ga",
+  "description": "A floral and fluffy Vietnamese dish featuring ground coriander, served in a stone bowl and wrapped in a banana leaf, this lacto-vegetarian-friendly pho ga is a nostalgic treat. It combines the richness of chicken with the simplicity of Vietnamese flavors.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2 whole"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "vegetarian alternative"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4 wedges"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the chicken breast, ground coriander, onion, ginger, star anise, and cinnamon sticks.",
+    "Pour in 4 quarts of water and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 30 minutes or until the chicken is cooked through.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add the fish sauce and rice noodles to the pot and cook for 5 minutes or until the noodles are tender.",
+    "Prepare the banana leaves by cutting them into large squares and wiping them clean with a damp cloth.",
+    "To assemble the pho ga, place a portion of the noodles and chicken into each banana leaf square.",
+    "Spoon some of the hot broth over the top and serve immediately with a lime wedge on the side.",
+    "Serve the pho ga in a stone bowl for a traditional and rustic presentation."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "floral",
+    "fluffy",
+    "lacto-vegetarian",
+    "noodle-soup",
+    "stone-bowl",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "untouched-fluffy-vietnamese-chicken-pho-ga",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/untouched-fluffy-vietnamese-chicken-pho-ga",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:16:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "ground coriander",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Untouched Fluffy",
+    "dishForm": "Pho Ga"
+  }
+}
