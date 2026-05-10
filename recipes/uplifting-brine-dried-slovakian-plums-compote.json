@@ -1,0 +1,101 @@
+{
+  "title": "Uplifting Brine-Dried Slovakian Plums Compote",
+  "description": "A nutty, springy, and refreshing Slovakian dish featuring a plum sauce made from brine-dried plums, perfect for serving in individual mini cocottes.",
+  "cuisine": "slovakian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plums",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 cup",
+      "notes": "coarse salt"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "arrowroot powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine the water, salt, brown sugar, black peppercorns, and ginger.",
+    "Bring the mixture to a boil over medium-high heat, stirring occasionally.",
+    "Reduce the heat to medium-low and simmer for 10 minutes, or until the salt and sugar have dissolved.",
+    "Add the plums to the saucepan and cook for an additional 5 minutes.",
+    "Remove the saucepan from the heat and let it cool to room temperature.",
+    "Strain the liquid through a fine-mesh sieve into a clean bowl, discarding the solids.",
+    "In a small bowl, whisk together the arrowroot powder and apple cider vinegar until smooth.",
+    "Add the arrowroot mixture to the plum liquid and stir to combine.",
+    "Return the mixture to the saucepan and cook over medium heat, stirring constantly, until the compote thickens, about 5-7 minutes.",
+    "Remove the saucepan from the heat and stir in the coconut oil.",
+    "Transfer the compote to individual mini cocottes or ramekins.",
+    "Refrigerate the compote for at least 2 hours or overnight to allow it to set and thicken further."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brine-dried-plums",
+    "individual-serve",
+    "plum-compote",
+    "slovakian-dish",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "uplifting-brine-dried-slovakian-plums-compote",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-brine-dried-slovakian-plums-compote",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T03:06:52Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "brine-dry",
+    "primaryIngredient": "plum sauce",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Plums",
+    "descriptor": "Uplifting Brine-Dried",
+    "dishForm": "Compote"
+  }
+}
