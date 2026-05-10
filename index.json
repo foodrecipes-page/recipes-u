@@ -3477,6 +3477,22 @@
     "shard": "u"
   },
   {
+    "slug": "unctuous-mexican-shirataki-noodles",
+    "title": "Unctuous Mexican Shirataki Noodles",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "low-carb",
+      "mexican",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
     "slug": "unctuous-moroccan-lamb-tagine",
     "title": "Unctuous Moroccan Lamb Tagine",
     "tags": [
@@ -3670,6 +3686,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 55,
+    "shard": "u"
+  },
+  {
+    "slug": "unctuous-velvety-french-chicken-coq-au-vin",
+    "title": "Unctuous Velvety French Chicken Coq Au Vin",
+    "tags": [
+      "clay-pot-cooking",
+      "comfort-food",
+      "french-cuisine",
+      "low-carb",
+      "one-pot-meal",
+      "special-occasion"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {

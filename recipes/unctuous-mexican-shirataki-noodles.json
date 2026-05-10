@@ -1,0 +1,111 @@
+{
+  "title": "Unctuous Mexican Shirataki Noodles",
+  "description": "A tangy, crispy, Jain-friendly, one-pot Mexican dish, inspired by the flavors of Jalisco's cuisine. This recipe combines the crunch of crispy tortilla strips with the earthy sweetness of shirataki noodles.",
+  "cuisine": "Mexican",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shirataki noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "crushed tortilla chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated lime zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the ground cumin, paprika, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the dashi extract and stir to combine.",
+    "Add the cooked shirataki noodles to the skillet and stir to coat with the spice mixture.",
+    "Cook for 2-3 minutes, or until the noodles are well coated with the spice mixture.",
+    "Stir in the lime juice and cook for another minute.",
+    "Transfer the noodles to a serving platter.",
+    "Sprinkle the crushed tortilla chips and chopped cilantro over the noodles.",
+    "Garnish with grated lime zest and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "low-carb",
+    "mexican",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "unctuous-mexican-shirataki-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-mexican-shirataki-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T03:36:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "dashi-extract",
+    "primaryIngredient": "shirataki",
+    "diet": "jain",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "shirataki",
+    "descriptor": "Unctuous",
+    "dishForm": "Noodles"
+  }
+}
