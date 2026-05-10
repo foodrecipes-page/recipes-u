@@ -1,0 +1,101 @@
+{
+  "title": "Polish Carnaroli Rice Pilaf",
+  "description": "A winey, crumbly, quick-fix Polish dish featuring carnaroli rice, perfect for a weeknight dinner",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carnaroli rice",
+      "amount": "1 cup",
+      "notes": "imported from Italy"
+    },
+    {
+      "name": "sashimi-cut salmon",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat",
+    "Add the diced onion and cook until translucent, about 3 minutes",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the carnaroli rice and cook for 2 minutes, stirring constantly",
+    "Add the white wine and cook until the liquid is almost completely absorbed",
+    "Add the chicken broth, dried thyme, salt, and black pepper, and bring to a boil",
+    "Reduce the heat to low, cover, and simmer for 15 minutes",
+    "Fluff the rice with a fork and stir in the sashimi-cut salmon",
+    "Serve hot, garnished with chopped fresh parsley if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "gluten-free",
+    "one-pan",
+    "quick-fix",
+    "salmon-recipe",
+    "wine-lover"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "unique-polish-carnaroli-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-polish-carnaroli-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:34:02Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "carnaroli rice",
+    "descriptor": "Unique",
+    "dishForm": "Pilaf"
+  }
+}
