@@ -1,0 +1,98 @@
+{
+  "title": "Umami Roasted Peruvian Pork Roast",
+  "description": "A comforting Peruvian dish featuring passion fruit pulp and roasted to perfection, this umami rich pork roast is a low glycemic friendly delight",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "passion fruit pulp",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 400 degrees Fahrenheit",
+    "In a blender, combine passion fruit pulp, olive oil, garlic, ginger, aji amarillo pepper, salt, black pepper, and cumin, and blend until smooth",
+    "Place the pork roast in the iron teppan and brush the passion fruit mixture all over the roast",
+    "Roast the pork for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit",
+    "Let the pork rest for 10 minutes before slicing and serving",
+    "Slice the pork into thick slices and serve with the accumulated juices",
+    "Garnish with fresh cilantro and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 80,
+  "totalTimeMin": 100,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "peruvian-cuisine",
+    "pork-roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "umami-roasted-peruvian-pork-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-roasted-peruvian-pork-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:00:52Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pork",
+    "descriptor": "Umami Roasted",
+    "dishForm": "Roast"
+  }
+}
