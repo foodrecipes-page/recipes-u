@@ -1,0 +1,98 @@
+{
+  "title": "Unique Roasted Polish Potato Casserole",
+  "description": "A dense and comforting lacto-vegetarian Polish dish featuring roasted potatoes and vanilla sugar, made with air-fry technology for a crispy exterior and fluffy interior. This casserole is perfect for a cold winter evening.",
+  "cuisine": "Polish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced potatoes with 2 tablespoons of vegetable oil, salt, and black pepper until they are evenly coated.",
+    "Air-fry the potatoes in batches until they are golden brown and crispy, about 10-12 minutes per batch.",
+    "In a large skillet, sauté the chopped onion and minced garlic over medium heat until the onion is translucent.",
+    "In a separate bowl, mix together the sour cream, shredded cheddar cheese, and vanilla sugar.",
+    "In a 9x13 inch baking dish, create a layer of air-fried potatoes, followed by a layer of the sautéed onion and garlic, and finally a layer of the sour cream mixture.",
+    "Repeat the layers two more times, ending with a layer of the sour cream mixture on top.",
+    "Bake the casserole in a preheated oven at 375 degrees Fahrenheit for 25-30 minutes, or until the top is golden brown and the casserole is heated through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "casserole",
+    "comfort-food",
+    "lacto-vegetarian",
+    "polish-cuisine",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "unique-roasted-polish-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-roasted-polish-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:33:25Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "air-fry",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Unique Roasted",
+    "dishForm": "Casserole"
+  }
+}
