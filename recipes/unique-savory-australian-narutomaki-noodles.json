@@ -1,0 +1,104 @@
+{
+  "title": "Unique Savory Australian Narutomaki Noodles",
+  "description": "A rich and snappy Australian dish featuring narutomaki, perfect for a hangover cure, this ovo-vegetarian friendly meal is sure to satisfy your cravings. It combines the flavors of Australia with the uniqueness of Japanese narutomaki.",
+  "cuisine": "Australian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "narutomaki",
+      "amount": "1 cup",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "egg noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and blanch the egg noodles for 3 minutes.",
+    "Drain the noodles and set them aside to cool.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "Add the sliced narutomaki to the skillet and stir to combine with the onion and mushroom mixture.",
+    "In a small bowl, whisk together the soy sauce and sesame oil, then pour the mixture over the narutomaki and noodles.",
+    "Season with salt and pepper to taste, then stir to combine.",
+    "Combine the cooked noodles with the narutomaki mixture and toss to coat.",
+    "Serve the Unique Savory Australian Narutomaki Noodles hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "australian-cuisine",
+    "high-protein",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "unique-savory-australian-narutomaki-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-savory-australian-narutomaki-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:03:00Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "blanch",
+    "primaryIngredient": "narutomaki",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "narutomaki",
+    "descriptor": "Unique Savory",
+    "dishForm": "Noodles"
+  }
+}
