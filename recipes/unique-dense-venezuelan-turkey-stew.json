@@ -1,0 +1,104 @@
+{
+  "title": "Unique Dense Venezuelan Turkey Stew",
+  "description": "A hearty and dense Venezuelan stew made with turkey and bonito flakes, perfect for a rainy day. This low calorie dish is cooked to perfection in a kazan cauldron.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in the kazan cauldron over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the turkey breast and cook until browned, about 5 minutes.",
+    "Add the bonito flakes, cumin, and paprika, and stir to combine.",
+    "Add the chicken broth, potato, and carrot, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-calorie",
+    "one-pot",
+    "stew-recipe",
+    "turkey-recipe",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "unique-dense-venezuelan-turkey-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-dense-venezuelan-turkey-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:01:56Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "bonito-shave",
+    "primaryIngredient": "turkey",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "turkey",
+    "descriptor": "unique dense",
+    "dishForm": "Stew"
+  }
+}
