@@ -1,0 +1,94 @@
+{
+  "title": "Unique Crisp Norwegian Black Bean Bowl",
+  "description": "A low-carb, fermented, and crisp Norwegian dish featuring black beans, served in a bamboo tray, perfect for a romantic dinner",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked and fermented for 24 hours"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the fermented black beans, olive oil, salt, and pepper.",
+    "Spread the black bean mixture onto a bamboo tray lined with parchment paper.",
+    "Top the black bean mixture with crispy onions, crumbly feta cheese, and chopped fresh parsley.",
+    "Drizzle the lemon juice over the top of the black bean mixture.",
+    "Bake the black bean mixture in the preheated oven for 20 minutes, or until crispy and golden brown.",
+    "Remove the bamboo tray from the oven and let it cool for 5 minutes.",
+    "Serve the Unique Crisp Norwegian Black Bean Bowl hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snacks",
+    "fermented-foods",
+    "gluten-free",
+    "low-carb",
+    "norwegian-cuisine",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unique-crisp-norwegian-black-bean-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crisp-norwegian-black-bean-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:23:22Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "black beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "black beans",
+    "descriptor": "Unique Crisp",
+    "dishForm": "Bowl"
+  }
+}
