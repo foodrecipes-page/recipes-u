@@ -1,0 +1,101 @@
+{
+  "title": "Unique Creamy German Paneer Casserole",
+  "description": "A spicy and creamy German dish featuring paneer, this lacto-vegetarian friendly casserole is a light and delicious meal option. It combines the flavors of Germany with the creaminess of paneer.",
+  "cuisine": "German",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "german sausage",
+      "amount": "100g",
+      "notes": "sliced"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100ml"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "In a large pan, saute the chopped onions and minced garlic until they are softened.",
+    "Add the sliced german sausage to the pan and cook until it is browned.",
+    "Add the canned tomatoes, vegetable broth, heavy cream, paprika, salt, and black pepper to the pan and stir well.",
+    "Bring the mixture to a simmer and let it cook for 10 minutes.",
+    "Add the cubed paneer to the mixture and stir gently.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "unique-creamy-german-paneer-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-creamy-german-paneer-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:25:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "brine-dry",
+    "primaryIngredient": "paneer",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "paneer",
+    "descriptor": "unique creamy",
+    "dishForm": "Casserole"
+  }
+}
