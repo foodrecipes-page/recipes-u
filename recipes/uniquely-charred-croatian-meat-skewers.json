@@ -1,0 +1,90 @@
+{
+  "title": "Uniquely Charred Croatian Meat Skewers",
+  "description": "A dense and adventurous Croatian dish featuring mitsuba, charred to perfection and wrapped in lotus leaves, this recipe is fodmap friendly and offers a unique flavor experience.",
+  "cuisine": "Croatian",
+  "diet": [
+    "fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "mitsuba",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium high heat, about 400 degrees Fahrenheit.",
+    "In a mortar and pestle, pound the minced garlic and chopped mitsuba into a coarse paste.",
+    "In a large bowl, whisk together the olive oil, salt, and black pepper, then add the pounded garlic and mitsuba paste and mix well.",
+    "Add the pork shoulder cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers on the preheated grill and cook for 10-12 minutes, turning occasionally, until charred on all sides.",
+    "Wrap each skewer in a lotus leaf and serve immediately.",
+    "Garnish with additional chopped mitsuba if desired.",
+    "Serve with a side of roasted vegetables or a salad for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "fodmap-friendly",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "uniquely-charred-croatian-meat-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/uniquely-charred-croatian-meat-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:31:03Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "mitsuba",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "meat",
+    "descriptor": "Uniquely Charred",
+    "dishForm": "Skewers"
+  }
+}
