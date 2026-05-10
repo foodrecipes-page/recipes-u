@@ -1,0 +1,110 @@
+{
+  "title": "Unique Charred Saudi Arabian Herring Skewers",
+  "description": "A charred, flaky, show-off Saudi-Arabian dish featuring herring, perfect for a special occasion, this vegetarian-friendly recipe is sure to impress.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "herring fillets",
+      "amount": "12",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a mortar and pestle, pound the garlic and ginger until well combined and slightly smooth.",
+    "Add the cumin, coriander, paprika, salt, and black pepper to the mortar and pestle and pound until well combined.",
+    "Add the lemon juice and olive oil to the mortar and pestle and mix until smooth.",
+    "Thread a herring fillet onto each skewer, leaving a small space between each fillet.",
+    "Brush the herring fillets with the garlic-ginger mixture, making sure they are well coated.",
+    "Place the skewers on the grill and cook for 4-5 minutes per side, or until the herring is charred and flaky.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro if desired.",
+    "Repeat with the remaining ingredients."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "healthy",
+    "middle-eastern",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "unique-charred-saudi-arabian-herring-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-charred-saudi-arabian-herring-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:04:19Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "herring",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "herring",
+    "descriptor": "Unique Charred",
+    "dishForm": "Skewers"
+  }
+}
