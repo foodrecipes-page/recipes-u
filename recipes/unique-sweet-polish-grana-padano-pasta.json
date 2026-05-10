@@ -1,0 +1,97 @@
+{
+  "title": "Unique Sweet Polish Grana Padano Pasta",
+  "description": "A sweet and shattering Polish dish featuring Grana Padano, tadka, and Jain-friendly ingredients, served on a slate-tile vessel.",
+  "cuisine": "Polish",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tadka spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "apple sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and add the tadka spices.",
+    "Add the shredded Grana Padano cheese to the skillet and stir until melted and smooth.",
+    "Add the honey, apple sauce, salt, and black pepper to the skillet and stir until well combined.",
+    "Drain the cooked pasta and add it to the skillet, tossing to coat with the cheese sauce.",
+    "Transfer the pasta to a slate-tile vessel and top with chopped fresh parsley.",
+    "Serve hot and enjoy.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jain-friendly",
+    "kid-friendly",
+    "pasta-dish",
+    "polish-cuisine",
+    "sweet-and-savory",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "unique-sweet-polish-grana-padano-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-sweet-polish-grana-padano-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:54:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "tadka",
+    "primaryIngredient": "grana-padano",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "grana padano",
+    "descriptor": "unique sweet",
+    "dishForm": "Pasta"
+  }
+}
