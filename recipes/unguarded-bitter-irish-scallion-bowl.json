@@ -1,0 +1,100 @@
+{
+  "title": "Unguarded Bitter Irish Scallion Bowl",
+  "description": "A romantic Irish dish featuring caramelized scallions, this recipe is perfect for a raw-friendly and bitter meal, served in an earthenware bowl.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scallions",
+      "amount": "4 bunches",
+      "notes": "chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "irish cheddar",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "earthenware bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat and add the chopped scallions.",
+    "Cook the scallions for 20 minutes, stirring occasionally, until they are caramelized and golden brown.",
+    "In a small bowl, whisk together the olive oil, salt, and black pepper.",
+    "Add the crumbly irish cheddar to the bowl and toss to coat with the oil mixture.",
+    "To assemble the dish, place a layer of caramelized scallions in the bottom of the earthenware bowl.",
+    "Top the scallions with a layer of the crumbly irish cheddar mixture.",
+    "Drizzle the caramel sauce over the top of the cheddar layer.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "earthenware",
+    "irish-cuisine",
+    "one-bowl",
+    "raw-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "unguarded-bitter-irish-scallion-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unguarded-bitter-irish-scallion-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:29:04Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "caramelize",
+    "primaryIngredient": "scallions",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "scallions",
+    "descriptor": "unguarded bitter",
+    "dishForm": "Bowl"
+  }
+}
