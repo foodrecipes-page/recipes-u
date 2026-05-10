@@ -1,0 +1,94 @@
+{
+  "title": "Unique Briny Australian Lamb Tagine",
+  "description": "A flavorful and aromatic Australian lamb dish cooked in a tagine with chervil and briny flavors, perfect for a midnight craving. This Buddhist-temple-friendly recipe is made in a kadhai vessel.",
+  "cuisine": "Australian",
+  "diet": [
+    "halal",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "chervil",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a kadhai over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides.",
+    "Add the garlic, ginger, and chervil, and cook for 1 minute.",
+    "Add the preserved lemon, chicken broth, and salt, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Remove the lid and continue to simmer for an additional 30 minutes.",
+    "Serve the lamb hot, garnished with additional chervil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "briny-flavors",
+    "lamb-recipes",
+    "one-pot",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "unique-briny-australian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-briny-australian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:20:29Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "tagine-cook",
+    "primaryIngredient": "chervil",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Unique Briny",
+    "dishForm": "Tagine"
+  }
+}
