@@ -1,0 +1,110 @@
+{
+  "title": "Unique Umami Chinese Turmeric Chicken Hot Pot",
+  "description": "A tangy and molten Chinese hot pot dish featuring turmeric, perfect for a brunch mood, with a low-carb friendly twist.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 bunch",
+      "notes": "cleaned and separated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large hot pot or Dutch oven, heat the sesame oil over medium heat.",
+    "Add the sliced ginger and cook until fragrant, about 1 minute.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the chicken breast pieces and cook until browned, about 5 minutes.",
+    "Add the turmeric powder, soy sauce, and chicken broth, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the bok choy and cook until wilted, about 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve the hot pot in individual bowls, garnished with chopped green onions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "chinese-food",
+    "gluten-free",
+    "hot-pot",
+    "low-carb",
+    "turmeric-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "unique-umami-chinese-turmeric-chicken-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-umami-chinese-turmeric-chicken-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:33:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "rest",
+    "primaryIngredient": "turmeric",
+    "diet": "low-carb",
+    "region": "dongbei",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "turmeric chicken",
+    "descriptor": "Unique Umami",
+    "dishForm": "Hot Pot"
+  }
+}
