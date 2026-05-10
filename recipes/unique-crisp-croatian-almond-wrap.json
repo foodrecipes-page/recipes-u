@@ -1,0 +1,91 @@
+{
+  "title": "Unique Crisp Croatian Almond Wrap",
+  "description": "A yeasty, crisp Croatian dish featuring almond milk and Mediterranean-friendly ingredients, wrapped in a corn husk vessel, perfect for satisfying midnight cravings.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "nimono simmer sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine almond milk, yeast, and sugar, stirring to dissolve the yeast.",
+    "Add flour, olive oil, and salt to the bowl, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each into a thin circle.",
+    "Place a corn husk on a flat surface and put a dough circle in the center of the husk.",
+    "Brush the dough with nimono simmer sauce and fold the corn husk over the dough to form a wrap.",
+    "Repeat with the remaining dough and corn husks.",
+    "Heat a non-stick skillet over medium heat and cook the wraps for 2-3 minutes on each side, until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-recipes",
+    "crunchy-snacks",
+    "mediterranean-diet",
+    "vegetarian-options",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "unique-crisp-croatian-almond-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-crisp-croatian-almond-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:48:31Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "almond milk",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "almonds",
+    "descriptor": "Unique Crisp",
+    "dishForm": "Wrap"
+  }
+}
