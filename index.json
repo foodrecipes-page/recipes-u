@@ -6592,6 +6592,20 @@
     "shard": "u"
   },
   {
+    "slug": "unique-spicy-venezuelan-chicken-empanadas",
+    "title": "Venezuelan Chicken Empanadas",
+    "tags": [
+      "baked-goods",
+      "high-protein",
+      "latin-american",
+      "spicy-food",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
     "slug": "unique-springy-moroccan-chicken-tagine",
     "title": "Unique Springy Moroccan Chicken Tagine",
     "tags": [

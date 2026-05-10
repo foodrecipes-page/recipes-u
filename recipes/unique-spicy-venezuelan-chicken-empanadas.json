@@ -1,0 +1,100 @@
+{
+  "title": "Venezuelan Chicken Empanadas",
+  "description": "Spicy and fluffy empanadas featuring chicken and vegetable stock, perfect for a high protein meal, these empanadas are a show off Venezuelan dish, the use of papillote adds a nice touch to the presentation.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "vegetable stock cube",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, butter, and egg to make the empanada dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle.",
+    "In a separate bowl, mix the chicken breast, vegetable stock cube, paprika, cumin, salt, and black pepper.",
+    "Place a tablespoon of the chicken mixture onto the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Place the empanadas onto a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with the hot sauce and bake for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "high-protein",
+    "latin-american",
+    "spicy-food",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "unique-spicy-venezuelan-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-spicy-venezuelan-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:11:15Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "papillote",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "unique spicy",
+    "dishForm": "Empanadas"
+  }
+}
