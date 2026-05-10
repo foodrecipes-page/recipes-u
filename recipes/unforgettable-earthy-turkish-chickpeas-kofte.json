@@ -1,0 +1,106 @@
+{
+  "title": "Unforgettable Earthy Turkish Chickpeas Kofte",
+  "description": "A festive Turkish dish featuring chickpeas, render-fat, and earthy flavors, made into snappy kofte, low-sodium-friendly and perfect for any occasion. This dish is a delightful blend of textures and tastes.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "rendered lamb fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "whole wheat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mash the chickpeas using a fork or a potato masher until they are mostly smooth.",
+    "Add the rendered lamb fat, chopped onion, minced garlic, chopped parsley, paprika, cumin, salt-free seasoning blend, and black pepper to the bowl with the chickpeas.",
+    "Mix everything together until just combined, being careful not to overmix.",
+    "Stir in the whole wheat breadcrumbs.",
+    "Using your hands, shape the mixture into small kofte, about 1 1/2 inches in diameter.",
+    "Place the kofte on a baking sheet lined with parchment paper.",
+    "Bake the kofte in the preheated oven for 18 minutes, flipping them halfway through.",
+    "Remove the kofte from the oven and let them cool on the baking sheet for a few minutes.",
+    "Serve the kofte hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "low-sodium",
+    "middle-eastern",
+    "turkish-food",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "unforgettable-earthy-turkish-chickpeas-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unforgettable-earthy-turkish-chickpeas-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:24:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "render-fat",
+    "primaryIngredient": "chickpeas",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Unforgettable earthy",
+    "dishForm": "Kofte"
+  }
+}
