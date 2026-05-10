@@ -1,0 +1,97 @@
+{
+  "title": "Smoky Slovakian Myeongnan Roe Poke",
+  "description": "A unique and quick-fix Slovakian dish featuring smoky myeongnan roe, sashimi-cut and served as a glassy-jelly poke, this recipe is fodmap-friendly and perfect for a snack or light meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Myeongnan roe",
+      "amount": "1 cup",
+      "notes": "Sashimi-cut"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together sesame oil, rice vinegar, smoked paprika, salt, and black pepper to make the smoky dressing.",
+    "In a separate bowl, mix together myeongnan roe, toasted sesame seeds, and chopped green onions.",
+    "Pour the smoky dressing over the myeongnan roe mixture and toss to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, squeeze the lemon juice over the top of the myeongnan roe mixture.",
+    "Serve the smoky myeongnan roe poke chilled, garnished with additional toasted sesame seeds and chopped green onions if desired.",
+    "Use a glassy-jelly mold to shape the poke into a unique and visually appealing dish.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "slovakian",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "unique-smoky-slovakian-myeongnan-roe-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-smoky-slovakian-myeongnan-roe-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:05:42Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "myeongnan roe",
+    "descriptor": "unique smoky",
+    "dishForm": "Poke"
+  }
+}

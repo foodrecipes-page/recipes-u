@@ -6412,6 +6412,22 @@
     "shard": "u"
   },
   {
+    "slug": "unique-smoky-slovakian-myeongnan-roe-poke",
+    "title": "Smoky Slovakian Myeongnan Roe Poke",
+    "tags": [
+      "fodmap-friendly",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "slovakian",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
     "slug": "unique-smoky-spanish-chicken-paella",
     "title": "Smoky Spanish Chicken Paella",
     "tags": [
@@ -7324,6 +7340,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-velvety-croatian-lamb-kebabs",
+    "title": "Unique Velvety Croatian Lamb Kebabs",
+    "tags": [
+      "diabetic-friendly",
+      "gluten-free",
+      "grilled-meats",
+      "high-protein",
+      "lamb-recipes",
+      "mediterranean-dishes"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 32,
     "shard": "u"
   },
   {

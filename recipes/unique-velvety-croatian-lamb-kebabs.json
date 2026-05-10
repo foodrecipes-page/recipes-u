@@ -1,0 +1,94 @@
+{
+  "title": "Unique Velvety Croatian Lamb Kebabs",
+  "description": "Rich and festive Croatian dish featuring lamb, olive oil, and a yakimono-grill, suitable for diabetic diets.",
+  "cuisine": "Croatian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the lamb kebabs for 10-12 minutes, turning occasionally, until cooked through to an internal temperature of 145 degrees Fahrenheit.",
+    "Brush the kebabs with lemon juice during the last minute of grilling.",
+    "Remove the kebabs from the grill and garnish with chopped parsley.",
+    "Serve the kebabs hot, with your choice of sides, such as roasted vegetables or quinoa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "grilled-meats",
+    "high-protein",
+    "lamb-recipes",
+    "mediterranean-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "unique-velvety-croatian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-velvety-croatian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:05:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "olive oil",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Unique Velvety",
+    "dishForm": "Kebabs"
+  }
+}
