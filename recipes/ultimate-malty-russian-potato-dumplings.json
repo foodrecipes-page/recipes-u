@@ -1,0 +1,95 @@
+{
+  "title": "Ultimate Malty Russian Potato Dumplings",
+  "description": "A traditional Russian dish featuring malty, fluffy potato dumplings with peppercorns, perfect for a midnight craving, and sugar-free-friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "malt flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated potatoes, malt flour, black peppercorns, and salt.",
+    "In a separate bowl, whisk together eggs and melted butter.",
+    "Add the egg mixture to the potato mixture and stir until just combined.",
+    "Fold in chopped onion and all-purpose flour.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Heat a large non-stick skillet over medium heat and fry the dumplings for 3-4 minutes on each side.",
+    "Serve the dumplings hot with your favorite toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "midnight-cravings",
+    "potato-recipes",
+    "russian-cuisine",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "ultimate-malty-russian-potato-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultimate-malty-russian-potato-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:53:49Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "peppercorns",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Ultimate malty",
+    "dishForm": "Dumplings"
+  }
+}
