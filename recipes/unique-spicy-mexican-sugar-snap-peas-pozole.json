@@ -1,0 +1,107 @@
+{
+  "title": "Unique Spicy Mexican Sugar Snap Peas Pozole",
+  "description": "A festive Mexican dish featuring sugar snap peas, char-grill flavors, and halal-friendly ingredients, all in a delicious pozole form. This recipe combines the sweetness of sugar snap peas with the spiciness of Mexican flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "hominy",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Roast the hominy in a 400 degree oven for 10 minutes to enhance its flavor.",
+    "Char the onion and garlic in a large pot over medium heat until they are lightly browned.",
+    "Add the ground cumin, smoked paprika, and cayenne pepper to the pot and stir for 1 minute.",
+    "Add the chicken broth, roasted hominy, sugar snap peas, salt, and pepper to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer the pozole for 20 minutes or until the peas are tender.",
+    "Stir in the lime juice and adjust the seasoning as needed.",
+    "Serve the pozole hot, garnished with chopped fresh cilantro or scallions if desired.",
+    "Offer tortilla chips or crusty bread on the side for a fun textural contrast.",
+    "Consider adding other toppings such as diced radishes, shredded lettuce, or diced avocado to make the dish more substantial."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "mexican",
+    "one-pot",
+    "spicy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "unique-spicy-mexican-sugar-snap-peas-pozole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-spicy-mexican-sugar-snap-peas-pozole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:50:37Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "sugar snap peas",
+    "descriptor": "unique spicy",
+    "dishForm": "Pozole"
+  }
+}
