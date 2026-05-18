@@ -1,0 +1,119 @@
+{
+  "title": "Unbelievably Crispy German Bananas Fritters",
+  "description": "A spicy, light, and lazy Sunday German dish featuring fried ripe bananas, perfect for an afternoon snack or dessert.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cayenne pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 inches deep",
+      "notes": "for frying"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, baking powder, cinnamon, nutmeg, and cayenne pepper.",
+    "In a separate bowl, whisk together eggs, milk, and melted butter.",
+    "Add the dry ingredients to the wet ingredients and stir until smooth.",
+    "Cut the ripe bananas into 1-inch pieces and add to the batter.",
+    "Heat the vegetable oil in a deep frying pan to 350°F.",
+    "Using a spoon, drop the banana batter into the hot oil, making sure not to overcrowd the pan.",
+    "Fry the banana fritters for 2-3 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Sprinkle the fritters with confectioners' sugar and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fried-sweet-treats",
+    "german",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "unbelievably-crispy-german-bananas-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unbelievably-crispy-german-bananas-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:19:56Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "boil",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "bananas",
+    "descriptor": "Unbelievably Crispy",
+    "dishForm": "Fritters"
+  }
+}
