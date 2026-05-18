@@ -1,0 +1,121 @@
+{
+  "title": "Ultra Aromatic French Jersey Royal Potatoes Bouillabaisse",
+  "description": "A rich and flavorful keto-friendly French dish featuring Jersey Royal potatoes in a bouillabaisse-style broth, served in a donabe.",
+  "cuisine": "French",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jersey Royal potatoes",
+      "amount": "4",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for drizzling"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 bulb",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "canned"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in the donabe over medium heat.",
+    "Add chopped onion and sauté until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add sliced fennel and cook for 2-3 minutes.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add fish stock, white wine, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Add diced Jersey Royal potatoes and cook for 15-20 minutes, or until tender.",
+    "Stir in chopped parsley and thyme.",
+    "Serve the bouillabaisse hot, garnished with additional parsley and thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 21,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "ultra-aromatic-french-jersey-royal-potatoes-bouillabaisse",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-aromatic-french-jersey-royal-potatoes-bouillabaisse",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:57:28Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "blanch",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Jersey Royal Potatoes",
+    "descriptor": "Ultra Aromatic",
+    "dishForm": "Bouillabaisse"
+  }
+}
