@@ -1,0 +1,101 @@
+{
+  "title": "Unique Velvety Mediterranean Turkey Mince Kebabs",
+  "description": "A quick-fix Mediterranean dish featuring herbal and velvety turkey mince, perfect for a weeknight dinner, this recipe is whole30-friendly and made with mortar-pestle-pound technique.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey mince",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large mortar, combine parsley, mint, garlic, lemon zest, salt, black pepper, and paprika, and pound until well combined.",
+    "Add the turkey mince to the mortar and mix until just combined, being careful not to overmix.",
+    "Thread the turkey mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and grill for 10-12 minutes, turning occasionally, until cooked through.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot, garnished with additional parsley and lemon wedges if desired.",
+    "Refrigerate or freeze leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "paleo",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "unique-velvety-mediterranean-turkey-mince-kebabs",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-velvety-mediterranean-turkey-mince-kebabs",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-18T08:09:33Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "turkey mince",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "turkey mince",
+    "descriptor": "Unique Velvety",
+    "dishForm": "Kebabs"
+  }
+}
