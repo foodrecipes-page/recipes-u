@@ -1,0 +1,103 @@
+{
+  "title": "Ultra-Garlicky Turkish Cheese Kisir",
+  "description": "A date-night Turkish dish featuring a garlicky, molten mascarpone filling in a crispy ovo-vegetarian-friendly kisir form.",
+  "cuisine": "Turkish",
+  "diet": [
+    "ovo-vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mascarpone cheese",
+      "amount": "12 ounces",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Basil",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Shape the mascarpone cheese mixture into small balls, about 1 1/2 inches (3.8 cm) in diameter.",
+    "Dip the balls into the beaten egg, then roll in the chopped parsley to coat.",
+    "Place the coated balls onto a parchment-lined baking sheet.",
+    "Bake for 10 minutes, or until golden brown.",
+    "While the cheese is baking, prepare the garlic-walnut sauce by blending the minced garlic and chopped walnuts in a food processor.",
+    "Add the Greek yogurt to the food processor and blend until smooth.",
+    "Season the sauce with salt and black pepper to taste.",
+    "Serve the baked cheese balls with the garlic-walnut sauce spooned over the top.",
+    "Optional: garnish with a sprig of basil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "date-night",
+    "garlic",
+    "kisir",
+    "mascarpone",
+    "ovo-vegetarian",
+    "snack",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "ultra-garlicky-turkish-cheese-kisir",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-garlicky-turkish-cheese-kisir",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:25:33Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "mascarpone",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Cheese",
+    "descriptor": "ultra-garlicky",
+    "dishForm": "Kisir"
+  }
+}
