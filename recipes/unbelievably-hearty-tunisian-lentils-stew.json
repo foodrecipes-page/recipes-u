@@ -1,0 +1,135 @@
+{
+  "title": "unbelievably hearty tunisian lentils stew",
+  "description": "a resinous, creamy, weeknight tunisian dish featuring doenjang, mother-sauce-base, dash-friendly, vessel=wok",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "doenjang",
+      "amount": "2 tablespoons",
+      "notes": "korean fermented soybean paste"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "filtered"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "cold-pressed"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large wok or frying pan over medium heat.",
+    "add the diced red onion and cook until softened, about 8 minutes.",
+    "add the minced garlic and grated ginger and cook for an additional 2 minutes.",
+    "add the ground cumin, coriander, cayenne pepper, salt, and black pepper and cook for 1 minute.",
+    "add the doenjang and stir to combine, cooking for 2 minutes.",
+    "add the tomato paste and stir to combine, cooking for 2 minutes.",
+    "add the chicken broth and water and bring to a boil.",
+    "add the rinsed and drained green lentils and stir to combine.",
+    "reduce heat to low and simmer, covered, for 25 minutes.",
+    "stir in chopped fresh parsley and cook for an additional 2 minutes.",
+    "serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "lentils",
+    "one-pan",
+    "stew",
+    "tunisian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 20,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "unbelievably-hearty-tunisian-lentils-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unbelievably-hearty-tunisian-lentils-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:29:15Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "doenjang",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lentils",
+    "descriptor": "unbelievably hearty",
+    "dishForm": "stew"
+  }
+}
