@@ -1,0 +1,111 @@
+{
+  "title": "Umbrous and tender venezuelan pandan-leaf wrap",
+  "description": "A spicy, tender and refreshing monsoon dish featuring pandan-leaf, khao khua and corn husk wrap, inspired by Venezuelan cuisine.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pandan-leaf",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "khao khua (fried rice)",
+      "amount": "2 cups",
+      "notes": "crunchy fried rice made with leftover rice and spices"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "1 breast"
+    },
+    {
+      "name": "corn husk wraps",
+      "amount": "4 wraps"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Grill the chicken breast until cooked through and let it rest.",
+    "Sauté the red onion, coriander, cumin, chili flakes, salt, and black pepper in a pan until the onion is translucent.",
+    "Add the diced tomatoes to the pan and cook for another 3 minutes.",
+    "Add the khao khua to the pan and stir well to combine with the onion and tomato mixture.",
+    "Shred the grilled chicken breast and add it to the pan, stirring well to combine.",
+    "Warm the corn husk wraps by wrapping them in a damp cloth and microwaving for 20 seconds.",
+    "Spoon the chicken and khao khua mixture onto the center of each wrap.",
+    "Top each wrap with a dollop of sour cream and a few leaves of pandan-leaf.",
+    "Fold the bottom edge of each wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve the wraps hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-wraps",
+    "easy-to-make",
+    "high-protein",
+    "macrobiotic-friendly",
+    "monsoon-dish",
+    "one-pan",
+    "spicy",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "umbrous-and-tender-venezuelan-pandan-leaf-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/umbrous-and-tender-venezuelan-pandan-leaf-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:18:41Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pandan-leaf",
+    "descriptor": "Umbrous and tender",
+    "dishForm": "Wrap"
+  }
+}
