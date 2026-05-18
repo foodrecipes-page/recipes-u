@@ -1,0 +1,114 @@
+{
+  "title": "Ultimate Mustardy Egyptian Oysters Quesadilla",
+  "description": "A flavorful, melt-in-your-mouth quesadilla dish that combines the richness of Egyptian spices, the creaminess of mustard, and the sweetness of oysters. This dish is perfect for a special occasion or a romantic evening.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "ovo-vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Oysters",
+      "amount": "12",
+      "notes": "Freshly shucked oysters, drained of liquor"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Mustard (Egyptian Dukkah style)",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Monterey Jack Cheese",
+      "amount": "6 ounces",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Flour Tortilla",
+      "amount": "2",
+      "notes": "Whole wheat or white, 6-8 inches in diameter"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "Add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the smoked paprika, ground cumin, flaky sea salt, and freshly ground black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the freshly shucked oysters and cook until they start to curl and develop a golden brown color, about 2-3 minutes.",
+    "Add the homemade or store-bought Egyptian Dukkah style mustard to the skillet and stir to combine.",
+    "Transfer the oyster mixture to a bowl and set aside.",
+    "In the same skillet, melt the remaining 1 tablespoon of butter over medium heat.",
+    "Place one of the flour tortillas in the skillet and sprinkle with shredded Monterey Jack cheese.",
+    "Place the oyster mixture on half of the tortilla, leaving a 1-inch border around the edges.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy and the cheese is melted.",
+    "Repeat with the remaining ingredients to make the second quesadilla."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "egyptian-cuisine",
+    "high-protein",
+    "one-pan",
+    "oyster-lovers",
+    "quesadilla-variation",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "ultimate-mustardy-egyptian-oysters-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ultimate-mustardy-egyptian-oysters-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:42:46Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "oysters",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "oysters",
+    "descriptor": "Ultimate mustardy",
+    "dishForm": "Quesadilla"
+  }
+}
