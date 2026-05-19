@@ -1,0 +1,92 @@
+{
+  "title": "Sour Rest-Meat Pho",
+  "description": "A unique and sour twist on the classic Vietnamese dish, featuring rest-meat and San Marzano tomatoes.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "San Marzano tomatoes",
+      "amount": "2 cups, crushed"
+    },
+    {
+      "name": "Rest-meat (such as beef or pork)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Tamasic-friendly spices (such as cumin, coriander, and cinnamon)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fermented fish sauce (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Copper mug",
+      "amount": "1"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium heat and cook the rest-meat until browned, breaking it up into small pieces as it cooks.",
+    "Add the grated ginger and minced garlic to the pan and cook for 1 minute, until fragrant.",
+    "Add the crushed San Marzano tomatoes, cumin, coriander, and cinnamon to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Add the fermented fish sauce and rice vinegar to the pan and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the sour rest-meat mixture in a copper mug and garnish with fresh herbs, if desired.",
+    "Enjoy your unique and sour Pho!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly",
+    "high-protein",
+    "one-pan",
+    "sour",
+    "tamasic-friendly",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "unique-sour-crumbly-vietnamese-rest-meat-pho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-sour-crumbly-vietnamese-rest-meat-pho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T17:54:15Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "rest-meat",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rest-meat",
+    "descriptor": "Unique, Sour, Crumbly",
+    "dishForm": "Pho"
+  }
+}
