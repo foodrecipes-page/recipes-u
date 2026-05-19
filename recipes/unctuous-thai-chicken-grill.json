@@ -1,0 +1,110 @@
+{
+  "title": "unctuous thai chicken grill",
+  "description": "a rich and savory thai dish featuring grilled chicken, peppers, and spices, infused with the anti-inflammatory properties of turmeric and ginger",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    },
+    {
+      "name": "peppers",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat grill to medium-high heat",
+    "season the chicken breasts with salt, pepper, and turmeric",
+    "brush the grates with olive oil to prevent sticking",
+    "grill the chicken for 5-6 minutes per side, or until cooked through",
+    "tent the chicken with foil if it starts to brown too quickly",
+    " Meanwhile, grill the peppers and onion for 5-6 minutes, or until tender",
+    "Add the garlic, turmeric, and ginger to the grill and cook for 1 minute",
+    "Stir in the fish sauce and brown sugar (if using) and cook for an additional minute",
+    "Transfer the chicken to a plate and cover with foil to keep warm",
+    "Add the grilled peppers and onion to the plate with the chicken",
+    "Serve the chicken and vegetables hot, garnished with chili flakes (if using)"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "quick-dinner",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "unctuous-thai-chicken-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-thai-chicken-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T02:31:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "pepper",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Unctuous",
+    "dishForm": "Grill"
+  }
+}
