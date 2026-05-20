@@ -1,0 +1,107 @@
+{
+  "title": "Utricular Adventurous Korean fromage-blanc Mandu Jjigae",
+  "description": "A buttery, crumbly, adventurous Korean dish from Jeolla province featuring fromage-blanc, dum, and vegetarian-friendly ingredients cooked in a cataplana vessel.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fromage-blanc",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "150g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a cataplana vessel over medium heat.",
+    "Add gochujang and Korean chili flakes, stir to combine and cook for 1 minute.",
+    "Add garlic and ginger, cook for an additional 1 minute.",
+    "Add zucchini and carrots, stir to combine and cook for 3 minutes.",
+    "Add fromage-blanc, stir to combine and cook for 2 minutes, until slightly browned.",
+    "Add green onions and sesame seeds, stir to combine.",
+    "Transfer the cataplana to a serving dish and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "fromage-blanc",
+    "korean",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "utricular-adventurous-korean-fromage-blanc-mandu-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/utricular-adventurous-korean-fromage-blanc-mandu-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:05:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "dum",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "vegetarian",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fromage-blanc",
+    "descriptor": "Utricular, Adventurous",
+    "dishForm": "Mandu Jjigae"
+  }
+}
