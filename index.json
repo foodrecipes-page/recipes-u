@@ -1674,6 +1674,20 @@
     "shard": "u"
   },
   {
+    "slug": "umami-dense-moroccan-dish-moroccan-mrouzia",
+    "title": "Moroccan Mrouzia",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "gluten-free",
+      "low-sodium",
+      "moroccan"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 150,
+    "shard": "u"
+  },
+  {
     "slug": "umami-dense-norwegian-fish-pasta",
     "title": "Umami Dense Norwegian Fish Pasta",
     "tags": [

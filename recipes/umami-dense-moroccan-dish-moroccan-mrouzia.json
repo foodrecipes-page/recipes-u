@@ -1,0 +1,109 @@
+{
+  "title": "Moroccan Mrouzia",
+  "description": "A rich and savory Moroccan dish featuring caramelized onions, nuka-pickle, and a hint of spices. It's a perfect comfort food for a chilly evening.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning the meat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "caramelized until golden brown"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": " homemade or store-bought"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "use low-sodium salt"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Add the beef short ribs and brown them on all sides, about 5 minutes.",
+    "Remove the browned meat from the pot and set it aside.",
+    "Add more oil to the pot if necessary, then add the sliced onion and cook until caramelized, stirring occasionally, about 20 minutes.",
+    "Add the cumin, coriander, paprika, salt, and nutmeg to the pot and cook for 1 minute, stirring constantly.",
+    "Add the browned meat back to the pot, along with the nuka-pickle and caramel sauce.",
+    "Bring the mixture to a simmer, then cover the pot and transfer it to the oven.",
+    "Bake the mrouzia for 2 hours, or until the meat is tender and the sauce has thickened.",
+    "Serve the mrouzia hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "gluten-free",
+    "low-sodium",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "umami-dense-moroccan-dish-moroccan-mrouzia",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-dense-moroccan-dish-moroccan-mrouzia",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:42:14Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "caramel sauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Dish",
+    "descriptor": "Umami Dense",
+    "dishForm": "Moroccan Mrouzia"
+  }
+}
