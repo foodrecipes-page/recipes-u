@@ -1,0 +1,99 @@
+{
+  "title": "Ultra Crips Norwegian Cheese Skewers",
+  "description": "Light and nutty Norwegian dish featuring cheese slices, crispy on the outside, and melted on the inside. Perfect for a quick keto-friendly dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gammelost",
+      "amount": "12 oz",
+      "notes": "Norwegian strong cow's milk cheese"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 tbsp",
+      "notes": "Fresh leaves"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 small clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp",
+      "notes": "Fine sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.25 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tbsp",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 375°F (190°C).",
+    "Cut the Gammelost cheese into 1-inch (2.5 cm) cubes.",
+    "Thread the cheese cubes, fresh thyme, and a few slices of garlic onto skewers.",
+    "Brush the skewers with olive oil and sprinkle with lemon zest, salt, and black pepper.",
+    "Cook the skewers for 4-5 minutes per side, or until golden brown and crispy.",
+    "Remove from heat and garnish with chopped parsley.",
+    "Serve immediately with a side of your favorite keto-friendly vegetables.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "norwegian-cuisine",
+    "one-pan",
+    "snack-ideas",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 18,
+    "carbs": 2,
+    "fat": 20
+  },
+  "slug": "ultra-crispy-norwegian-cheese-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-crispy-norwegian-cheese-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T12:29:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "air-fry",
+    "primaryIngredient": "cheese slices",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cheese",
+    "descriptor": "Ultra Crispy",
+    "dishForm": "Skewers"
+  }
+}
