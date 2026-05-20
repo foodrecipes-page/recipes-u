@@ -1,0 +1,128 @@
+{
+  "title": "Ultrajammy Australian Beef Tartare",
+  "description": "A romantic Australian dish featuring lean minced beef, sashimi-cut and served with a dash-friendly jammy sauce.",
+  "cuisine": "australian",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean grass-fed beef",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "10ml",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2.5ml",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "0.5ml",
+      "notes": ""
+    },
+    {
+      "name": "pickled mustard seeds",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "fresh chives",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "quail egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "truffle oil",
+      "amount": "0.5ml",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "watercress",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "toasted brioche",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grind the beef to a fine consistency using a meat grinder or a food processor.",
+    "Transfer the ground beef to a bowl and mix in the olive oil, red wine vinegar, Dijon mustard, pickled mustard seeds, salt, and black pepper.",
+    "Season the beef mixture with salt and black pepper to taste.",
+    "Using a sashimi knife, cut the beef mixture into thin slices and place on a serving plate.",
+    "Drizzle the truffle oil over the beef slices.",
+    "Garnish with chopped parsley and chives.",
+    "Serve the beef slices on toasted brioche with a quail egg on top.",
+    "Garnish with watercress and serve immediately.",
+    "To assemble the dish, slice the toasted brioche into quarters and top each quarter with a beef slice, a quail egg, and a sprinkle of watercress.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "beef",
+    "dinner",
+    "fish-free",
+    "gluten-free",
+    "high-protein",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 4,
+    "fat": 14
+  },
+  "slug": "ultrajammy-australian-beef-tartare",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ultrajammy-australian-beef-tartare",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:53:09Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "lean minced beef",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "ultrajammy",
+    "dishForm": "Tartare"
+  }
+}

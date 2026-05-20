@@ -969,6 +969,23 @@
     "shard": "u"
   },
   {
+    "slug": "ultrajammy-australian-beef-tartare",
+    "title": "Ultrajammy Australian Beef Tartare",
+    "tags": [
+      "australian",
+      "beef",
+      "dinner",
+      "fish-free",
+      "gluten-free",
+      "high-protein",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 15,
+    "shard": "u"
+  },
+  {
     "slug": "ultramodern-filipino-egg-tagine",
     "title": "ultramodern filipino egg tagine",
     "tags": [
