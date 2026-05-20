@@ -1,0 +1,103 @@
+{
+  "title": "Unique Bitter Jamaican Teque Nos Stew",
+  "description": "A diabetic-friendly Jamaican stew featuring pre-fried teque nos, slow-cooked to perfection with a blend of bitter and energizing flavors, served on a lazy-susan-spinner for a fun dining experience. This dish is perfect for those looking for a unique and healthy meal option.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pre-fried teque nos",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2 peppers",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the chicken broth in a large pot over medium heat until it starts to simmer.",
+    "Add the diced onion, minced garlic, and grated ginger to the pot and saute until the onion is translucent.",
+    "Add the pre-fried teque nos, bitter melon, scotch bonnet peppers, thyme, salt, and black pepper to the pot and stir well.",
+    "Reduce the heat to low and let the stew simmer for 30 minutes, stirring occasionally.",
+    "Use a lazy-susan-spinner to serve the stew, allowing each guest to help themselves.",
+    "Garnish with fresh thyme and scotch bonnet peppers, if desired.",
+    "Serve hot and enjoy the unique flavors and textures of this Jamaican stew.",
+    "Let the stew cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-foods",
+    "diabetic-friendly",
+    "energizing-meals",
+    "jamaican-cuisine",
+    "low-carb",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "unique-bitter-jamaican-teque-nos-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/unique-bitter-jamaican-teque-nos-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T08:05:18Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "teque nos",
+    "descriptor": "Unique Bitter",
+    "dishForm": "Stew"
+  }
+}
