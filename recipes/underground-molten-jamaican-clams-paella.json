@@ -1,0 +1,118 @@
+{
+  "title": "underground Molten Jamaican Clams Paella",
+  "description": "a hearty, earthy paella featuring Jamaican spicy flavors and clams, prepared in a molten sauce.",
+  "cuisine": "jamaican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "24",
+      "notes": ""
+    },
+    {
+      "name": "namul blanch season",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 1/2 cup coconut oil in a large paella pan over medium-high heat.",
+    "add onion and bell pepper and sauté for 5 minutes.",
+    "add garlic and sauté for 1 minute.",
+    "add clams, namul blanch season, Jamaican curry powder, allspice, oregano, and chicken broth.",
+    "stir well, bring to a boil, then reduce heat to low.",
+    "cover with a lid and simmer for 10 minutes, or until clams open.",
+    "add coconut milk and lemon juice, stir well.",
+    "continue to simmer for 2 minutes, or until sauce thickens.",
+    "serve hot, garnish with oregano and lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clams",
+    "fish-dinner",
+    "jamaican",
+    "one-pan",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 32,
+    "fat": 20
+  },
+  "slug": "underground-molten-jamaican-clams-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/underground-molten-jamaican-clams-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:15:58Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "clams",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "clams",
+    "descriptor": "Underground Molten",
+    "dishForm": "Paella"
+  }
+}
