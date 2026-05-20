@@ -1,0 +1,112 @@
+{
+  "title": "undercooked unusual thai mussels pad thai",
+  "description": "a bitter and chewy southern thai dish featuring mussels, with a low-fat emulsified sauce. serves as a filling snack or light dinner.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "1 pound"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the peanut oil in a large skillet over medium-high heat.",
+    "add the grated ginger and cook for 1 minute, until fragrant.",
+    "add the minced garlic and cook for an additional minute, until softened.",
+    "add the mussels and cook for 2-3 minutes, until they start to open.",
+    "add the fish sauce, tamarind paste, brown sugar, and rice vinegar. stir to combine.",
+    "in a small bowl, whisk together the cornstarch and a splash of water until smooth.",
+    "add the cornstarch mixture to the skillet and stir to combine.",
+    "cook for an additional 2-3 minutes, until the sauce has thickened and the mussels are cooked through.",
+    "season with salt and black pepper to taste.",
+    "transfer the mussels and sauce to a serving dish and garnish with chopped green onions.",
+    "serve immediately, over a bed of steamed rice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "emulsified",
+    "low-fat",
+    "one-pan",
+    "pad-thai",
+    "seafood",
+    "southern-thai",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "undercooked-unusual-thai-mussels-pad-thai",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/undercooked-unusual-thai-mussels-pad-thai",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:10:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "emulsify",
+    "primaryIngredient": "mussels",
+    "diet": "low-fat",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Mussels",
+    "descriptor": "Undercooked Unusual",
+    "dishForm": "Pad Thai"
+  }
+}
