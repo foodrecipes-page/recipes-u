@@ -1,0 +1,122 @@
+{
+  "title": "Under-salted, tender Saudi Arabian goose tagine",
+  "description": "Sweet and tender, this one-pot dish is a unique twist on traditional Middle Eastern cuisine. Featuring goose fat and carefully selected spices, it's a vegan-friendly main course that's perfect for a solo dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Goose, boned and cut into 2-inch pieces",
+      "amount": "1 (1.5-2 kg)",
+      "notes": ""
+    },
+    {
+      "name": "Salt block",
+      "amount": "1",
+      "notes": "for cooking and serving"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "2 inches (about 30g)",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Date syrup",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "1/4 cup chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block to 275°F (135°C).",
+    "Season the goose pieces with turmeric, cumin, coriander, and black pepper.",
+    "Heat 2 tablespoons of date syrup in the salt block over medium heat. Sear the goose pieces until browned on all sides.",
+    "Remove the goose from the salt block and set aside.",
+    "Add the onion, garlic, and ginger to the salt block and cook until the onion is translucent.",
+    "Add the water, lemon juice, and date syrup to the salt block. Stir to combine.",
+    "Return the goose pieces to the salt block and bring the mixture to a simmer.",
+    "Cover the salt block with a lid and transfer it to the oven. Cook for 2 hours, or until the goose is tender.",
+    "Remove the salt block from the oven and let it cool slightly.",
+    "Garnish with chopped mint leaves and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "goose",
+    "main-course",
+    "one-pot",
+    "saudi-arabian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 15,
+    "fat": 35
+  },
+  "slug": "under-salted-tender-saudian-goose-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/under-salted-tender-saudian-goose-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:37:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "tagine-cook",
+    "primaryIngredient": "goose fat",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudian",
+    "mainIngredient": "goose",
+    "descriptor": "Under-salted, tender",
+    "dishForm": "Tagine"
+  }
+}
