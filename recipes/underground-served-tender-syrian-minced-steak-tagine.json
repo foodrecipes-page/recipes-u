@@ -1,0 +1,125 @@
+{
+  "title": "underground-served tender syrian minced steak tagine",
+  "description": "a fermented and tender syrian dish featuring lean minced steak served in a slate tile vessel. this pescatarian-friendly meal is energizing and perfect for a weeknight dinner.",
+  "cuisine": "syrian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean minced steak",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "fermented turnip",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cherry",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large pan over medium-high heat.",
+    "add the onion and cook until translucent, about 5 minutes.",
+    "add the garlic and cook for 1 minute.",
+    "add the minced steak and cook, breaking it up with a spoon, until it is no longer pink, about 5 minutes.",
+    "add the cumin, paprika, salt, and black pepper, and stir to combine.",
+    "add the fermented turnip, chopped parsley, lemon juice, and water, and stir to combine.",
+    "add the sour cherry and stir to combine.",
+    "reduce heat to low and simmer, covered, for 10 minutes.",
+    "serve hot, garnished with additional parsley if desired.",
+    "transfer the tagine to a slate tile vessel and serve.",
+    "cover the vessel with a lid or foil to keep warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "pescatarian",
+    "syrian",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "underground-served-tender-syrian-minced-steak-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/underground-served-tender-syrian-minced-steak-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:00:48Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "lean minced steak",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "minced steak",
+    "descriptor": "Underground-served tender",
+    "dishForm": "Tagine"
+  }
+}
