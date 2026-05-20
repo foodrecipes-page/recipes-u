@@ -1,0 +1,115 @@
+{
+  "title": "Uplifting Smoky Polish Beef Skewers",
+  "description": "A hearty, low-sodium Polish dish featuring tender beef, robust smoked paprika, and tangy orange juice, grilled to perfection on a robata grill.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g"
+    },
+    {
+      "name": "orange juice",
+      "amount": "125ml"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "Cut the beef into thin strips and season with garlic powder, black pepper, and salt.",
+    "Soak the wooden skewers in water for at least 30 minutes.",
+    "Thread the beef, onion, bell pepper, and potato onto the skewers.",
+    "Place the skewers on the grill and brush with sunflower oil.",
+    "Grill for 8-10 minutes, turning occasionally, or until the beef is cooked through.",
+    "Meanwhile, mix the smoked paprika and orange juice in a small bowl.",
+    "After 5 minutes of grilling, brush the skewers with the smoked paprika mixture.",
+    "Continue grilling for another 3-5 minutes, or until the vegetables are tender.",
+    "Serve the skewers hot, garnished with fresh parsley and lemon wedges.",
+    "Garnish with fresh dill, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "polish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "uplifting-smoky-polish-beef-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-smoky-polish-beef-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T21:35:55Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "robata-grill",
+    "primaryIngredient": "orange juice",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "beef",
+    "descriptor": "Uplifting Smoky",
+    "dishForm": "Skewers"
+  }
+}
