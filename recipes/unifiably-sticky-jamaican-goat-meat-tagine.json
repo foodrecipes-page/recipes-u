@@ -1,0 +1,121 @@
+{
+  "title": "unifiably sticky jamaican goat meat tagine",
+  "description": "garlicky, gooey, one-pot jamaican dish featuring golden syrup and candy, perfect for a weeknight dinner. serves 4-6 people.",
+  "cuisine": "jamaican",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless goat meat",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "1 cup",
+      "notes": "store-bought"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "1/2 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "goat meat broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "candy (such as butterscotch drops)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "heat oil in a large lacquerware bowl over medium-high heat.",
+    "add goat meat and cook until browned, about 5 minutes. remove from bowl and set aside.",
+    "add garlic, ginger, allspice, cinnamon, and thyme to bowl and cook, stirring constantly, for 1 minute.",
+    "add golden syrup, brown sugar, goat meat broth, and green chilies to bowl and stir to combine.",
+    "return goat meat to bowl and bring to a simmer.",
+    "reduce heat to low and cook, covered, for 1 1/2 hours, or until goat meat is tender.",
+    "stir in chopped candy and cook for an additional 10 minutes.",
+    "season with salt and pepper to taste.",
+    "serve hot, garnished with chopped green onions.",
+    "store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "reheat in the microwave or on the stovetop until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "homestyle",
+    "jamaican",
+    "one-pan",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 60,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "unifiably-sticky-jamaican-goat-meat-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unifiably-sticky-jamaican-goat-meat-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:55:08Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "candy",
+    "primaryIngredient": "golden syrup",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "goat meat",
+    "descriptor": "unifiably sticky",
+    "dishForm": "Tagine"
+  }
+}
