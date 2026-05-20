@@ -1,0 +1,112 @@
+{
+  "title": "Ultra Tender Moroccan Brussels Sprouts Bissara",
+  "description": "A rich, tender, indulgent Moroccan dish featuring Brussels sprouts, a lacquer-glaze, and Ayurvedic Rajasic-friendly spices. This recipe makes a delightful breakfast or brunch option.",
+  "cuisine": "Moroccan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels Sprouts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Date Syrup",
+      "amount": "2 tablespoons",
+      "notes": "Ayurvedic Rajasic-friendly sweetener"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large saucepan over medium heat. Rinse the Brussels sprouts and remove the stems. Cut them in half and add to the saucepan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "brussels-sprouts",
+    "dairy-free",
+    "easy-to-make",
+    "gluten-free",
+    "moroccan",
+    "rajasic"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "ultra-tender-moroccan-brussels-sprouts-bissara",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-tender-moroccan-brussels-sprouts-bissara",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:29:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "moroccan",
+    "mainIngredient": "brussels sprouts",
+    "descriptor": "ultra tender",
+    "dishForm": "bissara"
+  }
+}
