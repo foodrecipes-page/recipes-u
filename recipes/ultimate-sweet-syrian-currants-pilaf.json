@@ -1,0 +1,93 @@
+{
+  "title": "Ultimate Sweet Syrian Currants Pilaf",
+  "description": "A sweet and light Syrian dish featuring currants, cooked to perfection with binchotan-charcoal, suitable for Buddhist temple gatherings",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Currants",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Binchotan-charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice and soak it in water for 30 minutes",
+    "Heat the binchotan-charcoal in a small burner until it starts to smoke",
+    "In a large saucepan, combine the rice, water, sugar, rose water, cardamom powder, and salt",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the saucepan with a tight-fitting lid",
+    "Place the smoking binchotan-charcoal on top of the lid to infuse the rice with a smoky flavor",
+    "Simmer the rice for 15 minutes, or until it is cooked and fluffy",
+    "Stir in the currants and cook for an additional 2 minutes",
+    "Remove the saucepan from the heat and let it cool for 5 minutes",
+    "Fluff the rice with a fork and serve hot"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "smoky-flavor",
+    "sweet-dish",
+    "temple-food",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "ultimate-sweet-syrian-currants-pilaf",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ultimate-sweet-syrian-currants-pilaf",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T08:12:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "currants",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "currants",
+    "descriptor": "Ultimate sweet",
+    "dishForm": "Pilaf"
+  }
+}
