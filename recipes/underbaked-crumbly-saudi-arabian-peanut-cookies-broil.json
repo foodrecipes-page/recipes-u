@@ -1,0 +1,97 @@
+{
+  "title": "Saudi Arabian Peanut Cookies Broil",
+  "description": "A fermented and crumbly peanut cookie dish originating from Saudi Arabia, perfect for a snack or dessert. This recipe is friendly to those looking for anti-inflammatory options, and can be served in a terracotta dish.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peanut butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": "soaked and blended"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Oats",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Soak 1 cup of dates in water for 4 hours and blend into a smooth paste.",
+    "In a large bowl, mix together 1 cup of peanut butter, 1/2 cup of coconut sugar, and 1/4 cup of coconut oil until well combined.",
+    "Add 1/4 teaspoon of salt and 1/4 teaspoon of baking soda to the mixture and stir well.",
+    "Add 2 tablespoons of yogurt and 1 tablespoon of vinegar to the mixture and stir until smooth.",
+    "Gradually add 2 tablespoons of oats to the mixture and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "Place the balls onto a terracotta dish lined with parchment paper, leaving about 1 inch of space between each cookie.",
+    "Broil the cookies in a preheated oven at 375°F (190°C) for 10-12 minutes, or until they are lightly browned.",
+    "Remove the cookies from the oven and let them cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "high-protein",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "underbaked-crumbly-saudi-arabian-peanut-cookies-broil",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/underbaked-crumbly-saudi-arabian-peanut-cookies-broil",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:16:02Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "peanut cookies",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "peanut cookies",
+    "descriptor": "underbaked, crumbly",
+    "dishForm": "Broil"
+  }
+}
