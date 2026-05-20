@@ -1,0 +1,111 @@
+{
+  "title": "Uplifting Velvety Indian Corn Sambhar",
+  "description": "A delicious and energizing Indian (Chettinad) dish made with creamed corn, featuring wok-hei, and dairy-free-friendly, served in an agave-leaf vessel.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Agave Leaves",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add turmeric, red chili powder, and garam masala. Cook for 1 minute, stirring constantly.",
+    "Add corn and cook for 2 minutes, stirring occasionally.",
+    "Add coconut milk and bring to a simmer.",
+    "Reduce heat to medium-low and cook for 5 minutes, stirring occasionally.",
+    "Season with salt and lime juice to taste.",
+    "Garnish with chopped cilantro and serve in agave leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "indian",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "uplifting-velvety-indian-corn-sambhar",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/uplifting-velvety-indian-corn-sambhar",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:14:27Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "wok-hei",
+    "primaryIngredient": "creamed corn",
+    "diet": "dairy-free",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "corn",
+    "descriptor": "Uplifting Velvety",
+    "dishForm": "Sambhar"
+  }
+}
