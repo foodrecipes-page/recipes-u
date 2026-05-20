@@ -1,0 +1,129 @@
+{
+  "title": "Umami X-tra Juicy Jamaican Meat Tagine",
+  "description": "A rich and flavorful, slow-cooked Jamaican meat stew featuring a blend of earthy spices and a hint of tamasic energy. Serve with steamed rice or roti for a satisfying meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 lbs beef or pork shoulder, cut into 2-inch pieces",
+      "amount": "500g",
+      "notes": "Choose a cut with good marbling for maximum umami flavor"
+    },
+    {
+      "name": "2 medium onions, chopped",
+      "amount": "250g",
+      "notes": "Use a mix of yellow and red onions for added sweetness"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "15g",
+      "notes": "Mince garlic just before adding to the pot to preserve its flavor and aroma"
+    },
+    {
+      "name": "1 tablespoon five spice powder",
+      "amount": "15g",
+      "notes": "Available at most Asian grocery stores or online"
+    },
+    {
+      "name": "1 tablespoon soy sauce",
+      "amount": "15g",
+      "notes": "Use a gluten-free soy sauce for vegetarian options"
+    },
+    {
+      "name": "1 tablespoon brown sugar",
+      "amount": "15g",
+      "notes": "Balance the savory flavors with a touch of sweetness"
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": "5g",
+      "notes": "Warm and comforting, adds depth to the stew"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "5g",
+      "notes": "Earthly and savory, pairs well with beef and pork"
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "1g",
+      "notes": "Add a touch of heat to balance the flavors"
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "60g",
+      "notes": "Use a gluten-free flour for vegetarian options"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "30g",
+      "notes": "Choose a neutral-tasting oil for saut\t8ing the meat"
+    },
+    {
+      "name": "2 cups beef broth",
+      "amount": "475ml",
+      "notes": "Use a low-sodium broth for a lighter flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the meat and cook until browned on all sides, about 5 minutes.",
+    "Remove the meat from the pot and set aside.",
+    "Reduce heat to medium and add the onions, cooking until they're softened and lightly browned, about 8 minutes.",
+    "Add the garlic, five spice powder, soy sauce, brown sugar, cinnamon, cumin, and cayenne pepper. Cook for 1 minute, stirring constantly.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Gradually add the beef broth, whisking continuously to avoid lumps.",
+    "Return the meat to the pot and bring the stew to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 1/2 hours, or until the meat is tender and falling apart.",
+    "Deglaze the pot with a spoon, scraping up any browned bits from the bottom.",
+    "Serve hot, garnished with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 165,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "easy-dinner",
+    "gluten-free",
+    "jamaican",
+    "one-pan",
+    "pork",
+    "slow-cooked",
+    "stew",
+    "tagine",
+    "tamasic",
+    "umami",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 26,
+    "fat": 34
+  },
+  "slug": "umami-x-tra-juicy-jamaican-meat-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-x-tra-juicy-jamaican-meat-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:32:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "five spice powder",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "meat",
+    "descriptor": "umami x-tra juicy",
+    "dishForm": "Tagine"
+  }
+}
