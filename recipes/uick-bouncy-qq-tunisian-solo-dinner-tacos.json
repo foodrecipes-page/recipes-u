@@ -1,0 +1,116 @@
+{
+  "title": "quick bouncy-qq tunisian solo-dinner tacos",
+  "description": "a unique fusion dish featuring crispy tacos filled with spicy tuna, tobiko, and pickled turnip, inspired by the bold flavors of tunisia. best served as a single serving for a solo dinner or a light lunch.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tuna sashimi",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "tobiko",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "pickled turnip",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "tunisian chili peppers",
+      "amount": "2",
+      "notes": "such as shatta or harissa peppers"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "4",
+      "notes": "preferably homemade or fresh store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "mix tuna sashimi with cumin, paprika, salt, and chopped parsley in a bowl.",
+    "heat olive oil in a skillet over medium-high heat.",
+    "add tunisian chili peppers to the skillet and cook for 1 minute.",
+    "add the tuna mixture to the skillet and cook for 2-3 minutes, breaking it up with a spoon.",
+    "warm corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "assemble the tacos by spooning the tuna mixture onto a tortilla, followed by a spoonful of tobiko and a sprinkle of pickled turnip.",
+    "serve immediately and garnish with lemon juice and crushed red pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fish-tacos",
+    "solo-dinner",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "uick-bouncy-qq-tunisian-solo-dinner-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/uick-bouncy-qq-tunisian-solo-dinner-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:27:36Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "pickle",
+    "primaryIngredient": "tobiko",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "solo-dinner",
+    "descriptor": "uick bouncy-qq",
+    "dishForm": "tacos"
+  }
+}
