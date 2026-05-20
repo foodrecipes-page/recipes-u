@@ -1,0 +1,102 @@
+{
+  "title": "Umami Brazilian Prosciutto Pão de Queijo",
+  "description": "A rich and savory twist on traditional Brazilian cheese bread, featuring prosciutto and a dash of umami flavor.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": "freshly sifted",
+      "},{": ""
+    },
+    {
+      ",": ", ",
+      "name": "Kosher salt",
+      "amount": "1 tsp",
+      "notes": "coarsely ground"
+    },
+    {
+      ",": "        ",
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      ",": "        ",
+      "name": "Whole milk",
+      "amount": "1 cup",
+      "notes": "warm"
+    }
+  ],
+  "instructions": [
+    "Preheat the pressure cooker to high heat.",
+    "In a large mixing bowl, combine the flour, baking powder, and kosher salt.",
+    "Add the shredded Parmesan and cheddar cheese to the dry ingredients and mix until well combined.",
+    "In a separate bowl, whisk together the eggs and warm milk.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes elastic and smooth.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Cut the rested dough into 6 equal pieces.",
+    "Shape each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place 1 slice of prosciutto on each disk, leaving a 1-inch border around the edges.",
+    "Fold the dough over the prosciutto, pressing the edges together to seal the pão de queijo.",
+    "Place the pão de queijo in the pressure cooker, seam-side down, and close the lid.",
+    "Cook for 10 minutes at high pressure, followed by a 5-minute natural release.",
+    "Transfer the pão de queijo to a wire rack and let them cool for 5 minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "cheese",
+    "dinner-party",
+    "pressure-cooker",
+    "show-off",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "umami-brazilian-prosciutto-pao-de-queijo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-brazilian-prosciutto-pao-de-queijo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:06:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "pressure-cook",
+    "primaryIngredient": "prosciutto",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Prosciutto",
+    "descriptor": "Umami",
+    "dishForm": "Pão de queijo"
+  }
+}
