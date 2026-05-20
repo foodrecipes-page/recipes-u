@@ -1,0 +1,86 @@
+{
+  "title": "umami light algerian pak choi bowl",
+  "description": "a light and umami-packed algerian-inspired dish featuring stir-fried pak choi and mirepoix in a korean brass bowl",
+  "cuisine": "algerian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "for added depth and smokiness"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the red onion, carrot, and garlic, and stir-fry until tender, about 5 minutes.",
+    "add the pak choi and stir-fry until wilted, about 2 minutes.",
+    "add the ginger, tomato paste, paprika, and lemon juice, and stir-fry for 1 minute.",
+    "season with salt and pepper to taste.",
+    "serve the stir-fry in korean brass bowls, garnished with additional ginger and lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "umami-light-algerian-pak-choi-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/umami-light-algerian-pak-choi-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:09:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "pak choi",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "pak choi",
+    "descriptor": "umami light",
+    "dishForm": "bowl"
+  }
+}
