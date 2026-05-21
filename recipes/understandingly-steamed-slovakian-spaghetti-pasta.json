@@ -1,0 +1,117 @@
+{
+  "title": "understandingly steamed slovakian spaghetti pasta",
+  "description": "a floral and romantic dish from slovakia that combines the ease of sous-vide cooking with the comfort of traditional spaghetti.",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "edible flowers",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "comal vessel",
+      "amount": "",
+      "notes": "large and shallow dish"
+    }
+  ],
+  "instructions": [
+    "bring a large pot of salted water to a boil and cook the spaghetti until slightly under al dente.",
+    "in a sous-vide machine set to 82c, combine the chicken broth, heavy cream, sour cream, salt, and black pepper, and stir to combine.",
+    "in a hot pan, heat the olive oil over medium heat and saut\u00166 the garlic until fragrant.",
+    "add the cooked spaghetti to the pan with the garlic and toss to combine.",
+    "add the paprika to the pan and toss to combine.",
+    "place the comal vessel over the pan and carefully pour in the sous-vide mixture.",
+    "stir to combine and cook for an additional 2-3 minutes.",
+    "garnish with fresh parsley and edible flowers, if using.",
+    "serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "floral",
+    "romantic",
+    "shaggy",
+    "slovakian",
+    "sous-vide",
+    "understandingly-steamed"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 77,
+    "fat": 23
+  },
+  "slug": "understandingly-steamed-slovakian-spaghetti-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/understandingly-steamed-slovakian-spaghetti-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:33:15Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "sous-vide",
+    "primaryIngredient": "spaghetti",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "spaghetti",
+    "descriptor": "understandingly steamed",
+    "dishForm": "Pasta"
+  }
+}
