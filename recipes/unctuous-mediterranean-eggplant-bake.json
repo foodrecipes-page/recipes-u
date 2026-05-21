@@ -1,0 +1,114 @@
+{
+  "title": "Unctuous Mediterranean Eggplant Bake",
+  "description": "A vegetarian-friendly, roasted eggplant dish with Italian seasoning and a creamy texture, perfect for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 medium eggplants",
+      "amount": "2",
+      "notes": "preferably Italian or Japanese variety"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "1 cup chopped fresh tomatoes",
+      "amount": "1",
+      "notes": "canned is fine too"
+    },
+    {
+      "name": "1 cup ricotta cheese",
+      "amount": "1",
+      "notes": "low-fat or regular"
+    },
+    {
+      "name": "1 cup grated Parmesan cheese",
+      "amount": "1",
+      "notes": "freshly grated is best"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2",
+      "notes": "use a good quality oil"
+    },
+    {
+      "name": "2 tbsp Italian seasoning",
+      "amount": "2",
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the eggplants into 1/4-inch thick rounds and season with salt.",
+    "Layer half of the eggplant slices in a 9x13-inch baking dish.",
+    "Drizzle with 1 tablespoon of olive oil and sprinkle with half of the Italian seasoning.",
+    "Repeat the layers, starting with the remaining eggplant slices, then the remaining olive oil, and finally the remaining Italian seasoning.",
+    "In a mortar and pestle, pound the garlic and a pinch of salt until well combined.",
+    "Add the ricotta cheese and mix until smooth.",
+    "Spread the ricotta mixture over the eggplant layers.",
+    "Sprinkle the Parmesan cheese over the ricotta mixture.",
+    "Bake for 30 minutes, or until the eggplant is tender and the cheese is melted and golden brown.",
+    "Remove from the oven and let it rest for 10 minutes before serving.",
+    "Garnish with chopped fresh basil leaves and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian-seasoning",
+    "mediterranean",
+    "one-pan",
+    "parmesan-cheese",
+    "ricotta-cheese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 23,
+    "carbs": 44,
+    "fat": 34
+  },
+  "slug": "unctuous-mediterranean-eggplant-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/unctuous-mediterranean-eggplant-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T16:50:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "italian seasoning",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Unctuous",
+    "dishForm": "Bake"
+  }
+}
