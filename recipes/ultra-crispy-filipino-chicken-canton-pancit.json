@@ -1,0 +1,113 @@
+{
+  "title": "Ultra Crispy Filipino Chicken Canton Pancit",
+  "description": "A twist on the classic Filipino dish, this version features crispy fried chicken in a savory Canton-style pancit.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped shallots",
+      "amount": "1/2 cup",
+      "notes": "minced"
+    },
+    {
+      "name": "Canton-style noodles",
+      "amount": "1 package (8 oz)",
+      "notes": "or rice noodles"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together 1 cup of vegetable oil, 1 teaspoon of salt, and 1/4 teaspoon of black pepper.",
+    "Add the chicken to the bowl and toss to coat. Let marinate for at least 30 minutes.",
+    "Heat 1/2 cup of oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and fry until golden brown and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, heat 1 tablespoon of oil over medium heat.",
+    "Add the minced garlic and shallots to the skillet and cook until fragrant, about 1 minute.",
+    "Add the Canton-style noodles to the skillet and cook according to package instructions.",
+    "Add the soy sauce, fish sauce (if using), and red chilli flakes to the skillet and stir to combine.",
+    "Add the cooked chicken back into the skillet and stir to combine.",
+    "Serve the chicken and noodles hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canton-style",
+    "chicken",
+    "crispy",
+    "filipino",
+    "hangover-cure",
+    "one-pan",
+    "pancit",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 25
+  },
+  "slug": "ultra-crispy-filipino-chicken-canton-pancit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-crispy-filipino-chicken-canton-pancit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T08:25:55Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "saute",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Ultra Crispy",
+    "dishForm": "Canton Pancit"
+  }
+}
