@@ -1,0 +1,97 @@
+{
+  "title": "under-seasoned spanish pulpo paella",
+  "description": "a light spanish dish featuring pulpo and forced-rhubarb, cooked sous-vide, and served in a single pan",
+  "cuisine": "spanish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pulpo",
+      "amount": "1 pound",
+      "notes": "sous-vide at 130f for 2 hours"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "forced-rhubarb",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large pan over medium-high heat",
+    "add the chopped onion and sauté for 5 minutes",
+    "add the minced garlic and sauté for 1 minute",
+    "add the sliced forced-rhubarb and sauté for 2 minutes",
+    "add the chicken broth and bring to a boil",
+    "add the rice and stir to coat with the broth",
+    "add the pulpo and stir to combine",
+    "reduce heat to low and simmer for 20 minutes",
+    "add the diced tomato and stir to combine",
+    "season with salt and pepper to taste"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "sous-vide",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "under-seasoned-spanish-pulpo-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/under-seasoned-spanish-pulpo-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T03:30:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Pulpo",
+    "descriptor": "Under-Seasoned",
+    "dishForm": null
+  }
+}
