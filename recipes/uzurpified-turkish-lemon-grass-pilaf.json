@@ -1,0 +1,84 @@
+{
+  "title": "Uzurpified Turkish Lemon Grass Pilaf",
+  "description": "A light and grassy dish with a touch of lemon grass flavor, featuring shio-koji-cured ingredients for a unique twist on traditional pilaf.",
+  "cuisine": "Turkish",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": 150
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shiitake mushrooms, soaked and sliced",
+      "amount": "60g"
+    },
+    {
+      "name": "lemon grass, sliced",
+      "amount": "4 spears"
+    },
+    {
+      "name": "dijon mustard paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shio-koji-cured tofu cubes",
+      "amount": "60g"
+    },
+    {
+      "name": "shio-koji-cured shrimp, peeled and deveined",
+      "amount": "50g"
+    },
+    {
+      "name": "water or broth",
+      "amount": 250
+    }
+  ],
+  "instructions": [
+    "Heat a pan with olive oil and sauté the green curry paste until fragrant.",
+    "Add the shio-koji-cured tofu cubes, shio-koji-cured shrimp, and sliced mushrooms. Cook for about 3 minutes.",
+    "Stir in the water or broth to create a sauce, bring to a boil, then reduce heat and simmer for another 5 minutes.",
+    "Toss quinoa with remaining ingredients before adding it to the pan. Stir gently to combine all components evenly.",
+    "Garnish with fresh lemon grass and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grassy",
+    "light",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 281,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "uzurpified-turkish-lemon-grass-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/uzurpified-turkish-lemon-grass-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T12:14:50Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "light",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lemon grass",
+    "descriptor": "Uzurpified",
+    "dishForm": "Pilaf"
+  }
+}

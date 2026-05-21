@@ -9293,5 +9293,17 @@
     "cuisine": "argentinian",
     "totalTimeMin": 10,
     "shard": "u"
+  },
+  {
+    "slug": "uzurpified-turkish-lemon-grass-pilaf",
+    "title": "Uzurpified Turkish Lemon Grass Pilaf",
+    "tags": [
+      "grassy",
+      "light",
+      "paleo-friendly"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
