@@ -1,0 +1,122 @@
+{
+  "title": "unforgettable korean pork jjim",
+  "description": "a fresh, pillowy, energizing korean dish featuring apple cider vinegar and coconut cream. this dish is gluten-free friendly and is best served as a ssam.",
+  "cuisine": "korean",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality vinegar for the best flavor"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "chill the can in the refrigerator before opening"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "mince before using"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "slice thinly before using"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chop before using"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "use a light hand when adding to avoid overpowering the dish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "in a large bowl, whisk together pork shoulder, apple cider vinegar, brown sugar, garlic, ginger, and 1 teaspoon of salt until the meat is well coated.",
+    "cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "preheat the oven to 300 degrees fahrenheit.",
+    "remove the pork from the marinade and place it in a large Dutch oven or oven-safe pot with a lid.",
+    "add the coconut cream, sesame oil, and black pepper to the pot.",
+    "cover the pot and transfer it to the preheated oven.",
+    "bake for 2 hours, or until the meat is tender and easily shreds with a fork.",
+    "remove the pot from the oven and let it cool slightly.",
+    "using two forks, shred the pork into bite-sized pieces.",
+    "return the pot to the stovetop and add the gochujang. stir to combine.",
+    "cook for an additional 10 minutes, or until the sauce has thickened slightly.",
+    "serve the pork warm, garnished with chopped green onions and additional gochujang if desired.",
+    "serve with steamed rice or kimchi for a filling meal.",
+    "adjust the level of spiciness to your liking by adding more gochujang or red pepper flakes.",
+    "serve with toasted sesame seeds and chopped green onions for added crunch.",
+    "add a fried egg on top for a satisfying breakfast or brunch option.",
+    "serve with a side of pickled radishes for a tangy contrast to the rich pork."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "korean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 80
+  },
+  "slug": "unforgettable-korean-pork-jjim",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/unforgettable-korean-pork-jjim",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:42:43Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Unforgettable",
+    "dishForm": "Jjim"
+  }
+}
