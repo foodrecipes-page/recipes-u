@@ -1,0 +1,122 @@
+{
+  "title": "Melted Moroccan Cheese Tagine",
+  "description": "A rich and creamy Moroccan-inspired dish featuring a deep-fried tagine topped with melted cheese.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tagine dish",
+      "amount": "1",
+      "notes": "Any ceramic or clay tagine dish will work."
+    },
+    {
+      "name": "Lamb or beef shoulder",
+      "amount": "1 lb",
+      "notes": "You can also use beef or a combination of meats."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality Moroccan olive oil."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop the onion finely and sauté for a richer flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3-4 cloves",
+      "notes": "Use fresh garlic for the best flavor."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grate the ginger for added depth."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Use cumin powder for a more intense flavor."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Use sweet paprika for a richer flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher salt for a more refined flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Use freshly ground black pepper for the best flavor."
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "8 oz",
+      "notes": "Use a high-quality feta cheese for the best flavor."
+    },
+    {
+      "name": "Melted mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "Use a high-quality mozzarella cheese for the best flavor."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine dish over medium-high heat.",
+    "Add the lamb or beef shoulder and sear until browned on all sides.",
+    "Add the onion, garlic, ginger, cumin, paprika, salt, and black pepper to the tagine dish.",
+    "Stir well to combine and cook for 2-3 minutes.",
+    "Add 1 cup of water to the tagine dish and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes.",
+    "While the tagine is cooking, heat 2 tbsp of olive oil in a separate pan over medium heat.",
+    "Add the feta cheese and stir until melted and golden brown.",
+    "Add the melted feta cheese to the tagine dish and stir to combine.",
+    "Transfer the tagine to the oven and bake at 400°F for 10-15 minutes.",
+    "Top the tagine with melted mozzarella cheese and return to the oven for an additional 2-3 minutes.",
+    "Remove the tagine from the oven and let it cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheese-pull",
+    "fodmap-friendly",
+    "lazy-sunday",
+    "moroccan",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 50,
+    "fat": 80
+  },
+  "slug": "ultra-melted-moroccan-cheese-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ultra-melted-moroccan-cheese-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T16:05:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "garlic clove",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cheese",
+    "descriptor": "ultra-melted",
+    "dishForm": "Tagine"
+  }
+}
