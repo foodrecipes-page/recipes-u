@@ -1,0 +1,60 @@
+{
+  "slug": "umami-fluffy-indian-mushroom-curry--japanese",
+  "title": "Japanese Curry Udon",
+  "description": "A hearty and flavorful Japanese curry udon dish featuring tender noodles and a rich, savory curry sauce. Serve with a side of steamed vegetables for a delicious and satisfying meal.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "umami",
+      "amount": "2 cups vegetable broth"
+    },
+    {
+      "name": "fluffy",
+      "amount": "4 oz udon noodles"
+    },
+    {
+      "name": "indian",
+      "amount": "2 tbsp curry powder"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup sliced mushrooms"
+    },
+    {
+      "name": "curry",
+      "amount": "1/2 cup coconut milk"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a large pot over medium heat.",
+    "Add the curry powder and whisk until smooth.",
+    "Bring the mixture to a simmer.",
+    "Add the sliced mushrooms and cook until tender.",
+    "Add the udon noodles and cook until heated through.",
+    "Stir in the coconut milk and cook for an additional 2 minutes.",
+    "Serve the curry udon hot, garnished with green onions and sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "curry",
+    "udon",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-fluffy-indian-mushroom-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:02:16.492Z"
+}
