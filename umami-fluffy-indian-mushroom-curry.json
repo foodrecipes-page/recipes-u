@@ -1,0 +1,94 @@
+{
+  "slug": "umami-fluffy-indian-mushroom-curry",
+  "title": "Mushroom Curry",
+  "description": "A flavorful Indian-inspired curry made with sautéed mushrooms and a blend of spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Curry",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fluffy",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Umami",
+      "amount": "1 teaspoon",
+      "notes": "as needed"
+    },
+    {
+      "name": "Indian",
+      "amount": "1 teaspoon",
+      "notes": "ginger powder"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and cook until softened.",
+    "Add garlic and cook for 1 minute.",
+    "Add mushrooms and cook until they release their liquid and start to brown.",
+    "Add curry powder and umami, and cook for 1 minute.",
+    "Add coconut milk and bring to a simmer.",
+    "Reduce heat to low and cook for 10-15 minutes or until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve over fluffy rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "mushroom",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-fluffy-indian-mushroom-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:32:56.634Z"
+}
