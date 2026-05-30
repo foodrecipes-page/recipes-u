@@ -9380,5 +9380,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "ultra-sweet-greek-yogurt-horiatiki-salad--vegan",
+    "title": "Vegan Horiatiki Salad",
+    "tags": [
+      "vegan",
+      "salad",
+      "greek"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 30,
+    "shard": "u"
+  },
+  {
+    "slug": "ultra-sweet-greek-yogurt-horiatiki-salad--chinese",
+    "title": "Sweet Greek Yogurt Horiatiki Salad",
+    "tags": [
+      "chinese",
+      "sweet",
+      "greek",
+      "yogurt"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
