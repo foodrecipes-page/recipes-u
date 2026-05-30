@@ -1,0 +1,97 @@
+{
+  "slug": "unique-bitter-japanese-tofu-noodles",
+  "title": "Spicy Tofu Noodle Stir Fry",
+  "description": "A quick and savory Japanese-inspired noodle dish featuring pan-seared tofu and a variety of spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "unique noodles",
+      "amount": "8 oz",
+      "notes": "rice noodles or soba noodles work well"
+    },
+    {
+      "name": "bitter",
+      "amount": "1/4 cup",
+      "notes": "bitter melon or dark leafy greens such as kale"
+    },
+    {
+      "name": "japanese rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cook noodles according to package instructions.",
+    "2. In a small bowl, whisk together rice vinegar, soy sauce, ginger, sesame oil, sugar, and red pepper flakes.",
+    "3. In a large skillet or wok, heat 1 tablespoon of oil over medium-high heat.",
+    "4. Add tofu and cook until golden brown, about 3-4 minutes per side.",
+    "5. Remove tofu from skillet and set aside.",
+    "6. In the same skillet, add remaining 1 tablespoon of oil.",
+    "7. Add bitter and cook until tender, about 3-4 minutes.",
+    "8. Add cooked noodles to skillet and toss with bitter and sauce.",
+    "9. Return tofu to skillet and toss to combine.",
+    "10. Serve hot, garnished with sesame seeds and green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "stir-fry",
+    "quick",
+    "easy",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-bitter-japanese-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:34:44.680Z"
+}
