@@ -1,0 +1,71 @@
+{
+  "slug": "ultra-sweet-greek-yogurt-horiatiki-salad--vegan",
+  "title": "Vegan Horiatiki Salad",
+  "description": "A refreshing Greek-inspired salad made with fresh vegetables and vegan yogurt.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Horiatiki salad",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Ultra sweet potatoes",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Greek yogurt (vegan)",
+      "amount": "1/4 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "any variety"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake the sweet potatoes for 20-25 minutes, or until tender.",
+    "In a large bowl, combine the mixed greens, cherry tomatoes, and cucumber.",
+    "In a small bowl, whisk together the vegan yogurt and a pinch of salt.",
+    "Add the baked sweet potatoes to the bowl and toss to combine.",
+    "Drizzle the yogurt dressing over the salad and toss to coat.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "salad",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-sweet-greek-yogurt-horiatiki-salad--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:05:34.165Z"
+}
