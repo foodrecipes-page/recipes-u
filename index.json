@@ -924,16 +924,14 @@
   },
   {
     "slug": "ultra-sweet-greek-yogurt-horiatiki-salad",
-    "title": "Ultra Sweet Greek Yogurt Horiatiki Salad",
+    "title": "Horiatiki Salad",
     "tags": [
-      "brunch-ideas",
-      "greek-cuisine",
-      "healthy-snacks",
-      "refreshing-salads",
-      "sugar-free-recipes"
+      "greek",
+      "vegetarian",
+      "salad"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "u"
   },
   {
@@ -3926,17 +3924,16 @@
   },
   {
     "slug": "unctuous-roasted-italian-beef-risotto",
-    "title": "Unctuous Roasted Italian Beef Risotto",
+    "title": "Creamy Italian Beef Risotto",
     "tags": [
-      "ayurvedic-friendly",
-      "beef-recipes",
-      "comfort-food",
-      "gluten-free",
-      "italian-cuisine",
-      "one-pot"
+      "italian",
+      "beef",
+      "risotto",
+      "creamy",
+      "italian-cuisine"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -6804,16 +6801,16 @@
   },
   {
     "slug": "unique-savory-portuguese-fish-stir-fry",
-    "title": "Portuguese Fish Stir Fry",
+    "title": "Bacalhau à Brás",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "portuguese-cuisine",
-      "seafood",
-      "weeknight"
+      "portuguese",
+      "fish",
+      "breakfast",
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "portuguese",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
