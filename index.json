@@ -2042,16 +2042,15 @@
   },
   {
     "slug": "umami-fluffy-indian-mushroom-curry",
-    "title": "Umami Fluffy Indian Mushroom Curry",
+    "title": "Mushroom Curry",
     "tags": [
-      "indian-cuisine",
-      "mushroom-curry",
-      "umami-flavors",
-      "vegan-friendly",
-      "comfort-food"
+      "indian",
+      "curry",
+      "mushroom",
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -4946,16 +4945,16 @@
   },
   {
     "slug": "unique-bitter-japanese-tofu-noodles",
-    "title": "Unique Bitter Japanese Tofu Noodles",
+    "title": "Spicy Tofu Noodle Stir Fry",
     "tags": [
-      "healthy-meal",
-      "japanese-cuisine",
-      "noodle-dish",
-      "spicy-food",
-      "vegetarian-friendly"
+      "asian",
+      "stir-fry",
+      "quick",
+      "easy",
+      "noodle"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -6761,17 +6760,17 @@
   },
   {
     "slug": "unique-savory-american-chicken-tagine",
-    "title": "Unique Savory American Chicken Tagine",
+    "title": "Spicy Chicken Tagine",
     "tags": [
-      "american-cuisine",
-      "comfort-food",
-      "gluten-free",
-      "healthy-dinner",
-      "low-calorie",
-      "one-pot"
+      "chicken",
+      "tagine",
+      "north african",
+      "dinner",
+      "oven",
+      "spicy"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 50,
+    "cuisine": "north african",
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
@@ -8097,14 +8096,12 @@
   },
   {
     "slug": "unique-velvety-indian-chickpeas-curry",
-    "title": "Unique Velvety Indian Chickpeas Curry",
+    "title": "Chickpea Curry",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "indian-cuisine",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "chickpea",
+      "curry",
+      "indian",
+      "vegetarian"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 40,
