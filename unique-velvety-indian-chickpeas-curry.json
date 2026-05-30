@@ -1,0 +1,88 @@
+{
+  "slug": "unique-velvety-indian-chickpeas-curry",
+  "title": "Chickpea Curry",
+  "description": "A flavorful and nutritious Indian-inspired curry made with chickpeas, perfect for a weeknight dinner. This recipe is easy to make and packed with protein and fiber.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "unique curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "velvety coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger. Cook until onion is translucent, about 5 minutes.",
+    "Add cumin and curry powder. Cook for 1 minute.",
+    "Add chickpeas, tomato, and coconut milk. Stir to combine.",
+    "Bring to a simmer and cook for 20 minutes or until the sauce has thickened.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea",
+    "curry",
+    "indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-velvety-indian-chickpeas-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:30:43.206Z"
+}
