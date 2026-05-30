@@ -1,0 +1,56 @@
+{
+  "slug": "ultra-sweet-greek-yogurt-horiatiki-salad--chinese",
+  "title": "Sweet Greek Yogurt Horiatiki Salad",
+  "description": "A refreshing twist on traditional salad recipes, blending the creamy sweetness of Greek yogurt with the tanginess of Horiatiki salad.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "greek yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "horiatiki salad",
+      "amount": "100g"
+    },
+    {
+      "name": "ultra sweet",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, mix together the Greek yogurt and Horiatiki salad.",
+    "2. Add 2 tsp of ultra sweet to the yogurt and salad mixture.",
+    "3. Season with salt to taste.",
+    "4. Refrigerate for at least 30 minutes to allow flavors to meld.",
+    "5. Serve chilled."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "sweet",
+    "greek",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-sweet-greek-yogurt-horiatiki-salad--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:05:55.850Z"
+}
