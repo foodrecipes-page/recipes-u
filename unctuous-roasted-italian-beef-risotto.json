@@ -1,0 +1,92 @@
+{
+  "slug": "unctuous-roasted-italian-beef-risotto",
+  "title": "Creamy Italian Beef Risotto",
+  "description": "A rich and creamy risotto dish featuring tender beef and a blend of Italian flavors.",
+  "cuisine": "Italian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "Slice the beef into thin strips"
+    },
+    {
+      "name": "Unctuous Italian Risotto",
+      "amount": "1 cup",
+      "notes": "Arborio or Carnaroli works well"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 cup",
+      "notes": "Dry white wine adds depth of flavor"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium broth for a rich flavor"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": "Freshly shredded for optimal flavor"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing the beef"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced for added depth"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat. Add the beef and cook until browned, about 3-4 minutes. Remove the beef from the skillet and set aside.",
+    "Reduce heat to medium and add the garlic to the skillet. Cook for 1 minute, until fragrant.",
+    "Add the white wine to the skillet, scraping up any browned bits from the bottom. Cook until the wine is almost completely reduced, about 2-3 minutes.",
+    "Add the beef broth to the skillet, 1 cup at a time, stirring continuously and allowing each portion to absorb before adding the next. Bring the mixture to a simmer.",
+    "Add the risotto to the skillet, stirring to combine. Cook for 20-25 minutes, or until the risotto is creamy and cooked through.",
+    "Stir in the Parmesan cheese until melted and well combined.",
+    "Return the beef to the skillet and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve the risotto hot, garnished with chopped parsley.",
+    "Optional: Add a sprinkle of additional Parmesan cheese on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "risotto",
+    "creamy",
+    "italian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-roasted-italian-beef-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:33:46.832Z"
+}
