@@ -9342,5 +9342,43 @@
     "cuisine": "Turkish",
     "totalTimeMin": 35,
     "shard": "u"
+  },
+  {
+    "slug": "unique-savory-american-chicken-tagine--french",
+    "title": "Chicken Tagine",
+    "tags": [
+      "chicken",
+      "french",
+      "tagine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-savory-portuguese-fish-stir-fry--thai",
+    "title": "Thai Style Fish Fry",
+    "tags": [
+      "thai",
+      "fish",
+      "seafood",
+      "stir-fry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 27,
+    "shard": "u"
+  },
+  {
+    "slug": "umami-fluffy-indian-mushroom-curry--japanese",
+    "title": "Japanese Curry Udon",
+    "tags": [
+      "japanese",
+      "curry",
+      "udon",
+      "noodles"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
