@@ -1,0 +1,84 @@
+{
+  "slug": "unique-crispy-peruvian-lentil-stew",
+  "title": "Crispy Peruvian Lentil Stew",
+  "description": "A hearty and flavorful stew featuring crispy peruvian-style lentils, served with a side of crusty bread.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Unique spice blend",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, cumin, chili powder, salt, and black pepper. Cook for 1 minute.",
+    "Add lentils, unique spice blend, and 4 cups water. Bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes, or until lentils are tender.",
+    "Preheat oven to 400°F (200°C).",
+    "Cut crusty bread into 1-inch cubes and place on a baking sheet.",
+    "Drizzle with oil and toss to coat. Bake for 5-7 minutes, or until crispy.",
+    "Serve stew hot with crispy bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "peruvian",
+    "stew",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crispy-peruvian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:39:55.438Z"
+}
