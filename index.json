@@ -1119,17 +1119,15 @@
   },
   {
     "slug": "umami-buttery-greek-lentil-stifado",
-    "title": "Umami Buttery Greek Lentil Stifado",
+    "title": "Greek Lentil Stifado",
     "tags": [
-      "comfort-food",
-      "greek-cuisine",
-      "lentil-recipes",
-      "one-pot",
-      "plant-based",
-      "smoky-flavors"
+      "greek",
+      "lentil",
+      "stifado",
+      "vegetarian"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
