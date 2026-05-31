@@ -2315,13 +2315,12 @@
   },
   {
     "slug": "umami-indian-eggplant-kheer",
-    "title": "Umami Indian Eggplant Kheer",
+    "title": "Eggplant Curry with Umami Notes",
     "tags": [
-      "dinner",
+      "curry",
       "indian",
-      "one-pot",
-      "vegan",
-      "weeknight"
+      "eggplant",
+      "vegetarian"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 35,
@@ -2498,15 +2497,16 @@
   },
   {
     "slug": "umami-light-paleo-chicken-stir-fry",
-    "title": "Umami Light Paleo Chicken Stir-fry",
+    "title": "Paleo Chicken Stir Fry",
     "tags": [
-      "paleo",
-      "umami",
+      "chicken",
       "stir-fry",
-      "light"
+      "paleo",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Saudia Arab",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -7486,17 +7486,14 @@
   },
   {
     "slug": "unique-umami-british-fish-full-english-breakfast",
-    "title": "Unique Umami British Fish Full English Breakfast",
+    "title": "Full English Breakfast",
     "tags": [
-      "british-breakfast",
-      "full-english",
-      "one-pan",
-      "pescatarian",
-      "smoked-fish",
-      "umami-rich"
+      "full english breakfast",
+      "english breakfast",
+      "breakfast"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
