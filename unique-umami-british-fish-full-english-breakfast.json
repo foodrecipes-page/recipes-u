@@ -1,0 +1,82 @@
+{
+  "slug": "unique-umami-british-fish-full-english-breakfast",
+  "title": "Full English Breakfast",
+  "description": "A hearty, classic breakfast dish originating from England, featuring a variety of meats, eggs, and toast.",
+  "cuisine": "British",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "Thick-cut, smoked bacon"
+    },
+    {
+      "name": "Sausages",
+      "amount": "2",
+      "notes": "British-style pork sausages"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Large eggs, fried or poached"
+    },
+    {
+      "name": "Black Pudding",
+      "amount": "1/2 cup",
+      "notes": "Grilled or pan-fried"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Button mushrooms, sliced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": "Heirloom tomatoes, sliced"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "White bread, toasted"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted butter, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill or a non-stick pan to medium-high heat.",
+    "Cook the bacon slices until crispy, then set aside.",
+    "Grill or pan-fry the sausages until browned and cooked through.",
+    "Fry the mushrooms in butter until tender and golden brown.",
+    "Poach the eggs in a separate pan of simmering water until cooked to your liking.",
+    "Toast the bread until lightly browned.",
+    "Assemble the full English breakfast by placing the cooked meats, mushrooms, and toast on a plate.",
+    "Add a poached egg on top and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "full english breakfast",
+    "english breakfast",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-british-fish-full-english-breakfast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:56:16.258Z"
+}
