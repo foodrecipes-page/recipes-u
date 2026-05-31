@@ -1,0 +1,75 @@
+{
+  "slug": "umami-buttery-greek-lentil-stifado",
+  "title": "Greek Lentil Stifado",
+  "description": "A hearty, comforting Greek stew made with lentils and stifado sauce, perfect for a cold winter's night.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Greek lentils",
+      "amount": "250g"
+    },
+    {
+      "name": "stifado sauce",
+      "amount": "250ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "dissolved in 2 tbsp water"
+    },
+    {
+      "name": "umami broth",
+      "amount": "500ml"
+    }
+  ],
+  "instructions": [
+    "Heat buttery oil in a large pot over medium heat.",
+    "Add chopped onion, carrot, and celery and cook until the vegetables are tender.",
+    "Add dissolved tomato paste and cook for 1 minute.",
+    "Add stifado sauce and umami broth, and bring to a boil.",
+    "Add lentils and reduce heat to low.",
+    "Simmer for 30 minutes or until the lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lentil",
+    "stifado",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-buttery-greek-lentil-stifado",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:26:37.915Z"
+}
