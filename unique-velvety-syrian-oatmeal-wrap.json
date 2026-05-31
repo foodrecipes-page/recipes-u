@@ -1,0 +1,63 @@
+{
+  "slug": "unique-velvety-syrian-oatmeal-wrap",
+  "title": "Unique Syrian Wrap",
+  "description": "A delicious and healthy wrap filled with unique flavors and crunchy textures, inspired by Syrian cuisine.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "unique",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "velvety",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "oatmeal",
+      "amount": "1/4 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the oatmeal according to package instructions.",
+    "In a pan, heat a tablespoon of oil over medium heat.",
+    "Add the chopped unique and velvety ingredients and cook until lightly browned.",
+    "Warm the wrap in the same pan or in the microwave.",
+    "Assemble the wrap by spreading the cooked oatmeal on the wrap, followed by the unique and velvety mixture.",
+    "Add any desired additional toppings, such as chopped herbs or sliced vegetables.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "vegan",
+    "gluten-free",
+    "unique"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-velvety-syrian-oatmeal-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:03:37.058Z"
+}
