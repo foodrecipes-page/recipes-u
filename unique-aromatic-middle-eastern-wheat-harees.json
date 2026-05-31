@@ -1,0 +1,60 @@
+{
+  "slug": "unique-aromatic-middle-eastern-wheat-harees",
+  "title": "Harees with Middle Eastern Twist",
+  "description": "A traditional Middle Eastern dish with a unique twist, perfect for a hearty meal. Harees is a slow-cooked wheat porridge typically served with meat.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "wheat",
+      "amount": "1 cup",
+      "notes": "preferably cracked wheat"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "adjust to achieve desired consistency"
+    },
+    {
+      "name": "Middle Eastern spices",
+      "amount": "2 tsp",
+      "notes": "a mix of cumin, coriander, cinnamon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Rinse the wheat and soak it in water for at least 4 hours or overnight.",
+    "Drain and rinse the wheat again, then place it in a large pot with 4 cups of water.",
+    "Bring the water to a boil, then reduce the heat to low and simmer for about 1 hour, or until the wheat is tender.",
+    "Add the Middle Eastern spices, onion, and garlic to the pot and continue to simmer for another 30 minutes.",
+    "Use a fork to mash some of the wheat against the side of the pot to thicken the harees.",
+    "Season with salt to taste.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "harees",
+    "middle-eastern",
+    "wheat"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-aromatic-middle-eastern-wheat-harees",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:02:05.981Z"
+}
