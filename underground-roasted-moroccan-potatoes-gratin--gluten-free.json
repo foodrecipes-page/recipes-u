@@ -1,0 +1,78 @@
+{
+  "slug": "underground-roasted-moroccan-potatoes-gratin--gluten-free",
+  "title": "Roasted Moroccan Sweet Potatoes",
+  "description": "A flavorful and healthy side dish that combines the natural sweetness of roasted sweet potatoes with the warm spices of Morocco.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Scrub the sweet potatoes clean and dry them with a paper towel.",
+    "Cut the sweet potatoes into 1-inch (2.5 cm) cubes.",
+    "In a large bowl, whisk together the olive oil, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the sweet potatoes to the bowl and toss to coat with the spice mixture.",
+    "Spread the sweet potatoes in a single layer on a baking sheet.",
+    "Roast in the preheated oven for 20-25 minutes, or until the sweet potatoes are tender and caramelized.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet potatoes",
+    "moroccan",
+    "gluten-free",
+    "side dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/underground-roasted-moroccan-potatoes-gratin--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:48:44.381Z"
+}
