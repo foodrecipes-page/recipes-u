@@ -1,0 +1,83 @@
+{
+  "slug": "unusual-australian-coconut-mousse",
+  "title": "Coconut Mousse with Australian Bushfood",
+  "description": "A unique dessert incorporating Australian bushfood with the creaminess of coconut mousse.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut Cream",
+      "amount": "250g",
+      "notes": "Chilled in the fridge before use."
+    },
+    {
+      "name": "Australian Quandong Puree",
+      "amount": "50g",
+      "notes": "Available at most health food stores."
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "50g",
+      "notes": "Replace with regular sugar if not available."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "20g",
+      "notes": "Freshly squeezed for best flavor."
+    },
+    {
+      "name": "Unusual Saltbush Leaves",
+      "amount": "20g",
+      "notes": "Only use a few leaves for flavor, as they can be strong."
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "2",
+      "notes": "Room temperature for whipping."
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "20g",
+      "notes": "Melted before use."
+    },
+    {
+      "name": "Gelatin",
+      "amount": "10g",
+      "notes": "Unflavored and unsweetened."
+    }
+  ],
+  "instructions": [
+    "In a blender, combine coconut cream, quandong puree, coconut sugar, lemon juice, saltbush leaves, and melted coconut oil. Blend until smooth.",
+    "In a separate bowl, whip the egg whites until stiff peaks form.",
+    "Fold the whipped egg whites into the coconut mixture until well combined.",
+    "Dissolve the gelatin in a small amount of water and add it to the mixture. Fold until the gelatin is fully incorporated.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 3 hours or until set.",
+    "Just before serving, top with additional coconut flakes or fresh fruit, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "coconut",
+    "dessert",
+    "unique"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unusual-australian-coconut-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:59:21.073Z"
+}
