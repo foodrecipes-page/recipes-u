@@ -1,0 +1,93 @@
+{
+  "slug": "unique-braised-jamaican-sweetcorn-stew",
+  "title": "Jamaican Sweetcorn Stew",
+  "description": "A hearty and flavorful stew made with sweetcorn, Jamaican seasonings, and tender beef. Perfect for a cold winter's night.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (1 pound)",
+      "amount": "1 pound",
+      "notes": "chuck or round work well"
+    },
+    {
+      "name": "sweetcorn (3 ears)",
+      "amount": "3 ears",
+      "notes": ""
+    },
+    {
+      "name": "onion (1 medium)",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "allspice (2 teaspoons)",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "thyme (1 teaspoon)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves (2)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "jamaican jerk seasoning (1 tablespoon)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "beef broth (2 cups)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Sear the beef until browned on all sides, then set aside.",
+    "Add the onion and garlic to the pot and sauté until softened.",
+    "Add the allspice, thyme, bay leaves, and jerk seasoning to the pot and cook for 1 minute.",
+    "Add the beef broth, tomato paste, and browned beef to the pot. Bring to a boil, then reduce heat to low and simmer for 2 hours.",
+    "Add the sweetcorn to the pot and continue to simmer for an additional 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "beef",
+    "corn",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-braised-jamaican-sweetcorn-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:37:02.832Z"
+}
