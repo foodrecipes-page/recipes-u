@@ -4264,16 +4264,16 @@
   },
   {
     "slug": "underground-roasted-moroccan-potatoes-gratin",
-    "title": "underground roasted Moroccan potatoes Gratin",
+    "title": "Moroccan Potato Gratin",
     "tags": [
-      "comfort-food",
       "moroccan",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "gratin",
+      "side-dish",
+      "potatoes",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 80,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -6545,17 +6545,14 @@
   },
   {
     "slug": "unique-nutty-saudi-arabian-fish-pilaf",
-    "title": "Unique Nutty Saudi Arabian Fish Pilaf",
+    "title": "Saudi Arabian Fish Pilaf",
     "tags": [
-      "cheesy",
-      "kid-friendly",
-      "middle-eastern",
-      "nutty",
-      "pescatarian",
-      "ramekin"
+      "saudi-arabian",
+      "fish-pilaf",
+      "middle-eastern"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
