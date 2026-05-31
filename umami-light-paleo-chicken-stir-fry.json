@@ -1,0 +1,75 @@
+{
+  "slug": "umami-light-paleo-chicken-stir-fry",
+  "title": "Paleo Chicken Stir Fry",
+  "description": "A quick and easy paleo recipe for chicken stir fry. Simply sauté the ingredients in a pan and serve.",
+  "cuisine": null,
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "light olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "umami mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "paleo stir fry sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fry onions",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fry bell peppers",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the mushrooms, onions, and bell peppers to the skillet.",
+    "Cook until the vegetables are tender, about 5 minutes.",
+    "Add the paleo stir fry sauce to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to coat with the sauce.",
+    "Cook for an additional 2-3 minutes or until the chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "stir-fry",
+    "paleo",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-light-paleo-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:58:03.340Z"
+}
