@@ -4779,17 +4779,15 @@
   },
   {
     "slug": "unhurried-umami-croatian-nuka-pickle-pilaf",
-    "title": "Unhurried Umami Croatian Nuka Pickle Pilaf",
+    "title": "Croatian Pickle Pilaf",
     "tags": [
-      "croatian-cuisine",
-      "lazy-sunday",
-      "low-glycemic",
-      "one-pan",
-      "silky-texture",
-      "umami-flavor"
+      "pilaf",
+      "pickle",
+      "croatian",
+      "vegetarian"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
@@ -9404,6 +9402,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 45,
+    "shard": "u"
+  },
+  {
+    "slug": "underground-roasted-moroccan-potatoes-gratin--gluten-free",
+    "title": "Roasted Moroccan Sweet Potatoes",
+    "tags": [
+      "sweet potatoes",
+      "moroccan",
+      "gluten-free",
+      "side dish"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 30,
     "shard": "u"
   }
 ]
