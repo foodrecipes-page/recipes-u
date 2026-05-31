@@ -1,0 +1,78 @@
+{
+  "slug": "unique-nutty-saudi-arabian-fish-pilaf",
+  "title": "Saudi Arabian Fish Pilaf",
+  "description": "A flavorful and aromatic fish pilaf dish from Saudi Arabia, made with fresh fish, pilaf, and unique spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (such as Tilapia or Cod)",
+      "amount": "1 pound",
+      "notes": "Fresh and boneless"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "Cooked and cooled"
+    },
+    {
+      "name": "Unique spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at Middle Eastern stores"
+    },
+    {
+      "name": "Arabian coffee",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the fish and cook for 3-4 minutes on each side, until cooked through.",
+    "Remove the fish from the skillet and set aside.",
+    "Add the pilaf to the skillet and stir to combine with any remaining oil and spices.",
+    "Add the unique spice blend and Arabian coffee (if using) to the pilaf and stir to combine.",
+    "Return the fish to the skillet and stir to combine with the pilaf.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "fish-pilaf",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-nutty-saudi-arabian-fish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:53:32.025Z"
+}
