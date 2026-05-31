@@ -1,0 +1,69 @@
+{
+  "slug": "underground-roasted-moroccan-potatoes-gratin--chinese",
+  "title": "Moroccan Potatoes in Gratin",
+  "description": "A Chinese-inspired take on the classic moroccan dish, featuring roasted moroccan potatoes in a creamy gratin.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "roasted potatoes",
+      "amount": "3 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "underground vegetables",
+      "amount": "1 large onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chinese five-spice powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a 9x13 inch baking dish with olive oil.",
+    "In a large bowl, combine the roasted potatoes and chopped onion.",
+    "Season with chinese five-spice powder, if using.",
+    "Transfer the potato mixture to the prepared baking dish.",
+    "Pour the gratin over the potatoes and top with additional grated cheese, if desired.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "potatoes",
+    "gratin",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/underground-roasted-moroccan-potatoes-gratin--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:06:35.559Z"
+}
