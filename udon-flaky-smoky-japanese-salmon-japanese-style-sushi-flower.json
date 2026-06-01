@@ -1,0 +1,72 @@
+{
+  "slug": "udon-flaky-smoky-japanese-salmon-japanese-style-sushi-flower",
+  "title": "Pan-Seared Salmon Udon Noodles",
+  "description": "A Japanese-inspired dish featuring pan-seared salmon and udon noodles in a savory sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably Japanese-style"
+    },
+    {
+      "name": "salmon fillet",
+      "amount": "4 oz",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "flower",
+      "amount": "1 bunch",
+      "notes": "green onions or edible flowers for garnish"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the udon noodles according to package instructions.",
+    "While the noodles cook, season the salmon fillet with salt and pepper.",
+    "Heat a skillet over medium-high heat and add sesame oil.",
+    "Sear the salmon fillet for 3-4 minutes per side, or until cooked through.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, and grated ginger.",
+    "Add the cooked noodles to the bowl and toss with the sauce.",
+    "Serve the noodles with the pan-seared salmon on top and garnish with green onions or edible flowers.",
+    "Enjoy your delicious Pan-Seared Salmon Udon Noodles!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "seafood",
+    "noodles"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/udon-flaky-smoky-japanese-salmon-japanese-style-sushi-flower",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:07:01.295Z"
+}
