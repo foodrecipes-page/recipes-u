@@ -1,0 +1,74 @@
+{
+  "slug": "umami-flaky-american-sausage-stir-fry",
+  "title": "American-Style Sausage and Umami Fries",
+  "description": "A twist on classic fries, topped with savory sausage and umami flavor.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "American sausage",
+      "amount": "500g",
+      "notes": "casings removed"
+    },
+    {
+      "name": "Flaky potatoes",
+      "amount": "2kg",
+      "notes": "peeled and cut into fry shapes"
+    },
+    {
+      "name": "Umami",
+      "amount": "2 tbsp",
+      "notes": "paste or powder"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 180°C.",
+    "Fry the potatoes in batches until golden and crispy.",
+    "Remove the fries from the oil and season with salt and pepper.",
+    "In a separate pan, cook the sausage over medium heat until browned.",
+    "Add the umami paste or powder to the sausage and stir-fry for 1 minute.",
+    "To assemble, place a portion of fries on a plate, top with cooked sausage and umami sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "snack",
+    "fries",
+    "sausage",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": "20g",
+    "carbs": "45g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-flaky-american-sausage-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:07:01.574Z"
+}
