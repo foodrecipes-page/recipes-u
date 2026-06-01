@@ -1,0 +1,81 @@
+{
+  "slug": "unique-umami-mediterranean-walnut-wrap",
+  "title": "Walnut Wrap with Feta and Olives",
+  "description": "A delicious and healthy Mediterranean-inspired snack or light meal. The combination of crumbled feta, juicy olives, and crunchy walnuts is elevated by the tangy wrap.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Large flour wrap",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pitted green olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Lay the wrap flat on a clean surface.",
+    "2. Sprinkle the feta cheese evenly over the center of the wrap, leaving a small border around the edges.",
+    "3. Arrange the olives on top of the feta.",
+    "4. Sprinkle the chopped walnuts over the olives.",
+    "5. Add a sprinkle of salt and pepper to taste.",
+    "6. Top with fresh parsley.",
+    "7. Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a neat cylinder.",
+    "8. Slice the wrap in half, if desired.",
+    "9. Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "mediterranean-cuisine",
+    "wrap",
+    "snack",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-mediterranean-walnut-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:58:10.742Z"
+}
