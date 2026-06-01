@@ -1,0 +1,69 @@
+{
+  "slug": "unique-velvety-egyptian-oats-tagine",
+  "title": "Egyptian Oat Tagine",
+  "description": "A unique twist on traditional oatmeal, inspired by the flavors of Egypt. This hearty breakfast dish is perfect for a cold morning.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "or a mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "unique spice",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "velvety milk",
+      "amount": "1 cup",
+      "notes": "or any non-dairy milk alternative"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the velvety milk to a simmer.",
+    "Add the oats, tagine spice blend, and unique spice (if using) to the saucepan.",
+    "Reduce heat to low and cook, stirring occasionally, for about 5 minutes or until the oats have absorbed most of the liquid.",
+    "Stir in the maple syrup and cook for an additional 1-2 minutes.",
+    "Serve hot, garnished with a sprinkle of cinnamon or a dollop of whipped cream (if desired).",
+    "Optional: top with sliced fresh fruit or a sprinkle of chopped nuts."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "north-african",
+    "oatmeal",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-velvety-egyptian-oats-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:08:00.935Z"
+}
