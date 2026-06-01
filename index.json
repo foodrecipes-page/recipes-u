@@ -1871,13 +1871,13 @@
   },
   {
     "slug": "umami-flaky-american-sausage-stir-fry",
-    "title": "Umami Flaky American Sausage Stir-fry",
+    "title": "American-Style Sausage and Umami Fries",
     "tags": [
-      "umami",
-      "flaky",
-      "post-workout",
-      "american-dish",
-      "whole30-friendly"
+      "american",
+      "snack",
+      "fries",
+      "sausage",
+      "umami"
     ],
     "cuisine": "American",
     "totalTimeMin": 35,
@@ -8356,15 +8356,15 @@
   },
   {
     "slug": "unrefined-greek-tofu-salad",
-    "title": "Unrefined Greek Tofu Salad",
+    "title": "Greek Salad with Tofu",
     "tags": [
-      "grilled",
-      "meal-prep",
-      "vegan",
-      "weeknight"
+      "greek",
+      "salad",
+      "tofu",
+      "vegan"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 20,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -8668,17 +8668,16 @@
   },
   {
     "slug": "unusually-spicy-turkish-lentil-skillet",
-    "title": "unusually spicy turkish lentil skillet",
+    "title": "Spicy Turkish Lentil Skillet",
     "tags": [
-      "lentils",
-      "one-pan",
-      "spicy",
+      "lentil",
       "turkish",
-      "vegetarian",
-      "weeknight"
+      "skillet",
+      "spicy",
+      "vegetarian"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 55,
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
