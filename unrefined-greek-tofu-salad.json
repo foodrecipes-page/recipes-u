@@ -1,0 +1,87 @@
+{
+  "slug": "unrefined-greek-tofu-salad",
+  "title": "Greek Salad with Tofu",
+  "description": "A refreshing salad with crispy tofu, fresh veggies, and a tangy Greek-inspired dressing.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Drained and cubed"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Unrefined salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mixed salad greens",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Toss tofu with 1 tsp olive oil and season with salt and pepper. Bake for 20-25 minutes or until lightly browned.",
+    "3. In a large bowl, whisk together olive oil, Greek yogurt, salt, and pepper.",
+    "4. Add sliced red onion, diced tomato, and diced bell pepper to the bowl. Toss to combine.",
+    "5. Add mixed salad greens to the bowl and toss again to combine.",
+    "6. Once the tofu is ready, let it cool for a few minutes before adding it to the salad.",
+    "7. Toss the salad gently to combine. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "salad",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unrefined-greek-tofu-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:34:56.247Z"
+}
