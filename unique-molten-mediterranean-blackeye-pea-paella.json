@@ -1,0 +1,79 @@
+{
+  "slug": "unique-molten-mediterranean-blackeye-pea-paella",
+  "title": "Paella-Style Blackeye Pea Fritters",
+  "description": "A twist on traditional paella, these crispy fritters combine the flavors of the Mediterranean with the protein of blackeye peas.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup blackeye peas",
+      "amount": "cooked",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "1/2 cup unique cornmeal",
+      "amount": "all-purpose",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup molten olive oil",
+      "amount": "for frying",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup mediterranean tomato sauce",
+      "amount": "for serving",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mash the blackeye peas using a fork or a potato masher.",
+    "Add the cornmeal, garlic, smoked paprika, salt, and pepper to the bowl and stir until well combined.",
+    "Add the molten olive oil to the mixture and stir until the mixture forms a thick batter.",
+    "Using a 1/4 cup measuring cup, scoop the batter into a hot skillet or frying pan over medium-high heat.",
+    "Press the batter down with a spatula to form a patty.",
+    "Cook the fritter for 4-5 minutes on the first side, until it is golden brown and crispy.",
+    "Flip the fritter and cook for an additional 4-5 minutes, until the other side is also golden brown.",
+    "Repeat with the remaining batter to form 4-6 fritters.",
+    "Serve the fritters hot with a dollop of mediterranean tomato sauce on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-molten-mediterranean-blackeye-pea-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:59:52.329Z"
+}
