@@ -1,0 +1,99 @@
+{
+  "slug": "unique-savory-american-chicken-tagine--gluten-free",
+  "title": "Spicy Chicken Tagine",
+  "description": "A flavorful and aromatic North African-inspired stew made with chicken, spices, and dried fruits.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown chicken on both sides, about 5-7 minutes. Remove from pot and set aside.",
+    "Add onion, garlic, and ginger to pot and cook until onion is translucent, about 5 minutes.",
+    "Add cumin, coriander, cayenne pepper, and tagine spice blend to pot and cook for 1 minute.",
+    "Add chicken broth, dried apricots, and browned chicken to pot.",
+    "Cover pot and transfer to preheated oven.",
+    "Bake for 30 minutes or until chicken is cooked through.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "gluten-free",
+    "north-african",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-savory-american-chicken-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:39:28.094Z"
+}
