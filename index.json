@@ -3681,17 +3681,15 @@
   },
   {
     "slug": "unctuous-charred-syrian-lamb-stew",
-    "title": "Unctuous Charred Syrian Lamb Stew",
+    "title": "Syrian Lamb Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "lamb-recipes",
-      "one-pot",
-      "slow-cooked",
-      "syrian-cuisine"
+      "lamb",
+      "stew",
+      "syrian",
+      "middle-eastern"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 110,
     "shard": "u"
   },
   {
@@ -6451,17 +6449,14 @@
   },
   {
     "slug": "unique-molten-mediterranean-blackeye-pea-paella",
-    "title": "Molten Mediterranean Blackeye Pea Paella",
+    "title": "Paella-Style Blackeye Pea Fritters",
     "tags": [
-      "gluten-free",
-      "kid-friendly",
-      "mediterranean-inspired",
-      "one-pan",
+      "spanish",
       "vegetarian",
-      "weeknight"
+      "snack"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "cuisine": "Spanish",
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
