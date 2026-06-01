@@ -1,0 +1,96 @@
+{
+  "slug": "ultra-dense-vietnamese-noodles-mi-quang",
+  "title": "Quang Noodle Soup",
+  "description": "A popular Vietnamese noodle soup made with a rich pork broth, Quang noodles, and various toppings.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quang noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Pork bones",
+      "amount": "1kg",
+      "notes": "for rich broth"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Chilli flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "100g",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Fresh herbs",
+      "amount": "handful",
+      "notes": "such as mint and basil"
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of water to a boil and cook the Quang noodles according to the package instructions.",
+    "2. In a separate pot, heat the vegetable oil over medium heat.",
+    "3. Add the diced onion and sliced ginger and cook until the onion is translucent.",
+    "4. Add the pork bones and cook for 5 minutes.",
+    "5. Add 4 cups of water to the pot and bring to a boil.",
+    "6. Reduce the heat to low and simmer for at least 1 hour, or overnight for a richer broth.",
+    "7. Strain the broth through a fine-mesh sieve into a clean pot and discard the solids.",
+    "8. Add the fish sauce, soy sauce, and chilli flakes (if using) to the broth and stir to combine.",
+    "9. Cook the Quang noodles according to the package instructions and divide among bowls.",
+    "10. Ladle the hot broth over the noodles and garnish with bean sprouts, fresh herbs, and a sprinkle of chilli flakes (if using).",
+    "11. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodle-soup",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-dense-vietnamese-noodles-mi-quang",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:33:56.557Z"
+}
