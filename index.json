@@ -157,18 +157,14 @@
   },
   {
     "slug": "udon-flaky-smoky-japanese-salmon-japanese-style-sushi-flower",
-    "title": "smoky udon-flaky japanese salmon",
+    "title": "Pan-Seared Salmon Udon Noodles",
     "tags": [
-      "gluten-free",
-      "high-protein",
       "japanese-cuisine",
-      "low-carb",
-      "one-pan",
-      "quick-dinner",
-      "smoky-flavor"
+      "seafood",
+      "noodles"
     ],
-    "cuisine": "japanese",
-    "totalTimeMin": 27,
+    "cuisine": "Japanese",
+    "totalTimeMin": 18,
     "shard": "u"
   },
   {
@@ -7674,16 +7670,16 @@
   },
   {
     "slug": "unique-umami-mediterranean-walnut-wrap",
-    "title": "Unique Umami Mediterranean Walnut Wrap",
+    "title": "Walnut Wrap with Feta and Olives",
     "tags": [
-      "easy-lunch",
-      "healthy-snacks",
-      "mediterranean-diet",
-      "sick-day-recipes",
-      "vegetarian-friendly"
+      "mediterranean",
+      "mediterranean-cuisine",
+      "wrap",
+      "snack",
+      "healthy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 20,
+    "totalTimeMin": 5,
     "shard": "u"
   },
   {
