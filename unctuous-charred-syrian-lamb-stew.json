@@ -1,0 +1,93 @@
+{
+  "slug": "unctuous-charred-syrian-lamb-stew",
+  "title": "Syrian Lamb Stew",
+  "description": "A hearty and flavorful stew made with tender lamb and infused with the warm spices of the Middle East.",
+  "cuisine": "Syrian",
+  "diet": [
+    "carnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 kg",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "unctuous olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "charred paprika",
+      "amount": "1 tsp",
+      "notes": "smoked for added depth"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Reduce heat to medium and sauté the chopped onion until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the charred paprika, cumin, coriander, salt, and black pepper. Cook for 1 minute, until spices are fragrant.",
+    "Add the browned lamb back to the pot and pour in enough water to cover the lamb.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in some chopped fresh parsley and serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "syrian",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-charred-syrian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:05:53.412Z"
+}
