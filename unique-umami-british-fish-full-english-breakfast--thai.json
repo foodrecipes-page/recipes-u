@@ -1,0 +1,91 @@
+{
+  "slug": "unique-umami-british-fish-full-english-breakfast--thai",
+  "title": "Thai Breakfast Omelette",
+  "description": "A delicious and filling breakfast dish inspired by Thai cuisine, featuring a unique and umami-packed omelette filled with fresh fish and spices.",
+  "cuisine": "thai",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1/2 pound",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fish",
+      "amount": "1/2 pound",
+      "notes": "flaked"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 3-4 minutes.",
+    "Add the onion and garlic and cook until softened, about 2-3 minutes.",
+    "Add the curry paste and cook for 1 minute.",
+    "Pour in the coconut milk and stir to combine.",
+    "Add the fish sauce and stir to combine.",
+    "Add the flaked fish and stir to combine.",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Pour the egg mixture over the fish mixture and cook until the eggs are almost set.",
+    "Sprinkle with coriander and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "fish",
+    "thaicuisine",
+    "omelette"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-british-fish-full-english-breakfast--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:22:39.759Z"
+}
