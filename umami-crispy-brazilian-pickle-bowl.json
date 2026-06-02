@@ -1,0 +1,61 @@
+{
+  "slug": "umami-crispy-brazilian-pickle-bowl",
+  "title": "Crispy Brazilian Bowl",
+  "description": "A savory and crunchy Brazilian-inspired bowl with crispy umami bits.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crispy Umami Bits",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Brazilian Rice",
+      "amount": "1 cup",
+      "notes": "Cook according to package"
+    },
+    {
+      "name": "Roasted Pickle",
+      "amount": "1/2 cup",
+      "notes": " Slice a dill pickle, toss with olive oil, salt, and roast at 400°F for 10 minutes"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "Use a large ceramic bowl"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the pickle slices with 1 tbsp olive oil, salt, and a pinch of black pepper.",
+    "Roast the pickles in the oven for 10 minutes or until slightly tender.",
+    "In a large ceramic bowl, combine the cooked Brazilian rice, crispy umami bits, and roasted pickles.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "brazilian",
+    "crispy",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-crispy-brazilian-pickle-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:35:27.561Z"
+}
