@@ -1,0 +1,75 @@
+{
+  "slug": "uniquely-energizing-tunisian-tortillas-quesadilla",
+  "title": "Tunisian Quesadilla",
+  "description": "A delicious and healthy twist on the classic Mexican dish. This Tunisian quesadilla is filled with the exotic flavors of Tunisia, wrapped in a crispy tortilla.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "4",
+      "notes": "use whole wheat or whole grain tortillas for a healthier option"
+    },
+    {
+      "name": "energizing hummus",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tunisian spices",
+      "amount": "1 tsp",
+      "notes": "cumin, coriander, and paprika blend"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup",
+      "notes": "add some crunch and sweetness"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh and fragrant"
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional, for a creamier taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "In a small bowl, mix together the tunisian spices and a pinch of salt.",
+    "Brush both sides of the tortillas with a little bit of oil.",
+    "Place a tortilla in the skillet and sprinkle a quarter of the tunisian spice mixture onto half of the tortilla.",
+    "Add a quarter of the hummus, carrots, parsley, and feta cheese (if using) on top of the spice mixture.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the filling is heated through.",
+    "Flip the quesadilla and cook for another 2-3 minutes or until the other side is also crispy.",
+    "Repeat with the remaining tortillas and filling ingredients.",
+    "Cut the quesadillas into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quesadilla",
+    "tunisian",
+    "vegetarian",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uniquely-energizing-tunisian-tortillas-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:19:24.863Z"
+}
