@@ -1,0 +1,79 @@
+{
+  "slug": "umami-juicy-norwegian-snapper-stir-fry",
+  "title": "Pan-Seared Snapper with Umami Glaze",
+  "description": "A simple and flavorful dish featuring pan-seared snapper topped with a savory umami glaze.",
+  "cuisine": "Japanese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Umami glaze",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the snapper fillets with salt and pepper.",
+    "Heat the vegetable oil in an oven-safe skillet over medium-high heat.",
+    "Add the snapper fillets and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "While the snapper is baking, prepare the umami glaze by whisking together the umami glaze, ginger, soy sauce, sugar, and sesame oil in a small bowl.",
+    "Remove the skillet from the oven and brush the umami glaze over the top of each snapper fillet.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the glaze is caramelized and bubbly.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "easy-dinner",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-juicy-norwegian-snapper-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:07:41.447Z"
+}
