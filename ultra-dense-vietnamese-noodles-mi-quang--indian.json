@@ -1,0 +1,94 @@
+{
+  "slug": "ultra-dense-vietnamese-noodles-mi-quang--indian",
+  "title": "Quang Mi Noodle Curry",
+  "description": "A fusion of Indian and Vietnamese flavors, this Quang Mi Noodle Curry is a unique and delicious meal option. The combination of spices and herbs creates a rich and aromatic flavor profile.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ultra dense noodles",
+      "amount": "8 oz",
+      "notes": "preferably freshly made"
+    },
+    {
+      "name": "quang mi",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and cook until translucent.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add curry powder, turmeric, salt, and cayenne pepper (if using). Cook for 1 minute.",
+    "Add coconut milk and bring to a simmer.",
+    "Add noodles and mi. Cook for 5-7 minutes or until the noodles are cooked through.",
+    "Stir in some water if the curry becomes too thick.",
+    "Serve hot and enjoy!",
+    "Garnish with fresh herbs or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vietnamese",
+    "curry",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-dense-vietnamese-noodles-mi-quang--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:54:40.347Z"
+}
