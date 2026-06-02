@@ -9406,5 +9406,18 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "u"
+  },
+  {
+    "slug": "unique-umami-british-fish-full-english-breakfast--thai",
+    "title": "Thai Breakfast Omelette",
+    "tags": [
+      "breakfast",
+      "fish",
+      "thaicuisine",
+      "omelette"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
