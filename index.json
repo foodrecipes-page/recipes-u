@@ -9400,5 +9400,18 @@
     "cuisine": "North African",
     "totalTimeMin": 55,
     "shard": "u"
+  },
+  {
+    "slug": "ultra-dense-vietnamese-noodles-mi-quang--indian",
+    "title": "Quang Mi Noodle Curry",
+    "tags": [
+      "indian",
+      "vietnamese",
+      "curry",
+      "noodle"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "u"
   }
 ]
