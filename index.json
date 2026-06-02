@@ -2607,17 +2607,14 @@
   },
   {
     "slug": "umami-polish-beet-bake",
-    "title": "Umami Polish Beet Bake",
+    "title": "Polish Beet Bake",
     "tags": [
-      "buddhist-temple-friendly",
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "umami",
-      "vegan"
+      "polish",
+      "beet",
+      "sauerkraut-free"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 60,
     "shard": "u"
   },
   {
@@ -8268,27 +8265,15 @@
   },
   {
     "slug": "uniquely-energizing-tunisian-tortillas-quesadilla",
-    "title": "unique tunisian tortilla quesadilla",
+    "title": "Tunisian Quesadilla",
     "tags": [
-      "cheesy-recipe",
-      "dinner-idea",
-      "easy-to-make",
-      "eggfree-recipe",
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "lunch-idea",
-      "morning-snack",
-      "north-african-cuisine",
-      "one-pan",
-      "quick-recipe",
-      "spicy-food",
-      "tunisian-cuisine",
-      "vegan-friendly",
-      "weeknight"
+      "quesadilla",
+      "tunisian",
+      "vegetarian",
+      "healthy"
     ],
-    "cuisine": "north african",
-    "totalTimeMin": 35,
+    "cuisine": "Tunisian",
+    "totalTimeMin": 18,
     "shard": "u"
   },
   {
