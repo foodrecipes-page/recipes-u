@@ -1437,18 +1437,15 @@
   },
   {
     "slug": "umami-crispy-brazilian-pickle-bowl",
-    "title": "Umami Crispy Brazilian Pickle Bowl",
+    "title": "Crispy Brazilian Bowl",
     "tags": [
+      "snack",
       "brazilian",
-      "vegan",
-      "gluten-free",
-      "umami",
       "crispy",
-      "pickle",
-      "rice-krispies"
+      "umami"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "u"
   },
   {
