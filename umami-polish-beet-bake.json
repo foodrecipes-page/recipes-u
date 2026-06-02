@@ -1,0 +1,63 @@
+{
+  "slug": "umami-polish-beet-bake",
+  "title": "Polish Beet Bake",
+  "description": "A hearty, comforting dish featuring the earthy flavors of beets and the savory taste of Polish sausage.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "look for a gluten-free option"
+    },
+    {
+      "name": "Beets",
+      "amount": "3 large",
+      "notes": "any variety, peeled and sliced"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 cup",
+      "notes": "crushed, for topping"
+    },
+    {
+      "name": "Umami",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce or mushroom extract"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the beets into 1-inch pieces and place them in a baking dish.",
+    "Add 1 tablespoon of umami to the beets and toss to coat.",
+    "Slice the Polish sausage and add it to the baking dish.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and top the beets and sausage with the crushed bake.",
+    "Return the dish to the oven and bake for an additional 15 minutes.",
+    "Serve hot, garnished with additional umami if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "beet",
+    "sauerkraut-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-polish-beet-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:57:35.320Z"
+}
