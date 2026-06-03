@@ -1,0 +1,56 @@
+{
+  "slug": "umami-tender-algerian-redcurrants-fritters--french",
+  "title": "French Redcurrant Tarts",
+  "description": "A sweet and tangy French dessert featuring redcurrants in a flaky pastry crust.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Redcurrants",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the puff pastry on a lightly floured surface.",
+    "Cut out small squares of the pastry, about 3-4 inches per side.",
+    "Place a few redcurrants in the center of each square.",
+    "Fold the pastry over the fruit to form a triangle or square shape.",
+    "Brush the tops with the beaten egg.",
+    "Sprinkle granulated sugar on top.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "pastry",
+    "redcurrants"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-tender-algerian-redcurrants-fritters--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:17:01.744Z"
+}
