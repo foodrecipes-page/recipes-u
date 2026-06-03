@@ -1,0 +1,89 @@
+{
+  "slug": "unique-spicy-portuguese-pork-buns",
+  "title": "Pork Buns with Spicy Portuguese Slaw",
+  "description": "A delicious fusion of Portuguese flavors with a spicy twist, served in a soft pork bun.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Buns",
+      "amount": "4",
+      "notes": "soft, white"
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "250g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Carrots",
+      "amount": "100g",
+      "notes": "grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "50g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Piri piri sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Season the pork shoulder with salt and black pepper.",
+    "Roast the pork in the oven for 20 minutes, or until browned.",
+    "Let the pork rest for 5 minutes before slicing.",
+    "Meanwhile, combine shredded cabbage, grated carrots, chopped onion, and minced garlic in a bowl.",
+    "Add piri piri sauce to taste and mix well.",
+    "Split the buns in half and toast until lightly browned.",
+    "Assemble the pork buns by placing sliced pork on the bottom bun, topping with slaw, and finishing with the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "portuguese",
+    "spicy",
+    "buns"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-spicy-portuguese-pork-buns",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:43:41.385Z"
+}
