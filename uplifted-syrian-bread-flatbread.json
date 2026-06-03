@@ -1,0 +1,72 @@
+{
+  "slug": "uplifted-syrian-bread-flatbread",
+  "title": "Syrian-Style Flatbread",
+  "description": "A traditional flatbread originating from Syria, often served with various dips and spreads. This recipe is a simplified version of the authentic dish.",
+  "cuisine": "Syrian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bread",
+      "amount": "optional"
+    },
+    {
+      "name": "uplifted",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour, yeast, and salt.",
+    "2. Gradually add water to the dry ingredients and mix until a dough forms.",
+    "3. Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "4. Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "5. Preheat a non-stick skillet or griddle over medium heat.",
+    "6. Divide the dough into 4-6 equal portions, depending on the desired size of flatbreads.",
+    "7. Roll out each portion into a thin circle.",
+    "8. Brush the tops with olive oil and cook the flatbreads for 1-2 minutes on each side, until they are golden brown and puffed.",
+    "9. Serve warm with your favorite dips or spreads."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "syrian",
+    "bread",
+    "recipe",
+    "easy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uplifted-syrian-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:39:40.331Z"
+}
