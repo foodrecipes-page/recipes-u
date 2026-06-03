@@ -1,0 +1,74 @@
+{
+  "slug": "umami-tender-algerian-redcurrants-fritters--italian",
+  "title": "Italian Redcurrant Fritters",
+  "description": "A sweet and tangy dessert inspired by Italian flavors, featuring crisp redcurrant fritters.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Redcurrants",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "gluten-free flour for gluten-free option"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, and cornstarch.",
+    "In a separate bowl, whisk together egg and almond extract.",
+    "Add the egg mixture to the dry ingredients and stir until a smooth batter forms.",
+    "Gently fold in redcurrants.",
+    "Heat about 2-3 inches of vegetable oil in a large skillet over medium-high heat.",
+    "When the oil is hot, drop tablespoon-sized balls of the batter into the oil.",
+    "Fry until golden brown, about 2-3 minutes per side.",
+    "Drain fritters on paper towels and dust with powdered sugar.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "fritters",
+    "redcurrants"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 1.5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-tender-algerian-redcurrants-fritters--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:16:11.953Z"
+}
