@@ -1,0 +1,84 @@
+{
+  "slug": "unique-citrusy-malaysian-peppers-curry--german",
+  "title": "Currywurst German Sausage",
+  "description": "A classic German street food dish made with grilled sausage, curry ketchup, and crispy onions.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bratwurst Sausage",
+      "amount": "4",
+      "notes": "German-style sausage"
+    },
+    {
+      "name": "Curry Ketchup",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Pepper",
+      "amount": "2",
+      "notes": "Any color"
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "2 teaspoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "notes": "Wedge for garnish"
+    },
+    {
+      "name": "Bun",
+      "amount": "4",
+      "notes": "Soft German-style bun"
+    }
+  ],
+  "instructions": [
+    "Grill the Bratwurst sausage over medium heat until browned, about 5-7 minutes.",
+    "Meanwhile, toast the buns on the grill or in a toaster.",
+    "Slice the onion and pepper into thin strips.",
+    "Grill the onion and pepper until caramelized, about 3-5 minutes.",
+    "Brush the curry ketchup onto the toasted buns.",
+    "Slice the grilled sausage and place on top of the buns.",
+    "Add the caramelized onion and pepper on top of the sausage.",
+    "Sprinkle curry powder and salt to taste.",
+    "Garnish with a lime wedge and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "sausage",
+    "curry",
+    "onion",
+    "pepper",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-citrusy-malaysian-peppers-curry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:40:03.142Z"
+}
