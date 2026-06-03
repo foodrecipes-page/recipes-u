@@ -5221,16 +5221,15 @@
   },
   {
     "slug": "unique-citrusy-malaysian-peppers-curry",
-    "title": "Unique Citrusy Malaysian Peppers Curry",
+    "title": "Malaysian Chicken and Pepper Curry",
     "tags": [
-      "citrusy",
-      "cozy",
-      "gluten-free",
-      "malaysian-cuisine",
-      "one-pan",
-      "weeknight"
+      "malaysian",
+      "chicken",
+      "curry",
+      "peppers",
+      "citrusy"
     ],
-    "cuisine": "Malaysian",
+    "cuisine": "malaysian",
     "totalTimeMin": 35,
     "shard": "u"
   },
@@ -5838,17 +5837,14 @@
   },
   {
     "slug": "unique-dense-uruguayan-yautia-stew",
-    "title": "Unique Dense Uruguayan Yautia Stew",
+    "title": "Uruguayan Yautia Stew",
     "tags": [
-      "bitter-foods",
-      "dense-stews",
-      "one-pot",
-      "sugar-free",
-      "uruguayan-cuisine",
-      "weeknight-meals"
+      "uruguayan",
+      "stew",
+      "yautia"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -8612,16 +8608,14 @@
   },
   {
     "slug": "unusually-bitter-russian-meat-tagine",
-    "title": "Unusually Bitter Russian Meat Tagine",
+    "title": "Bitter Russian Tagine Chicken",
     "tags": [
-      "bitter",
-      "high-protein",
-      "one-pot",
+      "chicken",
       "russian",
-      "weeknight"
+      "tagine"
     ],
     "cuisine": "russian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 55,
     "shard": "u"
   },
   {
