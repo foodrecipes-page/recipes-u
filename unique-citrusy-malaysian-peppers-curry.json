@@ -1,0 +1,94 @@
+{
+  "slug": "unique-citrusy-malaysian-peppers-curry",
+  "title": "Malaysian Chicken and Pepper Curry",
+  "description": "A flavorful and spicy curry dish from Malaysia, combining the unique flavors of chicken and peppers with a hint of citrus.",
+  "cuisine": "malaysian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "red bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for added citrus flavor"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "for braising"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional, for added umami flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "adjust seasoning"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the sliced peppers and cook until tender, about 5 minutes.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth, fish sauce (if using), salt, and pepper.",
+    "Bring to a simmer, then reduce heat to low and braise for 10-15 minutes.",
+    "Stir in the lemon juice and cook for an additional 2-3 minutes.",
+    "Serve hot, garnished with chopped cilantro (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "curry",
+    "peppers",
+    "citrusy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-citrusy-malaysian-peppers-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:29:35.451Z"
+}
