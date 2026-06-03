@@ -3106,19 +3106,15 @@
   },
   {
     "slug": "umami-tender-algerian-redcurrants-fritters",
-    "title": "Umami Tender Algerian Redcurrants Fritters",
+    "title": "Tender Fritter Dessert",
     "tags": [
-      "brunch",
       "dessert",
-      "snack",
-      "fritters",
-      "redcurrants",
+      "sweet",
       "algerian",
-      "umami",
-      "tender"
+      "umami"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -8745,16 +8741,17 @@
   },
   {
     "slug": "uplifted-syrian-bread-flatbread",
-    "title": "Uplifted Syrian Bread Flatbread",
+    "title": "Syrian-Style Flatbread",
     "tags": [
       "flatbread",
-      "oven-baked",
-      "ovo-vegetarian",
       "syrian",
-      "yeast"
+      "bread",
+      "recipe",
+      "easy",
+      "snack"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 20,
     "shard": "u"
   },
   {
@@ -9410,6 +9407,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
+    "slug": "umami-tender-algerian-redcurrants-fritters--italian",
+    "title": "Italian Redcurrant Fritters",
+    "tags": [
+      "italian",
+      "dessert",
+      "fritters",
+      "redcurrants"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 23,
     "shard": "u"
   }
 ]
