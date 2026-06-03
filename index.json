@@ -9421,5 +9421,33 @@
     "cuisine": "italian",
     "totalTimeMin": 23,
     "shard": "u"
+  },
+  {
+    "slug": "umami-tender-algerian-redcurrants-fritters--french",
+    "title": "French Redcurrant Tarts",
+    "tags": [
+      "french",
+      "dessert",
+      "pastry",
+      "redcurrants"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-citrusy-malaysian-peppers-curry--german",
+    "title": "Currywurst German Sausage",
+    "tags": [
+      "german",
+      "sausage",
+      "curry",
+      "onion",
+      "pepper",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
