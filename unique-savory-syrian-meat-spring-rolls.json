@@ -1,0 +1,80 @@
+{
+  "slug": "unique-savory-syrian-meat-spring-rolls",
+  "title": "Spring Lamb Koftas",
+  "description": "Delicious spring lamb koftas with a mix of herbs and spices. Perfect for a light spring evening.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb mince",
+      "amount": "500g"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "In a large bowl, combine lamb mince, parsley, mint, onion, garlic, breadcrumbs, salt, and black pepper. Mix well with your hands until just combined.",
+    "Cover the mixture with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "When ready to cook, use your hands to shape the mixture into 8-10 koftas.",
+    "Place the koftas on a baking sheet lined with parchment paper, leaving a little space between each kofta.",
+    "Brush the tops of the koftas with olive oil.",
+    "Bake the koftas in the preheated oven for 15-20 minutes, or until cooked through.",
+    "Serve the koftas hot with your favorite sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "spring",
+    "syrian",
+    "meat",
+    "koftas"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-savory-syrian-meat-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:20:25.435Z"
+}
