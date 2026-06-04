@@ -1241,17 +1241,15 @@
   },
   {
     "slug": "umami-chinese-prosciutto-noodles",
-    "title": "Umami Chinese Prosciutto Noodles",
+    "title": "Umami Prosciutto Noodle Stir Fry",
     "tags": [
-      "chinese-food",
-      "halal-friendly",
-      "midnight-cravings",
-      "noodle-dishes",
-      "prosciutto-recipes",
-      "umami"
+      "umami",
+      "prosciutto",
+      "noodles",
+      "stir-fry"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 13,
     "shard": "u"
   },
   {
@@ -5818,17 +5816,16 @@
   },
   {
     "slug": "unique-dense-saudi-arabian-lamb-wrap",
-    "title": "Unique Dense Saudi Arabian Lamb Wrap",
+    "title": "Saudi Arabian Lamb Wrap",
     "tags": [
-      "dense",
-      "flavorful",
-      "lamb-based",
-      "low-carb",
-      "middle-eastern",
-      "ssam-wrap"
+      "lamb",
+      "arabic",
+      "saudi",
+      "wrap",
+      "middleeastern"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -6655,17 +6652,16 @@
   },
   {
     "slug": "unique-roasted-polish-potato-casserole",
-    "title": "Unique Roasted Polish Potato Casserole",
+    "title": "Polish Potato Casserole",
     "tags": [
-      "air-fryer",
+      "polish",
       "casserole",
+      "potato",
       "comfort-food",
-      "lacto-vegetarian",
-      "polish-cuisine",
-      "roasted-vegetables"
+      "european"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 70,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
