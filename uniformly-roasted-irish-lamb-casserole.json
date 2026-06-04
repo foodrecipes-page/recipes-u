@@ -1,0 +1,84 @@
+{
+  "slug": "uniformly-roasted-irish-lamb-casserole",
+  "title": "Irish Lamb Casserole",
+  "description": "A hearty, comforting casserole filled with tender lamb, roasted vegetables, and a hint of Irish flair.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting lamb"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "Irish Stout",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season lamb with salt and pepper. Dust with flour.",
+    "Heat 2 tablespoons butter in a large Dutch oven over medium-high heat. Sear lamb until browned, about 5 minutes. Remove lamb from pot and set aside.",
+    "Reduce heat to medium. Add remaining 2 tablespoons butter to pot. Add onion and cook until softened, about 5 minutes.",
+    "Add chopped carrots and potatoes to pot. Cook for 5 minutes.",
+    "Add browned lamb back to pot, along with any accumulated juices. Stir in Irish stout (if using).",
+    "Transfer pot to preheated oven and cover with lid. Braise lamb and vegetables for 2 1/2 hours, or until lamb is tender.",
+    "Remove pot from oven and sprinkle with chopped parsley (if using). Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "casserole",
+    "irish",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 30,
+    "fat": 31
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uniformly-roasted-irish-lamb-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:29:42.347Z"
+}
