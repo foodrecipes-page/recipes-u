@@ -1,0 +1,95 @@
+{
+  "slug": "unique-dense-saudi-arabian-lamb-wrap",
+  "title": "Saudi Arabian Lamb Wrap",
+  "description": "A flavorful and juicy lamb wrap inspired by the cuisine of Saudi Arabia, filled with tender lamb and crunchy vegetables.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Unique spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available in most Middle Eastern markets"
+    },
+    {
+      "name": "Dense flatbread",
+      "amount": "4 wraps",
+      "notes": "Found in most Arabic or Middle Eastern markets"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": "Red or yellow work well"
+    },
+    {
+      "name": "Chopped cucumber",
+      "amount": "1 medium",
+      "notes": "Seeds removed"
+    },
+    {
+      "name": "Chopped tomato",
+      "amount": "1 medium",
+      "notes": "Fresh, not canned"
+    },
+    {
+      "name": "Shredded lettuce",
+      "amount": "1 cup",
+      "notes": "Any variety works"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional, but adds flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb with salt, black pepper, and unique spice blend.",
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the lamb and cook, breaking it up with a spoon, until browned, about 5-7 minutes.",
+    "Transfer the lamb to a baking dish and roast in the oven for 10-12 minutes, or until cooked through.",
+    "Meanwhile, toast the flatbread by wrapping it in foil and heating it in the oven for 5-7 minutes.",
+    "Assemble the wraps by spreading a layer of lamb down the center of each wrap, followed by chopped onion, cucumber, tomato, lettuce, and parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "arabic",
+    "saudi",
+    "wrap",
+    "middleeastern"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-dense-saudi-arabian-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:51:28.834Z"
+}
