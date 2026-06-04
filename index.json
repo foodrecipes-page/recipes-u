@@ -9454,5 +9454,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "unique-crispy-peruvian-lentil-stew--italian",
+    "title": "Italian Lentil Stew",
+    "tags": [
+      "italian",
+      "lentil",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "u"
   }
 ]
