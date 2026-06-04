@@ -1,0 +1,84 @@
+{
+  "slug": "unique-greek-sirloin-steak-skewers",
+  "title": "Greek-Style Sirloin Skewers",
+  "description": "A flavorful and healthy dish featuring marinated sirloin steak, perfect for grilling or broiling.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "250g",
+      "notes": "1-inch cubes"
+    },
+    {
+      "name": "unique olive oil",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Greek vinaigrette",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill or broiler to medium-high heat.",
+    "In a large bowl, whisk together olive oil, vinaigrette, garlic, lemon juice, salt, and pepper.",
+    "Add the sirloin cubes to the bowl and toss to coat with the marinade.",
+    "Let the meat marinate for at least 30 minutes.",
+    "Thread the marinated sirloin cubes onto skewers.",
+    "Grill or broil the skewers for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the skewers to a plate and garnish with parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "skewers",
+    "sirloin",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-greek-sirloin-steak-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:34:25.631Z"
+}
