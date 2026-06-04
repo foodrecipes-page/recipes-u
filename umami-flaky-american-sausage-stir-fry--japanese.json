@@ -1,0 +1,76 @@
+{
+  "slug": "umami-flaky-american-sausage-stir-fry--japanese",
+  "title": "Japanese Teriyaki Stir Fry",
+  "description": "A quick and easy Japanese-inspired stir fry recipe featuring American sausage and a sweet teriyaki sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "American sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "flaky",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "umami",
+      "amount": "2 tablespoons soy sauce",
+      "notes": ""
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons vegetable oil",
+      "notes": ""
+    },
+    {
+      "name": "fry",
+      "amount": "1 onion, sliced",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, sliced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced onion and cook until it starts to caramelize, about 3-4 minutes.",
+    "Add the sliced ginger and cook for another minute.",
+    "Add the American sausage and cook until browned, about 2-3 minutes.",
+    "Add the flaky and stir-fry until combined, about 2-3 minutes.",
+    "In a small bowl, whisk together soy sauce, umami, and a pinch of sugar.",
+    "Pour the teriyaki sauce over the stir-fry and cook for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles.",
+    "Garnish with green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "teriyaki",
+    "stir-fry",
+    "american-sausage"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-flaky-american-sausage-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:44:10.806Z"
+}
