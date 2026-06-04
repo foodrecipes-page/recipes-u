@@ -1,0 +1,75 @@
+{
+  "slug": "unique-roasted-polish-potato-casserole",
+  "title": "Polish Potato Casserole",
+  "description": "A hearty, comforting casserole featuring roasted potatoes and a crispy, golden crust. Perfect for a chilly evening.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1 lb",
+      "notes": "optional, omit for vegetarian version"
+    },
+    {
+      "name": "Unique cheese blend",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Casserole dish",
+      "amount": "1",
+      "notes": "for baking"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Boil the potatoes until tender, then let cool.",
+    "Sauté the Polish sausage (if using) in olive oil until browned.",
+    "Combine cooked potatoes, sausage (if using), and shredded cheese in a bowl.",
+    "Transfer the mixture to a casserole dish.",
+    "Season with salt and pepper to taste.",
+    "Top with additional cheese and chopped parsley.",
+    "Bake for 25-30 minutes, or until golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "casserole",
+    "potato",
+    "comfort-food",
+    "european"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-roasted-polish-potato-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:00:32.119Z"
+}
