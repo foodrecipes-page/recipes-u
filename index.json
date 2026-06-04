@@ -1325,17 +1325,15 @@
   },
   {
     "slug": "umami-creamy-indulgent-american-banana-stir-fry",
-    "title": "Umami Creamy Indulgent American Banana Stir-fry",
+    "title": "American Banana Cream Pie",
     "tags": [
-      "umami",
-      "creamy",
-      "indulgent",
-      "american-dish",
-      "apple-cider-vinegar",
-      "bananas"
+      "american",
+      "banana",
+      "dessert",
+      "pie"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 60,
     "shard": "u"
   },
   {
