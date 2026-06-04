@@ -6141,16 +6141,15 @@
   },
   {
     "slug": "unique-greek-sirloin-steak-skewers",
-    "title": "Unique Greek Sirloin Steak Skewers",
+    "title": "Greek-Style Sirloin Skewers",
     "tags": [
-      "chocolate-pairing",
-      "greek-food",
-      "grilled-meat",
-      "low-sodium",
-      "special-occasion"
+      "greek",
+      "skewers",
+      "sirloin",
+      "grilled"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 30,
+    "totalTimeMin": 36,
     "shard": "u"
   },
   {
@@ -6788,17 +6787,16 @@
   },
   {
     "slug": "unique-savory-syrian-meat-spring-rolls",
-    "title": "Syrian Meat Spring Rolls",
+    "title": "Spring Lamb Koftas",
     "tags": [
-      "appetizer",
-      "halal-friendly",
-      "kid-friendly",
-      "meat-based",
-      "snack",
-      "syrian-cuisine"
+      "lamb",
+      "spring",
+      "syrian",
+      "meat",
+      "koftas"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
