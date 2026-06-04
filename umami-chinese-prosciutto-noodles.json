@@ -1,0 +1,68 @@
+{
+  "slug": "umami-chinese-prosciutto-noodles",
+  "title": "Umami Prosciutto Noodle Stir Fry",
+  "description": "A quick and savory stir fry made with prosciutto, noodles, and umami flavor.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": "rice noodles or soba noodles"
+    },
+    {
+      "name": "Umami sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Green onions",
+      "amount": "",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions. Drain and set aside.",
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add prosciutto and cook until crispy, about 2 minutes.",
+    "Add umami sauce and stir to combine.",
+    "Add cooked noodles and stir-fry for 1-2 minutes, until coated with sauce.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped green onions and serve immediately.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "prosciutto",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-chinese-prosciutto-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:19:25.691Z"
+}
