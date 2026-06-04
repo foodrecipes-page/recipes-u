@@ -1,0 +1,84 @@
+{
+  "slug": "umami-creamy-indulgent-american-banana-stir-fry",
+  "title": "American Banana Cream Pie",
+  "description": "A classic American dessert featuring a creamy banana filling, baked in a flaky crust.",
+  "cuisine": "American",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4",
+      "notes": "ripe"
+    },
+    {
+      "name": "creamy",
+      "amount": "1 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tbsp",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "indulgent",
+      "amount": "1 cup",
+      "notes": "whipped cream"
+    },
+    {
+      "name": "american",
+      "amount": "1 pie crust",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "vanilla",
+      "amount": "1 tsp",
+      "notes": "extract"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust and place in a 9-inch pie dish.",
+    "In a separate bowl, mix together the heavy cream, soy sauce, and granulated sugar.",
+    "Add the sliced bananas and vanilla extract to the cream mixture, and stir until combined.",
+    "Pour the banana mixture into the pie crust.",
+    "Bake for 40-45 minutes, or until the filling is set and the crust is golden brown.",
+    "Remove from oven and let cool to room temperature.",
+    "Top with whipped cream and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "banana",
+    "dessert",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-creamy-indulgent-american-banana-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:21:42.885Z"
+}
