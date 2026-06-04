@@ -9443,5 +9443,18 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "umami-flaky-american-sausage-stir-fry--japanese",
+    "title": "Japanese Teriyaki Stir Fry",
+    "tags": [
+      "japanese",
+      "teriyaki",
+      "stir-fry",
+      "american-sausage"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
