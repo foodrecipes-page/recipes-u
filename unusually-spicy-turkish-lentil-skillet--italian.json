@@ -1,0 +1,94 @@
+{
+  "slug": "unusually-spicy-turkish-lentil-skillet--italian",
+  "title": "Spicy Turkish Skillet Lentil",
+  "description": "This Italian-inspired skillet dish is a flavorful combination of spicy Turkish flavors with the comfort of lentils. Perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup dried",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Italian sausage",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Skillet seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the lentils, red pepper flakes, diced tomatoes, and skillet seasoning.",
+    "Stir to combine, then add 2 cups of water.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, until the lentils are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "spicy",
+    "turkish",
+    "lentil",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unusually-spicy-turkish-lentil-skillet--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:45:44.157Z"
+}
