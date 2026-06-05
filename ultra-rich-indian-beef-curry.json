@@ -1,0 +1,90 @@
+{
+  "slug": "ultra-rich-indian-beef-curry",
+  "title": "Beef Curry",
+  "description": "A flavorful Indian-inspired beef curry made with tender beef and a rich, aromatic sauce. Serve with rice or naan for a delicious and satisfying meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound beef strips (sirloin or ribeye)",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon grated",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium tomato",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes. Remove from pan and set aside.",
+    "Add onion, garlic, and ginger to the pan and cook until onion is translucent, about 5 minutes.",
+    "Add curry powder and garam masala to the pan and cook for 1 minute.",
+    "Stir in coconut milk and tomato. Bring to a simmer.",
+    "Return beef to the pan and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "curry",
+    "indian",
+    "dinner",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-rich-indian-beef-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:24:28.493Z"
+}
