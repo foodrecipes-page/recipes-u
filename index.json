@@ -2608,16 +2608,15 @@
   },
   {
     "slug": "umami-polish-chicken-confit",
-    "title": "Umami Polish Chicken Confit",
+    "title": "Polish Chicken Confit",
     "tags": [
-      "fodmap-friendly",
-      "one-pan",
-      "polish-cuisine",
-      "umami-rich",
-      "weeknight-meal"
+      "chicken",
+      "confit",
+      "polish",
+      "umami"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 170,
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
