@@ -1,0 +1,93 @@
+{
+  "slug": "unctuous-peruvian-lamb-seco-de-cordero",
+  "title": "Peruvian Lamb Seco",
+  "description": "A hearty and flavorful stew originating from Peru, made with tender lamb and a rich blend of spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "unctuous",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 dried aji amarillo peppers",
+      "notes": "rehydrated and chopped"
+    },
+    {
+      "name": "seco",
+      "amount": "2 tablespoons",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "de",
+      "amount": "2 tablespoons",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "cordero",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the unctuous in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add the peruvian, seco, de, and cordero to the pot and cook for 1 minute, stirring constantly.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the potato and cook for an additional 2 minutes.",
+    "Add the red wine (if using) and beef broth, scraping up any browned bits from the bottom of the pot.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:25:27.071Z"
+}
