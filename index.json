@@ -3846,16 +3846,14 @@
   },
   {
     "slug": "unctuous-peruvian-lamb-seco-de-cordero",
-    "title": "Peruvian Lamb Seco De Cordero",
+    "title": "Peruvian Lamb Seco",
     "tags": [
-      "hot-pot-recipes",
-      "lamb-recipes",
-      "mediterranean-inspired",
-      "peruvian-cuisine",
-      "slow-cooked"
+      "lamb",
+      "stew",
+      "peruvian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 110,
     "shard": "u"
   },
   {
