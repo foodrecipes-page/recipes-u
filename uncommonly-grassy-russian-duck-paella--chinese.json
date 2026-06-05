@@ -1,0 +1,93 @@
+{
+  "slug": "uncommonly-grassy-russian-duck-paella--chinese",
+  "title": "Szechuan Duck Paella",
+  "description": "A unique fusion of Chinese Szechuan flavors with the classic Spanish paella dish, featuring crispy duck and a variety of spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast or thighs",
+      "amount": "1 pound",
+      "notes": "Boneless, skin-on"
+    },
+    {
+      "name": "Szechuan peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "Toasted and ground"
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 1/2 teaspoons"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Uncommonly available grassy rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Russian vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Duck stock or chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Paella pan or large skillet",
+      "amount": "",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Rinse the duck and pat it dry with paper towels.",
+    "3. In a small bowl, mix together the Szechuan peppercorns, five-spice powder, salt, and black pepper.",
+    "4. Rub the spice mixture all over the duck, making sure to coat it evenly.",
+    "5. Heat the vegetable oil in a large skillet over medium-high heat.",
+    "6. Sear the duck until browned on all sides, about 5 minutes.",
+    "7. Transfer the duck to the oven and roast for 20 minutes, or until cooked through.",
+    "8. While the duck is cooking, heat the duck stock or chicken broth in a large paella pan or skillet over medium heat.",
+    "9. Add the grassy rice to the pan and stir to coat the rice in the broth.",
+    "10. Bring the broth to a boil, then reduce the heat to low and simmer, covered, for 20 minutes, or until the rice is tender.",
+    "11. Once the duck is cooked, let it rest for 5 minutes before slicing it thinly.",
+    "12. To assemble the paella, place the cooked rice in the pan and top with the sliced duck, chopped cilantro, and any remaining broth.",
+    "13. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "szechuan",
+    "duck",
+    "paella",
+    "chinese",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uncommonly-grassy-russian-duck-paella--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:17:12.455Z"
+}
