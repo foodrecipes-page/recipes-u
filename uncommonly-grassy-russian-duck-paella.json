@@ -1,0 +1,90 @@
+{
+  "slug": "uncommonly-grassy-russian-duck-paella",
+  "title": "Pan-Seared Duck Breast with Grassy Russian Paella",
+  "description": "A unique dish that combines the flavors of Russia and the freshness of grassy paella, paired with a tender pan-seared duck breast.",
+  "cuisine": "russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Grassy paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Russian sauerkraut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Parsnips",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Season the duck breast with salt and black pepper on both sides.",
+    "Sear the duck breast for 2-3 minutes on each side, or until browned and cooked to your desired level of doneness.",
+    "Transfer the duck breast to a plate and let it rest for 5 minutes.",
+    "In the same skillet, add the chopped carrots and parsnips. Cook for 5 minutes, or until they start to soften.",
+    "Add the Russian sauerkraut and cook for an additional 2 minutes.",
+    "Stir in the chicken broth and bring the mixture to a simmer.",
+    "Add the grassy paella rice to the skillet and stir to combine with the sauerkraut mixture.",
+    "Reduce the heat to low and cook for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Slice the rested duck breast and serve with the paella mixture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "russian",
+    "duck",
+    "paella",
+    "grassy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uncommonly-grassy-russian-duck-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:06:22.750Z"
+}
