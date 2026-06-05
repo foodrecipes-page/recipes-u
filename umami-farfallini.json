@@ -1,0 +1,67 @@
+{
+  "slug": "umami-farfallini",
+  "title": "Umami Farfallini Fritters",
+  "description": "A simple, crispy fritter recipe using umami and farfallini. Perfect as a snack or side dish.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Farfallini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Umami",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/4 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk eggs and add flour.",
+    "Add grated Parmesan and umami. Mix well.",
+    "Add the farfallini and mix until the pasta is well coated.",
+    "Season with salt.",
+    "Using your hands, shape the mixture into small balls.",
+    "Heat a pan with oil over medium heat.",
+    "When the oil is hot, add the balls and flatten them slightly.",
+    "Fry until golden brown (about 3 minutes per side).",
+    "Drain the fritters on paper towels.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-farfallini",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:45:37.848Z"
+}
