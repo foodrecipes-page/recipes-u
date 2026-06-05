@@ -9485,5 +9485,19 @@
     "cuisine": "Peruvian",
     "totalTimeMin": 140,
     "shard": "u"
+  },
+  {
+    "slug": "uncommonly-grassy-russian-duck-paella--chinese",
+    "title": "Szechuan Duck Paella",
+    "tags": [
+      "szechuan",
+      "duck",
+      "paella",
+      "chinese",
+      "spicy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 60,
+    "shard": "u"
   }
 ]
