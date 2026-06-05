@@ -1,0 +1,85 @@
+{
+  "slug": "umami-polish-chicken-confit",
+  "title": "Polish Chicken Confit",
+  "description": "A hearty Polish-inspired dish featuring confit chicken and umami flavors.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 lb (450g) boneless, skinless thighs"
+    },
+    {
+      "name": "confit",
+      "amount": "1/2 cup (115g) chopped",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tbsp (30g) soy sauce",
+      "notes": "or to taste"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1/4 cup (55g) sliced",
+      "notes": "optional"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp (5g) ",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp (5g) ",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp (5g) ",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (30g) ",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the chicken with salt, pepper, and caraway seeds.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the chicken until browned on both sides, about 5 minutes.",
+    "Transfer the chicken to a plate and set aside.",
+    "Add the sliced polish sausage (if using) to the pot and cook until browned, about 3 minutes.",
+    "Add the chopped confit to the pot and cook until caramelized, about 5 minutes.",
+    "Return the chicken to the pot and pour in the umami (soy sauce).",
+    "Transfer the pot to the preheated oven and braise the chicken for 25-30 minutes, or until cooked through.",
+    "Serve the chicken hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "confit",
+    "polish",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-polish-chicken-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:42:53.514Z"
+}
