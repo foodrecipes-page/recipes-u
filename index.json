@@ -3595,17 +3595,15 @@
   },
   {
     "slug": "uncommonly-grassy-russian-duck-paella",
-    "title": "Uncommonly Grassy Russian Duck Paella",
+    "title": "Pan-Seared Duck Breast with Grassy Russian Paella",
     "tags": [
-      "fancy-dinner",
-      "gluten-free",
-      "macrobiotic-friendly",
-      "one-pan",
-      "russian-cuisine",
-      "special-occasion"
+      "russian",
+      "duck",
+      "paella",
+      "grassy"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 55,
+    "cuisine": "russian",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
