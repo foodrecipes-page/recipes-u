@@ -1,0 +1,97 @@
+{
+  "slug": "unctuous-peruvian-lamb-seco-de-cordero--keto",
+  "title": "Cordero Seco",
+  "description": "A traditional Peruvian lamb stew that's rich and flavorful. This keto version is a perfect adaptation for those following a low-carb diet.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cordero (Lamb Shoulder)",
+      "amount": "1 pound",
+      "notes": "Cut into large chunks"
+    },
+    {
+      "name": "Unctuous Pasilla Peppers",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Peruvian Seco Powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "De Limon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb chunks and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce heat to medium and add the chopped onion.",
+    "Cook until the onion is softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped pasilla peppers, Peruvian seco powder, de limon juice, chili flakes, and salt.",
+    "Stir to combine and cook for 1 minute.",
+    "Add the browned lamb back into the pot and stir to coat with the spice mixture.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the lamb is tender.",
+    "Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "lamb",
+    "keto",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "10g",
+    "fat": "42g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-peruvian-lamb-seco-de-cordero--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:55:44.317Z"
+}
