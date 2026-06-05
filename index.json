@@ -786,17 +786,16 @@
   },
   {
     "slug": "ultra-rich-indian-beef-curry",
-    "title": "Ultra Rich Indian Beef Curry",
+    "title": "Beef Curry",
     "tags": [
-      "beef-recipes",
-      "copper-pot-cooking",
-      "curry-dishes",
-      "flexitarian-friendly",
-      "indian-cuisine",
-      "lazy-sunday-meals"
+      "beef",
+      "curry",
+      "indian",
+      "dinner",
+      "easy-to-make"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
@@ -9459,6 +9458,33 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 45,
+    "shard": "u"
+  },
+  {
+    "slug": "unusually-spicy-turkish-lentil-skillet--italian",
+    "title": "Spicy Turkish Skillet Lentil",
+    "tags": [
+      "italian",
+      "spicy",
+      "turkish",
+      "lentil",
+      "skillet"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
+    "slug": "unctuous-peruvian-lamb-seco-de-cordero--keto",
+    "title": "Cordero Seco",
+    "tags": [
+      "peruvian",
+      "lamb",
+      "keto",
+      "stew"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 140,
     "shard": "u"
   }
 ]
