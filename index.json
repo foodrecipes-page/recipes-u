@@ -3990,17 +3990,14 @@
   },
   {
     "slug": "unctuous-uruguayan-beef-empanadas",
-    "title": "Unctuous Uruguayan Beef Empanadas",
+    "title": "Uruguayan Beef Empanadas",
     "tags": [
-      "beef-based",
-      "egg-free-friendly",
-      "lardon-topped",
-      "savory-pastry",
-      "south-american",
-      "vanilla-infused"
+      "beef",
+      "empanadas",
+      "uruguayan-cuisine"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
