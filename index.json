@@ -9653,5 +9653,43 @@
     "cuisine": "indian",
     "totalTimeMin": 55,
     "shard": "u"
+  },
+  {
+    "slug": "unctuous-uruguayan-beef-empanadas--keto",
+    "title": "Uruguayan Beef Empanadas (Keto)",
+    "tags": [
+      "beef",
+      "empanadas",
+      "keto",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "unctuous-uruguayan-beef-empanadas--chinese",
+    "title": "Uruguayan Beef Empanadas in Chinese Style",
+    "tags": [
+      "empanadas",
+      "chinese",
+      "uruguayan",
+      "beef"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
+    "shard": "u"
+  },
+  {
+    "slug": "unctuous-uruguayan-beef-empanadas--vegetarian",
+    "title": "Uruguayan Empanada Stuffed with Roasted Vegetables",
+    "tags": [
+      "uruguayan",
+      "vegetarian",
+      "empanadas"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
+    "shard": "u"
   }
 ]
