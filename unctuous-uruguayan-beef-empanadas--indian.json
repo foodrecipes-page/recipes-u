@@ -1,0 +1,80 @@
+{
+  "slug": "unctuous-uruguayan-beef-empanadas--indian",
+  "title": "Uruguayan Beef Empanadas with Indian Twist",
+  "description": "A fusion of Uruguayan empanadas with the flavors of India, featuring tender beef and spices.",
+  "cuisine": "indian",
+  "diet": [
+    "beef",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Unctuous Empanada Dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "Uruguayan Chorizo",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, heat 1 tablespoon of oil over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces.",
+    "Add the garam masala, cumin, turmeric, and salt. Cook for 1 minute.",
+    "Roll out the empanada dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the beef mixture onto one half of the dough circle.",
+    "Fold the dough over the filling and press the edges to seal.",
+    "Brush the tops with egg wash and bake for 20-25 minutes, or until golden brown.",
+    "If using chorizo, cook it in a pan over medium heat until crispy, then chop into small pieces and add to the empanadas.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "indian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-uruguayan-beef-empanadas--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:28:48.803Z"
+}
