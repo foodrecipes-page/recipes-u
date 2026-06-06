@@ -1,0 +1,86 @@
+{
+  "slug": "unctuous-uruguayan-beef-empanadas--thai",
+  "title": "Thai Beef Empanadas",
+  "description": "A fusion twist on traditional empanadas, filled with tender Thai-style beef, crispy empanada crust and a hint of Uruguayan flair.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Uruguayan Chorizo",
+      "amount": "1/2 cup, diced",
+      "notes": "adds a smoky depth"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": "caramelized for sweetness"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "mild flavor"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup, chopped",
+      "notes": "fragrant and fresh"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": "for meat mixture hydration"
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "4-6 pieces",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Caramelize onion in a pan until golden brown, set aside.",
+    "Cook ground beef until browned, breaking it up as it cooks.",
+    "Add Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add diced chorizo, cooked onion, garlic, and Thai basil. Stir to combine.",
+    "Add water and stir to combine. Bring to a simmer and cook for 5-7 minutes, or until the mixture has thickened.",
+    "Roll out empanada dough to desired thickness. Cut into circles or rectangles.",
+    "Place a tablespoon of the beef mixture onto one half of each empanada dough circle.",
+    "Fold the dough over to form a half-circle or rectangle shape. Press edges to seal.",
+    "Brush tops with egg wash and bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanada",
+    "thai",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 14,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-uruguayan-beef-empanadas--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:28:09.816Z"
+}
