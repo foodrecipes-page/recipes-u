@@ -1,0 +1,90 @@
+{
+  "slug": "unctuous-uruguayan-beef-empanadas--french",
+  "title": "Uruguayan Beef Empanadas à la Française",
+  "description": "A French twist on the classic Uruguayan empanadas, filled with tender beef and onions.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (Ground)",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Empanada pastry (homemade or store-bought)",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "3. Add the diced onion to the skillet and cook until it is translucent.",
+    "4. In a large bowl, combine the cooked beef and onion mixture, flour, salt, and pepper. Mix well.",
+    "5. Roll out the empanada pastry to a thickness of about 1/8 inch.",
+    "6. Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "7. Place a tablespoon or two of the beef mixture in the center of each dough circle.",
+    "8. Brush the edges of the dough with a little water, then fold the dough in half to form a half-moon shape.",
+    "9. Press the edges together to seal the empanada, then use a fork to crimp the edges.",
+    "10. Brush the tops of the empanadas with a little egg wash.",
+    "11. Place the empanadas on a baking sheet lined with parchment paper.",
+    "12. Bake the empanadas in the preheated oven for 20-25 minutes, or until they are golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "french",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-uruguayan-beef-empanadas--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:28:02.580Z"
+}
