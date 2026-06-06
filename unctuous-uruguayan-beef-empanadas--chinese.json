@@ -1,0 +1,96 @@
+{
+  "slug": "unctuous-uruguayan-beef-empanadas--chinese",
+  "title": "Uruguayan Beef Empanadas in Chinese Style",
+  "description": "A fusion twist on the classic Uruguayan empanada, with a Chinese-inspired twist on the filling and a crispy pastry crust.",
+  "cuisine": "chinese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Unctuous Chinese BBQ Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Uruguayan Beef Empanada Dough",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large skillet or wok, heat 2 tablespoons of sesame oil over medium-high heat.",
+    "3. Add the ground beef to the skillet and cook, breaking it up with a spoon, until it is no longer pink, about 5 minutes.",
+    "4. Add the soy sauce, sugar, salt, and black pepper to the skillet and stir to combine.",
+    "5. Stir in the cornstarch and cook for 1 minute.",
+    "6. Add the Chinese BBQ sauce to the skillet and stir to combine.",
+    "7. Roll out the empanada dough on a floured surface to a thickness of about 1/8 inch.",
+    "8. Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "9. Place a tablespoon of the beef mixture in the center of each circle of dough.",
+    "10. Fold the dough over the filling to form a half-circle shape and press the edges together to seal.",
+    "11. Brush the tops of the empanadas with sesame oil and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "chinese",
+    "uruguayan",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-uruguayan-beef-empanadas--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:41:05.354Z"
+}
