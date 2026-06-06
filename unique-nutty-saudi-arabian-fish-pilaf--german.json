@@ -1,0 +1,75 @@
+{
+  "slug": "unique-nutty-saudi-arabian-fish-pilaf--german",
+  "title": "Pan-Seared Fish with Saudi Pilaf",
+  "description": "A flavorful German-inspired dish featuring pan-seared fish served with a nutty Saudi-style pilaf.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "fish-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (halibut or cod)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Saudi pilaf mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Arabian coffee grounds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Unique spice blend (e.g. Za'atar or Ras el hanout)",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Season the fish fillets with salt, pepper, and unique spice blend (if using).",
+    "Heat butter in a large skillet over medium-high heat. Add the fish fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "While the fish is cooking, prepare the Saudi pilaf mix according to package instructions.",
+    "Serve the pan-seared fish on top of the Saudi pilaf, garnished with chopped parsley and a sprinkle of Arabian coffee grounds (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "fish",
+    "pilaf",
+    "arabian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-nutty-saudi-arabian-fish-pilaf--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:09:37.199Z"
+}
