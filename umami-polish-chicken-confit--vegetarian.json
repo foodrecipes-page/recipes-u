@@ -1,0 +1,81 @@
+{
+  "slug": "umami-polish-chicken-confit--vegetarian",
+  "title": "Polish Confit Cakes",
+  "description": "A vegetarian twist on traditional confit, these cakes are made with polenta and topped with a savory umami sauce.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Confit",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Umami",
+      "amount": "1 teaspoon",
+      "notes": "such as miso paste or mushroom dashi"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a medium bowl, whisk together the polenta and 2 cups of water.",
+    "3. Add the confit, umami, salt, and black pepper to the bowl and stir to combine.",
+    "4. Heat the olive oil in a small saucepan over medium heat.",
+    "5. Using a 1/4 cup measuring cup, scoop the polenta mixture into the saucepan and flatten slightly.",
+    "6. Cook for 4-5 minutes on each side, until golden brown and crispy.",
+    "7. Transfer the cakes to a baking sheet and bake for 15-20 minutes, until crispy and set.",
+    "8. Serve warm, topped with chopped basil and a drizzle of additional umami sauce if desired.",
+    "9. For the umami sauce, combine 1 tablespoon of confit and 1 teaspoon of umami in a small bowl. Stir to combine.",
+    "10. Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "european",
+    "polenta",
+    "confit",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-polish-chicken-confit--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:04:11.088Z"
+}
