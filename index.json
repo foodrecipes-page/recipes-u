@@ -9524,5 +9524,43 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "u"
+  },
+  {
+    "slug": "umami-polish-chicken-confit--keto",
+    "title": "Bacon Wrapped Chicken Breast with Confit",
+    "tags": [
+      "ketogenic",
+      "low-carb",
+      "bacon-wrapped"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
+    "slug": "ultra-rich-indian-beef-curry--french",
+    "title": "French Beef Curry",
+    "tags": [
+      "beef",
+      "curry",
+      "french",
+      "indian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 110,
+    "shard": "u"
+  },
+  {
+    "slug": "umami-polish-beet-bake--mexican",
+    "title": "Polish Beet Tacos",
+    "tags": [
+      "beet",
+      "mexican",
+      "tacos",
+      "polish"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 65,
+    "shard": "u"
   }
 ]
