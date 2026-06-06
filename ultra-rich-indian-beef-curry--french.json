@@ -1,0 +1,96 @@
+{
+  "slug": "ultra-rich-indian-beef-curry--french",
+  "title": "French Beef Curry",
+  "description": "A classic French twist on the popular Indian dish, featuring tender beef and a rich, flavorful curry sauce.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Stir in curry powder and cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add beef broth and bring to a boil.",
+    "Return beef to pot and simmer until tender, about 1 1/2 hours.",
+    "Stir in heavy cream and garam masala.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "curry",
+    "french",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-rich-indian-beef-curry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:41:46.336Z"
+}
