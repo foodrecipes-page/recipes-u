@@ -9562,5 +9562,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 65,
     "shard": "u"
+  },
+  {
+    "slug": "umami-polish-chicken-confit--vegetarian",
+    "title": "Polish Confit Cakes",
+    "tags": [
+      "vegetarian",
+      "european",
+      "polenta",
+      "confit",
+      "umami"
+    ],
+    "cuisine": "European",
+    "totalTimeMin": 45,
+    "shard": "u"
   }
 ]
