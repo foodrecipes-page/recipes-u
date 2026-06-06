@@ -9576,5 +9576,32 @@
     "cuisine": "European",
     "totalTimeMin": 45,
     "shard": "u"
+  },
+  {
+    "slug": "umami-polish-beet-bake--thai",
+    "title": "Thai Beet Tartlets",
+    "tags": [
+      "thai",
+      "dessert",
+      "beet",
+      "tartlets"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "umami-polish-beet-bake--german",
+    "title": "Polish Beet Pierogi Bake",
+    "tags": [
+      "pierogi",
+      "german",
+      "beet",
+      "baked",
+      "umami"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "u"
   }
 ]
