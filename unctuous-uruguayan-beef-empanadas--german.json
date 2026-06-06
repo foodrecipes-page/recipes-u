@@ -1,0 +1,92 @@
+{
+  "slug": "unctuous-uruguayan-beef-empanadas--german",
+  "title": "Uruguayan Beef Empanadas with German Twist",
+  "description": "A fusion of German and Uruguayan flavors, these empanadas are filled with tender beef and spices, then topped with a tangy German-inspired slaw.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan beef (ground beef)",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "warmed"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten (for egg wash)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, cook beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in beef broth, Worcestershire sauce (if using), and caraway seeds (if using). Bring to a simmer and cook until the liquid has almost completely evaporated.",
+    "Season the beef mixture with salt to taste.",
+    "To make the empanada dough, combine flour and a pinch of salt in a large bowl. Gradually add warm water and mix until a dough forms.",
+    "Divide the dough into 8-10 equal pieces and roll each piece into a thin circle.",
+    "Place a tablespoon or two of the beef mixture in the center of each circle. Fold the dough over the filling to form a half-circle and press the edges together to seal.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "While the empanadas are baking, prepare the German-inspired slaw by mixing together 1 cup of shredded cabbage, 1/2 cup of shredded carrot, 1/4 cup of mayonnaise, and 1 tablespoon of apple cider vinegar.",
+    "Serve the empanadas warm with the slaw on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "uruguayan",
+    "beef",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-uruguayan-beef-empanadas--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:28:21.877Z"
+}
