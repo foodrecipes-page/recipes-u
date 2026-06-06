@@ -1,0 +1,69 @@
+{
+  "slug": "umami-polish-chicken-confit--keto",
+  "title": "Bacon Wrapped Chicken Breast with Confit",
+  "description": "A keto-friendly dish combining the richness of confit with the savory taste of bacon wrapped chicken breast.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 boneless chicken breasts",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup confit",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "6 slices of bacon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp umami seasoning",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp polish sausage drippings",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breasts with umami seasoning.",
+    "Wrap each chicken breast with 2 slices of bacon.",
+    "Place the bacon wrapped chicken breasts on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until the chicken is cooked through.",
+    "While the chicken is baking, heat the confit in a saucepan over medium heat.",
+    "Once the chicken is done, brush with the heated confit.",
+    "Reduce heat to low and cover with polish sausage drippings.",
+    "Simmer for an additional 5 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ketogenic",
+    "low-carb",
+    "bacon-wrapped"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 41
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-polish-chicken-confit--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:40:43.325Z"
+}
