@@ -1,0 +1,83 @@
+{
+  "slug": "umami-polish-beet-bake--chinese",
+  "title": "Braised Beet Dumplings",
+  "description": "A Chinese-inspired dish featuring beet dumplings in a rich, savory sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beet",
+      "amount": "2 medium"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tsp",
+      "notes": "soy sauce or mushroom extract"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dumpling wrappers"
+    },
+    {
+      "name": "bake",
+      "amount": "1 tsp",
+      "notes": "baking powder"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine flour, baking powder, and 1/2 cup of water to form dumpling wrappers.",
+    "Grate the beets and mix with umami, ginger, garlic, and 1/4 cup of water.",
+    "Assemble the dumplings by placing the beet mixture inside the wrappers and sealing.",
+    "Heat oil in a pan over medium heat and sear the dumplings until browned on the bottom.",
+    "Add water to the pan and bring to a boil.",
+    "Cover the pan and simmer for 10 minutes or until the dumplings are cooked through.",
+    "Garnish with chopped scallions and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beet",
+    "dumplings",
+    "chinese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-polish-beet-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:37:31.066Z"
+}
