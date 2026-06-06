@@ -9691,5 +9691,18 @@
     "cuisine": "Uruguayan",
     "totalTimeMin": 40,
     "shard": "u"
+  },
+  {
+    "slug": "unctuous-uruguayan-beef-empanadas--vegan",
+    "title": "Vegan Empanadas",
+    "tags": [
+      "vegan",
+      "empanadas",
+      "uruguayan",
+      "snack"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
