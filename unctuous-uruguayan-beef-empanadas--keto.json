@@ -1,0 +1,88 @@
+{
+  "slug": "unctuous-uruguayan-beef-empanadas--keto",
+  "title": "Uruguayan Beef Empanadas (Keto)",
+  "description": "A keto twist on a classic Uruguayan dish, these empanadas are filled with tender beef and perfect for a low-carb diet.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio for best flavor"
+    },
+    {
+      "name": "Unctuous Empanada Dough Mix",
+      "amount": "1 package (makes 12 empanadas)",
+      "notes": "Make sure to follow the instructions on the package for the best results"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Season the beef mixture with salt and pepper to taste.",
+    "Follow the instructions on the empanada dough mix to make the dough.",
+    "Roll out the dough on a floured surface to about 1/4 inch thickness.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon or two of the beef mixture in the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush with olive oil.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "keto",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 6,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-uruguayan-beef-empanadas--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:40:38.714Z"
+}
