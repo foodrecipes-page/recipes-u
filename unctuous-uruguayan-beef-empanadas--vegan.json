@@ -1,0 +1,85 @@
+{
+  "slug": "unctuous-uruguayan-beef-empanadas--vegan",
+  "title": "Vegan Empanadas",
+  "description": "A twist on traditional Uruguayan empanadas, these vegan empanadas are filled with unctuous and flavorful ingredients.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rehydrated uruguayan beef",
+      "amount": "1 cup (rehydrated)",
+      "notes": "use a vegan rehydrated beef substitute"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine flour and water in a bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place 1-2 tablespoons of the filling in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the empanadas to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve the empanadas hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "empanadas",
+    "uruguayan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-uruguayan-beef-empanadas--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:10:49.362Z"
+}
