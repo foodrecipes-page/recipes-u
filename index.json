@@ -9600,5 +9600,58 @@
     "cuisine": "german",
     "totalTimeMin": 50,
     "shard": "u"
+  },
+  {
+    "slug": "unctuous-uruguayan-beef-empanadas--french",
+    "title": "Uruguayan Beef Empanadas à la Française",
+    "tags": [
+      "beef",
+      "empanadas",
+      "french",
+      "uruguayan"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "u"
+  },
+  {
+    "slug": "unctuous-uruguayan-beef-empanadas--thai",
+    "title": "Thai Beef Empanadas",
+    "tags": [
+      "beef",
+      "empanada",
+      "thai",
+      "fusion"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
+    "slug": "unctuous-uruguayan-beef-empanadas--german",
+    "title": "Uruguayan Beef Empanadas with German Twist",
+    "tags": [
+      "german",
+      "uruguayan",
+      "beef",
+      "empanadas",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "u"
+  },
+  {
+    "slug": "unctuous-uruguayan-beef-empanadas--indian",
+    "title": "Uruguayan Beef Empanadas with Indian Twist",
+    "tags": [
+      "beef",
+      "empanadas",
+      "indian",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "u"
   }
 ]
