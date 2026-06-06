@@ -1,0 +1,75 @@
+{
+  "slug": "umami-polish-beet-bake--thai",
+  "title": "Thai Beet Tartlets",
+  "description": "A sweet and savory twist on traditional Thai desserts. These beet tartlets are perfect for a snack or dessert.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "beet",
+      "amount": "1 cup, peeled and cooked"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tbsp, soy sauce"
+    },
+    {
+      "name": "polish",
+      "amount": "1 cup, all-purpose flour"
+    },
+    {
+      "name": "bake",
+      "amount": "1 sheet, frozen puff pastry, thawed"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup, granulated sugar"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large, beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Cut out small squares of pastry, about 3 inches per side.",
+    "In a bowl, mix together cooked beet, soy sauce, sugar, eggs, salt, and water.",
+    "Place a small spoonful of the beet mixture onto one half of each pastry square.",
+    "Fold the other half of the pastry square over the filling to form a triangle or a square shape.",
+    "Press the edges together to seal the tartlet.",
+    "Brush the tops of the tartlets with a little bit of water and sprinkle with sugar.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "dessert",
+    "beet",
+    "tartlets"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-polish-beet-bake--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:43:06.601Z"
+}
