@@ -9499,5 +9499,30 @@
     "cuisine": "chinese",
     "totalTimeMin": 60,
     "shard": "u"
+  },
+  {
+    "slug": "unique-nutty-saudi-arabian-fish-pilaf--german",
+    "title": "Pan-Seared Fish with Saudi Pilaf",
+    "tags": [
+      "german",
+      "fish",
+      "pilaf",
+      "arabian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
+    "slug": "umami-polish-beet-bake--chinese",
+    "title": "Braised Beet Dumplings",
+    "tags": [
+      "beet",
+      "dumplings",
+      "chinese-cuisine"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
