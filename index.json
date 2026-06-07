@@ -6219,19 +6219,15 @@
   },
   {
     "slug": "unique-jammy-canadian-cheese-bowl",
-    "title": "Unique Jammy Canadian Cheese Bowl",
+    "title": "Canadian Cheese Jammy Bowl",
     "tags": [
-      "canadian-cuisine",
-      "dairy-free",
-      "easy-lunch",
-      "gluten-free",
-      "jammy",
-      "silky",
-      "tandoor",
-      "vegetarian"
+      "canadian",
+      "cheese",
+      "snack",
+      "easy"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 5,
     "shard": "u"
   },
   {
@@ -6281,17 +6277,15 @@
   },
   {
     "slug": "unique-light-indian-bread-toast",
-    "title": "Unique Light Indian Bread Toast",
+    "title": "Crispy Indian Toast",
     "tags": [
-      "comfort-food",
-      "herbal",
-      "indian-food",
-      "light-meal",
-      "vegan",
-      "vegetarian"
+      "indian",
+      "snack",
+      "easy",
+      "bread"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 18,
+    "totalTimeMin": 13,
     "shard": "u"
   },
   {
@@ -6675,17 +6669,15 @@
   },
   {
     "slug": "unique-roasted-turkish-lamb-kebabs",
-    "title": "Unique Roasted Turkish Lamb Kebabs",
+    "title": "Turkish Lamb Kebabs",
     "tags": [
-      "crowd-pleaser",
-      "gluten-free",
-      "lamb-recipes",
-      "low-calorie",
-      "roasted-meats",
-      "turkish-cuisine"
+      "lamb",
+      "kebabs",
+      "turkish",
+      "grilled"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 36,
     "shard": "u"
   },
   {
