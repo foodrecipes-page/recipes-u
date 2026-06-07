@@ -1,0 +1,56 @@
+{
+  "slug": "unique-light-indian-bread-toast",
+  "title": "Crispy Indian Toast",
+  "description": "A simple and flavorful recipe to make crispy Indian-style toast. Perfect as a side dish or snack.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Indian bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "light",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Brush both sides of each bread slice with light.",
+    "Heat a tablespoon of oil in the pan and place 2 slices of bread.",
+    "Cook for 2-3 minutes or until golden brown.",
+    "Flip the toast over and cook for another 2 minutes.",
+    "Repeat with the remaining bread slices.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "easy",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-light-indian-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:01:46.348Z"
+}
