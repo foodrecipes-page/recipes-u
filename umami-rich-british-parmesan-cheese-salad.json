@@ -1,0 +1,50 @@
+{
+  "slug": "umami-rich-british-parmesan-cheese-salad",
+  "title": "Classic British Ploughman's Salad",
+  "description": "A simple yet satisfying salad featuring rich cheese, fresh greens, and a hint of umami from the parmesan.",
+  "cuisine": "british",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed salad greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Rich cheddar cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "2 oz"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the mixed greens and shaved parmesan cheese.",
+    "2. Cut the rich cheddar cheese into 1-inch cubes and add to the bowl.",
+    "3. Drizzle with your favorite salad dressing and toss to combine.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ploughmans salad",
+    "british salad",
+    "easy salad"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-rich-british-parmesan-cheese-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:30:45.544Z"
+}
