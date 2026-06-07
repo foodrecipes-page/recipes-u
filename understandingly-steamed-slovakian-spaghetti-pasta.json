@@ -1,0 +1,77 @@
+{
+  "slug": "understandingly-steamed-slovakian-spaghetti-pasta",
+  "title": "Steamed Slovakian Spaghetti",
+  "description": "A hearty and comforting Slovakian-inspired spaghetti dish, steamed to perfection.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz (340g)"
+    },
+    {
+      "name": "Slovakian Seasoning",
+      "amount": "1 tsp",
+      "notes": "a mix of paprika, garlic, and caraway seeds"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup (15g)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the spaghetti according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Stir in the Slovakian seasoning and cook for 1 minute.",
+    "Add the cooked spaghetti to the skillet and toss with the mushroom mixture.",
+    "Season with salt and pepper to taste.",
+    "Transfer the spaghetti to a serving dish and garnish with parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spaghetti",
+    "slovakian",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/understandingly-steamed-slovakian-spaghetti-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:37:08.421Z"
+}
