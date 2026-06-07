@@ -2647,15 +2647,14 @@
   },
   {
     "slug": "umami-rich-british-parmesan-cheese-salad",
-    "title": "Umami Rich British Parmesan Cheese Salad",
+    "title": "Classic British Ploughman's Salad",
     "tags": [
-      "umami",
-      "rich",
-      "low-carb",
-      "british"
+      "ploughmans salad",
+      "british salad",
+      "easy salad"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 35,
+    "cuisine": "british",
+    "totalTimeMin": 10,
     "shard": "u"
   },
   {
