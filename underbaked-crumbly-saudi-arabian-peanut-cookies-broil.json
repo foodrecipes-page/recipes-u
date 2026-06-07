@@ -1,0 +1,78 @@
+{
+  "slug": "underbaked-crumbly-saudi-arabian-peanut-cookies-broil",
+  "title": "Saudi Arabian Broiled Peanut Cookies",
+  "description": "A unique dessert recipe inspired by Saudi Arabian cuisine, featuring peanut cookies broiled to perfection.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Underbaked cookies",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400°F (200°C).",
+    "In a large mixing bowl, combine peanuts, sugar, and butter. Mix well.",
+    "Beat in eggs until well combined.",
+    "In a separate bowl, whisk together flour, baking powder, and salt.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Roll out the dough to 1/4 inch thickness.",
+    "Cut into desired shapes.",
+    "Place the shapes on a baking sheet lined with parchment paper.",
+    "Broil for 2-3 minutes or until golden brown.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peanut",
+    "cookies",
+    "saudi-arabian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/underbaked-crumbly-saudi-arabian-peanut-cookies-broil",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:30:13.681Z"
+}
