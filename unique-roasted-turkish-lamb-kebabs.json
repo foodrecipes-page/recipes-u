@@ -1,0 +1,89 @@
+{
+  "slug": "unique-roasted-turkish-lamb-kebabs",
+  "title": "Turkish Lamb Kebabs",
+  "description": "A classic Turkish dish, these lamb kebabs are marinated in a blend of spices and grilled to perfection.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Make sure to trim any excess fat"
+    },
+    {
+      "name": "Turkish olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality oil for the best flavor"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Use 1 clove if you're not a big fan of garlic"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed for the best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher salt for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Use freshly ground black pepper"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground cumin adds a nice depth of flavor"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked paprika adds a nice smokiness"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, garlic, lemon juice, salt, black pepper, cumin, and paprika.",
+    "Add the lamb cubes to the marinade and mix until they're evenly coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the lamb cubes onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until they're cooked to your desired level of doneness.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Garnish with chopped parsley and serve immediately.",
+    "Serve with your favorite sides, such as grilled vegetables or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "turkish",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-roasted-turkish-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:50:38.308Z"
+}
