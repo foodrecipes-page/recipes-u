@@ -1,0 +1,77 @@
+{
+  "slug": "unique-charred-syrian-asparagus-skewers",
+  "title": "Grilled Asparagus Skewers with Charred Zaatar",
+  "description": "A simple and flavorful Middle Eastern-inspired side dish featuring charred zaatar, skewers of asparagus, and a hint of Syrian spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "fresh asparagus",
+      "amount": "1 pound",
+      "notes": "about 20-25 spears"
+    },
+    {
+      "name": "zaatar",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "unique spice blend",
+      "amount": "1/2 teaspoon",
+      "notes": "optional, or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread 5-6 asparagus spears onto each skewer.",
+    "In a small bowl, mix together zaatar, olive oil, lemon juice, salt, black pepper, and unique spice blend (if using).",
+    "Brush the zaatar mixture onto both sides of the asparagus skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the asparagus is tender and slightly charred.",
+    "Serve hot, garnished with additional zaatar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "asparagus",
+    "zaatar",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-charred-syrian-asparagus-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:16:07.420Z"
+}
