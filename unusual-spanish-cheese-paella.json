@@ -1,0 +1,77 @@
+{
+  "slug": "unusual-spanish-cheese-paella",
+  "title": "Pan-Seared Seafood Paella Croquettes",
+  "description": "A creative twist on traditional Spanish paella, these crispy croquettes are filled with succulent seafood and served with a side of tangy aioli.",
+  "cuisine": "spanish",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "seafood paella mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cod fish",
+      "amount": "1/2 cup",
+      "notes": "small pieces"
+    },
+    {
+      "name": "mussels",
+      "amount": "1/2 cup",
+      "notes": "small pieces"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unusual olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the seafood paella mix and cook until lightly browned.",
+    "Add the chicken broth and stir to combine.",
+    "Add the cod fish and mussels, and cook until the seafood is cooked through.",
+    "Stir in the cheese until melted.",
+    "Let the mixture cool to room temperature.",
+    "Shape the mixture into small patties.",
+    "Dredge the patties in flour, shaking off excess.",
+    "Heat about 1/2 inch of olive oil in a large skillet over medium-high heat.",
+    "Fry the croquettes until golden brown and crispy.",
+    "Drain on paper towels and serve hot with aioli."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "spanish",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unusual-spanish-cheese-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:58:53.785Z"
+}
