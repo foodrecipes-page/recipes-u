@@ -1,0 +1,78 @@
+{
+  "slug": "unforgettable-smoky-polish-mitsuba-skewers",
+  "title": "Smoky Mitsuba Skewers with Polish Sausage",
+  "description": "A flavorful and easy-to-make skewer recipe featuring smoky polish sausage, mitsuba, and a hint of smokiness.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Polish Sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mitsuba",
+      "amount": "1 bunch",
+      "notes": "leaves only"
+    },
+    {
+      "name": "Unforgettable Balsamic Glaze",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat. Thread polish sausage and mitsuba leaves onto skewers.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until sausage is cooked through.",
+    "Brush with unforgettable balsamic glaze during the last minute of grilling.",
+    "Serve immediately and enjoy!",
+    "Let skewers rest for 2-3 minutes before serving.",
+    "Serve with additional balsamic glaze on the side, if desired.",
+    "Repeat as needed for additional servings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "eastern-european",
+    "polish",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unforgettable-smoky-polish-mitsuba-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:13:52.357Z"
+}
