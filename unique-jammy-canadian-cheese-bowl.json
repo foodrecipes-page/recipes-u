@@ -1,0 +1,61 @@
+{
+  "slug": "unique-jammy-canadian-cheese-bowl",
+  "title": "Canadian Cheese Jammy Bowl",
+  "description": "A simple and delicious Canadian-inspired dish made with cheese, jammy ingredients, and served in a bowl.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Unique",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Jammy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Canadian",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "any size bowl"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (175°C).",
+    "2. In a bowl, mix together the cheese, unique, and jammy ingredients.",
+    "3. Add the Canadian ingredient and stir until well combined.",
+    "4. Transfer the mixture to a bowl and serve hot.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "cheese",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-jammy-canadian-cheese-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:53:08.238Z"
+}
