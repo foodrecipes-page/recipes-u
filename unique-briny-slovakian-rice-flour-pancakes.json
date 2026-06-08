@@ -1,0 +1,66 @@
+{
+  "slug": "unique-briny-slovakian-rice-flour-pancakes",
+  "title": "Slovakian Pancakes with Briny Filling",
+  "description": "A traditional Slovakian dish featuring pancakes filled with a tangy, briny mixture. Perfect for a light lunch or snack.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Slovakian pancakes",
+      "amount": "4",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "briny filling",
+      "amount": "1 cup",
+      "notes": "see below"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "unique salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "for the briny filling"
+    }
+  ],
+  "instructions": [
+    "Prepare the briny filling: In a small bowl, mix together 1/2 cup of water, 1 tbsp of rice vinegar, and 1 tsp of unique salt.",
+    "Split the Slovakian pancakes in half horizontally.",
+    "Spoon the briny filling onto the bottom half of the pancakes.",
+    "Top with the top half of the pancakes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "pancakes",
+    "briny",
+    "filling"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-briny-slovakian-rice-flour-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:22:14.224Z"
+}
