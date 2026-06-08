@@ -1,0 +1,76 @@
+{
+  "slug": "umami-polish-tempeh-wrap",
+  "title": "Tempeh Wrap with Polish Umami",
+  "description": "A fusion of Eastern and Western flavors in a simple, savory wrap. The umami seasoning adds depth to the tempeh, while the polish adds a tangy twist.",
+  "cuisine": "Asian-Fusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "polish",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "umami seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tortilla wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Grill the tempeh until golden brown.",
+    "2. In a small bowl, mix the polish and umami seasoning.",
+    "3. Spread the polish-umami mixture on the tortilla wrap.",
+    "4. Add the grilled tempeh, lettuce, tomato, and cucumber to the wrap.",
+    "5. Fold the wrap in half and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "tempeh",
+    "vegan",
+    "gluten-free",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-polish-tempeh-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:18:33.839Z"
+}
