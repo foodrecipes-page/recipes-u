@@ -1,0 +1,73 @@
+{
+  "slug": "umami-creamy-canadian-beetroot-soup",
+  "title": "Canadian Beetroot Soup",
+  "description": "A hearty and comforting soup that combines the sweetness of beetroot with the richness of creamy ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "creamy",
+      "amount": "1 cup",
+      "notes": "vegetable broth"
+    },
+    {
+      "name": "umami",
+      "amount": "1 teaspoon",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "canadian",
+      "amount": "1 tablespoon",
+      "notes": "maple syrup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add beetroot, vegetable broth, soy sauce, and maple syrup to the pot.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "vegetarian",
+    "beetroot"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-creamy-canadian-beetroot-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:13:36.463Z"
+}
