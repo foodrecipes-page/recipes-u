@@ -1279,18 +1279,14 @@
   },
   {
     "slug": "umami-creamy-canadian-beetroot-soup",
-    "title": "Umami Creamy Canadian Beetroot Soup",
+    "title": "Canadian Beetroot Soup",
     "tags": [
-      "vegan",
-      "diabetic-friendly",
-      "beetroot",
-      "creamy",
-      "umami",
       "soup",
-      "healthy"
+      "vegetarian",
+      "beetroot"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
