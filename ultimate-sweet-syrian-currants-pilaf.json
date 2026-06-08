@@ -1,0 +1,77 @@
+{
+  "slug": "ultimate-sweet-syrian-currants-pilaf",
+  "title": "Sweet Syrian Pilaf with Currants",
+  "description": "A flavorful and sweet side dish made with Syrian pilaf, currants, and a hint of spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Syrian pilaf",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "currants",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the Syrian pilaf, currants, salt, black pepper, and cinnamon.",
+    "Stir to combine and cook for an additional 2-3 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional currants if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultimate-sweet-syrian-currants-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:55:22.627Z"
+}
