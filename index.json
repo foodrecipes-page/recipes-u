@@ -2619,16 +2619,15 @@
   },
   {
     "slug": "umami-polish-tempeh-wrap",
-    "title": "Umami Polish Tempeh Wrap",
+    "title": "Tempeh Wrap with Polish Umami",
     "tags": [
-      "high-protein",
-      "meal-prep",
-      "quick",
+      "tempeh",
       "vegan",
+      "gluten-free",
       "wrap"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "cuisine": "Asian-Fusion",
+    "totalTimeMin": 15,
     "shard": "u"
   },
   {
