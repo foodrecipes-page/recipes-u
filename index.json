@@ -373,16 +373,15 @@
   },
   {
     "slug": "ultimate-sweet-syrian-currants-pilaf",
-    "title": "Ultimate Sweet Syrian Currants Pilaf",
+    "title": "Sweet Syrian Pilaf with Currants",
     "tags": [
+      "sweet",
       "middle-eastern",
-      "smoky-flavor",
-      "sweet-dish",
-      "temple-food",
-      "vegan-friendly"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 55,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 20,
     "shard": "u"
   },
   {
@@ -2888,16 +2887,16 @@
   },
   {
     "slug": "umami-silky-italian-fennel-sausage-polish-dish",
-    "title": "Umami Silky Italian Fennel Sausage Polish Dish",
+    "title": "Polish Sausage and Fennel Skillet",
     "tags": [
-      "umami",
-      "silky",
-      "date-night",
-      "italian-fennel-sausage",
-      "gluten-free"
+      "polish",
+      "sausage",
+      "skillet",
+      "dinner",
+      "easy"
     ],
-    "cuisine": "Italian-Polish Fusion",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -4972,17 +4971,15 @@
   },
   {
     "slug": "unique-briny-slovakian-rice-flour-pancakes",
-    "title": "Slovakian Rice Flour Pancakes",
+    "title": "Slovakian Pancakes with Briny Filling",
     "tags": [
-      "cedar-plank",
-      "gluten-free",
-      "high-protein",
-      "post-workout",
-      "pressure-cooker",
-      "vegetarian"
+      "slovakian",
+      "pancakes",
+      "briny",
+      "filling"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "u"
   },
   {
