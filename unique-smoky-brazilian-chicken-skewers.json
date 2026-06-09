@@ -1,0 +1,85 @@
+{
+  "slug": "unique-smoky-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers",
+  "description": "Grilled chicken skewers with a smoky twist, inspired by Brazilian flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unique pepper",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 teaspoons",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "for added depth"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lime juice, olive oil, smoky paprika, garlic powder, salt, and black pepper.",
+    "Add the chicken pieces to the marinade and mix well.",
+    "Thread the marinated chicken, unique pepper, and onion (if using) onto skewers.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Cook to an internal temperature of 165°F (74°C).",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "skewers",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-smoky-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:40:20.857Z"
+}
