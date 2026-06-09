@@ -1,0 +1,81 @@
+{
+  "slug": "unique-velvety-saudi-arabian-fish-curry",
+  "title": "Saudi Curry Fish Fry",
+  "description": "A flavorful fish fry dish with a unique twist from Saudi Arabian cuisine. The velvety curry sauce complements the fish perfectly.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "4",
+      "notes": "Any white fish works well"
+    },
+    {
+      "name": "Velvety curry paste",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Saudi curry powder",
+      "amount": "1 tsp",
+      "notes": "available at most Middle Eastern stores"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Marinate the fish fillets in a mixture of lemon juice, salt, and black pepper for 30 minutes.",
+    "2. Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "3. Add the fish fillets to the skillet and cook for 3-4 minutes on each side, or until cooked through.",
+    "4. In a separate pan, heat 1 tablespoon of olive oil over medium heat.",
+    "5. Add the velvety curry paste and cook for 1-2 minutes, or until fragrant.",
+    "6. Add the Saudi curry powder and cook for another minute, stirring constantly.",
+    "7. Add the cooked fish fillets to the curry sauce and simmer for 2-3 minutes.",
+    "8. Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "saudi-arabian",
+    "curry",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-velvety-saudi-arabian-fish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:08:06.335Z"
+}
