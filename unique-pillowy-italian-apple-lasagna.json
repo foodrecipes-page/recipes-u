@@ -1,0 +1,83 @@
+{
+  "slug": "unique-pillowy-italian-apple-lasagna",
+  "title": "Italian Apple Lasagna",
+  "description": "A creative twist on the classic lasagna, with layers of pillowy dough, sweet apples, and rich Italian flavors.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Unique flour",
+      "amount": "2 cups",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "Pillowy yeast",
+      "amount": "1 teaspoon",
+      "notes": "Active dry yeast"
+    },
+    {
+      "name": "Italian sugar",
+      "amount": "1/2 cup",
+      "notes": "Granulated sugar"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Apple filling",
+      "amount": "2 large apples, sliced"
+    },
+    {
+      "name": "Lasagna dough",
+      "amount": "1 package (8 oz)"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Melted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the lasagna dough to a thickness of 1/4 inch (6 mm).",
+    "In a large bowl, mix together the ricotta cheese, egg, and sugar until smooth.",
+    "In a separate bowl, mix together the sliced apples and cinnamon.",
+    "Spread a layer of the ricotta mixture onto the dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Top with a layer of apple slices, followed by another layer of dough.",
+    "Repeat the layers two more times, ending with a layer of dough on top.",
+    "Brush the top layer with melted butter and bake for 35-40 minutes, or until golden brown.",
+    "Let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "apple",
+    "lasagna",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-pillowy-italian-apple-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:24:37.440Z"
+}
