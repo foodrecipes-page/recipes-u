@@ -1,0 +1,76 @@
+{
+  "slug": "unique-umami-chinese-pepper-chow-fun",
+  "title": "Stir-Fried Chow Fun with Umami Sauce",
+  "description": "A quick and flavorful stir-fry made with chow fun noodles, umami sauce, and unique vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chow fun noodles",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "umami sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "such as peanut or canola"
+    },
+    {
+      "name": "chopped bell peppers",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "green and white parts"
+    },
+    {
+      "name": "unique mushrooms",
+      "amount": "8 ounces",
+      "notes": "such as shiitake or cremini"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped bell peppers and cook until they start to soften, about 3 minutes.",
+    "Add the chopped scallions and cook for another minute.",
+    "Add the umami sauce and stir to combine.",
+    "Add the chow fun noodles to the skillet or wok and stir to combine with the sauce.",
+    "Cook for about 3-4 minutes, until the noodles are heated through and starting to brown.",
+    "Add the unique mushrooms to the skillet or wok and stir to combine.",
+    "Cook for another 2-3 minutes, until the mushrooms are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "chinese",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-chinese-pepper-chow-fun",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:09:11.537Z"
+}
