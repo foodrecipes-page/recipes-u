@@ -1,0 +1,79 @@
+{
+  "slug": "unique-aerated-greek-banana-loukoumades",
+  "title": "Greek Loukoumades with Fresh Banana",
+  "description": "A traditional Greek dessert featuring crispy loukoumades topped with sweet fresh banana and a drizzle of honey.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unique oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "aerated eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "ripe banana",
+      "amount": "2 large"
+    },
+    {
+      "name": "loukoumades",
+      "amount": "12"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt.",
+    "Gradually add in water, mixing until a smooth batter forms.",
+    "Heat unique oil in a deep frying pan to 375°F (190°C).",
+    "Using a spoon, drop small amounts of batter into the hot oil.",
+    "Fry loukoumades for 2-3 minutes on each side, or until golden brown.",
+    "Drain excess oil on paper towels.",
+    "In a separate bowl, mash ripe banana until smooth.",
+    "Drizzle honey over the top of the fried loukoumades.",
+    "Serve immediately, topped with fresh banana mash."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "dessert",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 65,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-aerated-greek-banana-loukoumades",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:36:03.512Z"
+}
