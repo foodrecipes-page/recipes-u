@@ -1,0 +1,93 @@
+{
+  "slug": "unique-indian-fish-curry",
+  "title": "Spicy Indian Fish Curry",
+  "description": "A flavorful and aromatic fish curry recipe, perfect for a weeknight dinner. This spicy dish is made with fresh fish, a blend of Indian spices, and a hint of coconut milk.",
+  "cuisine": "Indian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (Cod or Tilapia)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Indian Red Chili Powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, garlic, and ginger. Sauté until the onion is translucent.",
+    "Add the fish fillets and cook until they are browned on both sides.",
+    "Add the Indian red chili powder, garam masala, cumin powder, and salt. Mix well.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry cook for 10-15 minutes or until the fish is cooked through.",
+    "Garnish with chopped cilantro and serve with rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish-curry",
+    "coconut-milk",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-indian-fish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:49:49.524Z"
+}
