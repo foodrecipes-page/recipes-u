@@ -6509,16 +6509,15 @@
   },
   {
     "slug": "unique-pillowy-italian-apple-lasagna",
-    "title": "Unique Pillowy Italian Apple Lasagna",
+    "title": "Italian Apple Lasagna",
     "tags": [
-      "apple-delight",
-      "italian-dessert",
-      "namul-recipes",
-      "sattvic-food",
-      "yeasty-treats"
+      "italian",
+      "apple",
+      "lasagna",
+      "dessert"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 60,
     "shard": "u"
   },
   {
