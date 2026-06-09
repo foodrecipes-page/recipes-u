@@ -3539,18 +3539,15 @@
   },
   {
     "slug": "uncharted-arabian-chicken-roast",
-    "title": "Uncharted Arabian Chicken Roast",
+    "title": "Arabian Chicken Roast",
     "tags": [
-      "ayurvedic-friendly",
-      "coriander-rich",
-      "family-friendly",
-      "gluten-free",
-      "one-pan",
-      "roast",
-      "saudi-arabian"
+      "arabian-food",
+      "chicken-recipes",
+      "roast-chicken",
+      "middle-eastern-cuisine"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 60,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 65,
     "shard": "u"
   },
   {
@@ -3925,17 +3922,17 @@
   },
   {
     "slug": "unctuous-smoky-peruvian-duck-arroz-con-pato",
-    "title": "Unctuous Smoky Peruvian Duck Arroz Con Pato",
+    "title": "Smoky Pato con Arroz",
     "tags": [
-      "arroz-con-pato",
-      "complex-recipes",
-      "duck-recipes",
-      "indulgent-meals",
-      "peruvian-cuisine",
-      "smoky-flavors"
+      "peruvian",
+      "duck",
+      "smoky",
+      "arroz",
+      "con",
+      "pato"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 55,
     "shard": "u"
   },
   {
