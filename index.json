@@ -6178,17 +6178,15 @@
   },
   {
     "slug": "unique-indian-fish-curry",
-    "title": "Unique Indian Fish Curry",
+    "title": "Spicy Indian Fish Curry",
     "tags": [
-      "curry-dish",
-      "fish-recipe",
-      "indian-cuisine",
-      "keto-friendly",
-      "low-carb",
-      "ramekin-recipe"
+      "indian",
+      "fish-curry",
+      "coconut-milk",
+      "curry"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -6850,14 +6848,12 @@
   },
   {
     "slug": "unique-smoky-brazilian-chicken-skewers",
-    "title": "Unique Smoky Brazilian Chicken Skewers",
+    "title": "Brazilian Chicken Skewers",
     "tags": [
-      "brazilian-inspired",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "chicken",
+      "skewers",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 32,
