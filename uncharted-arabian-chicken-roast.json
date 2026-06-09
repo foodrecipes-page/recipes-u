@@ -1,0 +1,83 @@
+{
+  "slug": "uncharted-arabian-chicken-roast",
+  "title": "Arabian Chicken Roast",
+  "description": "Tender and flavorful chicken roast infused with the aromatic spices of the Arabian Peninsula.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uncharted Roast Chicken (3 lbs)",
+      "amount": "1",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Arabian Spice Blend",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat dry with paper towels.",
+    "In a small bowl, mix together the Arabian Spice Blend, olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken, making sure to get some under the skin as well.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 45-50 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Let the chicken rest for 10-15 minutes before carving and serving.",
+    "Garnish with chopped parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabian-food",
+    "chicken-recipes",
+    "roast-chicken",
+    "middle-eastern-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uncharted-arabian-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:02:51.772Z"
+}
