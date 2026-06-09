@@ -1,0 +1,91 @@
+{
+  "slug": "unctuous-smoky-peruvian-duck-arroz-con-pato",
+  "title": "Smoky Pato con Arroz",
+  "description": "A Peruvian-inspired dish featuring tender duck and flavorful rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds duck breast",
+      "amount": "2",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "2 tablespoons unctuous aji amarillo oil",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 small onion, diced",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 cup arroz con pollo mix",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 cups water",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro, chopped (optional)",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck breast with salt and pepper. Sear in a hot skillet until browned, then finish in the oven for 20 minutes or until cooked through.",
+    "In the same skillet, sauté the onion and garlic until softened. Add the smoked paprika and cook for 1 minute.",
+    "Add the arroz con pollo mix and water to the skillet. Bring to a boil, then reduce heat to low, cover, and simmer for 20 minutes or until the rice is tender.",
+    "Shred the cooked duck breast and stir it into the rice mixture. Season with salt and pepper to taste.",
+    "Serve the Smoky Pato con Arroz hot, garnished with chopped cilantro if desired.",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "duck",
+    "smoky",
+    "arroz",
+    "con",
+    "pato"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-smoky-peruvian-duck-arroz-con-pato",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:37:56.106Z"
+}
