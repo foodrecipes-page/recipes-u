@@ -1,0 +1,106 @@
+{
+  "slug": "uplifting-mexican-chicken-enchiladas",
+  "title": "Uplifting Chicken Enchiladas",
+  "description": "A delicious and comforting Mexican dish filled with tender chicken, wrapped in tortillas and smothered in a rich and creamy sauce.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "6-8",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "Enchilada sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Diced bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Diced tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the chicken breast in a skillet over medium-high heat until browned and cooked through.",
+    "Shred the cooked chicken into bite-sized pieces.",
+    "In a large skillet, sauté the diced onion, bell pepper, and tomato until softened.",
+    "Add the cumin, paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Add the enchilada sauce to the skillet and stir to combine.",
+    "In a large baking dish, spread a layer of enchilada sauce on the bottom.",
+    "Arrange 2-3 tortillas on a flat surface and spoon some of the chicken mixture onto the center of each tortilla.",
+    "Sprinkle shredded cheese over the chicken mixture.",
+    "Roll up the tortillas and place them seam-side down in the baking dish.",
+    "Repeat the process with the remaining tortillas and chicken mixture.",
+    "Pour the remaining enchilada sauce over the top of the rolled tortillas.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and sprinkle shredded cheese over the top of the enchiladas.",
+    "Return the baking dish to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "enchiladas",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uplifting-mexican-chicken-enchiladas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:07:32.771Z"
+}
