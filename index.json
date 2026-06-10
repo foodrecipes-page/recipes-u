@@ -8884,17 +8884,15 @@
   },
   {
     "slug": "uplifting-mexican-chicken-enchiladas",
-    "title": "Uplifting Mexican Chicken Enchiladas",
+    "title": "Uplifting Chicken Enchiladas",
     "tags": [
-      "chicken",
-      "egg-free",
-      "family-friendly",
-      "glassy-sauce",
       "mexican",
-      "weeknight"
+      "chicken",
+      "enchiladas",
+      "comfort-food"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 55,
     "shard": "u"
   },
   {
