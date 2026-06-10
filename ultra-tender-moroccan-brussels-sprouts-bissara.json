@@ -1,0 +1,91 @@
+{
+  "slug": "ultra-tender-moroccan-brussels-sprouts-bissara",
+  "title": "Moroccan Chicken and Sprouts Tagine",
+  "description": "A hearty and flavorful Moroccan stew made with chicken, sprouts, and bissara, perfect for a cold winter night.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb boneless, skinless chicken thighs",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "2 cups Brussels sprouts, trimmed and halved",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "1 cup bissara",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Remove chicken and set aside.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add sprouts and cook for 5 minutes.",
+    "Stir in bissara, cumin, and paprika.",
+    "Return chicken to pot and stir to combine.",
+    "Bring to a simmer, cover, and cook until chicken is cooked through, about 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "sprouts",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-tender-moroccan-brussels-sprouts-bissara",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:22:44.386Z"
+}
