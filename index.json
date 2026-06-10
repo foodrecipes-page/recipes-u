@@ -3031,18 +3031,16 @@
   },
   {
     "slug": "umami-spicy-saudi-chicken-stew",
-    "title": "Umami Spicy Saudi Chicken Stew",
+    "title": "Spicy Chicken Stew",
     "tags": [
-      "date-night",
-      "low-fat",
-      "one-pot",
-      "saudi-arabian",
-      "spiced",
-      "umami",
-      "weeknight"
+      "chicken",
+      "stew",
+      "spicy",
+      "saudi",
+      "umami"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "saudi",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
