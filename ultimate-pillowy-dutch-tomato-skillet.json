@@ -1,0 +1,74 @@
+{
+  "slug": "ultimate-pillowy-dutch-tomato-skillet",
+  "title": "Pillowy Dutch Pancakes with Fresh Tomato",
+  "description": "A simple breakfast recipe featuring the fluffiest dutch pancakes topped with fresh tomato and a side of skillet-cooked bacon.",
+  "cuisine": "Dutch",
+  "diet": [
+    "breakfast",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "3 large eggs",
+      "notes": ""
+    },
+    {
+      "name": "butter, melted",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "skillet-cooked bacon",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together flour, milk, eggs, and melted butter.",
+    "2. Stir in sugar and let the mixture rest for 10 minutes.",
+    "3. Heat a non-stick skillet over medium heat.",
+    "4. Using a 1/4 cup measuring cup, scoop batter onto skillet and cook for 2-3 minutes.",
+    "5. Flip pancakes and cook for another 1-2 minutes.",
+    "6. Meanwhile, cook bacon in a separate skillet until crispy.",
+    "7. Serve pancakes hot with fresh tomato slices and skillet-cooked bacon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "dutch",
+    "tomato",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultimate-pillowy-dutch-tomato-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:02:40.423Z"
+}
