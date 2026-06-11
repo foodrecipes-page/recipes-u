@@ -1,0 +1,62 @@
+{
+  "slug": "unique-bouncy-dutch-banana-fritters",
+  "title": "Delicious Banana Fritters",
+  "description": "A sweet and crispy dessert made with ripe bananas and a hint of fritter magic. Perfect for snacking or sharing with friends.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "2"
+    },
+    {
+      "name": "fritters",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "unique oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bouncy sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dutch milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "Peel the bananas and chop them into 1-inch pieces.",
+    "In a bowl, mix together crushed fritters and bouncy sugar.",
+    "Dip each banana piece into the fritter mixture, coating it evenly.",
+    "Carefully place the coated banana pieces into the hot oil.",
+    "Fry for 2-3 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate.",
+    "Drizzle with dutch milk and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan-friendly",
+    "dessert",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-bouncy-dutch-banana-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:44:54.134Z"
+}
