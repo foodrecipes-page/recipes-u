@@ -4886,16 +4886,14 @@
   },
   {
     "slug": "unique-bouncy-dutch-banana-fritters",
-    "title": "Unique Bouncy Dutch Banana Fritters",
+    "title": "Delicious Banana Fritters",
     "tags": [
-      "banana-based",
-      "deep-fried",
-      "dutch-cuisine",
-      "sweet-treats",
-      "vegetarian-option"
+      "vegan-friendly",
+      "dessert",
+      "fritters"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "u"
   },
   {
@@ -7074,15 +7072,15 @@
   },
   {
     "slug": "unique-sour-crumbly-vietnamese-rest-meat-pho",
-    "title": "Sour Rest-Meat Pho",
+    "title": "Vietnamese Crispy Meat Spring Rolls",
     "tags": [
-      "crumbly",
-      "high-protein",
-      "one-pan",
-      "sour",
-      "tamasic-friendly",
-      "vegan-friendly",
-      "weeknight"
+      "vietnamese",
+      "spring-rolls",
+      "snack",
+      "appetizer",
+      "meat",
+      "pork",
+      "beef"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 25,
