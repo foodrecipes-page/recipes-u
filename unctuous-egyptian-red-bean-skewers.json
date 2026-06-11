@@ -1,0 +1,73 @@
+{
+  "slug": "unctuous-egyptian-red-bean-skewers",
+  "title": "Grilled Bean Skewers",
+  "description": "A flavorful and easy-to-make vegetarian dish perfect for a quick lunch or dinner. Marinate the beans in a mixture of unctuous Egyptian spices and grill them to perfection.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red kidney beans",
+      "amount": "250g",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "Unctuous olive oil",
+      "amount": "2 tbsp",
+      "notes": "use for marinating"
+    },
+    {
+      "name": "Egyptian spice blend",
+      "amount": "1 tsp",
+      "notes": "can be found in most supermarkets or online"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 tbsp",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": "soaked in water for at least 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Soak the wooden skewers in water for at least 30 minutes.",
+    "In a large bowl, whisk together olive oil, Egyptian spice blend, and red wine vinegar (if using).",
+    "Add the red kidney beans to the bowl and toss to coat with the marinade.",
+    "Thread the marinated beans onto the skewers, leaving a small space between each bean.",
+    "Preheat the grill to medium-high heat.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the beans are tender and lightly charred.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-egyptian-red-bean-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:29:16.267Z"
+}
