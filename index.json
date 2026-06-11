@@ -7204,15 +7204,13 @@
     "slug": "unique-spicy-portuguese-radish-skewers",
     "title": "Spicy Portuguese Radish Skewers",
     "tags": [
-      "crowd-pleaser",
-      "easy-to-make",
-      "grilled",
-      "high-protein",
       "portuguese",
-      "spicy"
+      "spicy",
+      "vegetarian",
+      "skewers"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 32,
+    "cuisine": "portuguese",
+    "totalTimeMin": 18,
     "shard": "u"
   },
   {
@@ -7404,17 +7402,14 @@
   },
   {
     "slug": "unique-umami-british-pumpkin-bubble-and-squeak",
-    "title": "Unique Umami British Pumpkin Bubble And Squeak",
+    "title": "Bubble and Squeak with Pumpkin Mash",
     "tags": [
-      "british-cuisine",
-      "mushroom",
-      "one-pan",
-      "pumpkin",
-      "umami",
-      "vegetarian"
+      "breakfast",
+      "british",
+      "comfort-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
