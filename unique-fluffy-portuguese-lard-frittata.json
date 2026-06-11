@@ -1,0 +1,73 @@
+{
+  "slug": "unique-fluffy-portuguese-lard-frittata",
+  "title": "Portuguese Frittata with Lard",
+  "description": "A unique Portuguese-inspired omelette made with fluffy eggs, lard, and frittata-style cooking.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "lard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "frittata",
+      "amount": "1 tablespoon, crumbled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat the lard in a large skillet over medium heat.",
+    "2. Add the chopped onion and cook until translucent.",
+    "3. Crack in the eggs and scramble them together with the onion.",
+    "4. Add the crumbled frittata and mix well.",
+    "5. Cook for an additional 2-3 minutes, until the eggs are almost set.",
+    "6. Use a spatula to gently fold the omelette in half.",
+    "7. Cook for an additional minute, until the eggs are fully set.",
+    "8. Slide the omelette out of the skillet onto a plate.",
+    "9. Sprinkle with salt and black pepper to taste.",
+    "10. Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "lard",
+    "frittata",
+    "omelette"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-fluffy-portuguese-lard-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:15:33.107Z"
+}
