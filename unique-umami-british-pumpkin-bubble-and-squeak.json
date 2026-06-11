@@ -1,0 +1,77 @@
+{
+  "slug": "unique-umami-british-pumpkin-bubble-and-squeak",
+  "title": "Bubble and Squeak with Pumpkin Mash",
+  "description": "A traditional British dish, Bubble and Squeak is made with leftover potatoes and cabbage, pan-fried until crispy. In this recipe, we've added a seasonal twist by incorporating roasted pumpkin and a hint of unique spices.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "amount": "1 small, peeled and cubed",
+      "notes": ""
+    },
+    {
+      "name": "Bubble and Squeak leftover potatoes",
+      "amount": "2 cups, mashed",
+      "notes": ""
+    },
+    {
+      "name": "British cabbage",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Umami broth",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Toss the pumpkin cubes with a drizzle of olive oil and roast in the oven for 20-25 minutes, or until tender.",
+    "3. In a large pan, heat 1 tablespoon of olive oil over medium heat.",
+    "4. Add the shredded cabbage and cook until wilted, about 5 minutes.",
+    "5. Stir in the mashed potatoes, umami broth, salt, and pepper.",
+    "6. Use a spatula to shape the mixture into patties.",
+    "7. Pan-fry the patties until crispy and golden brown, about 4-5 minutes per side.",
+    "8. Serve the Bubble and Squeak hot, topped with roasted pumpkin mash and a sprinkle of salt and pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "british",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-british-pumpkin-bubble-and-squeak",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:46:28.804Z"
+}
