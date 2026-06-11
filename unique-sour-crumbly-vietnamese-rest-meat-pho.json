@@ -1,0 +1,85 @@
+{
+  "slug": "unique-sour-crumbly-vietnamese-rest-meat-pho",
+  "title": "Vietnamese Crispy Meat Spring Rolls",
+  "description": "A delicious and easy-to-make Vietnamese-inspired snack or appetizer with crispy spring rolls filled with savory meat.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Meat (pork or beef)",
+      "amount": "200g",
+      "notes": "ground meat"
+    },
+    {
+      "name": "Pho noodles",
+      "amount": "200g",
+      "notes": "thin, round noodles"
+    },
+    {
+      "name": "Unique Vietnamese sauce",
+      "amount": "2 tbsp",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "Sour rest",
+      "amount": "2 tbsp",
+      "notes": "relish or kimchi"
+    },
+    {
+      "name": "Crumbly breadcrumbs",
+      "amount": "1 cup",
+      "notes": "gluten-free or regular"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Prepare the meat by mixing it with the Vietnamese sauce, sour rest, and a pinch of salt.",
+    "2. Add the pho noodles to the mixture and stir until well combined.",
+    "3. Lay a spring roll wrapper flat and place about 1 tablespoon of the meat-noodle mixture in the center.",
+    "4. Brush the edges of the wrapper with water and fold the bottom half over the filling.",
+    "5. Fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "6. Repeat with the remaining ingredients.",
+    "7. Heat about 1-2 inches of vegetable oil in a large skillet over medium-high heat.",
+    "8. When the oil is hot, add a few spring rolls to the skillet (do not overcrowd).",
+    "9. Fry until the spring rolls are golden brown and crispy, about 2-3 minutes on each side.",
+    "10. Remove the spring rolls from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "11. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "spring-rolls",
+    "snack",
+    "appetizer",
+    "meat",
+    "pork",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-sour-crumbly-vietnamese-rest-meat-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:26:02.398Z"
+}
