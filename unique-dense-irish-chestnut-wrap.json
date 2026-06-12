@@ -1,0 +1,68 @@
+{
+  "slug": "unique-dense-irish-chestnut-wrap",
+  "title": "Chestnut and Irish Wrap",
+  "description": "A delicious and filling wrap filled with roasted chestnuts, crispy bacon, and melted cheese.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chestnut",
+      "amount": "2 cups, peeled and sliced"
+    },
+    {
+      "name": "Unique Irish Wrap",
+      "amount": "1, cut into 4 equal pieces"
+    },
+    {
+      "name": "Crispy Bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a bowl, toss the chestnuts with coconut oil, salt, and pepper until evenly coated.",
+    "Spread the chestnuts on a baking sheet and roast for 15-20 minutes, or until tender.",
+    "Cook the crispy bacon in a pan over medium heat until crispy. Set aside.",
+    "Warm the wrap in the oven for 2-3 minutes, or according to package instructions.",
+    "Assemble the wrap by spreading the roasted chestnuts, crispy bacon, and mozzarella cheese down the center.",
+    "Top with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "chestnut",
+    "wrap",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-dense-irish-chestnut-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:48:41.888Z"
+}
