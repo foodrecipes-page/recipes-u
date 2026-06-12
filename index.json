@@ -4396,16 +4396,15 @@
   },
   {
     "slug": "unforgettable-american-barramundi-casserole",
-    "title": "Unforgettable American Barramundi Casserole",
+    "title": "Classic American Barramundi Casserole",
     "tags": [
-      "comfort-food",
-      "family-friendly",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "american",
+      "barramundi",
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 55,
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
