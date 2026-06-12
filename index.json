@@ -5680,17 +5680,16 @@
   },
   {
     "slug": "unique-crunchy-peruvian-cashew-chupe-de-camarones",
-    "title": "Unique Crunchy Peruvian Cashew Chupe De Camarones",
+    "title": "Camarones a la Criolla",
     "tags": [
-      "cashew-recipes",
-      "clay-pot-cooking",
-      "jain-friendly",
-      "peruvian-cuisine",
-      "seafood-stew",
-      "wine-based"
+      "peruvian",
+      "shrimp",
+      "cashew",
+      "chile-pepper",
+      "seafood"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "u"
   },
   {
@@ -6502,17 +6501,14 @@
   },
   {
     "slug": "unique-pillowy-slovakian-dough-dumplings",
-    "title": "Unique Pillowy Slovakian Dough Dumplings",
+    "title": "Slovakian Dumplings with Dough",
     "tags": [
-      "comfort-food",
-      "homemade",
-      "rose-water",
-      "slovakian-cuisine",
-      "traditional",
-      "yeast-dough"
+      "slovakian",
+      "dumplings",
+      "homemade"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -8985,18 +8981,14 @@
   },
   {
     "slug": "upper-crust-irish-cod-gratin",
-    "title": "Upper Crust Irish Cod Gratin",
+    "title": "Irish Cod Gratin",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "grill",
+      "fish",
       "irish",
-      "seafood",
-      "spring",
-      "weeknight"
+      "gratin"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
