@@ -2769,14 +2769,15 @@
   },
   {
     "slug": "umami-rich-thai-chicken-stir-fry",
-    "title": "Umami Rich Thai Chicken Stir-fry",
+    "title": "Thai Chicken Stir Fry",
     "tags": [
-      "umami",
       "thai",
-      "indulgent"
+      "chicken",
+      "stir-fry",
+      "quick-dinner"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
