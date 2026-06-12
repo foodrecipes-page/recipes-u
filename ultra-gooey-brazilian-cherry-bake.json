@@ -1,0 +1,67 @@
+{
+  "slug": "ultra-gooey-brazilian-cherry-bake",
+  "title": "Brazilian Cherry Bake",
+  "description": "A sweet and gooey dessert featuring cherry and bake flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Brazilian cherry jam",
+      "amount": "250g"
+    },
+    {
+      "name": "Bake flour",
+      "amount": "125g"
+    },
+    {
+      "name": "Ultra sugar",
+      "amount": "125g"
+    },
+    {
+      "name": "Gooey butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Mix together the bake flour, ultra sugar, and gooey butter.",
+    "Add the brazilian cherry jam and mix until a dough forms.",
+    "Beat in the eggs and add salt to taste.",
+    "Pour the mixture into a greased 20cm (8-inch) round cake tin.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the tin for 10 minutes.",
+    "Transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cherry",
+    "brazilian",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-gooey-brazilian-cherry-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:43:52.205Z"
+}
