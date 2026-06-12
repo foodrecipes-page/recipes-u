@@ -1,0 +1,93 @@
+{
+  "slug": "unique-crunchy-peruvian-cashew-chupe-de-camarones",
+  "title": "Camarones a la Criolla",
+  "description": "A Peruvian-inspired dish featuring succulent shrimp cooked in a spicy tomato sauce, served with crunchy cashews.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "cashews",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chimol",
+      "amount": "2 tablespoons",
+      "notes": "Peruvian chili paste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced tomato and cook for 2-3 minutes, until the tomato starts to break down.",
+    "Add the diced aji amarillo pepper and cook for an additional minute.",
+    "Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.",
+    "Add the chopped cashews, cumin, salt, and black pepper. Stir to combine.",
+    "Cook for an additional 1-2 minutes, until the cashews are toasted.",
+    "Stir in the chimol and cook for an additional minute.",
+    "Serve immediately, garnished with additional cashews if desired.",
+    "Note: Traditionally, this dish is served with rice and boiled potatoes, but it can also be served as a main course or as a snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "shrimp",
+    "cashew",
+    "chile-pepper",
+    "seafood"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crunchy-peruvian-cashew-chupe-de-camarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:25:38.654Z"
+}
