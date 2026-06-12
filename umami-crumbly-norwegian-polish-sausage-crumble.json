@@ -1,0 +1,79 @@
+{
+  "slug": "umami-crumbly-norwegian-polish-sausage-crumble",
+  "title": "Norwegian Sausage Crumble",
+  "description": "A hearty and flavorful dish made with Norwegian sausage, crumble, and umami flavors.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Norwegian sausage",
+      "amount": "1 pound",
+      "notes": " sliced"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "umami",
+      "amount": "2 teaspoons",
+      "notes": "dried"
+    },
+    {
+      "name": "polish",
+      "amount": "1 teaspoon",
+      "notes": "ground black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the sliced sausage over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "In a separate bowl, combine the crumble, butter, and dried umami.",
+    "Add the crumble mixture to the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the crumble is golden brown.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Cook time may vary depending on the size of your sausage and crumble mixture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "sausage",
+    "crumble",
+    "scandinavian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-crumbly-norwegian-polish-sausage-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:57:09.299Z"
+}
