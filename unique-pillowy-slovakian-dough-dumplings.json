@@ -1,0 +1,74 @@
+{
+  "slug": "unique-pillowy-slovakian-dough-dumplings",
+  "title": "Slovakian Dumplings with Dough",
+  "description": "A traditional Slovakian dish featuring unique, pillowy dumplings served with a side of homemade dough. Enjoy as a hearty snack or light lunch.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "unique dumpling mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "slovakian cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour and water in a bowl to form a dough.",
+    "Knead the dough for 5 minutes.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a spoonful of slovakian cheese in the center of each circle.",
+    "Fold the dough in half to form a half-circle.",
+    "Press the edges together to seal the dumpling.",
+    "Heat a large pot of water and bring to a boil.",
+    "Gently add the dumplings to the pot and cook for 10 minutes, or until they float to the surface.",
+    "Serve the dumplings with a side of melted butter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "dumplings",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-pillowy-slovakian-dough-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:44:30.513Z"
+}
