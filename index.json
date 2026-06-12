@@ -4263,16 +4263,15 @@
   },
   {
     "slug": "understated-creamy-moroccan-brie-amlou",
-    "title": "understated creamy moroccan brie amlou",
+    "title": "Moroccan Brie Tartine with Amlou",
     "tags": [
-      "easy-dinner",
-      "lacto-ovo-vegetarian",
       "moroccan",
-      "one-pan",
-      "weeknight"
+      "breakfast-for-dinner",
+      "appetizer",
+      "cheese"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 25,
+    "cuisine": "north african",
+    "totalTimeMin": 15,
     "shard": "u"
   },
   {
@@ -7545,17 +7544,15 @@
   },
   {
     "slug": "unique-umami-korean-beetroot-jjigae",
-    "title": "Unique Umami Korean Beetroot Jjigae",
+    "title": "Umami Korean Jjigae with Beetroot",
     "tags": [
-      "beetroot-recipes",
-      "diabetic-friendly",
-      "korean-food",
-      "pandan-wraps",
-      "ssam-wrap",
-      "umami-rich"
+      "korean",
+      "vegetarian",
+      "stew",
+      "umami"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 80,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
