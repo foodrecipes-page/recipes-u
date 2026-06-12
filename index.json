@@ -1078,17 +1078,14 @@
   },
   {
     "slug": "umami-british-vegan-vegan-scotch-egg",
-    "title": "Umami British Vegan Scotch Egg",
+    "title": "Scotch Egg with Umami Glaze",
     "tags": [
-      "british-cuisine",
-      "one-pan",
-      "plant-based",
-      "scotch-egg",
-      "vegan-egg",
-      "weeknight-meal"
+      "vegan",
+      "glaze",
+      "umami"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 30,
+    "cuisine": "british",
+    "totalTimeMin": 22,
     "shard": "u"
   },
   {
