@@ -1,0 +1,66 @@
+{
+  "slug": "umami-british-vegan-vegan-scotch-egg",
+  "title": "Scotch Egg with Umami Glaze",
+  "description": "A twist on the classic scotch egg with an umami-rich glaze, perfect for a snack or light meal.",
+  "cuisine": "british",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Scotch Egg",
+      "amount": "1",
+      "notes": "made from vegan ingredients"
+    },
+    {
+      "name": "Umami Glaze",
+      "amount": "2 tbsp",
+      "notes": "see below for ingredients"
+    },
+    {
+      "name": "Vegan Mayonnaise",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Mustard",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil a pot of water and cook the scotch egg for 10-12 minutes, or until it's cooked through.",
+    "In a small bowl, whisk together the vegan mayonnaise, vegan mustard, and smoked paprika.",
+    "In a separate bowl, mix the umami glaze ingredients.",
+    "Once the scotch egg is cooked, slice it in half lengthwise.",
+    "Brush the umami glaze over the scotch egg, then drizzle with the vegan mayonnaise mixture.",
+    "Serve immediately and enjoy!",
+    "Note: For the umami glaze, you can use a combination of ingredients such as soy sauce, miso paste, and maple syrup."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "glaze",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-british-vegan-vegan-scotch-egg",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:14:14.390Z"
+}
