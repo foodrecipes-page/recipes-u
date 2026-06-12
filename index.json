@@ -594,17 +594,15 @@
   },
   {
     "slug": "ultra-gooey-brazilian-cherry-bake",
-    "title": "Ultra Gooey Brazilian Cherry Bake",
+    "title": "Brazilian Cherry Bake",
     "tags": [
-      "brazilian-desserts",
-      "cherries",
-      "gooey",
-      "lacto-vegetarian",
-      "midnight-cravings",
-      "wood-fired"
+      "cherry",
+      "brazilian",
+      "dessert",
+      "sweet"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 60,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
