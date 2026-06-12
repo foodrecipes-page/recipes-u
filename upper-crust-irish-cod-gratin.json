@@ -1,0 +1,70 @@
+{
+  "slug": "upper-crust-irish-cod-gratin",
+  "title": "Irish Cod Gratin",
+  "description": "A light and flaky cod dish topped with a creamy gratin, inspired by Irish cuisine. Perfect for a cozy dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "upper crust bread",
+      "amount": "1/2 loaf, cubed",
+      "notes": ""
+    },
+    {
+      "name": "irish butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "gratin cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, thinly sliced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season the cod fillets with salt and pepper.",
+    "Melt 2 tablespoons of butter in a skillet over medium heat. Add the cod and cook for 2-3 minutes per side, until cooked through.",
+    "Transfer the cod to the prepared baking sheet.",
+    "In the same skillet, add the remaining 2 tablespoons of butter. Add the cubed bread and cook until lightly toasted.",
+    "In a separate bowl, mix the grated cheese and sliced onion.",
+    "Top each cod fillet with the toasted bread mixture.",
+    "Transfer the baking sheet to the oven and bake for 5-7 minutes, until the cheese is melted and bubbly.",
+    "Remove from the oven and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "irish",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/upper-crust-irish-cod-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:18:21.880Z"
+}
