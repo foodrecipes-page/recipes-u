@@ -1,0 +1,86 @@
+{
+  "slug": "umami-roasted-peruvian-pork-roast",
+  "title": "Roasted Peruvian Pork",
+  "description": "Tender and flavorful pork dish with a smoky Peruvian twist.",
+  "cuisine": "peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Roasted garlic powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Umami salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Roasted red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian aji amarillo peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a small bowl, mix together roasted garlic powder, umami salt, roasted red pepper flakes, and black pepper.",
+    "Rub the spice mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Heat a large Dutch oven over medium-high heat. Sear the pork shoulder until browned on all sides, about 5 minutes.",
+    "Transfer the pork to the preheated oven and roast for 2 1/2 hours, or until tender and easily shredded with a fork.",
+    "While the pork is cooking, heat the diced Peruvian aji amarillo peppers in a small saucepan over medium heat.",
+    "Add the lime juice to the peppers and stir to combine. Simmer for 5 minutes.",
+    "After the pork is done, let it rest for 10 minutes before shredding with two forks.",
+    "Strain the pepper-lime sauce and discard the solids.",
+    "Toss the shredded pork in the pepper-lime sauce until well coated.",
+    "Serve the pork hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "pork",
+    "roasted",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-roasted-peruvian-pork-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:49:46.683Z"
+}
