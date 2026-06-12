@@ -1,0 +1,80 @@
+{
+  "slug": "understated-creamy-moroccan-brie-amlou",
+  "title": "Moroccan Brie Tartine with Amlou",
+  "description": "A simple yet elegant appetizer featuring creamy brie cheese, crunchy understated bread, and a rich moroccan amlou spread. Perfect for a warm evening gathering.",
+  "cuisine": "north african",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "understated bread",
+      "amount": "1 baguette, sliced",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "brie cheese",
+      "amount": "8 oz, softened",
+      "notes": "look for a high-quality, creamy brie"
+    },
+    {
+      "name": "amlou",
+      "amount": "1/2 cup",
+      "notes": "mixture of almonds, honey, and rose water"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "flaky sea salt recommended"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing bread"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "for drizzling"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Toast the baguette slices until lightly browned.",
+    "3. Spread a layer of amlou on each toasted bread slice.",
+    "4. Top the amlou with a slice of softened brie cheese.",
+    "5. Sprinkle chopped rosemary over the cheese.",
+    "6. Drizzle with olive oil and a pinch of salt.",
+    "7. Bake in the oven for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "8. Remove from oven and drizzle with honey.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "breakfast-for-dinner",
+    "appetizer",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/understated-creamy-moroccan-brie-amlou",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:01:29.823Z"
+}
