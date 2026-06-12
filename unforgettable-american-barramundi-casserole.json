@@ -1,0 +1,98 @@
+{
+  "slug": "unforgettable-american-barramundi-casserole",
+  "title": "Classic American Barramundi Casserole",
+  "description": "A comforting and flavorful fish casserole that combines the sweetness of barramundi with the tanginess of cheese. It's perfect for a family dinner or a weekend meal.",
+  "cuisine": null,
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Barramundi fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "Low-fat or whole"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "Divided"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "To thicken"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "",
+      "notes2": "Melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "",
+      "notes2": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "",
+      "notes2": "To taste"
+    },
+    {
+      "name": "American cheese slices",
+      "amount": "4",
+      "notes": "",
+      "notes2": "For topping"
+    },
+    {
+      "name": "Casserole dish (9x13 inch)",
+      "amount": "",
+      "notes": "",
+      "notes2": "Lightly greased"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease the casserole dish with butter.",
+    "Season the barramundi fillets with salt and black pepper.",
+    "Dredge the barramundi fillets in flour to coat.",
+    "In a separate saucepan, melt butter over medium heat.",
+    "Add milk and bring to a simmer.",
+    "Reduce heat to low and stir in 1/2 cup of shredded cheddar cheese until melted.",
+    "Arrange half of the barramundi fillets in the prepared casserole dish.",
+    "Pour the cheese sauce over the fish.",
+    "Top with remaining barramundi fillets.",
+    "Sprinkle with remaining 1/2 cup of shredded cheddar cheese and American cheese slices.",
+    "Cover with aluminum foil and bake for 20 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes or until the cheese is golden brown and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "barramundi",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unforgettable-american-barramundi-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:01:11.610Z"
+}
