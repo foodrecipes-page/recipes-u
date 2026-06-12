@@ -1,0 +1,82 @@
+{
+  "slug": "unique-umami-korean-beetroot-jjigae",
+  "title": "Umami Korean Jjigae with Beetroot",
+  "description": "A spicy and savory Korean-inspired stew featuring umami flavors from unique ingredients, accompanied by the earthiness of beetroot.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Unique mushrooms (such as shiitake or porcini)",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Jjigae paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add sliced mushrooms and cook until tender.",
+    "Add beetroot and cook for 5 minutes.",
+    "Add jjigae paste, soy sauce, brown sugar, rice vinegar, and water. Stir to combine.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped green onions (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "stew",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-korean-beetroot-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:16:21.581Z"
+}
