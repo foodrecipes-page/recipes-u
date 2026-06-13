@@ -1605,16 +1605,15 @@
   },
   {
     "slug": "umami-crunchy-solo",
-    "title": "Umami Crunchy Solo",
+    "title": "Crunchy Umami Solo Delight",
     "tags": [
+      "snack",
       "umami",
-      "crispy",
-      "solo-dinner",
-      "massaman-curry",
-      "quinoa"
+      "crunchy",
+      "easy-to-make"
     ],
-    "cuisine": "Thailand",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 12,
     "shard": "u"
   },
   {
@@ -5365,17 +5364,14 @@
   },
   {
     "slug": "unique-crispy-canadian-portobello-mushrooms-skillet",
-    "title": "Unique Crispy Canadian Portobello Mushrooms Skillet",
+    "title": "Pan-Seared Canadian Portobello Mushrooms",
     "tags": [
-      "canadian-cuisine",
-      "crispy-food",
-      "mushroom-recipes",
-      "one-pan-meal",
-      "vegetarian-friendly",
-      "weeknight-dinner"
+      "canadian",
+      "mushrooms",
+      "vegetarian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "u"
   },
   {
