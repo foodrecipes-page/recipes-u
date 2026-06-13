@@ -4174,14 +4174,16 @@
   },
   {
     "slug": "underground-earthy-mexican-poblano-sopes",
-    "title": "underground earthy mexican poblano sopes",
+    "title": "Poblano Sopes with Earthy Filling",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "mexican",
+      "veggie",
+      "snack",
+      "sopes",
+      "wild-mushrooms"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 55,
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -6281,16 +6283,15 @@
   },
   {
     "slug": "unique-light-portuguese-blackeye-pea-grill",
-    "title": "Unique Light Portuguese Blackeye Pea Grill",
+    "title": "Grilled Portuguese Chicken with Blackeye Peas",
     "tags": [
-      "healthy",
-      "high-protein",
-      "one-pot",
-      "portuguese-cuisine",
-      "vegetarian"
+      "portuguese",
+      "chicken",
+      "blackeye peas",
+      "grill"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 70,
+    "totalTimeMin": 27,
     "shard": "u"
   },
   {
@@ -8808,18 +8809,15 @@
   },
   {
     "slug": "uplifting-indian-kidney-bean-chaat",
-    "title": "Uplifting Indian Kidney Bean Chaat",
+    "title": "Kidney Bean Chaat",
     "tags": [
+      "indian",
       "chaat",
-      "fresh",
-      "low-sodium",
-      "quick",
-      "romantic",
       "snack",
       "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "u"
   },
   {
@@ -8985,18 +8983,17 @@
   },
   {
     "slug": "upscale-under-salted-russian-lamb-tagine",
-    "title": "Upscale Under-salted Russian Lamb Tagine",
+    "title": "Lamb Tagine with Upscale Russian Twist",
     "tags": [
-      "comfort-food",
       "lamb",
-      "low-sodium",
-      "one-pan",
-      "russian",
-      "weeknight",
-      "winter"
+      "tagine",
+      "north-african",
+      "stew",
+      "upscale",
+      "russian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 140,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "u"
   },
   {
