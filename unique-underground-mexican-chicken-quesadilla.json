@@ -1,0 +1,94 @@
+{
+  "slug": "unique-underground-mexican-chicken-quesadilla",
+  "title": "Crispy Chicken Quesadillas",
+  "description": "A flavorful twist on traditional quesadillas, with crispy chicken and melted cheese.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound boneless, skinless chicken breasts",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup all-purpose flour",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon cumin",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "1/4",
+      "notes": "optional"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1 cup shredded Monterey Jack cheese",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "4 large flour tortillas",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "1/4",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil for frying",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together flour, paprika, cumin, and cayenne pepper (if using).",
+    "Season chicken breasts with salt and pepper. Dredge chicken in flour mixture, shaking off excess.",
+    "In a separate dish, beat eggs. Dip floured chicken in eggs, then coat in flour mixture again.",
+    "Heat 1/2-inch of vegetable oil in a large skillet over medium-high. Fry chicken until golden brown and cooked through, about 5-6 minutes per side.",
+    "Transfer fried chicken to a plate and set aside.",
+    "In the same skillet, warm tortillas over medium heat for 1-2 minutes on each side.",
+    "Place a tortilla in the skillet, sprinkle with cheese, and top with a piece of fried chicken.",
+    "Fold tortilla in half to enclose filling. Cook for 2-3 minutes or until tortilla is crispy and cheese is melted.",
+    "Repeat with remaining tortillas and filling.",
+    "Cut quesadillas into wedges and serve with chopped cilantro and your favorite toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "quesadilla"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-underground-mexican-chicken-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:20:13.340Z"
+}
