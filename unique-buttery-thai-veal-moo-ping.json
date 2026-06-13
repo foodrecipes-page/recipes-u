@@ -1,0 +1,85 @@
+{
+  "slug": "unique-buttery-thai-veal-moo-ping",
+  "title": "Thai-Style Pan-Seared Moo Ping",
+  "description": "A flavorful and spicy Thai-style pork dish, perfect for a quick dinner. This recipe uses thinly sliced pork and a blend of Thai spices to create a delicious and aromatic meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork (Moo)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Veal Stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Unique Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Buttery Lettuce",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ping Pepper",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "1. Slice the pork into thin strips and season with salt and pepper.",
+    "2. Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "3. Add the pork to the skillet and cook for 2-3 minutes on each side, or until browned and cooked through.",
+    "4. Remove the pork from the skillet and set aside.",
+    "5. In the same skillet, add the remaining 1 tablespoon of vegetable oil and add the Thai red curry paste.",
+    "6. Cook the curry paste for 1-2 minutes, or until fragrant.",
+    "7. Add the fish sauce, brown sugar, and veal stock to the skillet and stir to combine.",
+    "8. Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "9. Add the sliced pork back to the skillet and simmer for an additional 2-3 minutes, or until the pork is coated in the sauce.",
+    "10. Serve the moo ping over a bed of unique rice, garnished with Thai basil and buttery lettuce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "porkdishes",
+    "quickdinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-buttery-thai-veal-moo-ping",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:31:26.001Z"
+}
