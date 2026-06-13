@@ -1,0 +1,70 @@
+{
+  "slug": "ultra-light-norwegian-red-pepper-pilaf",
+  "title": "Pan-Seared Norwegian Salmon with Pilaf",
+  "description": "A simple and flavorful dish featuring pan-seared Norwegian salmon served with a light and fluffy pilaf.",
+  "cuisine": "Seafood",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Light pilaf mix",
+      "amount": "1 package",
+      "notes": "follow package instructions for cooking"
+    },
+    {
+      "name": "Ultra light olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-searing"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Rinse the salmon fillets and pat dry with paper towels.",
+    "Season the salmon with red pepper flakes and pepper.",
+    "Heat ultra light olive oil in a large skillet over medium-high heat.",
+    "Add the salmon fillets to the skillet, skin side up (if they have skin).",
+    "Cook for 3-4 minutes or until the skin is crispy and golden brown.",
+    "Flip the salmon over and cook for an additional 3-4 minutes or until cooked through.",
+    "While the salmon is cooking, prepare the pilaf according to the package instructions.",
+    "Serve the pan-seared salmon on top of the pilaf.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "pilaf",
+    "seafood",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-light-norwegian-red-pepper-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:04:54.286Z"
+}
