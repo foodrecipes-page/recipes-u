@@ -1,0 +1,58 @@
+{
+  "slug": "uplifting-indian-kidney-bean-chaat",
+  "title": "Kidney Bean Chaat",
+  "description": "A delicious Indian-inspired chaat dish made with kidney beans, spices, and a hint of lemon. Perfect as a snack or light meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kidney beans",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "Chaat masala",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1/2 cup, diced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the cooked kidney beans, chaat masala, lemon juice, cilantro, onion, and tomato.",
+    "Mix well to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "chaat",
+    "snack",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uplifting-indian-kidney-bean-chaat",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T00:45:04.472Z"
+}
