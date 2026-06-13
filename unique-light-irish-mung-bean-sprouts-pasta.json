@@ -1,0 +1,80 @@
+{
+  "slug": "unique-light-irish-mung-bean-sprouts-pasta",
+  "title": "Springtime Pasta Primavera",
+  "description": "A colorful and flavorful spring-inspired pasta dish loaded with sautéed vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "light",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "irish",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unique",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh herbs"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat 1 tbsp of oil over medium heat.",
+    "Add the garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the light, irish, mung bean sprouts, and bean sprouts to the skillet.",
+    "Sauté for 3-4 minutes until the vegetables are tender.",
+    "Stir in the chopped fresh herbs.",
+    "Drain the cooked pasta and add it to the skillet.",
+    "Toss the pasta with the vegetables and season with salt and pepper.",
+    "Serve hot and enjoy!",
+    "Garnish with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "spring",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-light-irish-mung-bean-sprouts-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:09:07.826Z"
+}
