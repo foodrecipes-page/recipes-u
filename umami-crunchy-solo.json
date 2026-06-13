@@ -1,0 +1,63 @@
+{
+  "slug": "umami-crunchy-solo",
+  "title": "Crunchy Umami Solo Delight",
+  "description": "A simple and quick snack that combines crunchy and umami flavors to satisfy your cravings.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Solo Biscuits",
+      "amount": "4",
+      "notes": "your favorite solo biscuits"
+    },
+    {
+      "name": "Umami Sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Crunchy Peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped or sliced"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional for extra crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (180°C).",
+    "Place the solo biscuits on a baking sheet.",
+    "Drizzle the umami sauce over the biscuits, making sure to cover them evenly.",
+    "Sprinkle the crunchy peanuts and sesame seeds over the biscuits.",
+    "Bake for 5-7 minutes or until the biscuits are golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "umami",
+    "crunchy",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-crunchy-solo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:16:07.119Z"
+}
