@@ -1,0 +1,91 @@
+{
+  "slug": "under-flaky-dutch-chicken-paasstamppot",
+  "title": "Traditional Dutch Paasstamppot with Chicken",
+  "description": "A hearty Dutch dish made with boiled potatoes, kale, sausage, and chicken, perfect for Easter.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Under (Smoked Sausage or Dutch Sla)",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet, thawed",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Kale (Boerenkool)",
+      "amount": "1 bunch, chopped",
+      "notes": "or regular kale"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 1/2 pounds, boneless and skinless",
+      "notes": ""
+    },
+    {
+      "name": "Paasstamppot Potatoes",
+      "amount": "3 large, peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Boil the chopped potatoes in water until tender. Drain and set aside.",
+    "In a large pan, cook the sliced sausage over medium heat until browned. Remove the sausage from the pan and set aside.",
+    "In the same pan, add the chopped kale and cook until wilted. Add the cooked sausage back in and set aside.",
+    "Season the chicken breast with salt and pepper. Sear the chicken in a hot pan until browned on both sides. Finish cooking the chicken in the oven until it reaches an internal temperature of 165°F (74°C).",
+    "In a large saucepan, combine the cooked potatoes, kale and sausage mixture, and chicken. Season with salt and pepper to taste.",
+    "Roll out the flaky pastry to fit the top of a 9x13-inch dish. Place the pastry on top of the potato mixture and crimp the edges to seal.",
+    "Bake the paasstamppot in the preheated oven for 25-30 minutes, or until the pastry is golden brown.",
+    "Serve the paasstamppot hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "paasstamppot",
+    "easter",
+    "chicken",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/under-flaky-dutch-chicken-paasstamppot",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:48:37.104Z"
+}
