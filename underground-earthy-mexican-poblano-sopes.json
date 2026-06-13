@@ -1,0 +1,92 @@
+{
+  "slug": "underground-earthy-mexican-poblano-sopes",
+  "title": "Poblano Sopes with Earthy Filling",
+  "description": "A twist on traditional Mexican sopes, these earthy treats feature a filling made with sautéed wild mushrooms and topped with crispy poblano peppers.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "Wild mushrooms (such as oyster or shiitake)",
+      "amount": "1 cup",
+      "notes": "Cleaned and sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Poblano peppers",
+      "amount": "2",
+      "notes": "Roasted and diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roast the poblano peppers by placing them on a baking sheet and baking for 20-25 minutes, or until the skin is blistered and charred.",
+    "Peel the skin off the poblano peppers and dice them.",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the roasted poblano peppers, salt, and black pepper to the skillet and stir to combine.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the sopes by spooning the mushroom and poblano filling onto a warmed tortilla and topping with chopped cilantro.",
+    "Serve immediately, with a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "veggie",
+    "snack",
+    "sopes",
+    "wild-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/underground-earthy-mexican-poblano-sopes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T02:17:10.195Z"
+}
