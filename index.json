@@ -710,17 +710,15 @@
   },
   {
     "slug": "ultra-light-norwegian-red-pepper-pilaf",
-    "title": "Ultra Light Norwegian Red Pepper Pilaf",
+    "title": "Pan-Seared Norwegian Salmon with Pilaf",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "healthy-option",
-      "low-carb",
-      "norwegian",
-      "one-pan"
+      "salmon",
+      "pilaf",
+      "seafood",
+      "easy-dinner"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "Seafood",
+    "totalTimeMin": 22,
     "shard": "u"
   },
   {
@@ -6253,17 +6251,15 @@
   },
   {
     "slug": "unique-light-irish-mung-bean-sprouts-pasta",
-    "title": "Unique Light Irish Mung Bean Sprouts Pasta",
+    "title": "Springtime Pasta Primavera",
     "tags": [
-      "gluten-free",
-      "light-irish",
-      "mediterranean-friendly",
-      "mung-bean-sprouts",
-      "one-pot",
-      "vegetarian"
+      "pasta",
+      "spring",
+      "vegetarian",
+      "quick"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 18,
     "shard": "u"
   },
   {
