@@ -1,0 +1,72 @@
+{
+  "slug": "unique-crispy-canadian-portobello-mushrooms-skillet",
+  "title": "Pan-Seared Canadian Portobello Mushrooms",
+  "description": "A simple and flavorful dish featuring pan-seared portobello mushrooms, perfect as a side or main course.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "unique oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "crispy breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the unique oil to the skillet and let it heat up for a minute.",
+    "Add the portobello mushrooms to the skillet, gill side down.",
+    "Cook for 3-4 minutes or until the mushrooms develop a nice brown color on the gill side.",
+    "Flip the mushrooms over and cook for another 3-4 minutes or until they're tender.",
+    "Season with salt and pepper to taste.",
+    "If using crispy breadcrumbs, sprinkle them on top of the mushrooms.",
+    "Serve the mushrooms hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "mushrooms",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crispy-canadian-portobello-mushrooms-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:15:26.878Z"
+}
