@@ -1,0 +1,74 @@
+{
+  "slug": "unique-light-portuguese-blackeye-pea-grill",
+  "title": "Grilled Portuguese Chicken with Blackeye Peas",
+  "description": "A delicious and flavorful dish that combines the rich taste of Portuguese chicken with the creamy texture of blackeye peas, all grilled to perfection.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "unique chicken breasts",
+      "amount": "4",
+      "notes": "1-1.5 pounds"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "portuguese seasonings",
+      "amount": "1 teaspoon",
+      "notes": "a blend of herbs and spices"
+    },
+    {
+      "name": "blackeye peas",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "pea shoots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grill",
+      "amount": "1",
+      "notes": "preheated to medium-high heat"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken breasts with Portuguese seasonings.",
+    "Brush grill with light olive oil to prevent sticking.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, heat blackeye peas in a saucepan over medium heat.",
+    "Add chopped pea shoots to the saucepan and stir to combine.",
+    "Serve grilled chicken with blackeye pea mixture.",
+    "Garnish with additional pea shoots if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "chicken",
+    "blackeye peas",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-light-portuguese-blackeye-pea-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T02:07:48.262Z"
+}
