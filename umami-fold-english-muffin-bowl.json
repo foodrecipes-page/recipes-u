@@ -1,0 +1,56 @@
+{
+  "slug": "umami-fold-english-muffin-bowl",
+  "title": "English Muffin Toast Bowl",
+  "description": "A simple breakfast recipe featuring toasted English muffins topped with umami and other ingredients, served in a bowl.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "English muffin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Umami",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh fold",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast the English muffin.",
+    "Spread 1 tsp of umami on the toasted English muffin.",
+    "Add 1/4 cup of fresh fold on top of the umami.",
+    "Place the English muffin in a bowl and serve.",
+    "Optional: add more ingredients as per your preference."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "english-muffin-toast-bowl"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-fold-english-muffin-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:57:21.198Z"
+}
