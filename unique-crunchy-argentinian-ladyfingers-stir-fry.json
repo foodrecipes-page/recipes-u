@@ -1,0 +1,71 @@
+{
+  "slug": "unique-crunchy-argentinian-ladyfingers-stir-fry",
+  "title": "Unique Ladyfinger Argentine Stir Fry",
+  "description": "A unique dessert featuring ladyfingers and crunchy argentinian ingredients. A crunchy stir fry dessert.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ladyfingers",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Crunchy argentinian nuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unique stir fry sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fry oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Dip each ladyfinger in the unique stir fry sauce, then fry in hot oil until golden brown.",
+    "Drain the ladyfingers on a paper towel and set aside.",
+    "In a separate pan, fry the crunchy argentinian nuts in a little oil until crispy.",
+    "Mix the sugar and vanilla extract in a bowl.",
+    "Combine the drained ladyfingers and crunchy argentinian nuts in the bowl.",
+    "Pour the sugar mixture over the ladyfingers and toss until coated.",
+    "Serve the Argentine stir fry dessert immediately.",
+    "Optional: garnish with additional crunchy argentinian nuts and unique stir fry sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "unique",
+    "dessert",
+    "fry",
+    "stir",
+    "ladyfingers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crunchy-argentinian-ladyfingers-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:34:15.504Z"
+}
