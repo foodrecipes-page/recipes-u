@@ -1,0 +1,68 @@
+{
+  "slug": "ultimate-bitter-turkish-rocket-su-boregi",
+  "title": "Turkish-Style Boregi with Rocket Salad",
+  "description": "A Turkish-inspired boregi recipe served with a refreshing rocket salad. Perfect as a snack or light lunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkish boregi dough",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Rocket leaves",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Ultimate feta cheese",
+      "amount": "1 cup, crumbled",
+      "notes": null
+    },
+    {
+      "name": "Bitter olives",
+      "amount": "1/2 cup, pitted",
+      "notes": null
+    },
+    {
+      "name": "Su (water)",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Unroll the boregi dough and cut into squares.",
+    "Place a tablespoon of feta cheese in the center of each square.",
+    "Add a few rocket leaves on top of the cheese.",
+    "Fold the dough into triangles and press the edges to seal.",
+    "Brush the tops with su (water) and bake for 15-20 minutes.",
+    "While the boregi is baking, prepare the rocket salad by combining the rocket leaves, olives, and a squeeze of lemon juice.",
+    "Serve the boregi warm with the rocket salad on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "appetizer",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultimate-bitter-turkish-rocket-su-boregi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:37:08.825Z"
+}
