@@ -2045,15 +2045,13 @@
   },
   {
     "slug": "umami-fold-english-muffin-bowl",
-    "title": "Umami Fold English Muffin Bowl",
+    "title": "English Muffin Toast Bowl",
     "tags": [
-      "umami",
-      "nut-free",
-      "english-muffin-bowl",
-      "korean-inspired"
+      "breakfast",
+      "english-muffin-toast-bowl"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 20,
+    "cuisine": null,
+    "totalTimeMin": 7,
     "shard": "u"
   },
   {
