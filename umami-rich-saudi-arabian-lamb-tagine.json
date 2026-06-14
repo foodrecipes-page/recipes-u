@@ -1,0 +1,96 @@
+{
+  "slug": "umami-rich-saudi-arabian-lamb-tagine",
+  "title": "Traditional Saudi Lamb Tagine",
+  "description": "A hearty and aromatic dish from Saudi Arabia, made with tender lamb and a rich blend of spices.",
+  "cuisine": "Saudi",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Umami-rich beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Rich olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Saudi-inspired spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tagine",
+      "amount": "1",
+      "notes": "Traditional clay pot or substitute with a Dutch oven"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in the tagine or Dutch oven over medium heat.",
+    "2. Add the onion and cook until softened, about 5 minutes.",
+    "3. Add the garlic and cook for an additional 1 minute.",
+    "4. Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "5. Add the beef broth, spice blend, salt, and pepper. Stir to combine.",
+    "6. Bring the mixture to a boil, then cover the tagine and transfer to the oven.",
+    "7. Braise the lamb for 2 1/2 hours, or until tender and easily shredded with a fork.",
+    "8. Garnish with parsley and serve hot.",
+    "9. Serve with couscous or rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "arabian",
+    "lamb",
+    "tagine",
+    "beef-broth",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-rich-saudi-arabian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:02:28.940Z"
+}
