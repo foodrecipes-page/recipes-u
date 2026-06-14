@@ -1,0 +1,73 @@
+{
+  "slug": "uplifted-chinese-tahini-bao",
+  "title": "Tahini Bao Bites",
+  "description": "Crunchy and savory bites filled with a creamy tahini filling, wrapped in soft bao dough.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao dough",
+      "amount": "1 package",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the bao dough to 1/4 inch thickness.",
+    "Cut out small squares of dough, about 3 inches per side.",
+    "Place a small spoonful of tahini in the center of each square.",
+    "Fold the dough over the filling to form a triangle or a square, and press the edges together to seal.",
+    "Brush the tops with sesame oil and sprinkle with sesame seeds.",
+    "Bake for 12-15 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uplifted-chinese-tahini-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:04:37.063Z"
+}
