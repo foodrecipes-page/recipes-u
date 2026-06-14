@@ -3585,17 +3585,15 @@
   },
   {
     "slug": "unctuous-australian-cheese-lasagna",
-    "title": "Unctuous Australian Cheese Lasagna",
+    "title": "Classic Australian Lasagna",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "garlicky",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "italian",
+      "lasagna",
+      "cheese",
+      "australian"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 75,
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
     "shard": "u"
   },
   {
