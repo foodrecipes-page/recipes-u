@@ -1,0 +1,89 @@
+{
+  "slug": "unique-peppery-syrian-beef-shin-stew",
+  "title": "Hearty Beef and Syrian Stew",
+  "description": "A rich and flavorful stew made with tender beef shin, unique seasonings, and a hint of peppery spice.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "unique seasoning blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "peppery spice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Syrian oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef shin on all sides, about 5 minutes.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the unique seasoning blend, peppery spice, and Syrian oregano to the pot and cook for 1 minute.",
+    "Add the tomato paste to the pot and cook for 1 minute.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "middle-eastern-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-peppery-syrian-beef-shin-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:03:54.861Z"
+}
