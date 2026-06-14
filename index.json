@@ -3466,14 +3466,12 @@
   },
   {
     "slug": "unbelievably-tender-croatian-pork-stew",
-    "title": "Unbelievably Tender Croatian Pork Stew",
+    "title": "Croatian Pork Stew",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "hearty-stew",
-      "low-carb",
-      "one-pot",
-      "pork-recipes"
+      "stew",
+      "croatian",
+      "pork",
+      "comfort-food"
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 180,
@@ -5536,17 +5534,17 @@
   },
   {
     "slug": "unique-crunchy-argentinian-ladyfingers-stir-fry",
-    "title": "Unique Crunchy Argentinian Ladyfingers Stir Fry",
+    "title": "Unique Ladyfinger Argentine Stir Fry",
     "tags": [
-      "argentinian-cuisine",
-      "crunchy",
-      "date-night",
-      "gluten-free",
-      "stir-fry",
-      "vegetarian"
+      "argentinian",
+      "unique",
+      "dessert",
+      "fry",
+      "stir",
+      "ladyfingers"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 25,
+    "cuisine": "argentinian",
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
