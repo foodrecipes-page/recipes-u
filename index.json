@@ -1662,17 +1662,14 @@
   },
   {
     "slug": "umami-dense-adventurous-tofu-stir-fry",
-    "title": "Umami Dense Adventurous Tofu Stir-fry",
+    "title": "Stir Fry Adventure",
     "tags": [
-      "umami",
-      "dense",
-      "adventurous",
-      "vietnamese",
-      "orange-zest",
-      "boil-free"
+      "vegetarian",
+      "easy",
+      "stir-fry"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
