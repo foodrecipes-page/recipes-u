@@ -1213,16 +1213,15 @@
   },
   {
     "slug": "umami-chewy-spanish-lamb-leg-stir-fry",
-    "title": "Umami Chewy Spanish Lamb Leg Stir-fry",
+    "title": "Spanish-Style Lamb Leg with Umami Glaze",
     "tags": [
-      "lazy sunday",
+      "spanish",
+      "lamb",
       "umami",
-      "spain",
-      "chewy",
-      "vegan"
+      "glaze"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "u"
   },
   {
@@ -2837,18 +2836,14 @@
   },
   {
     "slug": "umami-silky-festive-allspice-stir-fry",
-    "title": "Umami Silky Festive Allspice Stir-fry",
+    "title": "Festive Stir Fry",
     "tags": [
-      "umami",
-      "silky",
-      "festive",
-      "slovakian",
-      "allspice",
-      "marinated",
-      "low-carb-friendly"
+      "stir-fry",
+      "tofu",
+      "vegetarian"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
