@@ -1,0 +1,65 @@
+{
+  "slug": "unique-umami-portuguese-cod-skillet",
+  "title": "Pan-Seared Cod with Umami Sauce",
+  "description": "A simple and flavorful Portuguese-inspired dish that pairs perfectly with a side of rice or vegetables. The umami sauce adds a rich and savory flavor to the delicate cod.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "1 pound total"
+    },
+    {
+      "name": "unique sea salt",
+      "amount": "1 tsp",
+      "notes": "use a flaky sea salt for best flavor"
+    },
+    {
+      "name": "portuguese olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality oil for the best flavor"
+    },
+    {
+      "name": "umami sauce",
+      "amount": "1/4 cup",
+      "notes": "see below for homemade recipe"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "use a stainless steel or cast iron skillet for best results"
+    }
+  ],
+  "instructions": [
+    "Season the cod fillets with unique sea salt and let it sit for 10 minutes.",
+    "Heat the portuguese olive oil in the skillet over medium-high heat.",
+    "Add the cod fillets to the skillet and sear for 3-4 minutes on each side, or until cooked through.",
+    "While the cod is cooking, heat the umami sauce in a small saucepan over low heat.",
+    "Serve the cod with the umami sauce spooned over the top.",
+    "Garnish with fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "portuguese",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-portuguese-cod-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:49:18.967Z"
+}
