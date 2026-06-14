@@ -210,16 +210,15 @@
   },
   {
     "slug": "ultimate-bitter-turkish-rocket-su-boregi",
-    "title": "ultimate bitter turkish rocket su boregi",
+    "title": "Turkish-Style Boregi with Rocket Salad",
     "tags": [
-      "bitter",
-      "breakfast",
-      "crisp",
-      "high-protein",
-      "turkish"
+      "turkish",
+      "vegetarian",
+      "appetizer",
+      "salad"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 20,
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -2803,15 +2802,15 @@
   },
   {
     "slug": "umami-roasted-peruvian-pork-roast",
-    "title": "Roasted Peruvian Pork",
+    "title": "Peruvian Pork Roast with Umami Glaze",
     "tags": [
       "peruvian",
       "pork",
-      "roasted",
+      "roast",
       "umami"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 200,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 60,
     "shard": "u"
   },
   {
@@ -7639,17 +7638,15 @@
   },
   {
     "slug": "unique-umami-russian-beef-pilaf",
-    "title": "Unique Umami Russian Beef Pilaf",
+    "title": "Russian-Style Beef Pilaf",
     "tags": [
-      "one-pan",
-      "russian-cuisine",
-      "smoky",
-      "sugar-free",
-      "umami",
-      "weeknight"
+      "russian",
+      "beef",
+      "pilaf",
+      "comfortfood"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
