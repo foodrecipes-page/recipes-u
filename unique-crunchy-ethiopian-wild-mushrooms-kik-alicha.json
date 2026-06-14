@@ -1,0 +1,96 @@
+{
+  "slug": "unique-crunchy-ethiopian-wild-mushrooms-kik-alicha",
+  "title": "Wild Mushroom Tibs with Kik Alicha",
+  "description": "A flavorful and spicy Ethiopian-inspired dish featuring sautéed wild mushrooms in a zesty kik alicha sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wild Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kik Alicha Spice Mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Unique Spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Clarified Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a pan over medium-high heat.",
+    "Add onion and sauté until translucent.",
+    "Add garlic and sauté for 1 minute.",
+    "Add the wild mushrooms and sauté until tender.",
+    "Add the kik alicha spice mix and unique spices, and stir to combine.",
+    "Add the lemon juice and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the mushroom mixture over the crunchy fried shallots.",
+    "Garnish with additional crunchy fried shallots if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "wild-mushrooms",
+    "kik-alicha",
+    "spicy",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crunchy-ethiopian-wild-mushrooms-kik-alicha",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:36:13.494Z"
+}
