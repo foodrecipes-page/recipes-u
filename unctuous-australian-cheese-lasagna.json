@@ -1,0 +1,97 @@
+{
+  "slug": "unctuous-australian-cheese-lasagna",
+  "title": "Classic Australian Lasagna",
+  "description": "A twist on the traditional lasagna, featuring Australian flavors and unctuous cheese.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Lasagna Sheets (or regular lasagna sheets)",
+      "amount": "12 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Ricotta Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unctuous Cheese (or Brie)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Australian Tomato Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the Australian lasagna sheets according to package instructions.",
+    "In a large mixing bowl, combine ricotta cheese, Parmesan cheese, mozzarella cheese, and unctuous cheese. Mix well.",
+    "Spread a layer of Australian tomato sauce on the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna sheets on top of the sauce.",
+    "Spread half of the ricotta cheese mixture on top of the lasagna sheets.",
+    "Sprinkle with half of the mozzarella cheese.",
+    "Repeat the layers: Australian tomato sauce, lasagna sheets, ricotta cheese mixture, and mozzarella cheese.",
+    "Top with the remaining mozzarella cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "cheese",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-australian-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T05:53:30.130Z"
+}
