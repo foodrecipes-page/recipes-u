@@ -1,0 +1,95 @@
+{
+  "slug": "unrefined-syrian-lentil-soup",
+  "title": "Syrian Lentil Soup",
+  "description": "A hearty and comforting Syrian-style lentil soup made with unrefined ingredients. Serve with a side of warm pita or crusty bread.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "unrefined all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "syrian olive oil",
+      "amount": "3 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "spices (cumin, coriander, paprika)",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the lentils, diced tomatoes, vegetable broth, spices, salt, and pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Stir in the flour to thicken the soup.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "lentil",
+    "syrian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unrefined-syrian-lentil-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:50:13.596Z"
+}
