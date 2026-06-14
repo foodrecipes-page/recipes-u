@@ -1,0 +1,70 @@
+{
+  "slug": "umami-silky-festive-allspice-stir-fry",
+  "title": "Festive Stir Fry",
+  "description": "A quick and easy stir fry with a variety of spices and a festive twist. Perfect for a weeknight dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "silky tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "festive",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and bell pepper and stir-fry until they are tender.",
+    "Add the allspice and stir-fry for 1 minute.",
+    "Add the tofu and stir-fry until it is golden brown.",
+    "Add the soy sauce and festive spices and stir-fry for 1 minute.",
+    "Serve hot over rice or noodles.",
+    "Garnish with stir-fry sauce or sesame seeds if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-silky-festive-allspice-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:44:13.414Z"
+}
