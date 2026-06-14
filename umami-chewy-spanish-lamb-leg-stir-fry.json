@@ -1,0 +1,84 @@
+{
+  "slug": "umami-chewy-spanish-lamb-leg-stir-fry",
+  "title": "Spanish-Style Lamb Leg with Umami Glaze",
+  "description": "A flavorful lamb leg dish with a savory umami glaze, perfect for special occasions. This recipe is inspired by Spanish cuisine and is sure to impress.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg",
+      "amount": "1 (1.5-2 pounds)",
+      "notes": "bone-in"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "umami stir fry sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chewy brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb leg with salt and black pepper.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb leg until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the lamb leg for 20 minutes.",
+    "While the lamb is cooking, mix the umami stir fry sauce, brown sugar, garlic, and rosemary in a small bowl.",
+    "After the lamb has roasted for 20 minutes, brush the umami glaze all over the meat.",
+    "Return the skillet to the oven and continue to roast for an additional 10-15 minutes, or until the lamb reaches your desired level of doneness.",
+    "Let the lamb rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "lamb",
+    "umami",
+    "glaze"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "10g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-chewy-spanish-lamb-leg-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:57:14.643Z"
+}
