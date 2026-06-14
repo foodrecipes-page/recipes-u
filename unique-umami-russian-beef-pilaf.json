@@ -1,0 +1,80 @@
+{
+  "slug": "unique-umami-russian-beef-pilaf",
+  "title": "Russian-Style Beef Pilaf",
+  "description": "A hearty, comforting dish with tender beef and flavorful pilaf. Perfect for a cold winter night.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Pilaf Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Unique Salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and cook until browned.",
+    "Add ground beef and cook until browned, breaking into small pieces.",
+    "Stir in pilaf mix, beef broth, salt, pepper, and thyme.",
+    "Bring to a boil, then reduce heat to low and cover.",
+    "Simmer for 20-25 minutes, or until liquid is absorbed.",
+    "Fluff with a fork and serve hot.",
+    "Serve with additional beef broth, if desired.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "beef",
+    "pilaf",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-russian-beef-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:34:13.673Z"
+}
