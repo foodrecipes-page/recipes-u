@@ -2739,17 +2739,17 @@
   },
   {
     "slug": "umami-rich-saudi-arabian-lamb-tagine",
-    "title": "Umami Rich Saudi Arabian Lamb Tagine",
+    "title": "Traditional Saudi Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-recipes",
-      "one-pot-meal",
-      "saudi-arabian-cuisine",
-      "special-occasion",
-      "umami-rich"
+      "saudi",
+      "arabian",
+      "lamb",
+      "tagine",
+      "beef-broth",
+      "umami"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 150,
+    "cuisine": "Saudi",
+    "totalTimeMin": 170,
     "shard": "u"
   },
   {
@@ -6452,17 +6452,14 @@
   },
   {
     "slug": "unique-peppery-syrian-beef-shin-stew",
-    "title": "Unique Peppery Syrian Beef Shin Stew",
+    "title": "Hearty Beef and Syrian Stew",
     "tags": [
       "beef-stew",
-      "date-night",
-      "flavorful",
-      "hearty-dish",
-      "low-sodium",
-      "syrian-cuisine"
+      "middle-eastern-cuisine",
+      "comfort-food"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 180,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 165,
     "shard": "u"
   },
   {
@@ -8594,17 +8591,14 @@
   },
   {
     "slug": "uplifted-chinese-tahini-bao",
-    "title": "Uplifted Chinese Tahini Bao",
+    "title": "Tahini Bao Bites",
     "tags": [
-      "grassy",
-      "healthy",
-      "keto-friendly",
-      "one-pot",
-      "quick",
-      "sick-day"
+      "chinese",
+      "vegan",
+      "snack"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "u"
   },
   {
