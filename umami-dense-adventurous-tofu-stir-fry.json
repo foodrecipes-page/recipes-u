@@ -1,0 +1,89 @@
+{
+  "slug": "umami-dense-adventurous-tofu-stir-fry",
+  "title": "Stir Fry Adventure",
+  "description": "A simple and delicious stir fry recipe perfect for adventurous eaters. This dish combines the savory flavors of umami with the protein-rich tofu.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Extra-firm, drained and diced"
+    },
+    {
+      "name": "Umami",
+      "amount": "2 tsp",
+      "notes": "Soy sauce or tamari"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "Minced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "Add the diced tofu and cook until golden brown, about 3-4 minutes.",
+    "Remove the tofu from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "Add the grated ginger and minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced bell pepper and carrot and cook for 3-4 minutes, until tender.",
+    "Return the cooked tofu to the skillet and stir in the soy sauce, umami, and sesame oil.",
+    "Cook for an additional 1-2 minutes, until the tofu is coated in the sauce.",
+    "Garnish with chopped scallions and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "easy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-dense-adventurous-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:40:57.643Z"
+}
