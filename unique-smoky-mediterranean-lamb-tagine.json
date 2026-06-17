@@ -1,0 +1,100 @@
+{
+  "slug": "unique-smoky-mediterranean-lamb-tagine",
+  "title": "Lamb Tagine",
+  "description": "A traditional Moroccan stew made with lamb, dried fruits, and spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "unique spices blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add more oil if necessary, then sauté the onion until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the spices, olives, apricots, and chicken broth. Stir to combine.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in the honey and cook for an additional 10 minutes.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "stew",
+    "tagine",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-smoky-mediterranean-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T14:09:40.185Z"
+}
