@@ -5517,17 +5517,16 @@
   },
   {
     "slug": "unique-crunchy-algerian-pepper-wrap",
-    "title": "Unique Crunchy Algerian Pepper Wrap",
+    "title": "Algerian Crunchy Wrap",
     "tags": [
+      "algerian",
       "crunchy",
-      "dairy-free",
-      "high-fiber",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "wrap",
+      "lunch",
+      "veggie"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -6012,17 +6011,15 @@
   },
   {
     "slug": "unique-glazed-australian-brussels-sprouts-skillet",
-    "title": "Unique Glazed Australian Brussels Sprouts Skillet",
+    "title": "Pan-Seared Brussels Sprouts with Glazed Australian Skillet Sauce",
     "tags": [
-      "australian-cuisine",
+      "australian",
+      "skillet",
       "brussels-sprouts",
-      "diabetic-friendly",
-      "dinner-ideas",
-      "gluten-free",
-      "one-pot"
+      "glazed"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 40,
+    "cuisine": "australian",
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -7903,17 +7900,15 @@
   },
   {
     "slug": "unique-velvety-goan-sauerkraut-lassi",
-    "title": "Unique Velvety Goan Sauerkraut Lassi",
+    "title": "Spicy Goan Lassi Soup",
     "tags": [
-      "goan-cuisine",
-      "indian-inspired",
-      "low-fat",
-      "velvety",
-      "weeknight",
-      "yeasty"
+      "goan",
+      "spicy",
+      "soup",
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
