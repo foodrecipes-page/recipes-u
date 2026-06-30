@@ -1,0 +1,70 @@
+{
+  "slug": "umami-crisp-vesy-low-carb-workout-delight",
+  "title": "Delightful Umami Delight",
+  "description": "A simple recipe showcasing umami flavors with a delightful twist.",
+  "cuisine": null,
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Umami",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Crisp lettuce",
+      "amount": "4 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vesy vinegar",
+      "amount": "2 tbsp",
+      "notes": "apple cider"
+    },
+    {
+      "name": "Low-carb crackers",
+      "amount": "1 box",
+      "notes": "crushed"
+    },
+    {
+      "name": "Workout water",
+      "amount": "4 cups",
+      "notes": "ice-cold"
+    },
+    {
+      "name": "Delight seasoning",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Chill the workout water in the fridge for at least 30 minutes.",
+    "In a large bowl, combine the chopped crisp lettuce and crushed low-carb crackers.",
+    "Drizzle the vesy vinegar over the lettuce mixture and toss to coat.",
+    "Add the umami and delight seasoning (if using) and toss gently.",
+    "Just before serving, pour the chilled workout water over the salad and serve immediately.",
+    "Enjoy your delicious and refreshing umami delight!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "snack",
+    "umami",
+    "delight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-crisp-vesy-low-carb-workout-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:44:33.738Z"
+}
