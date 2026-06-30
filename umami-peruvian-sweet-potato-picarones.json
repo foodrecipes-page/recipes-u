@@ -1,0 +1,65 @@
+{
+  "slug": "umami-peruvian-sweet-potato-picarones",
+  "title": "Picarones con Chancaca",
+  "description": "Traditional Peruvian sweet potato doughnuts, typically served with a drizzle of chancaca, a type of raw cane sugar. These sweet treats are perfect for dessert or a snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peruvian sweet potato",
+      "amount": "2 large",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tsp",
+      "notes": "optional, for added depth"
+    },
+    {
+      "name": "sweet",
+      "amount": "1/2 cup",
+      "notes": "raw cane sugar or chancaca"
+    },
+    {
+      "name": "picarones",
+      "amount": "2",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Boil the sweet potatoes until tender, then peel and mash.",
+    "Mix the mashed sweet potatoes with umami and a pinch of salt.",
+    "Knead the mixture until a dough forms.",
+    "Divide the dough into 6-8 pieces and shape into doughnuts.",
+    "Heat oil in a deep frying pan to 375°F (190°C).",
+    "Fry the doughnuts until golden brown, about 2-3 minutes per side.",
+    "Drain the doughnuts on paper towels and let cool.",
+    "Dust the doughnuts with sweet and serve with a drizzle of chancaca."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "dessert",
+    "sweet-treats",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-peruvian-sweet-potato-picarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:55:34.904Z"
+}
