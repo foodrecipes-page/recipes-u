@@ -1,0 +1,58 @@
+{
+  "slug": "uozy-briny-palm-sugar-crumble",
+  "title": "Sugar Crumble Palm Pudding",
+  "description": "A sweet dessert made with palm sugar and topped with a crunchy crumble made from crumble ingredients.",
+  "cuisine": "desert",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Palm",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crumble",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine palm and sugar. Cook over medium heat, stirring occasionally, until the palm is tender.",
+    "In a separate bowl, mix together crumble ingredients. Add a pinch of salt to taste.",
+    "Transfer the palm mixture to a baking dish and top with the crumble mixture.",
+    "Bake for 20-25 minutes, or until the topping is golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sugar",
+    "palm",
+    "crumble",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uozy-briny-palm-sugar-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:37:28.459Z"
+}
