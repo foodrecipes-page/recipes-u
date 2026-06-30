@@ -1,0 +1,81 @@
+{
+  "slug": "unique-buttery-indian-milk-kheer",
+  "title": "Classic Indian Kheer",
+  "description": "A traditional Indian dessert made with milk, rice, and sugar. This creamy pudding is flavored with cardamom and nuts.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tbsp",
+      "notes": "unsalted butter"
+    },
+    {
+      "name": "Kheer",
+      "amount": "1 cup",
+      "notes": "kheer or rice vermicelli"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/4 tsp",
+      "notes": "ground cardamom"
+    },
+    {
+      "name": "Chopped nuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and soak it in water for 30 minutes. Drain and set aside.",
+    "In a large saucepan, combine the milk, rice, and sugar. Cook over medium heat, stirring constantly, until the sugar dissolves and the mixture comes to a boil.",
+    "Reduce the heat to low and simmer, covered, for 15-20 minutes or until the rice is cooked and the mixture thickens.",
+    "Add the butter, cardamom, and kheer to the saucepan. Cook for an additional 2-3 minutes, stirring constantly.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Stir in the chopped nuts, if using.",
+    "Transfer the kheer to individual serving cups or a large serving dish.",
+    "Chill in the refrigerator for at least 2 hours before serving.",
+    "Serve the kheer cold, garnished with additional chopped nuts, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "dessert",
+    "pudding",
+    "rice",
+    "cardamom"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-buttery-indian-milk-kheer",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:46:41.000Z"
+}
