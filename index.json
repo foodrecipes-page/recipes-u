@@ -4316,17 +4316,16 @@
   },
   {
     "slug": "understated-umami-italian-cabbage-risotto",
-    "title": "Understated Umami Italian Cabbage Risotto",
+    "title": "Creamy Risotto with Umami Cabbage",
     "tags": [
-      "comfort-food",
+      "risotto",
+      "cabbage",
       "italian",
-      "low-calorie",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "umami",
+      "vegetarian"
     ],
-    "cuisine": "piedmontese",
-    "totalTimeMin": 55,
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -4963,14 +4962,13 @@
   },
   {
     "slug": "unique-buttery-indian-milk-kheer",
-    "title": "Unique Buttery Indian Milk Kheer",
+    "title": "Classic Indian Kheer",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "indian-dessert",
-      "slow-cook",
-      "traditional",
-      "weeknight"
+      "indian",
+      "dessert",
+      "pudding",
+      "rice",
+      "cardamom"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 50,
