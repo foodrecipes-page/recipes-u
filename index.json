@@ -184,12 +184,12 @@
   },
   {
     "slug": "uick-bouncy-qq-tunisian-solo-dinner-tacos",
-    "title": "quick bouncy-qq tunisian solo-dinner tacos",
+    "title": "Bouncy Tunisian Tacos",
     "tags": [
-      "easy-to-make",
-      "fish-tacos",
-      "solo-dinner",
-      "tunisian"
+      "tunisian",
+      "vegetarian",
+      "mexican",
+      "quinoa"
     ],
     "cuisine": "tunisian",
     "totalTimeMin": 25,
@@ -1360,15 +1360,15 @@
   },
   {
     "slug": "umami-crisp-vesy-low-carb-workout-delight",
-    "title": "Umami Crisp Vesy",
+    "title": "Delightful Umami Delight",
     "tags": [
-      "tunisian",
+      "low-carb",
+      "snack",
       "umami",
-      "air-fry",
-      "low-carb"
+      "delight"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 20,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "u"
   },
   {
@@ -7276,16 +7276,14 @@
   },
   {
     "slug": "unique-umami-argentinian-beef-stew",
-    "title": "Unique Umami Argentinian Beef Stew",
+    "title": "Argentinian Beef Stew",
     "tags": [
-      "argentinian-cuisine",
-      "beef-recipes",
-      "claypot-cooking",
-      "hearty-stew",
-      "satvik-friendly"
+      "beef",
+      "stew",
+      "argentinian"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 105,
     "shard": "u"
   },
   {
@@ -8540,14 +8538,16 @@
   },
   {
     "slug": "uozy-briny-palm-sugar-crumble",
-    "title": "Uozy Briny Palm Sugar Crumble",
+    "title": "Sugar Crumble Palm Pudding",
     "tags": [
-      "diabetic-friendly",
-      "light-dessert",
-      "saudi-arabian-dessert"
+      "sugar",
+      "palm",
+      "crumble",
+      "dessert",
+      "sweet"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 15,
+    "cuisine": "desert",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
