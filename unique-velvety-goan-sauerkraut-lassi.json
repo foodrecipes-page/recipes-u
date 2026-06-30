@@ -1,0 +1,70 @@
+{
+  "slug": "unique-velvety-goan-sauerkraut-lassi",
+  "title": "Spicy Goan Lassi Soup",
+  "description": "A creamy and spicy soup inspired by the flavors of Goa, made with a unique blend of yogurt, velvety texture, and a hint of sauerkraut.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "goan",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "unique",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "velvety",
+      "amount": "1/2 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "lassi",
+      "amount": "2 cups",
+      "notes": "yogurt-based drink"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the chopped goan and sauté until lightly browned.",
+    "Add the shredded sauerkraut and cook for 2 minutes.",
+    "Pour in the lassi and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the heavy cream and cook for an additional 2 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "goan",
+    "spicy",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-velvety-goan-sauerkraut-lassi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:53:07.894Z"
+}
