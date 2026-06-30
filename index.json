@@ -1505,15 +1505,13 @@
   },
   {
     "slug": "umami-crumbly-cheese-quake",
-    "title": "Umami Crumbly Cheese Quake",
+    "title": "Umami Quake Crumble",
     "tags": [
-      "crumbly",
-      "umami",
-      "quick-fix",
-      "british-dish"
+      "umami-snack",
+      "cheesy-crunch"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 17,
     "shard": "u"
   },
   {
@@ -3436,16 +3434,17 @@
   },
   {
     "slug": "unbelievably-rich-german-challots-wrap",
-    "title": "Unbelievably Rich German Challots Wrap",
+    "title": "German-Style Braised Challow Wrap",
     "tags": [
-      "comfort-food",
       "german-cuisine",
-      "low-carb",
-      "ssam-wrap",
-      "weeknight-meal"
+      "beef",
+      "onion",
+      "caraway-seeds",
+      "slow-cooker",
+      "wrap"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 170,
     "shard": "u"
   },
   {
@@ -4979,17 +4978,15 @@
   },
   {
     "slug": "unique-buttery-irish-fennel-dumplings",
-    "title": "Unique Buttery Irish Fennel Dumplings",
+    "title": "Buttery Irish Fennel Dumplings",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "gluten-free",
-      "homemade",
-      "irish-food",
-      "low-glycemic"
+      "irish",
+      "buttery",
+      "dumplings",
+      "fennel"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 27,
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
