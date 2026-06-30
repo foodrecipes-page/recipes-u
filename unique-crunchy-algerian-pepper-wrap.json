@@ -1,0 +1,66 @@
+{
+  "slug": "unique-crunchy-algerian-pepper-wrap",
+  "title": "Algerian Crunchy Wrap",
+  "description": "A tasty and crunchy wrap filled with unique Algerian flavors.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Unique Flatbread",
+      "amount": "1"
+    },
+    {
+      "name": "Crunchy Fried Shallots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Algerian Chermoula",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Green Pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Crunchy Lettuce",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crunchy Wrap",
+      "amount": "1",
+      "notes": "large"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the wrap into large pieces.",
+    "In a pan, heat the chermoula over medium heat.",
+    "Add the sliced green pepper and cook until tender.",
+    "Add the crunchy fried shallots and cook for 1 minute.",
+    "Place the wrap pieces on a baking sheet and bake for 5 minutes.",
+    "Assemble the wrap by spreading the chermoula mixture on the baked wrap pieces.",
+    "Top with crunchy lettuce, green pepper, and crunchy fried shallots.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "crunchy",
+    "wrap",
+    "lunch",
+    "veggie"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crunchy-algerian-pepper-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:26:48.004Z"
+}
