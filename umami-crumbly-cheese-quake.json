@@ -1,0 +1,63 @@
+{
+  "slug": "umami-crumbly-cheese-quake",
+  "title": "Umami Quake Crumble",
+  "description": "A savory snack made with umami, crumbly cheese, and a touch of quake.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Umami",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crumbly Cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Quake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix umami, crumbly cheese, and quake in a bowl.",
+    "Add butter and mix until crumbly.",
+    "Add salt to taste.",
+    "Transfer mixture to a baking dish.",
+    "Top with breadcrumbs.",
+    "Bake for 12-15 minutes or until golden brown.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami-snack",
+    "cheesy-crunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-crumbly-cheese-quake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:42:17.943Z"
+}
