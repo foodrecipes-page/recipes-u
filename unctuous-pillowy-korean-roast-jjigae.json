@@ -1,0 +1,74 @@
+{
+  "slug": "unctuous-pillowy-korean-roast-jjigae",
+  "title": "Korean Jjigae Stuffed Roast",
+  "description": "A twist on traditional Korean jjigae, this recipe stuffs tender roast beef with pillowy rice and spicy Korean chili flakes.",
+  "cuisine": "Korean",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roast Beef",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Unctuous Korean Chili Flakes (gochugaru)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pillowy Korean-Style Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Jjigae Sauce (gochujang, soy sauce, sugar, garlic, ginger)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the roast beef with salt, black pepper, and chili flakes.",
+    "In a small saucepan, heat sesame oil over medium heat. Add the jjigae sauce and simmer for 2-3 minutes.",
+    "Stuff the roast beef with pillowy Korean-style rice and spoon the jjigae sauce over the top.",
+    "Place the roast beef in the oven and roast for 20-25 minutes per pound, or until it reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "Let the roast beef rest for 10-15 minutes before slicing and serving with green onions on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "roast",
+    "jjigae",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 60,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-pillowy-korean-roast-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:26:28.436Z"
+}
