@@ -1,0 +1,88 @@
+{
+  "slug": "understated-umami-italian-cabbage-risotto",
+  "title": "Creamy Risotto with Umami Cabbage",
+  "description": "A rich and savory risotto dish featuring umami flavors from cabbage and Italian seasonings.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Risotto Arborio",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1/2 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Umami Paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the Italian seasoning and cook for 1 minute, stirring constantly.",
+    "Add the chopped cabbage and cook until softened, about 3-4 minutes.",
+    "Add the Umami paste and cook for an additional minute.",
+    "Add the Arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the white wine and cook until the liquid is almost completely absorbed, stirring frequently.",
+    "Add 1/2 cup of the vegetable broth to the rice and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process of adding the broth in 1/2 cup increments, stirring constantly and allowing each portion to absorb before adding the next.",
+    "After 20-25 minutes of cooking, the rice should be tender and creamy.",
+    "Stir in the Parmesan cheese and season with salt and black pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "risotto",
+    "cabbage",
+    "italian",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/understated-umami-italian-cabbage-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:41:15.931Z"
+}
