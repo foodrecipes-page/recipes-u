@@ -1,0 +1,94 @@
+{
+  "slug": "umami-dense-vietnamese-kippers-braise",
+  "title": "Braised Kippers with Vietnamese Flair",
+  "description": "A fusion dish combining traditional braising with the bold flavors of Vietnam. Pair kippers with a rich umami sauce and dense vegetables for a hearty meal.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kippers",
+      "amount": "4 fillets",
+      "notes": "Fresh or canned, drained and rinsed"
+    },
+    {
+      "name": "Umami Sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade, mix of soy sauce, sake, mirin, and sugar"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning the kippers"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For added Vietnamese flavor"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For added umami"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "For balance of flavors"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "Cooked, for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 300°F (150°C).",
+    "2. Season the kippers with salt and pepper.",
+    "3. Heat the vegetable oil in a large Dutch oven over medium-high heat.",
+    "4. Sear the kippers for 2-3 minutes per side, then set aside.",
+    "5. Add the sliced onion to the pot and cook until caramelized.",
+    "6. Add the minced garlic and sliced ginger to the pot and cook for 1 minute.",
+    "7. Add the umami sauce, fish sauce, soy sauce, and brown sugar to the pot.",
+    "8. Stir to combine and bring to a simmer.",
+    "9. Return the kippers to the pot and cover with a lid.",
+    "10. Transfer the pot to the preheated oven and braise for 10-12 minutes.",
+    "11. Serve the kippers over cooked rice with the braising liquid spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brasserie",
+    "seafood",
+    " vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-dense-vietnamese-kippers-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:46:08.449Z"
+}
