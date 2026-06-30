@@ -1,0 +1,78 @@
+{
+  "slug": "unique-glazed-australian-brussels-sprouts-skillet",
+  "title": "Pan-Seared Brussels Sprouts with Glazed Australian Skillet Sauce",
+  "description": "A sweet and savory dish featuring pan-seared Brussels sprouts and a rich glaze made with Australian skillet sauce.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Australian Skillet Sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Glazed Skillet",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the Brussels sprouts in half and toss with olive oil, salt, and black pepper.",
+    "Spread the Brussels sprouts on a baking sheet and roast for 20 minutes.",
+    "While the Brussels sprouts are roasting, heat the Australian Skillet Sauce in a skillet over medium heat.",
+    "Add the Glazed Skillet to the skillet and stir to combine.",
+    "Remove the Brussels sprouts from the oven and toss with the skillet sauce.",
+    "Return the Brussels sprouts to the oven and roast for an additional 5 minutes.",
+    "Serve the Brussels sprouts hot, garnished with garlic."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "skillet",
+    "brussels-sprouts",
+    "glazed"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-glazed-australian-brussels-sprouts-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:47:24.553Z"
+}
