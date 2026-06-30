@@ -1,0 +1,69 @@
+{
+  "slug": "uick-bouncy-qq-tunisian-solo-dinner-tacos",
+  "title": "Bouncy Tunisian Tacos",
+  "description": "A flavorful and colorful twist on traditional tacos, inspired by Tunisian cuisine. This recipe combines the freshness of the Mediterranean with the vibrant flavors of Mexico.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tunisian",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "qq",
+      "amount": "1 cup, cooked quinoa"
+    },
+    {
+      "name": "bouncy",
+      "amount": "1/2 cup, chopped fresh parsley"
+    },
+    {
+      "name": "solo",
+      "amount": "1/4 cup, olive oil"
+    },
+    {
+      "name": "uick",
+      "amount": "1 teaspoon, ground cumin"
+    },
+    {
+      "name": "dinner",
+      "amount": "1 teaspoon, smoked paprika"
+    },
+    {
+      "name": "tacos",
+      "amount": "8-10 corn tortillas"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, mix together the chopped tunisian, cooked quinoa, chopped bouncy, and olive oil. Season with cumin, smoked paprika, and a pinch of salt.",
+    "3. Warm the tacos by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "4. Assemble the tacos by spooning the tunisian-quinoa mixture onto a warmed taco, followed by your desired toppings.",
+    "5. Serve immediately and enjoy!",
+    "6. Optional: top with diced tomatoes, shredded lettuce, or crumbled feta cheese for added flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "vegetarian",
+    "mexican",
+    "quinoa"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uick-bouncy-qq-tunisian-solo-dinner-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:57:22.699Z"
+}
