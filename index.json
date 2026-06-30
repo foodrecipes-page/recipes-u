@@ -1754,17 +1754,15 @@
   },
   {
     "slug": "umami-dense-vietnamese-kippers-braise",
-    "title": "Umami Dense Vietnamese Kippers Braise",
+    "title": "Braised Kippers with Vietnamese Flair",
     "tags": [
-      "braise",
-      "one-pot",
-      "pescatarian",
+      "breakfast",
+      "brasserie",
       "seafood",
-      "umami",
-      "vietnamese"
+      " vietnamese"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 32,
     "shard": "u"
   },
   {
