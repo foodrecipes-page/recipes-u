@@ -1,0 +1,89 @@
+{
+  "slug": "unique-uruguayan-sushi-rice-bowl",
+  "title": "Uruguayan Sushi Bowl",
+  "description": "A fusion of Uruguayan flavors in a sushi-inspired bowl, featuring unique ingredients.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cevapi Meat",
+      "amount": "8 oz",
+      "notes": "Uruguayan-style minced beef sausage"
+    },
+    {
+      "name": "Japanese Rice",
+      "amount": "2 cups",
+      "notes": "short-grain rice for sushi"
+    },
+    {
+      "name": "Sushi Vinegar",
+      "amount": "2 tbsp",
+      "notes": "for pickling sushi rice"
+    },
+    {
+      "name": "Unique Chopped Onions",
+      "amount": "1/4 cup",
+      "notes": "pickled onions add a tangy crunch"
+    },
+    {
+      "name": "Sushi Nori",
+      "amount": "8 sheets",
+      "notes": "dried seaweed sheets for sushi rolls"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": "mashed for creamy texture"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "for dressing the bowl"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook Japanese Rice according to package instructions.",
+    "Prepare Unique Chopped Onions by pickling them in a mixture of lime juice and water for at least 30 minutes.",
+    "Grill Cevapi Meat to an internal temperature of 160°F (71°C).",
+    "Cut the cooked cevapi into bite-sized pieces.",
+    "Assemble the sushi bowl by placing a scoop of sushi rice at the bottom, followed by sliced cevapi, Unique Chopped Onions, and sliced avocado.",
+    "Garnish with Fresh Cilantro, Sesame Seeds, and a drizzle of Lime Juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "sushi",
+    "bowl",
+    "fusioneats",
+    "glutenfree"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-uruguayan-sushi-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:22:52.404Z"
+}
