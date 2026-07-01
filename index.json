@@ -2098,15 +2098,14 @@
   },
   {
     "slug": "umami-ginger-french-stir-fry",
-    "title": "Umami Ginger French Stir-fry",
+    "title": "Stir Fry with Umami Flavor",
     "tags": [
-      "umami",
-      "festive",
-      "french",
-      "paleo-friendly"
+      "stir-fry",
+      "vegetarian",
+      "easy-cooking"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 25,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "u"
   },
   {
