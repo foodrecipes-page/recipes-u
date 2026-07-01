@@ -7693,16 +7693,14 @@
   },
   {
     "slug": "unique-umami-turkish-rhubarb-stew",
-    "title": "Unique Umami Turkish Rhubarb Stew",
+    "title": "Turkish Stew with Rhubarb",
     "tags": [
-      "gluten-free",
-      "one-pot-meal",
-      "turkish-cuisine",
-      "vegetarian-stew",
-      "weeknight-dinner"
+      "turkish",
+      "stew",
+      "rhubarb"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
