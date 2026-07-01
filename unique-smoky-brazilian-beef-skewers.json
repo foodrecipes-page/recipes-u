@@ -1,0 +1,83 @@
+{
+  "slug": "unique-smoky-brazilian-beef-skewers",
+  "title": "Brazilian Beef Skewers with Smoky Flavor",
+  "description": "A flavorful and spicy Brazilian-inspired dish featuring beef skewers with a smoky twist.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uniquely marinated beef (1 pound)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Smoky Brazilian sauce (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Unique seasoning blend (1 tablespoon)",
+      "amount": "1 tablespoon",
+      "notes": "Custom blend or store-bought"
+    },
+    {
+      "name": "Brazilian chimichurri (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Fresh cilantro (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime wedges (4)",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Grill skewers (10-12)",
+      "amount": "10-12",
+      "notes": "For assembling the skewers"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together smoky Brazilian sauce, unique seasoning blend, and Brazilian chimichurri.",
+    "Add the beef cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated beef onto the grill skewers, leaving a small space between each piece.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the beef reaches an internal temperature of 145°F (63°C) for medium-rare.",
+    "Let the skewers rest for 2-3 minutes before serving.",
+    "Serve with fresh cilantro, lime wedges, and additional smoky Brazilian sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "brazilian",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-smoky-brazilian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:33:08.130Z"
+}
