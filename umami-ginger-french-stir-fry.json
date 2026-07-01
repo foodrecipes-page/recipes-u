@@ -1,0 +1,89 @@
+{
+  "slug": "umami-ginger-french-stir-fry",
+  "title": "Stir Fry with Umami Flavor",
+  "description": "A simple and flavorful stir fry dish made with umami sauce, ginger, and stir-fried vegetables, served with a side of French bread.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "French bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "Umami sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add ginger and cook for 1 minute.",
+    "Add onion and bell peppers and cook for 3-4 minutes.",
+    "Add snow peas and cook for 1-2 minutes.",
+    "In a small bowl, whisk together umami sauce, soy sauce, and honey.",
+    "Pour the sauce over the vegetables and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve over French bread, topped with sesame seeds if desired.",
+    "Cook the French bread by toasting it in the oven for 2-3 minutes or until crispy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "easy-cooking"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-ginger-french-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:56:45.298Z"
+}
