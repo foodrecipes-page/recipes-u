@@ -1,0 +1,76 @@
+{
+  "slug": "unapologetically-bitter-argentinian-beef-skewers",
+  "title": "Argentinian Beef Skewers",
+  "description": "A classic Argentine dish featuring marinated beef skewers grilled to perfection, served with a side of chimichurri sauce. This recipe is perfect for a summer barbecue or outdoor gathering.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian Beef (Skirt or Flank Steak)",
+      "amount": "1 pound, cut into 1-inch cubes"
+    },
+    {
+      "name": "Bitter Argentinian Oranges (or regular oranges)",
+      "amount": "2 juiced"
+    },
+    {
+      "name": "Unapologetically Garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Skewers (metal or bamboo)",
+      "amount": "10-12"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chimichurri Sauce (store-bought or homemade)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together orange juice, garlic, olive oil, salt, and black pepper.",
+    "3. Add beef cubes to the marinade and mix well.",
+    "4. Thread beef onto skewers, leaving a small space between each piece.",
+    "5. Brush grill with oil to prevent sticking.",
+    "6. Grill skewers for 8-10 minutes per side, or until cooked to desired doneness.",
+    "7. Let skewers rest for 5 minutes before serving.",
+    "8. Serve with chimichurri sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unapologetically-bitter-argentinian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:09:10.324Z"
+}
