@@ -3249,15 +3249,15 @@
   },
   {
     "slug": "umbrellapointed-mexican-atole-crumble",
-    "title": "Umbrellapointed Mexican atole Crumble",
+    "title": "Umbrellapointed Atole Crumble",
     "tags": [
-      "crumble",
+      "mexican",
       "dessert",
-      "sweet",
-      "vegan-friendly"
+      "crumble",
+      "umbrellapointed"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
@@ -7822,17 +7822,16 @@
   },
   {
     "slug": "unique-uruguayan-sushi-rice-bowl",
-    "title": "Unique Uruguayan Sushi Rice Bowl",
+    "title": "Uruguayan Sushi Bowl",
     "tags": [
-      "dinner-party",
-      "flexitarian",
-      "healthy",
-      "one-bowl",
-      "south-american",
-      "vegetarian"
+      "uruguayan",
+      "sushi",
+      "bowl",
+      "fusioneats",
+      "glutenfree"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
