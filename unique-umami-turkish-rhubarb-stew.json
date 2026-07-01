@@ -1,0 +1,79 @@
+{
+  "slug": "unique-umami-turkish-rhubarb-stew",
+  "title": "Turkish Stew with Rhubarb",
+  "description": "A hearty and flavorful stew from Turkey, featuring the sweetness of rhubarb.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "Unique Eggplant",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "Umami Mushrooms",
+      "amount": "8 ounces, sliced"
+    },
+    {
+      "name": "Turkish Red Pepper",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "Stew Tomatoes",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Bulgur",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large Dutch oven over medium heat.",
+    "2. Add the sliced eggplant and cook until lightly browned, about 5 minutes.",
+    "3. Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "4. Add the sliced red pepper and cook for an additional 2 minutes.",
+    "5. Stir in the diced tomatoes, salt, and black pepper.",
+    "6. Add the cut rhubarb and cook for an additional 2 minutes.",
+    "7. Stir in the bulgur and cook for 2-3 minutes.",
+    "8. Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "9. Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "stew",
+    "rhubarb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-turkish-rhubarb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:43:37.975Z"
+}
