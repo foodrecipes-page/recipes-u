@@ -1,0 +1,75 @@
+{
+  "slug": "umbrellapointed-mexican-atole-crumble",
+  "title": "Umbrellapointed Atole Crumble",
+  "description": "A delicious dessert crumble made with umbrellapointed, mexican atole, and a crunchy crumble topping.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Umbrellapointed",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Mexican Atole",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup, melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine sliced umbrellapointed, mexican atole, sugar, cinnamon, and a pinch of salt. Mix well.",
+    "Transfer the mixture to a 9x9-inch baking dish.",
+    "In another bowl, combine crumble, flour, and melted butter. Mix until crumbly.",
+    "Spread the crumble mixture evenly over the umbrellapointed mixture.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the fruit is tender.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "dessert",
+    "crumble",
+    "umbrellapointed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umbrellapointed-mexican-atole-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:41:36.049Z"
+}
