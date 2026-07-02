@@ -1,0 +1,75 @@
+{
+  "slug": "ultimate-mustardy-egyptian-oysters-quesadilla",
+  "title": "Ultimate Oysters Quesadilla",
+  "description": "A twist on the classic quesadilla with oysters adding a touch of luxury. Perfect for a special occasion.",
+  "cuisine": "Mexican",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ultimate Tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Mustardy Butter",
+      "amount": "2 tbsp",
+      "notes": "see notes section"
+    },
+    {
+      "name": "Egyptian Feta Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Oysters",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "quesadilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or griddle over medium heat.",
+    "2. Meanwhile, melt the Mustardy Butter in a separate pan over low heat.",
+    "3. Place a tortilla in the skillet and sprinkle with Egyptian Feta Cheese.",
+    "4. Place 3 oysters on half of the tortilla, leaving a 1-inch border around the edges.",
+    "5. Fold the tortilla in half to enclose the oysters and cheese.",
+    "6. Cook for 2-3 minutes or until the tortilla is lightly browned and the cheese is melted.",
+    "7. Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also lightly browned.",
+    "8. Repeat with the remaining tortillas and oysters.",
+    "9. Cut the quesadillas into wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "seafood",
+    "quesadilla",
+    "oysters"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultimate-mustardy-egyptian-oysters-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:01:02.582Z"
+}
