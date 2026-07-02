@@ -5443,16 +5443,16 @@
   },
   {
     "slug": "unique-croatian-egg-white-frittata",
-    "title": "Unique Croatian Egg White Frittata",
+    "title": "Croatian Frittata",
     "tags": [
-      "croatian-cuisine",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "breakfast",
+      "brunch",
+      "egg",
+      "croatian",
+      "sausage"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
@@ -8281,17 +8281,15 @@
   },
   {
     "slug": "untamed-molten-roman-portobello-pasta",
-    "title": "Untamed Molten Roman Portobello Pasta",
+    "title": "Roman Pasta with Portobello Mushrooms",
     "tags": [
-      "high-protein",
-      "italian-food",
-      "one-pan",
-      "plant-based",
-      "post-workout",
-      "weeknight"
+      "italian",
+      "mushroom",
+      "pasta",
+      "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "u"
   },
   {
