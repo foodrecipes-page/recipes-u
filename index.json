@@ -297,17 +297,14 @@
   },
   {
     "slug": "ultimate-mustardy-egyptian-oysters-quesadilla",
-    "title": "Ultimate Mustardy Egyptian Oysters Quesadilla",
+    "title": "Ultimate Oysters Quesadilla",
     "tags": [
-      "dinner-party",
-      "egyptian-cuisine",
-      "high-protein",
-      "one-pan",
-      "oyster-lovers",
-      "quesadilla-variation",
-      "weeknight"
+      "mexican",
+      "seafood",
+      "quesadilla",
+      "oysters"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": "Mexican",
     "totalTimeMin": 25,
     "shard": "u"
   },
