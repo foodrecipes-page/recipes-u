@@ -1,0 +1,72 @@
+{
+  "slug": "umami-parm-regg-indian-stir-fry",
+  "title": "Reggiano Risotto",
+  "description": "A creamy and rich Italian risotto dish using Parmesan Reggiano cheese.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Parmesan Reggiano",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Reggiano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tbsp",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "regg",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "stir",
+      "amount": "1 cup",
+      "notes": "white wine"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "mushrooms"
+    }
+  ],
+  "instructions": [
+    "Heat regg in a large skillet over medium-high.",
+    "Add fry and cook until browned.",
+    "Add stir and cook until reduced.",
+    "Add 1 cup of broth and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Stir in Parmesan Reggiano and umami.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "risotto",
+    "parmesan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-parm-regg-indian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:43:45.836Z"
+}
