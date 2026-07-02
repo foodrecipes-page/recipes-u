@@ -1,0 +1,66 @@
+{
+  "slug": "ultra-japanese-snow-peas-tonkotsu-ramen",
+  "title": "Tonkotsu Ramen",
+  "description": "A Japanese-inspired pork bone broth ramen with a rich, savory flavor. This comforting dish is perfect for a cold winter's day.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tonkotsu",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ultra",
+      "amount": "1 package",
+      "notes": "ramen noodles"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "japanese",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring the tonkotsu to a boil in a large pot over high heat.",
+    "Reduce the heat to medium-low and simmer for 10 minutes.",
+    "Cook the ramen noodles according to the package instructions.",
+    "In a separate pan, heat the soy sauce over medium heat.",
+    "Add the snow peas and peas to the pan and cook until tender.",
+    "To assemble the ramen, place a portion of noodles in a bowl, followed by a spoonful of the tonkotsu and a sprinkle of peas.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "japanese",
+    "tonkotsu",
+    "pork",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-japanese-snow-peas-tonkotsu-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:23:03.251Z"
+}
