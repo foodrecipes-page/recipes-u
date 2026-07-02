@@ -692,16 +692,15 @@
   },
   {
     "slug": "ultra-juicy-saudi-arabian-king-prawns-ceviche",
-    "title": "Ultra Juicy Saudi Arabian King Prawns Ceviche",
+    "title": "Saudi Arabian Prawns in Ceviche Style",
     "tags": [
-      "healthy-snack",
-      "middle-eastern",
-      "raw-food",
-      "refreshing",
-      "seafood"
+      "prawns",
+      "ceviche",
+      "saudi-arabian",
+      "appetizer"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 20,
     "shard": "u"
   },
   {
@@ -2004,16 +2003,14 @@
   },
   {
     "slug": "umami-fluffy-mediterranean-dum-stir-fry",
-    "title": "Umami Fluffy Mediterranean Dum Stir-fry",
+    "title": "Mediterranean Stir Fry",
     "tags": [
-      "umami",
-      "fluffy",
-      "date-night",
       "mediterranean",
-      "whole30-friendly"
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
