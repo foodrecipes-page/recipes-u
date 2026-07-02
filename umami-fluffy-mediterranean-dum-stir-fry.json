@@ -1,0 +1,71 @@
+{
+  "slug": "umami-fluffy-mediterranean-dum-stir-fry",
+  "title": "Mediterranean Stir Fry",
+  "description": "A quick and flavorful stir fry with Mediterranean twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fluffy",
+      "amount": "4 cups",
+      "notes": "rice"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1 jar",
+      "notes": "marinara sauce"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "stir-fry mix"
+    },
+    {
+      "name": "umami",
+      "amount": "1 teaspoon",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "veggies",
+      "amount": "1 cup",
+      "notes": "chopped bell peppers"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a pan over medium heat.",
+    "Add stir-fry mix and cook until tender.",
+    "Add marinara sauce and stir in soy sauce.",
+    "Add veggies and cook for 3 minutes.",
+    "Add fluffy rice to the pan and stir to combine.",
+    "Sprinkle umami seasoning and serve hot.",
+    "Garnish with parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-fluffy-mediterranean-dum-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:20:37.659Z"
+}
