@@ -1,0 +1,66 @@
+{
+  "slug": "unique-croatian-egg-white-frittata",
+  "title": "Croatian Frittata",
+  "description": "A traditional Croatian egg dish, perfect for breakfast or brunch. Frittatas are a great way to use up leftover ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "6"
+    },
+    {
+      "name": "Croatian sausage",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Unique cheese (e.g. smoked cheese)",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "White onion",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the Croatian sausage over medium-high heat until browned, about 5 minutes.",
+    "Add the chopped onion to the skillet and cook until softened, about 3-4 minutes.",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Pour the egg mixture over the cooked sausage and onion mixture in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and sprinkle with shredded cheese.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley.",
+    "Let the frittata cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "egg",
+    "croatian",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-croatian-egg-white-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:40:21.182Z"
+}
