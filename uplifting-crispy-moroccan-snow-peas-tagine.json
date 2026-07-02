@@ -1,0 +1,76 @@
+{
+  "slug": "uplifting-crispy-moroccan-snow-peas-tagine",
+  "title": "Moroccan Snow Peas Tagine",
+  "description": "A flavorful and healthy Moroccan-inspired vegetable tagine made with snow peas and a hint of crispy spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snow peas",
+      "amount": "250g",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Moroccan spices",
+      "amount": "2 tsp",
+      "notes": "Pre-made blend or to taste"
+    },
+    {
+      "name": "Crispy spices",
+      "amount": "1 tsp",
+      "notes": "Cinnamon, cumin, coriander powder"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large saucepan over medium heat.",
+    "Add minced garlic and grated ginger, sauté for 2 minutes.",
+    "Add snow peas and cook for 3-4 minutes, or until slightly tender.",
+    "Stir in Moroccan spices, crispy spices, and salt. Cook for 1 minute.",
+    "Reduce heat to low, cover, and simmer for 5-7 minutes, or until snow peas are tender.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "vegetable",
+    "gluten-free",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uplifting-crispy-moroccan-snow-peas-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:29:34.225Z"
+}
