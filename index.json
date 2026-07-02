@@ -663,17 +663,16 @@
   },
   {
     "slug": "ultra-japanese-snow-peas-tonkotsu-ramen",
-    "title": "Ultra Japanese Snow Peas Tonkotsu Ramen",
+    "title": "Tonkotsu Ramen",
     "tags": [
-      "crowd-pleaser",
-      "no-garlic",
-      "no-onion",
-      "snappy",
-      "sour",
-      "tonkotsu"
+      "ramen",
+      "japanese",
+      "tonkotsu",
+      "pork",
+      "noodles"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 140,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
