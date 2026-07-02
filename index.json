@@ -2967,16 +2967,15 @@
   },
   {
     "slug": "umami-snappy-algerian-lamb-tagine",
-    "title": "Umami Snappy Algerian Lamb Tagine",
+    "title": "Lamb Tagine",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "lamb-based",
       "north-african",
-      "one-pot"
+      "lamb",
+      "stew",
+      "clay-pot"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 130,
+    "cuisine": "North African",
+    "totalTimeMin": 105,
     "shard": "u"
   },
   {
