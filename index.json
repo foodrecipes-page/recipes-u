@@ -749,16 +749,15 @@
   },
   {
     "slug": "ultra-nutty-indian-asparagus-chana-masala",
-    "title": "Ultra Nutty Indian Asparagus Chana Masala",
+    "title": "Spicy Chana Asparagus Curry",
     "tags": [
-      "easy",
-      "halal",
-      "nutty",
-      "one-pot",
-      "vegan"
+      "asparagus",
+      "chana",
+      "curry",
+      "indian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -2531,18 +2530,14 @@
   },
   {
     "slug": "umami-parm-regg-indian-stir-fry",
-    "title": "Umami Parm Regg Indian Stir-fry",
+    "title": "Reggiano Risotto",
     "tags": [
-      "umami",
-      "crisp",
-      "monsoon indian",
-      "kashmiri",
-      "parmigiano-reggiano",
-      "sous-vide",
-      "kosher-friendly"
+      "italian",
+      "risotto",
+      "parmesan"
     ],
-    "cuisine": "Indian (Kashmiri)",
-    "totalTimeMin": 60,
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
