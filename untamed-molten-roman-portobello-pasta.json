@@ -1,0 +1,67 @@
+{
+  "slug": "untamed-molten-roman-portobello-pasta",
+  "title": "Roman Pasta with Portobello Mushrooms",
+  "description": "A classic Italian-inspired dish featuring savory portobello mushrooms and a flavorful Roman sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "portobello mushrooms",
+      "amount": "4",
+      "notes": "cleaned and sliced"
+    },
+    {
+      "name": "roman",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and sauté for 1-2 minutes.",
+    "Add the sliced portobello mushrooms and cook for 3-4 minutes.",
+    "Add the Roman herbs and stir to combine.",
+    "When the pasta is cooked, drain and add to the skillet.",
+    "Combine the pasta and mushroom mixture, tossing to coat.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "mushroom",
+    "pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/untamed-molten-roman-portobello-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:36:19.392Z"
+}
