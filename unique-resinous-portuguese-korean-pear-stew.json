@@ -1,0 +1,75 @@
+{
+  "slug": "unique-resinous-portuguese-korean-pear-stew",
+  "title": "Korean Pear Stew",
+  "description": "A hearty and flavorful stew combining the sweetness of pears with the spice of Korean chili flakes. Serve as a comforting dessert or snack.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pear",
+      "amount": "2",
+      "notes": "any variety, diced"
+    },
+    {
+      "name": "unique spice blend",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "resinous honey",
+      "amount": "2 tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "portuguese port wine",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "any type, diced"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine pear, stew, resinous honey, portuguese port wine, korean chili flakes, and water.",
+    "Bring to a boil, then reduce heat to medium-low and let simmer for 20 minutes.",
+    "Stir occasionally to prevent sticking.",
+    "Taste and adjust sweetness or spiciness as desired.",
+    "Serve warm, topped with additional honey or chili flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "pear",
+    "stew",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-resinous-portuguese-korean-pear-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:57:54.716Z"
+}
