@@ -3369,16 +3369,15 @@
   },
   {
     "slug": "unbelievably-garlicky-turkish-lamb-kebabs",
-    "title": "Unbelievably Garlicky Turkish Lamb Kebabs",
+    "title": "Turkish Lamb Kebabs",
     "tags": [
-      "garlic-lovers",
-      "lamb-recipes",
-      "macrobiotic-friendly",
-      "midnight-cravings",
-      "turkish-food"
+      "turkish",
+      "lamb",
+      "kebabs",
+      "grill"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 38,
     "shard": "u"
   },
   {
@@ -6604,16 +6603,15 @@
   },
   {
     "slug": "unique-savory-kenyan-fish-tagine",
-    "title": "Savory Kenyan Fish Tagine",
+    "title": "Pan-Seared Tilapia Tagine",
     "tags": [
-      "fish-recipes",
-      "gluten-free",
-      "kenyan-cuisine",
-      "low-carb",
-      "one-pot"
+      "tilapia",
+      "tagine",
+      "kenyan",
+      "savory"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
