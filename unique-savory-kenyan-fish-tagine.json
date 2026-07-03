@@ -1,0 +1,96 @@
+{
+  "slug": "unique-savory-kenyan-fish-tagine",
+  "title": "Pan-Seared Tilapia Tagine",
+  "description": "A delicious and flavorful Kenyan-inspired dish featuring pan-seared tilapia in a savory tagine sauce.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tilapia fillets (4)",
+      "amount": "1 lb",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Unrefined"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tagine sauce (homemade or store-bought)",
+      "amount": "1 cup",
+      "notes": "Adjust seasoning as needed"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large skillet over medium-high heat.",
+    "Season the tilapia fillets with salt, black pepper, cumin powder, and cayenne pepper.",
+    "Add the chopped onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the tilapia fillets to the skillet and cook for 2-3 minutes per side, or until cooked through.",
+    "Transfer the tilapia to a plate and cover with foil to keep warm.",
+    "Reduce heat to medium and add the tagine sauce to the skillet. Stir to combine with the onion mixture.",
+    "Simmer the sauce for 2-3 minutes, or until heated through.",
+    "Serve the tilapia with the tagine sauce spooned over the top and garnished with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tilapia",
+    "tagine",
+    "kenyan",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-savory-kenyan-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:12:47.037Z"
+}
