@@ -1,0 +1,82 @@
+{
+  "slug": "unbelievably-garlicky-turkish-lamb-kebabs",
+  "title": "Turkish Lamb Kebabs",
+  "description": "Delicious and flavorful Turkish-style lamb kebabs, perfect for a summer evening. Serve with a side of salad or rice.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Unbelievably hot peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, Turkish red pepper flakes, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "kebabs",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unbelievably-garlicky-turkish-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:15:36.706Z"
+}
