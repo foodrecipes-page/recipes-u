@@ -1,0 +1,76 @@
+{
+  "slug": "unique-garlicky-dutch-fideo-pasta",
+  "title": "Garlicky Fideo Pasta Bake",
+  "description": "A Dutch-inspired pasta bake with a flavorful twist from the garlicky fideo sauce.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fideo pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dutch cheese",
+      "amount": "1 cup shredded",
+      "notes": "such as Edam or Gouda"
+    },
+    {
+      "name": "Unique cheese",
+      "amount": "1/2 cup shredded",
+      "notes": "such as Havarti or Muenster"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Basil",
+      "amount": "1 tsp dried",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the fideo pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the cooked fideo pasta to the skillet and toss with the garlic mixture.",
+    "Transfer the pasta mixture to a baking dish.",
+    "Sprinkle the Dutch and unique cheese over the pasta.",
+    "Dust with dried basil.",
+    "Bake in the preheated oven for 20-25 minutes until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "cheesy",
+    "dutch",
+    "garlicky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-garlicky-dutch-fideo-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:44:44.975Z"
+}
