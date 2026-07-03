@@ -1,0 +1,97 @@
+{
+  "slug": "unique-hearty-ethiopian-lamb-stew",
+  "title": "Tibs Stew",
+  "description": "A traditional Ethiopian stew made with tender lamb and a blend of aromatic spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Spices",
+      "amount": "",
+      "notes": "1 teaspoon ground cumin, 1 teaspoon ground coriander, 1/2 teaspoon turmeric, 1/2 teaspoon cayenne pepper, salt, and black pepper"
+    },
+    {
+      "name": "Braised red cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian berbere spice mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes in batches until browned on all sides. Remove from pot and set aside.",
+    "Reduce heat to medium and cook the onion until softened, about 5 minutes.",
+    "Add the garlic, ginger, and spices. Cook, stirring constantly, for 1 minute.",
+    "Add the tomato paste and cook, stirring constantly, for 2 minutes.",
+    "Add the red cabbage and cook, stirring occasionally, until slightly caramelized, about 5 minutes.",
+    "Add the browned lamb, berbere spice mix, red wine vinegar, and water. Stir to combine.",
+    "Bring the stew to a boil, then cover and transfer to the oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over injera or with rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "ethiopian",
+    "hearty",
+    "unique"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-hearty-ethiopian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:46:38.754Z"
+}
