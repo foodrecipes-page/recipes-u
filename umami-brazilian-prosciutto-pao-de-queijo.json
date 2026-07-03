@@ -1,0 +1,75 @@
+{
+  "slug": "umami-brazilian-prosciutto-pao-de-queijo",
+  "title": "Brazilian-Style Pao de Queijo",
+  "description": "A traditional Brazilian cheese bread recipe with a crispy exterior and a soft, cheesy interior. Perfect as a snack or side dish.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "prosciutto",
+      "amount": "4 slices"
+    },
+    {
+      "name": "pao de queijo mix",
+      "amount": "1 box (includes tapioca starch, coconut oil, and salt)"
+    },
+    {
+      "name": "de queijo cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "umami seasoning blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brazilian cheese",
+      "amount": "1/2 cup grated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine pao de queijo mix, de queijo cheese, umami seasoning blend, and brazilian cheese.",
+    "In a separate bowl, whisk together eggs and melted coconut oil.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Shape the dough into small balls, about 1-inch in diameter.",
+    "Place the balls on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "While the cheese bread is baking, cook the prosciutto slices in a skillet over medium heat until crispy.",
+    "Once the cheese bread is done, remove from the oven and let cool for a few minutes.",
+    "Serve warm with crispy prosciutto slices on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "cheese",
+    "bread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-brazilian-prosciutto-pao-de-queijo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:10:01.153Z"
+}
