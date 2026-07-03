@@ -1049,17 +1049,15 @@
   },
   {
     "slug": "umami-brazilian-prosciutto-pao-de-queijo",
-    "title": "Umami Brazilian Prosciutto Pão de Queijo",
+    "title": "Brazilian-Style Pao de Queijo",
     "tags": [
       "brazilian",
       "cheese",
-      "dinner-party",
-      "pressure-cooker",
-      "show-off",
-      "umami"
+      "bread",
+      "snack"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
