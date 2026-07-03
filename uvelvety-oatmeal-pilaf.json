@@ -1,0 +1,77 @@
+{
+  "slug": "uvelvety-oatmeal-pilaf",
+  "title": "Creamy Oatmeal Bowl",
+  "description": "A comforting and healthy bowl of oatmeal with a creamy twist. Perfect for a cold morning.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rolled Oatmeal",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Uvelvety",
+      "amount": "1/4 cup",
+      "notes": "or plain Greek yogurt"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1/2 cup",
+      "notes": "cooled"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": null
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring 1 cup of water to a boil.",
+    "Add the oatmeal, reduce heat to low, cover and simmer for 5 minutes.",
+    "In another bowl, mix the uvelvety and honey until well combined.",
+    "Add the pilaf, cinnamon, salt, and vanilla extract to the uvelvety mixture and stir well.",
+    "Once the oatmeal is cooked, fluff it with a fork and add the creamy mixture on top.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "oatmeal",
+    "creamy",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "5g",
+    "carbs": "60g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uvelvety-oatmeal-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:46:10.926Z"
+}
