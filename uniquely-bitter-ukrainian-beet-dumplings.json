@@ -1,0 +1,102 @@
+{
+  "slug": "uniquely-bitter-ukrainian-beet-dumplings",
+  "title": "Borscht-Flavored Ukrainian Beet Dumplings",
+  "description": "A hearty Ukrainian-inspired dish filled with a sweet and sour beet-based filling, served as a main course. The beet flavor is enhanced by the addition of a borscht-based broth.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Borscht broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bitter greens (such as dandelion or arugula)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, melt the butter over medium heat.",
+    "Add the chopped beets and cook, stirring occasionally, until they are tender, about 20 minutes.",
+    "Add the flour and cook for 1-2 minutes, stirring constantly.",
+    "Gradually add the water, whisking continuously to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Stir in the chopped fresh dill, salt, and black pepper.",
+    "In a separate bowl, combine the egg and borscht broth. Mix well to combine.",
+    "Add the egg mixture to the beet mixture and stir until well combined.",
+    "Add the chopped bitter greens to the mixture and stir until well combined.",
+    "Knead the dough until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and roll each piece into a ball.",
+    "Flatten each ball slightly into a disk shape.",
+    "Place a tablespoon of the beet mixture in the center of each disk.",
+    "Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Bring a large pot of salted water to a boil. Gently add the dumplings to the pot and cook until they float to the surface, about 5-7 minutes.",
+    "Serve the dumplings hot, garnished with additional chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "beet",
+    "dumplings",
+    "borscht",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uniquely-bitter-ukrainian-beet-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:29:33.165Z"
+}
