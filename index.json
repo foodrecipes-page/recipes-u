@@ -6919,17 +6919,15 @@
   },
   {
     "slug": "unique-smoky-turkish-lamb-adana-kebap",
-    "title": "Smoky Turkish Lamb Adana Kebap",
+    "title": "Turkish Adana Kebap",
     "tags": [
-      "garlicky",
-      "kebap-recipes",
-      "lamb-recipes",
-      "lazy-sunday",
-      "smoky-flavors",
-      "turkish-food"
+      "kebap",
+      "lamb",
+      "turkish",
+      "grilled"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 42,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
