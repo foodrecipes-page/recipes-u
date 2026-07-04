@@ -1,0 +1,84 @@
+{
+  "slug": "ultra-tender-oaxacan-meat-barbacoa-style-casserole",
+  "title": "Barbacoa Casserole",
+  "description": "A twist on traditional Mexican casserole using tender beef barbacoa. This hearty, flavorful dish is perfect for a weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "Choose barbacoa style for authentic flavor"
+    },
+    {
+      "name": "Tender Oaxacan Cheese",
+      "amount": "1 cup shredded",
+      "notes": "Mild and creamy, perfect for blending flavors"
+    },
+    {
+      "name": "Ultra-Fine Cornmeal",
+      "amount": "1 cup",
+      "notes": "Provides a nice crunch"
+    },
+    {
+      "name": "Meat Seasoning",
+      "amount": "2 tsp",
+      "notes": "Add a boost of flavor"
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1 cup",
+      "notes": "Sweet and savory"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Enhances the overall taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "Adds depth"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "Helps bind the casserole"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the ground beef in a skillet over medium-high heat until browned, breaking it up into small pieces.",
+    "Stir in meat seasoning and cook for 1 minute.",
+    "In a separate bowl, combine shredded cheese, cornmeal, and onion.",
+    "In a greased 9x13 inch casserole dish, create a layer of the beef mixture.",
+    "Top with the cheese mixture and sprinkle with breadcrumbs.",
+    "Bake for 25-30 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "barbacoa",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-tender-oaxacan-meat-barbacoa-style-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:07:51.822Z"
+}
