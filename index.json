@@ -324,17 +324,14 @@
   },
   {
     "slug": "ultimate-roasted-british-salt-cod-cottage-pie",
-    "title": "Ultimate Roasted British Salt Cod Cottage Pie",
+    "title": "British Cod Pie",
     "tags": [
-      "british-classics",
-      "comfort-food",
-      "cottage-pie",
-      "home-cooking",
-      "seafood",
-      "weeknight-meals"
+      "british",
+      "fish-pie",
+      "comfort-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
@@ -5066,17 +5063,16 @@
   },
   {
     "slug": "unique-chewy-irish-oats-bake",
-    "title": "Unique Chewy Irish Oats Bake",
+    "title": "Irish Oat Biscuits",
     "tags": [
-      "breakfast-bake",
-      "high-fiber",
-      "irish-inspired",
-      "meal-prep",
-      "nut-free",
-      "vegetarian-friendly"
+      "irish",
+      "oats",
+      "biscuits",
+      "chewy",
+      "snack"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
