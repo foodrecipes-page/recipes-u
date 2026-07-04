@@ -1,0 +1,72 @@
+{
+  "slug": "uplifting-fluffy-german-potato-dumplings",
+  "title": "German Potato Dumplings (Kartoffelklöße)",
+  "description": "A classic German side dish made from grated potatoes and flour, boiled and served with butter or topped with a fried egg.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "german",
+      "amount": "1 tsp",
+      "notes": "dried parsley"
+    },
+    {
+      "name": "uplifting",
+      "amount": "1 tsp",
+      "notes": "dried chives"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "as needed",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in a large pot of salted water until tender.",
+    "Drain the potatoes and mash in a large bowl with a fork.",
+    "Add the flour, parsley, chives, and salt to the potatoes and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Boil the dumplings in a large pot of salted water for 10-12 minutes, or until they float to the surface.",
+    "Drain the dumplings and serve with melted butter or topped with a fried egg."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potato",
+    "side-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uplifting-fluffy-german-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:59:25.593Z"
+}
