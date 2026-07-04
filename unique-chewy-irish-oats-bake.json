@@ -1,0 +1,82 @@
+{
+  "slug": "unique-chewy-irish-oats-bake",
+  "title": "Irish Oat Biscuits",
+  "description": "A delicious and chewy biscuit recipe from Ireland, perfect for a snack or light meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "soda bicarbonate",
+      "amount": "1/2 tsp",
+      "notes": "baking soda"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "In a large mixing bowl, cream together butter and sugar until light and fluffy.",
+    "Beat in the egg and vanilla extract until well combined.",
+    "In a separate bowl, whisk together oats, soda bicarbonate, and salt.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Turn the dough out onto a floured surface and knead for 2-3 minutes.",
+    "Roll out the dough to about 1/4 inch thickness.",
+    "Cut into desired shapes using a biscuit cutter or the rim of a glass.",
+    "Place the biscuits on the prepared baking sheet, leaving about 1 inch of space between each biscuit.",
+    "Bake for 15-20 minutes, or until the biscuits are golden brown.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "oats",
+    "biscuits",
+    "chewy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-chewy-irish-oats-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:51:27.037Z"
+}
