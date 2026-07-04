@@ -1,0 +1,93 @@
+{
+  "slug": "unctuous-moroccan-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A classic North African dish made with tender lamb and aromatic spices, slow-cooked to perfection in a clay tagine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "unctuous olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay tagine or large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces on all sides, in batches if necessary, until browned, about 5 minutes. Remove the browned lamb and set aside.",
+    "Add the chopped onion to the pot and cook, stirring occasionally, until softened and lightly browned, about 10 minutes.",
+    "Add the minced garlic and cook, stirring constantly, for 1 minute.",
+    "Add the cumin, coriander, cayenne pepper (if using), salt, and black pepper to the pot and cook, stirring constantly, for 1 minute.",
+    "Add the browned lamb back to the pot, along with any accumulated juices.",
+    "Add enough water to the pot to cover the lamb and bring to a boil. Reduce the heat to low, cover the pot, and simmer for 2 hours, or until the lamb is tender.",
+    "Stir in some chopped fresh parsley for garnish and serve over couscous, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:40:06.363Z"
+}
