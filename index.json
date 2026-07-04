@@ -5513,17 +5513,15 @@
   },
   {
     "slug": "unique-crunchy-australian-chicken-skewers",
-    "title": "Unique Crunchy Australian Chicken Skewers",
+    "title": "Australian Chicken Skewers",
     "tags": [
-      "australian",
-      "crunchy",
-      "high-protein",
-      "one-pan",
-      "sugar-free",
-      "weeknight"
+      "grilled",
+      "chicken",
+      "skewers",
+      "australian"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 40,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -8656,17 +8654,15 @@
   },
   {
     "slug": "uplifting-ethiopian-chicken-curry",
-    "title": "Uplifting Ethiopian Chicken Curry",
+    "title": "Ethiopian Chicken Curry",
     "tags": [
-      "egg-free",
-      "flambe",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "curry",
+      "ethiopian",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
