@@ -1,0 +1,84 @@
+{
+  "slug": "unique-smoky-turkish-lamb-adana-kebap",
+  "title": "Turkish Adana Kebap",
+  "description": "A classic Turkish dish originating from Adana, this kebap recipe is a staple of Turkish cuisine.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb mince",
+      "amount": "500g",
+      "notes": "High-quality lamb mince is essential for this dish."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped onion adds flavor and texture to the kebap."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic enhances the flavor of the lamb."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked paprika adds a smoky flavor to the kebap."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Salt enhances the flavor of the lamb."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Black pepper adds depth to the kebap."
+    },
+    {
+      "name": "Unique spice blend",
+      "amount": "1 tsp",
+      "notes": "A traditional Turkish spice blend adds a unique flavor to the kebap."
+    },
+    {
+      "name": "Turkish bread",
+      "amount": "4-6 slices",
+      "notes": "Served with Turkish bread, this kebap is a classic Turkish dish."
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, combine lamb mince, chopped onion, minced garlic, smoked paprika, salt, and black pepper. Mix well with your hands until just combined.",
+    "Add the unique spice blend to the lamb mixture and mix until just combined. Do not overmix.",
+    "Form the lamb mixture into small skewers, about 1 inch in diameter.",
+    "Thread 3-4 lamb skewers onto each metal skewer, leaving a little space between each skewer.",
+    "Grill the kebap for 8-10 minutes, turning occasionally, until the lamb is cooked through and slightly charred.",
+    "Serve the kebap hot with Turkish bread and your favorite sides.",
+    "To serve, place a few slices of Turkish bread on a plate and top with a few skewers of kebap. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebap",
+    "lamb",
+    "turkish",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-smoky-turkish-lamb-adana-kebap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:43:59.005Z"
+}
