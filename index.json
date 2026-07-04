@@ -3730,17 +3730,15 @@
   },
   {
     "slug": "unctuous-moroccan-lamb-tagine",
-    "title": "Unctuous Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb",
       "moroccan",
-      "one-pot",
-      "slow-cooked",
-      "tagine"
+      "lamb",
+      "tagine",
+      "north-african"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 210,
+    "totalTimeMin": 140,
     "shard": "u"
   },
   {
@@ -8665,16 +8663,15 @@
   },
   {
     "slug": "uplifting-fluffy-german-potato-dumplings",
-    "title": "Uplifting Fluffy German Potato Dumplings",
+    "title": "German Potato Dumplings (Kartoffelklöße)",
     "tags": [
-      "fluffy-dumplings",
-      "german-inspired",
-      "monsoon-flavor",
-      "sattvic-friendly",
+      "german",
+      "potato",
+      "side-dish",
       "vegetarian"
     ],
     "cuisine": "German",
-    "totalTimeMin": 49,
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
