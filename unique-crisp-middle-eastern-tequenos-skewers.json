@@ -1,0 +1,92 @@
+{
+  "slug": "unique-crisp-middle-eastern-tequenos-skewers",
+  "title": "Middle Eastern Tequenos",
+  "description": "A flavorful Middle Eastern twist on the Venezuelan tequenos, perfect for a quick snack or appetizer.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pita Bread",
+      "amount": "1 package (6-8 pita breads)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Halloumi Cheese",
+      "amount": "1 block (12 ounces)",
+      "notes": "preferably Middle Eastern or Greek style"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing pita bread"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Pine Nuts",
+      "amount": "1/4 cup",
+      "notes": "optional, toasted"
+    },
+    {
+      "name": "Zatar",
+      "amount": "1 tablespoon",
+      "notes": "optional, Middle Eastern spice blend"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut pita bread into 1-inch wide strips.",
+    "Thread 2-3 strips of pita bread onto each skewer, leaving a little space between each piece.",
+    "Cut Halloumi cheese into 1-inch cubes.",
+    "Thread a cube of cheese onto each skewer, followed by a few pieces of pita bread.",
+    "Brush pita bread with olive oil and season with garlic powder and salt (if using).",
+    "Place skewers on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until pita bread is golden brown and cheese is melted.",
+    "Remove from oven and sprinkle with chopped cilantro, lemon juice, and toasted pine nuts (if using).",
+    "Serve hot with a side of Zatar (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "middle eastern",
+    "tequenos",
+    "veggie",
+    "snack",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crisp-middle-eastern-tequenos-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:22:46.840Z"
+}
