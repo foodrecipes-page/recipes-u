@@ -1,0 +1,62 @@
+{
+  "slug": "umami-dense-norwegian-fish-pasta",
+  "title": "Baked Norwegian Fish",
+  "description": "A simple, flavorful dish featuring baked Norwegian fish served with a side of pasta.",
+  "cuisine": "norwegian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian fish (salmon or cod)",
+      "amount": "2 fillets",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "any type"
+    },
+    {
+      "name": "Umami",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Dense",
+      "amount": "1 cup",
+      "notes": "diced vegetables (carrots, zucchini, bell peppers)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish with salt and pepper.",
+    "Place the fish on a baking sheet lined with parchment paper.",
+    "Drizzle the fish with umami (if using).",
+    "Bake the fish for 12-15 minutes or until cooked through.",
+    "Cook the pasta according to package instructions.",
+    "Toss the cooked pasta with the diced vegetables.",
+    "Serve the baked fish with the pasta and vegetables on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "pasta",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-dense-norwegian-fish-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:26:24.058Z"
+}
