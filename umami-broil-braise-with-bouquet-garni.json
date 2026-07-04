@@ -1,0 +1,96 @@
+{
+  "slug": "umami-broil-braise-with-bouquet-garni",
+  "title": "Braised Short Ribs with Red Wine",
+  "description": "Fall-off-the-bone tender short ribs slow-cooked in a rich red wine sauce. Serve with crusty bread to mop up the flavorful juices.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "short ribs",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "bouquet garni",
+      "amount": "1",
+      "notes": "see note"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the short ribs with salt and pepper.",
+    "Heat a large Dutch oven over medium-high heat.",
+    "Sear the short ribs until browned on all sides, about 5 minutes.",
+    "Remove the short ribs from the pot and set aside.",
+    "Add the chopped onion, carrot, and celery to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the red wine, beef broth, tomato paste, thyme, and rosemary to the pot.",
+    "Return the short ribs to the pot and bring the mixture to a boil.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the short ribs for 2 1/2 to 3 hours, or until the meat is tender and falls off the bone.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the cooking liquid through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Skim off any excess fat from the surface of the sauce.",
+    "Serve the short ribs with the rich red wine sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "short-ribs",
+    "red-wine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-broil-braise-with-bouquet-garni",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:37:57.432Z"
+}
