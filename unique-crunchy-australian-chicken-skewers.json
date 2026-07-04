@@ -1,0 +1,66 @@
+{
+  "slug": "unique-crunchy-australian-chicken-skewers",
+  "title": "Australian Chicken Skewers",
+  "description": "Grilled chicken skewers with a unique twist, perfect for a summer evening.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "unique",
+      "amount": "1/4 cup",
+      "notes": "unique seasoning blend"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/2 cup",
+      "notes": "crunchy slaw (made with shredded cabbage, carrots, and a hint of apple cider vinegar)"
+    },
+    {
+      "name": "australian",
+      "amount": "2 tablespoons",
+      "notes": "australian BBQ sauce (made with ketchup, brown sugar, and a hint of eucalyptus)"
+    },
+    {
+      "name": "skewers",
+      "amount": "10 bamboo skewers",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, unique seasoning, crunchy slaw, and australian BBQ sauce onto skewers.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chicken",
+    "skewers",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crunchy-australian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:00:28.039Z"
+}
