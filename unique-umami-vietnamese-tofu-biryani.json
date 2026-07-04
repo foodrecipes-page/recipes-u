@@ -1,0 +1,89 @@
+{
+  "slug": "unique-umami-vietnamese-tofu-biryani",
+  "title": "Vietnamese Tofu Biryani",
+  "description": "A flavorful and aromatic Vietnamese-style biryani dish made with marinated tofu and spices.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "biryani",
+      "amount": "100g",
+      "notes": "spiced rice mix"
+    },
+    {
+      "name": "unique",
+      "amount": "2tbsp",
+      "notes": "vietnamese chili sauce"
+    },
+    {
+      "name": "umami",
+      "amount": "1tsp",
+      "notes": "fish-free dashi broth powder"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2cm",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Marinate the tofu in 1tbsp of unique and 1tsp of umami for at least 30 minutes.",
+    "Heat 1tbsp of vegetable oil in a large pan over medium heat.",
+    "Add the chopped onion and grated ginger and sauté until softened.",
+    "Add the biryani and cook according to package instructions.",
+    "Add the marinated tofu to the pan and cook until golden brown.",
+    "Stir in 1tbsp of lemon juice and cook for an additional 1-2 minutes.",
+    "Serve the tofu biryani hot, garnished with chopped cilantro if desired.",
+    "Reheat the biryani according to package instructions if cooking ahead.",
+    "Serve the tofu on top of the biryani, garnished with chopped cilantro if desired.",
+    "Adjust the seasoning with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "tofu",
+    "biryani",
+    "lunch",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "20g",
+    "carbs": "60g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-vietnamese-tofu-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:24:16.769Z"
+}
