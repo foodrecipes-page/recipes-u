@@ -354,13 +354,12 @@
   },
   {
     "slug": "ultimate-roasted-turkish-eggplant-imam-bayildi",
-    "title": "Ultimate Roasted Turkish Eggplant Imam Bayildi",
+    "title": "Turkish Stuffed Eggplant (Bayildi)",
     "tags": [
-      "comfort-food",
-      "mediterranean-diet",
-      "roasted-vegetables",
-      "turkish-cuisine",
-      "vegetarian-dishes"
+      "turkish",
+      "stuffed-eggplant",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 60,
@@ -957,19 +956,15 @@
   },
   {
     "slug": "ultra-tender-oaxacan-meat-barbacoa-style-casserole",
-    "title": "ultra tender oaxacan meat barbacoa style casserole",
+    "title": "Barbacoa Casserole",
     "tags": [
-      "barbacoa",
-      "beef",
-      "casserole",
-      "meat",
       "mexican",
-      "oaxacan",
-      "one-pan",
-      "weeknight"
+      "casserole",
+      "barbacoa",
+      "beef"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 195,
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -7502,17 +7497,15 @@
   },
   {
     "slug": "unique-umami-moroccan-eggplant-zaalouk",
-    "title": "Unique Umami Moroccan Eggplant Zaalouk",
+    "title": "Zaalouk Eggplant Stew",
     "tags": [
-      "bamboo-steamer",
-      "clay-pot-cooking",
-      "kid-friendly",
-      "kosher-friendly",
-      "moroccan-cuisine",
-      "umami-flavors"
+      "moroccan",
+      "vegetarian",
+      "eggplant",
+      "stew"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -7703,16 +7696,17 @@
   },
   {
     "slug": "unique-umami-vietnamese-tofu-biryani",
-    "title": "Unique Umami Vietnamese Tofu Biryani",
+    "title": "Vietnamese Tofu Biryani",
     "tags": [
-      "meal-prep",
-      "one-pan",
-      "plant-based",
-      "umami-rich",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "tofu",
+      "biryani",
+      "lunch",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
