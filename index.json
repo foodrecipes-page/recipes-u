@@ -1074,16 +1074,14 @@
   },
   {
     "slug": "umami-broil-braise-with-bouquet-garni",
-    "title": "Umami Broil Braise with Bouquet Garni",
+    "title": "Braised Short Ribs with Red Wine",
     "tags": [
-      "umami",
-      "crispy",
-      "crowd-pleaser",
-      "french",
-      "dish"
+      "braised",
+      "short-ribs",
+      "red-wine"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 170,
     "shard": "u"
   },
   {
@@ -1727,16 +1725,14 @@
   },
   {
     "slug": "umami-dense-norwegian-fish-pasta",
-    "title": "Umami Dense Norwegian Fish Pasta",
+    "title": "Baked Norwegian Fish",
     "tags": [
-      "norwegian-cuisine",
-      "pescatarian",
-      "umami",
-      "sous-vide",
-      "pasta"
+      "fish",
+      "pasta",
+      "easy-dinner"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 60,
+    "cuisine": "norwegian",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
