@@ -1,0 +1,76 @@
+{
+  "slug": "ultimate-roasted-british-salt-cod-cottage-pie",
+  "title": "British Cod Pie",
+  "description": "A comforting, creamy fish pie inspired by British cuisine, perfect for a cozy dinner.",
+  "cuisine": "British",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "2",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": "peas, carrots, onions"
+    },
+    {
+      "name": "ultimate puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "british seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": "see notes"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place cod fillets on the prepared baking sheet and bake for 10-12 minutes or until cooked through.",
+    "In a large skillet, combine cottage cheese, roasted vegetables, and British seasoning blend. Cook over medium heat, stirring until heated through.",
+    "On a lightly floured surface, roll out puff pastry to a thickness of 1/8 inch.",
+    "Transfer the pastry to a 9x13 inch baking dish and trim the edges to fit.",
+    "Spoon the cottage cheese mixture over the pastry, leaving a 1 inch border around the edges.",
+    "Place the cooked cod fillets on top of the cottage cheese mixture.",
+    "Fold the edges of the pastry up over the cod fillets, pressing gently to seal.",
+    "Brush the pastry with a little bit of water and sprinkle with salt.",
+    "Bake for an additional 15-20 minutes or until the pastry is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "fish-pie",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultimate-roasted-british-salt-cod-cottage-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:18:51.759Z"
+}
