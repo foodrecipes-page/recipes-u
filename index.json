@@ -539,18 +539,15 @@
   },
   {
     "slug": "ultra-dense-basque-french-cheddar-galette",
-    "title": "Ultra Dense Basque French Cheddar Galette",
+    "title": "Basque-Style Cheesy Galette",
     "tags": [
-      "appetizer",
-      "cheesy",
-      "dinner-party",
-      "gluten-free",
-      "gourmet",
-      "high-protein",
-      "weeknight"
+      "cheese",
+      "savory",
+      "snack",
+      "french-basque"
     ],
-    "cuisine": "Basque French",
-    "totalTimeMin": 60,
+    "cuisine": "French-Basque",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
