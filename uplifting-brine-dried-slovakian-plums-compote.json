@@ -1,0 +1,62 @@
+{
+  "slug": "uplifting-brine-dried-slovakian-plums-compote",
+  "title": "Slovakian Plum Compote",
+  "description": "A traditional Slovakian dessert made with fresh plums and a touch of sweetness.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plums",
+      "amount": "3 cups, sliced"
+    },
+    {
+      "name": "slovakian",
+      "amount": "2 tablespoons, dried plums puree"
+    },
+    {
+      "name": "brine",
+      "amount": "1/4 cup, water with 1 tablespoon sugar"
+    },
+    {
+      "name": "compote",
+      "amount": "1/4 cup, compote syrup"
+    },
+    {
+      "name": "uplifting",
+      "amount": "optional, 1/4 teaspoon, ground cinnamon"
+    }
+  ],
+  "instructions": [
+    "Combine sliced plums, Slovakian dried plums puree, and brine in a saucepan.",
+    "Cook over medium heat, stirring occasionally, until the plums are tender.",
+    "Stir in compote syrup and cook for an additional 2 minutes.",
+    "Remove from heat and let cool to room temperature.",
+    "Strain the compote through a fine-mesh sieve into a bowl.",
+    "Discard the solids and refrigerate the compote for at least 2 hours.",
+    "Serve chilled, garnished with a sprinkle of cinnamon if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "plum",
+    "compote",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 0.5,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uplifting-brine-dried-slovakian-plums-compote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:21:38.751Z"
+}
