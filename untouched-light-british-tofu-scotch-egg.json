@@ -1,0 +1,55 @@
+{
+  "slug": "untouched-light-british-tofu-scotch-egg",
+  "title": "British Scotch Egg",
+  "description": "A classic British dish made from a hard-boiled egg wrapped in a layer of sausage meat, breaded and deep-fried.",
+  "cuisine": "British",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "scotch egg",
+      "amount": "4-6"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "beaten egg",
+      "amount": "1"
+    },
+    {
+      "name": "light breadcrumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat about 2 inches of oil in a deep frying pan over medium-high heat.",
+    "Dredge the scotch eggs in the flour, shaking off excess.",
+    "Dip the floured scotch eggs in the beaten egg and then coat in the breadcrumbs.",
+    "Carefully place the coated scotch eggs in the hot oil and fry for about 5 minutes or until golden brown and crispy.",
+    "Drain the scotch eggs on paper towels and serve hot.",
+    "Serve with a side of ketchup or your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/untouched-light-british-tofu-scotch-egg",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:39:17.269Z"
+}
