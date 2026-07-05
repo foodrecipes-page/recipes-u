@@ -3496,17 +3496,15 @@
   },
   {
     "slug": "uncommonly-fluffy-canadian-chicken-casserole",
-    "title": "Uncommonly Fluffy Canadian Chicken Casserole",
+    "title": "Canadian Chicken Casserole",
     "tags": [
-      "canadian-cuisine",
-      "chicken-recipes",
-      "comfort-food",
-      "kosher-friendly",
-      "one-pan",
-      "weeknight"
+      "canadian",
+      "casserole",
+      "chicken",
+      "comfort-food"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
