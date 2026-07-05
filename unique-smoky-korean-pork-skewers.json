@@ -1,0 +1,93 @@
+{
+  "slug": "unique-smoky-korean-pork-skewers",
+  "title": "Smoky Korean Pork Skewers",
+  "description": "A sweet and spicy Korean-inspired recipe for pork skewers with a smoky flavor.",
+  "cuisine": "Korean",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Unique sesame oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine chili flakes, brown sugar, garlic, ginger, soy sauce, honey, and lime juice. Blend until smooth.",
+    "In a large bowl, whisk together the blended mixture and sesame oil. Add the pork shoulder and toss to coat.",
+    "Thread the pork onto skewers, leaving a little space between each piece.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the skewers for 8-10 minutes, or until the pork is cooked through.",
+    "Brush the skewers with the remaining marinade during the last 2 minutes of cooking.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pork",
+    "skewers",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-smoky-korean-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:32:27.537Z"
+}
