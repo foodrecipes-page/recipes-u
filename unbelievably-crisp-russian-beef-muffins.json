@@ -1,0 +1,70 @@
+{
+  "slug": "unbelievably-crisp-russian-beef-muffins",
+  "title": "Beef and Muffin Kebabs",
+  "description": "A simple and tasty recipe for beef and muffin kebabs, perfect for a quick dinner.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound beef sirloin, cut into 1-inch pieces",
+      "amount": "",
+      "notes": "Make sure to cook to 145°F (63°C) for medium-rare"
+    },
+    {
+      "name": "2 Russian muffins, cut into 1-inch cubes",
+      "amount": "",
+      "notes": "You can also use other types of bread"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "",
+      "notes": "For brushing the beef and muffins"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": "For seasoning the beef and muffins"
+    },
+    {
+      "name": "Optional: 1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread the beef and muffin pieces onto skewers, leaving a little space between each piece.",
+    "Brush the beef and muffins with olive oil and season with salt and pepper.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until the beef reaches 145°F (63°C) for medium-rare.",
+    "Serve the kebabs hot, garnished with chopped parsley if desired.",
+    "Let the beef rest for a few minutes before serving.",
+    "Serve hot and enjoy!",
+    "Repeat with remaining ingredients if needed.",
+    "Clean the grill and utensils thoroughly after use."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bbq",
+    "grilling",
+    "kebabs",
+    "beef",
+    "muffins"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unbelievably-crisp-russian-beef-muffins",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:14:15.938Z"
+}
