@@ -1,0 +1,86 @@
+{
+  "slug": "uncommonly-fluffy-canadian-chicken-casserole",
+  "title": "Canadian Chicken Casserole",
+  "description": "A hearty, comforting casserole filled with fluffy chicken, vegetables, and a hint of Canadian flair.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "uncommonly fluffy oyster mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "canned cream of chicken soup",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, melt butter over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes.",
+    "Add sliced mushrooms and cook until they release their liquid and start to brown, about 3-4 minutes.",
+    "Add diced onion and bell pepper and cook until they start to soften, about 3-4 minutes.",
+    "Stir in flour to thicken sauce.",
+    "Add cream of chicken soup and stir until combined.",
+    "Transfer mixture to a 9x13 inch baking dish.",
+    "Top with shredded cheddar cheese.",
+    "Bake for 20-25 minutes, or until cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "casserole",
+    "chicken",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uncommonly-fluffy-canadian-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:03:16.349Z"
+}
