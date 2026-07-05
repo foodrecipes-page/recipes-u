@@ -1,0 +1,67 @@
+{
+  "slug": "umami-tender-raw-friendly-irish-quinoa-stir-fry",
+  "title": "Irish Quinoa Stir Fry",
+  "description": "A hearty, comforting stir fry made with quinoa and Irish sausages, perfect for a chilly evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Irish sausages",
+      "amount": "4"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Cook quinoa according to package instructions.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add Irish sausages and cook until browned, about 5 minutes.",
+    "Add onion and bell pepper to the skillet and cook until tender.",
+    "Add stir-fry sauce to the skillet and stir to combine.",
+    "Add cooked quinoa to the skillet and stir to combine.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "quinoa",
+    "stir-fry",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-tender-raw-friendly-irish-quinoa-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:09:59.395Z"
+}
