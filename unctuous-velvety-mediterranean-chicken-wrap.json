@@ -1,0 +1,79 @@
+{
+  "slug": "unctuous-velvety-mediterranean-chicken-wrap",
+  "title": "Mediterranean Chicken Wrap",
+  "description": "A flavorful and healthy wrap filled with tender chicken, crunchy veggies, and creamy tzatziki sauce.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken breast with salt, pepper, and your favorite herbs.",
+    "Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "Let the chicken rest for a few minutes before slicing it thinly.",
+    "Meanwhile, toast the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading the tzatziki sauce on the wrap, then adding the sliced chicken, cucumber, tomato, red onion, and feta cheese.",
+    "Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "chicken",
+    "wrap",
+    "healthy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-velvety-mediterranean-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:39:09.138Z"
+}
