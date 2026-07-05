@@ -3924,18 +3924,16 @@
   },
   {
     "slug": "unctuous-velvety-mediterranean-chicken-wrap",
-    "title": "Unctuous Velvety Mediterranean Chicken Wrap",
+    "title": "Mediterranean Chicken Wrap",
     "tags": [
-      "chicken",
-      "dairy-free",
-      "easy-lunch",
-      "gluten-free",
       "mediterranean",
-      "sick-day",
-      "wrap"
+      "chicken",
+      "wrap",
+      "healthy",
+      "lunch"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 22,
     "shard": "u"
   },
   {
@@ -8942,16 +8940,15 @@
   },
   {
     "slug": "utterly-tender-dutch-vegetable-casserole",
-    "title": "Utterly Tender Dutch Vegetable Casserole",
+    "title": "Tender Dutch Vegetable Casserole",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "dutch",
+      "vegetarian",
+      "casserole",
+      "vegetable"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
