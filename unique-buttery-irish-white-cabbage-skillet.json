@@ -1,0 +1,56 @@
+{
+  "slug": "unique-buttery-irish-white-cabbage-skillet",
+  "title": "Pan-Seared Irish Cabbage with Butter",
+  "description": "A simple yet flavorful cabbage dish from Ireland, seared in a buttery skillet.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "white butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "large, oven-safe"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the Irish cabbage and remove any damaged leaves.",
+    "2. Slice the cabbage into 1-inch thick wedges.",
+    "3. Heat the white butter in the skillet over medium heat.",
+    "4. Add the cabbage wedges to the skillet and sear for 5 minutes per side, or until tender and slightly browned.",
+    "5. Serve the pan-seared cabbage hot, garnished with additional white butter if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "irish-cabbage",
+    "buttery"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-buttery-irish-white-cabbage-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:40:43.024Z"
+}
