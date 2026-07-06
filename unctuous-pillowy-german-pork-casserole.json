@@ -1,0 +1,86 @@
+{
+  "slug": "unctuous-pillowy-german-pork-casserole",
+  "title": "German Pork Casserole",
+  "description": "A hearty, comforting casserole filled with tender pork and a side of pillowy potatoes.",
+  "cuisine": "German",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "uncooked egg noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "pillowy potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "german sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Cook egg noodles according to package instructions. Drain and set aside.",
+    "In a large Dutch oven or oven-safe pot, cook the german sausage over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion to the pot and cook until softened.",
+    "Add the pork shoulder to the pot and cook until browned on all sides.",
+    "Add the beer, caraway seeds, salt, and black pepper to the pot. Stir to combine.",
+    "Bring the mixture to a simmer, then cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the pork is tender.",
+    "About 30 minutes before serving, add the cooked noodles and potatoes to the pot. Stir to combine.",
+    "Return the pot to the oven and bake for an additional 30 minutes, or until the potatoes are tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-pillowy-german-pork-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:42:36.087Z"
+}
