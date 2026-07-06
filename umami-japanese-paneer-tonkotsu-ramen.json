@@ -1,0 +1,74 @@
+{
+  "slug": "umami-japanese-paneer-tonkotsu-ramen",
+  "title": "Tonkotsu Ramen with Japanese-Style Paneer",
+  "description": "A creamy and savory Japanese-inspired ramen dish featuring pan-seared paneer, rich tonkotsu broth, and a variety of umami flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tonkotsu Broth",
+      "amount": "4 cups",
+      "notes": "Made by simmering pork bones and tonkotsu in water"
+    },
+    {
+      "name": "Japanese-Style Paneer",
+      "amount": "8 ounces",
+      "notes": "Pan-seared paneer marinated in soy sauce and sake"
+    },
+    {
+      "name": "Ramen Noodles",
+      "amount": "1 package",
+      "notes": "Japanese-style ramen noodles"
+    },
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced shiitake mushrooms for added flavor"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced green onions for garnish"
+    },
+    {
+      "name": "Umami Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": "A combination of soy sauce, sake, and mirin for added umami flavor"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine Tonkotsu Broth and Umami Spice Blend. Simmer for 10 minutes.",
+    "2. While the broth is simmering, prepare the Japanese-Style Paneer by marinating it in soy sauce and sake for 10 minutes.",
+    "3. Pan-sear the paneer in a hot skillet until golden brown.",
+    "4. Cook the Ramen Noodles according to package instructions.",
+    "5. Slice the Shiitake Mushrooms and add them to the Tonkotsu Broth for added flavor.",
+    "6. To assemble the dish, place cooked noodles in a bowl, top with pan-seared paneer, and garnish with green onions.",
+    "7. Ladle the Tonkotsu Broth over the top of the dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "tonkotsu",
+    "paneer",
+    "umami",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-japanese-paneer-tonkotsu-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:34:51.777Z"
+}
