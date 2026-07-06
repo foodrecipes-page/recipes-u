@@ -4941,16 +4941,15 @@
   },
   {
     "slug": "unique-buttery-irish-white-cabbage-skillet",
-    "title": "Unique Buttery Irish White Cabbage Skillet",
+    "title": "Pan-Seared Irish Cabbage with Butter",
     "tags": [
-      "brunch-recipe",
-      "clay-pot-cooking",
-      "halal-friendly",
-      "irish-food",
-      "weekend-meal"
+      "breakfast",
+      "vegetarian",
+      "irish-cabbage",
+      "buttery"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "u"
   },
   {
@@ -5240,16 +5239,16 @@
   },
   {
     "slug": "unique-crisp-middle-eastern-tequenos-skewers",
-    "title": "Middle Eastern Tequenos",
+    "title": "Middle Eastern Tequenos Skewers",
     "tags": [
-      "middle eastern",
+      "middle-eastern",
       "tequenos",
-      "veggie",
+      "kebabs",
       "snack",
-      "cheese"
+      "appetizer"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 27,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -5817,17 +5816,16 @@
   },
   {
     "slug": "unique-fluffy-croatian-oats-pilaf",
-    "title": "Croatian Oats Pilaf",
+    "title": "Croatian Fluffy Oat Pilaf",
     "tags": [
-      "breakfast-recipe",
-      "croatian-cuisine",
+      "breakfast",
+      "croatian",
       "gluten-free",
-      "healthy-eating",
-      "low-carb",
-      "meal-prep"
+      "oats",
+      "pilaf"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 20,
     "shard": "u"
   },
   {
