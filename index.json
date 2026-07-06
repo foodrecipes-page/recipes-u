@@ -1739,16 +1739,15 @@
   },
   {
     "slug": "umami-egg-heimat",
-    "title": "Umami-Egg-Heimat",
+    "title": "Umami Heimat Frittata",
     "tags": [
-      "umami",
-      "tender",
-      "nostalgic",
-      "german",
-      "low-carb"
+      "breakfast",
+      "eggs",
+      "heimat",
+      "umami"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 20,
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
@@ -5932,17 +5931,15 @@
   },
   {
     "slug": "unique-glassy-australian-spring-onions-skillet",
-    "title": "Unique Glassy Australian Spring Onions Skillet",
+    "title": "Pan-Seared Australian Spring Onions with Skillet-Seared Unique Onions",
     "tags": [
       "australian",
-      "fodmap-friendly",
-      "gluten-free",
-      "kid-friendly",
-      "one-pan",
-      "weeknight"
+      "spring-onions",
+      "unique-onions",
+      "side-dish"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "u"
   },
   {
