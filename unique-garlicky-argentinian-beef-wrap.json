@@ -1,0 +1,85 @@
+{
+  "slug": "unique-garlicky-argentinian-beef-wrap",
+  "title": "Argentinian Beef Wrap",
+  "description": "A flavorful and juicy beef wrap inspired by the flavors of Argentina. This recipe features grilled beef served in a crispy wrap with a tangy sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 lb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Argentinian Chimichurri Sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "Garlicky Mayo",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Unique Spices",
+      "amount": "1 tsp",
+      "notes": "paprika, cumin, and oregano"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the beef with unique spices, salt, and pepper.",
+    "Grill the beef for 5-6 minutes per side, or until cooked to your liking.",
+    "Let the beef rest for 5 minutes before slicing thinly.",
+    "Warm the wrap in the microwave or on the grill.",
+    "Spread the garlicky mayo on the wrap.",
+    "Add the sliced beef on top of the mayo.",
+    "Drizzle the Argentinian chimichurri sauce over the beef.",
+    "Garnish with chopped cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "wrap",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-garlicky-argentinian-beef-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:01:44.031Z"
+}
