@@ -1,0 +1,77 @@
+{
+  "slug": "umami-greek-smoked-mackerel-wrap",
+  "title": "Smoked Mackerel Wrap",
+  "description": "A delicious and easy-to-make wrap with smoked mackerel, umami flavor, and a hint of Greek taste.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Mackerel",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Greek Wrap",
+      "amount": "4 wraps",
+      "notes": ""
+    },
+    {
+      "name": "Umami Sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Place the smoked mackerel fillets on a baking sheet and bake for 8-10 minutes, or until heated through.",
+    "3. Meanwhile, toast the Greek wrap in a toaster or under the broiler for a few seconds.",
+    "4. Spread 1 tablespoon of Umami Sauce on each wrap.",
+    "5. Add a piece of smoked mackerel on each wrap, followed by lettuce, tomato, red onion, and cucumber.",
+    "6. Season with salt and pepper to taste.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "greek",
+    "seafood",
+    "easy-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-greek-smoked-mackerel-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:41:42.036Z"
+}
