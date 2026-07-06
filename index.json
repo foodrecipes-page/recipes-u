@@ -2295,14 +2295,16 @@
   },
   {
     "slug": "umami-japanese-paneer-tonkotsu-ramen",
-    "title": "Umami Japanese Paneer Tonkotsu Ramen",
+    "title": "Tonkotsu Ramen with Japanese-Style Paneer",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "ramen",
+      "tonkotsu",
+      "paneer",
+      "umami",
+      "japanese"
     ],
-    "cuisine": "japanese",
-    "totalTimeMin": 45,
+    "cuisine": "Japanese",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -5845,16 +5847,15 @@
   },
   {
     "slug": "unique-garlicky-argentinian-beef-wrap",
-    "title": "Unique Garlicky Argentinian Beef Wrap",
+    "title": "Argentinian Beef Wrap",
     "tags": [
       "argentinian",
-      "beef-wrap",
-      "garlicky",
-      "mediterranean-friendly",
-      "romantic"
+      "beef",
+      "wrap",
+      "grilled"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 22,
     "shard": "u"
   },
   {
