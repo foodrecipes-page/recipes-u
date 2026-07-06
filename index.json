@@ -3807,16 +3807,14 @@
   },
   {
     "slug": "unctuous-shaggy-venezuelan-beef-stew",
-    "title": "Unctuous Shaggy Venezuelan Beef Stew",
+    "title": "Beef Stew",
     "tags": [
-      "beef-stew",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "stew",
+      "latin american"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 180,
+    "cuisine": "latin american",
+    "totalTimeMin": 160,
     "shard": "u"
   },
   {
