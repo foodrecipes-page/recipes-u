@@ -1,0 +1,74 @@
+{
+  "slug": "unctuous-shaggy-venezuelan-beef-stew",
+  "title": "Beef Stew",
+  "description": "A hearty beef stew with tender beef and a rich, flavorful broth.",
+  "cuisine": "latin american",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 can",
+      "notes": "14.5 oz diced tomatoes"
+    },
+    {
+      "name": "unctuous",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "shaggy",
+      "amount": "1 large",
+      "notes": "onion, chopped"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the cumin and cook for 1 minute.",
+    "Add the diced tomatoes and beef broth, and stir to combine.",
+    "Bring the stew to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 150,
+  "totalTimeMin": 160,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "latin american"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "30g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-shaggy-venezuelan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:06:07.218Z"
+}
