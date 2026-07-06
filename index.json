@@ -2168,16 +2168,15 @@
   },
   {
     "slug": "umami-greek-smoked-mackerel-wrap",
-    "title": "Umami Greek Smoked Mackerel Wrap",
+    "title": "Smoked Mackerel Wrap",
     "tags": [
+      "fish",
       "greek",
-      "kid-friendly",
-      "nut-free",
-      "velvety",
-      "wrap"
+      "seafood",
+      "easy-meal"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "u"
   },
   {
@@ -3769,14 +3768,13 @@
     "slug": "unctuous-pillowy-german-pork-casserole",
     "title": "German Pork Casserole",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "one-pot",
-      "pork-recipes",
-      "weeknight-dinners"
+      "german",
+      "pork",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "German",
-    "totalTimeMin": 150,
+    "totalTimeMin": 170,
     "shard": "u"
   },
   {
