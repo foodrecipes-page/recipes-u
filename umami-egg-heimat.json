@@ -1,0 +1,57 @@
+{
+  "slug": "umami-egg-heimat",
+  "title": "Umami Heimat Frittata",
+  "description": "A rich and savory egg dish packed with the bold flavors of umami and heimat.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Umami",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "4",
+      "notes": "large eggs"
+    },
+    {
+      "name": "Heimat",
+      "amount": "2 cups",
+      "notes": "chopped fresh heimat leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk eggs in a bowl and set aside.",
+    "In a large skillet, heat 1 tsp of umami over medium heat.",
+    "Add chopped heimat and cook until wilted.",
+    "Pour whisked eggs over the heimat mixture.",
+    "Transfer skillet to the preheated oven and bake for 20-25 minutes.",
+    "Remove from oven and let cool for a few minutes.",
+    "Slice into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "heimat",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-egg-heimat",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:09:18.699Z"
+}
