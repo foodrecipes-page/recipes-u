@@ -1,0 +1,66 @@
+{
+  "slug": "unique-glassy-australian-spring-onions-skillet",
+  "title": "Pan-Seared Australian Spring Onions with Skillet-Seared Unique Onions",
+  "description": "A flavorful and savory side dish featuring the sweetness of spring onions and unique onions, seared to perfection in a skillet.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Australian spring onions",
+      "amount": "4-5",
+      "notes": ""
+    },
+    {
+      "name": "unique onions",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "glassy oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat glassy oil in a large skillet over medium-high heat.",
+    "Add the unique onions and sear for 2-3 minutes on each side, or until caramelized.",
+    "Add the Australian spring onions to the skillet and sear for an additional 2 minutes, or until slightly softened.",
+    "Season with salt and pepper to taste.",
+    "Serve the onions hot, garnished with additional spring onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "spring-onions",
+    "unique-onions",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-glassy-australian-spring-onions-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:36:02.557Z"
+}
