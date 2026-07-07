@@ -3948,17 +3948,14 @@
   },
   {
     "slug": "under-fire-glazed-ethiopian-pork-chops-tagine",
-    "title": "Under-fire-glazed Ethiopian Pork Chops Tagine",
+    "title": "Ethiopian-Style Glazed Pork Chops with Underwood Tagine",
     "tags": [
-      "adventurous",
-      "ethiopian",
-      "high-protein",
-      "one-pan",
-      "pork",
-      "weeknight"
+      "ethiopian-style",
+      "glazed-pork-chops",
+      "tagine-spice-blend"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -7185,16 +7182,14 @@
   },
   {
     "slug": "unique-ultra-welsh-blackberries-shepherds-pie",
-    "title": "Unique Ultra Welsh Blackberries Shepherds Pie",
+    "title": "Welsh Shepherd's Pie",
     "tags": [
-      "blackberries",
-      "high-protein",
-      "low-calorie",
-      "post-workout",
+      "british",
+      "lamb",
       "shepherds-pie",
-      "welsh-cuisine"
+      "mashed-potatoes"
     ],
-    "cuisine": "Welsh",
+    "cuisine": "British",
     "totalTimeMin": 45,
     "shard": "u"
   },
