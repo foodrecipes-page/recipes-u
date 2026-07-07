@@ -1,0 +1,78 @@
+{
+  "slug": "unique-creamy-german-paneer-casserole",
+  "title": "German Paneer Casserole",
+  "description": "A creamy, savory casserole featuring paneer cheese and unique flavor profiles.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "Unique mushrooms",
+      "amount": "200g"
+    },
+    {
+      "name": "German sausage",
+      "amount": "100g",
+      "notes": "remove casing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Creme fraiche",
+      "amount": "300ml"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Sauté the onion and garlic until softened.",
+    "Add the German sausage and cook until browned.",
+    "Add the unique mushrooms and cook until they release their liquid.",
+    "Stir in creme fraiche and bring to a simmer.",
+    "Add the paneer cheese and stir until melted.",
+    "Season with salt and pepper to taste.",
+    "Transfer the mixture to a baking dish and top with chopped parsley.",
+    "Bake for 20-25 minutes, or until golden brown and bubbly.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "paneer",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-creamy-german-paneer-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:50:43.359Z"
+}
