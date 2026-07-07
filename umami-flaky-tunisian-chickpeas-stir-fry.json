@@ -1,0 +1,67 @@
+{
+  "slug": "umami-flaky-tunisian-chickpeas-stir-fry",
+  "title": "Tunisian Chickpea Stir Fry",
+  "description": "A flavorful and nutritious stir fry dish originating from Tunisia, made with chickpeas and a blend of spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "flaky",
+      "amount": "2 tablespoons",
+      "notes": "crushed flaky pastry for garnish"
+    },
+    {
+      "name": "umami",
+      "amount": "1 tablespoon",
+      "notes": "soy sauce or tamari for flavor"
+    },
+    {
+      "name": "tunisian",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin and coriander blend"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "olive or vegetable oil for frying"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add Tunisian spice blend and stir for 1 minute.",
+    "Add chickpeas and stir to coat with spice blend.",
+    "Add soy sauce and stir to combine.",
+    "Reduce heat to medium-low and simmer for 5 minutes.",
+    "Garnish with crushed flaky pastry.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpeas",
+    "north-african",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-flaky-tunisian-chickpeas-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:09:12.032Z"
+}
