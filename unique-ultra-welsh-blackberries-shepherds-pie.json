@@ -1,0 +1,86 @@
+{
+  "slug": "unique-ultra-welsh-blackberries-shepherds-pie",
+  "title": "Welsh Shepherd's Pie",
+  "description": "A classic British dish made with ground lamb, vegetables, and topped with a layer of mashed potatoes. A hearty and comforting meal for a chilly evening.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unique lamb",
+      "amount": "500g",
+      "notes": "ground"
+    },
+    {
+      "name": "ultra onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "welsh carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "blackberries",
+      "amount": "100g",
+      "notes": "fresh or frozen, for added sweetness"
+    },
+    {
+      "name": "shepherds pie mix",
+      "amount": "1 can",
+      "notes": "optional"
+    },
+    {
+      "name": "unique potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "milk",
+      "amount": "250ml",
+      "notes": "whole or low-fat"
+    },
+    {
+      "name": "unique butter",
+      "amount": "50g",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a large pan over medium heat, cook the lamb until browned, breaking it up with a spoon as it cooks.",
+    "Add the chopped onions and cook until softened.",
+    "Add the chopped carrots and cook for a further 5 minutes.",
+    "If using, stir in the canned pie mix. Season with salt and pepper to taste.",
+    "Meanwhile, boil the chopped potatoes in a large pot of salted water until tender.",
+    "Drain the potatoes and return them to the pot. Add the milk, butter, and mash until smooth.",
+    "Transfer the lamb mixture to a 20x20cm baking dish. Top with the mashed potatoes.",
+    "Bake in the preheated oven for 25-30 minutes, or until the potatoes are golden brown.",
+    "Serve hot, garnished with fresh blackberries if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "lamb",
+    "shepherds-pie",
+    "mashed-potatoes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-ultra-welsh-blackberries-shepherds-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T02:57:00.216Z"
+}
