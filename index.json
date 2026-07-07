@@ -5122,15 +5122,14 @@
   },
   {
     "slug": "unique-creamy-german-paneer-casserole",
-    "title": "Unique Creamy German Paneer Casserole",
+    "title": "German Paneer Casserole",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "german",
+      "paneer",
+      "casserole",
+      "vegetarian"
     ],
-    "cuisine": "German",
+    "cuisine": "german",
     "totalTimeMin": 50,
     "shard": "u"
   },
