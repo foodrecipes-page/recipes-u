@@ -1,0 +1,112 @@
+{
+  "slug": "unique-umami-polish-paccheri-pasta",
+  "title": "Paccheri Bolognese Recipe",
+  "description": "A classic Italian pasta dish featuring paccheri, a type of tubular pasta originating from Campania, paired with a rich and meaty bolognese sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12 oz paccheri",
+      "notes": "tubular pasta"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "28 oz",
+      "notes": "san marzano"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of salted water to a boil and cook the paccheri according to package instructions until al dente.",
+    "2. In a large skillet, heat 2 tbsp of olive oil over medium heat and cook the ground beef until browned, breaking it up with a spoon as it cooks.",
+    "3. Add the chopped onion, carrot, and celery to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "4. Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "5. Add the tomato paste to the skillet and cook for 1-2 minutes, until fragrant.",
+    "6. Add the canned crushed tomatoes, red wine, and beef broth to the skillet and stir to combine.",
+    "7. Bring the sauce to a simmer and cook for 10-15 minutes, stirring occasionally, until the sauce has thickened and the flavors have melded together.",
+    "8. Stir in the grated parmesan cheese and season the sauce with salt and black pepper to taste.",
+    "9. Reserve 1 cup of pasta water and then drain the cooked paccheri.",
+    "10. Add the cooked paccheri to the skillet with the bolognese sauce and toss to combine, adding some reserved pasta water if the sauce seems too thick.",
+    "11. Serve the paccheri hot, topped with additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "bolognese",
+    "ground-beef",
+    "tomato-sauce"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 43,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-polish-paccheri-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T04:50:33.783Z"
+}
