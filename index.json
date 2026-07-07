@@ -1938,16 +1938,14 @@
   },
   {
     "slug": "umami-flaky-tunisian-chickpeas-stir-fry",
-    "title": "Umami Flaky Tunisian Chickpeas Stir-fry",
+    "title": "Tunisian Chickpea Stir Fry",
     "tags": [
-      "umami",
-      "flaky",
-      "tunisian",
-      "stir-fry",
-      "vegan-friendly"
+      "chickpeas",
+      "north-african",
+      "vegetarian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 20,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -3167,16 +3165,14 @@
   },
   {
     "slug": "umami-velvety-mushroom-french-stir-fry",
-    "title": "Umami Velvety Mushroom French Stir-fry",
+    "title": "French Mushroom Stir Fry",
     "tags": [
-      "umami",
-      "velvety",
-      "one-pot",
       "french",
-      "plant-based"
+      "mushroom",
+      "veggie-fry"
     ],
     "cuisine": "French",
-    "totalTimeMin": 50,
+    "totalTimeMin": 20,
     "shard": "u"
   },
   {
@@ -7491,17 +7487,16 @@
   },
   {
     "slug": "unique-umami-polish-paccheri-pasta",
-    "title": "Unique Umami Polish Paccheri Pasta",
+    "title": "Paccheri Bolognese Recipe",
     "tags": [
-      "mushroom-based",
-      "one-pot",
-      "pasta-dish",
-      "umami",
-      "vegetarian",
-      "weeknight"
+      "italian",
+      "pasta",
+      "bolognese",
+      "ground-beef",
+      "tomato-sauce"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
