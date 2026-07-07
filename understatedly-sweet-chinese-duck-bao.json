@@ -1,0 +1,85 @@
+{
+  "slug": "understatedly-sweet-chinese-duck-bao",
+  "title": "Pan-Seared Duck Bao with Hoisin Glaze",
+  "description": "A twist on the classic Chinese bao, this recipe features pan-seared duck breast served in a soft, fluffy bun with a sweet and sticky hoisin glaze.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "4"
+    },
+    {
+      "name": "Bao buns",
+      "amount": "4"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck breast with salt and sesame oil.",
+    "Pan-sear the duck breast in a hot skillet until browned on both sides.",
+    "Transfer the duck to the oven and cook until the internal temperature reaches 135°F (57°C).",
+    "Meanwhile, combine hoisin sauce, brown sugar, soy sauce, and rice vinegar in a small saucepan.",
+    "Bring the glaze to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Slice the cooked duck into thin strips.",
+    "Split the bao buns in half and toast until lightly browned.",
+    "Assemble the bao by spreading a layer of hoisin glaze on the bottom bun, followed by a few slices of duck, some scallions, and a sprinkle of ginger.",
+    "Top with the top bun and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "duck",
+    "bao",
+    "hoisin-glaze"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/understatedly-sweet-chinese-duck-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T20:47:52.958Z"
+}
