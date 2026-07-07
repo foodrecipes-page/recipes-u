@@ -1,0 +1,80 @@
+{
+  "slug": "ultimate-hangover-cure-peruvian-roast-rocoto-relleno",
+  "title": "Peruvian Rocoto Relleno",
+  "description": "A traditional Peruvian dish featuring stuffed rocoto peppers with a mix of beef and pork, served with a tangy tomato sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rocoto peppers",
+      "amount": "4"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "2"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut off the tops of the rocoto peppers and remove seeds and membranes.",
+    "3. In a large skillet, cook the ground beef and pork over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "4. Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "5. Stir in the tomato sauce, aji amarillo pepper, and cumin. Season with salt to taste.",
+    "6. Stuff each rocoto pepper with the meat mixture and top with the pepper tops.",
+    "7. Place the stuffed peppers in a baking dish and bake for 25-30 minutes, or until the peppers are tender.",
+    "8. Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "rocoto",
+    "relleno",
+    "stuffed-peppers",
+    "beef-pork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultimate-hangover-cure-peruvian-roast-rocoto-relleno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:55:53.100Z"
+}
