@@ -1,0 +1,83 @@
+{
+  "slug": "umami-dense-croatian-spinach-casserole",
+  "title": "Croatian Spinach Casserole",
+  "description": "A hearty, comforting dish featuring layers of spinach, umami flavors, and a dense casserole crust. Perfect for a cozy dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spinach",
+      "amount": "2 cups fresh, chopped",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Umami",
+      "amount": "2 tablespoons umami paste",
+      "notes": "Optional, adjust to taste"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup dense casserole crumbs",
+      "notes": "Make your own or use store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing casserole crust"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Feta cheese (optional)",
+      "amount": "1/2 cup crumbled",
+      "notes": "Optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add chopped spinach and cook until wilted.",
+    "Stir in umami paste (if using) and season with salt and pepper.",
+    "In a separate bowl, mix casserole crumbs and feta cheese (if using).",
+    "In a greased 9x13-inch baking dish, create a layer of casserole crumbs.",
+    "Top with wilted spinach mixture.",
+    "Repeat layers one more time, ending with a layer of casserole crumbs.",
+    "Brush top crust with olive oil and season with salt and pepper.",
+    "Bake for 25-30 minutes, or until casserole crust is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "spinach",
+    "casserole",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-dense-croatian-spinach-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T05:55:14.294Z"
+}
