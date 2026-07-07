@@ -1,0 +1,93 @@
+{
+  "slug": "understated-earthy-italian-haddock-trofie",
+  "title": "Haddock Trofie with Italian Earthy Flair",
+  "description": "A simple yet flavorful Italian dish featuring haddock and understated earthy tones.",
+  "cuisine": "Italian",
+  "diet": [
+    "Fish",
+    "Seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haddock fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Trofie pasta",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook trofie pasta according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add garlic and sauté for 1-2 minutes until fragrant.",
+    "Add haddock fillets and cook for 3-4 minutes per side until cooked through.",
+    "Remove haddock from skillet and set aside.",
+    "Add cherry tomatoes to the skillet and cook for 2-3 minutes until they start to release their juices.",
+    "Stir in reserved pasta water, salt, and black pepper.",
+    "Add cooked trofie pasta to the skillet and toss to combine with the tomato mixture.",
+    "Slice cooked haddock into chunks and return to the skillet.",
+    "Toss to combine with the pasta and top with lemon wedges and parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "haddock",
+    "trofie",
+    "italian",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/understated-earthy-italian-haddock-trofie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:48:50.623Z"
+}
