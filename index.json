@@ -1556,14 +1556,14 @@
   },
   {
     "slug": "umami-crunchy-pao-verde",
-    "title": "Umami Crunchy Pao Verde",
+    "title": "Pao Verde Crunch",
     "tags": [
-      "umami",
-      "crunchy",
-      "pao verde"
+      "snack",
+      "vegetarian",
+      "finger-food"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 20,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "u"
   },
   {
@@ -4415,16 +4415,15 @@
   },
   {
     "slug": "unforgettable-mediterranean-vegetable-salad",
-    "title": "Unforgettable Mediterranean Vegetable Salad",
+    "title": "Mediterranean Salad",
     "tags": [
-      "easy-to-make",
-      "healthy-snack",
-      "low-carb",
-      "mediterranean-inspired",
-      "vegetarian-friendly"
+      "mediterranean",
+      "salad",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "u"
   },
   {
