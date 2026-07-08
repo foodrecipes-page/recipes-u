@@ -1,0 +1,71 @@
+{
+  "slug": "umami-crunchy-pao-verde",
+  "title": "Pao Verde Crunch",
+  "description": "A delightful combination of crunchy and savory flavors, all wrapped up in a delicious verde sauce.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Umami paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Crunchy vegetable slaw",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Pao bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Verde sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the pao bread into cubes.",
+    "Toss the bread cubes with umami paste until well coated.",
+    "Spread the crunchy vegetable slaw on a baking sheet.",
+    "Bake the slaw for 5-7 minutes or until crispy.",
+    "In a separate pan, toast the bread cubes for 2-3 minutes or until golden brown.",
+    "In a bowl, mix together the verde sauce and lime juice.",
+    "To assemble, place a toasted bread cube on a plate, top with crunchy slaw, and drizzle with verde sauce.",
+    "Repeat the layers two more times, finishing with a drizzle of verde sauce on top.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "vegetarian",
+    "finger-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-crunchy-pao-verde",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:07:32.597Z"
+}
