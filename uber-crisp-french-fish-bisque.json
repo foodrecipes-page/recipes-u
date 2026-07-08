@@ -1,0 +1,72 @@
+{
+  "slug": "uber-crisp-french-fish-bisque",
+  "title": "Crispy French Fish Bites",
+  "description": "A crispy and flavorful snack or appetizer made with tender fish and a side of creamy bisque.",
+  "cuisine": "French",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fish",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "bisque",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "uber",
+      "amount": "1/2 cup",
+      "notes": "Crushed for breading"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup",
+      "notes": "Crushed for breading"
+    },
+    {
+      "name": "french",
+      "amount": "2 eggs",
+      "notes": "Beaten for egg wash"
+    },
+    {
+      "name": "oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F.",
+    "In a bowl, mix together crushed Uber and Crisp.",
+    "In a separate bowl, beat eggs for egg wash.",
+    "Dip fish cubes into egg wash and then coat with Uber-Crisp mixture.",
+    "Fry fish bites in hot oil until golden brown and crispy.",
+    "Drain on paper towels and serve hot with bisque."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "deep-fried",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uber-crisp-french-fish-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:26:20.396Z"
+}
