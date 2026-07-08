@@ -1,0 +1,71 @@
+{
+  "slug": "umami-creamy-argentinian-tofu-stir-fry",
+  "title": "Umami Stir Fry with Tofu",
+  "description": "A quick and easy recipe combining the savory flavors of umami and argentinian seasonings with the crispiness of stir-fried tofu.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "umami sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "argentinian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and bell pepper and stir-fry until they start to soften.",
+    "Add the tofu and stir-fry until it is golden brown on all sides.",
+    "Add the umami sauce and argentinian seasoning, and stir-fry for another minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "umami",
+    "tofu",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-creamy-argentinian-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:54:15.979Z"
+}
