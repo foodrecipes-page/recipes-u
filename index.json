@@ -47,17 +47,15 @@
   },
   {
     "slug": "uber-crisp-french-fish-bisque",
-    "title": "Uber Crisp French Fish Bisque",
+    "title": "Crispy French Fish Bites",
     "tags": [
-      "bisque",
-      "crisp",
       "fish",
-      "keto",
-      "one-pan",
-      "weeknight"
+      "deep-fried",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 23,
     "shard": "u"
   },
   {
@@ -8225,18 +8223,14 @@
   },
   {
     "slug": "untouched-fluffy-vietnamese-chicken-pho-ga",
-    "title": "Untouched Fluffy Vietnamese Chicken Pho Ga",
+    "title": "Vietnamese Chicken Pho",
     "tags": [
-      "banana-leaf",
-      "floral",
-      "fluffy",
-      "lacto-vegetarian",
-      "noodle-soup",
-      "stone-bowl",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "chicken",
+      "noodle-soup"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
