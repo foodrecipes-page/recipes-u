@@ -5252,16 +5252,16 @@
   },
   {
     "slug": "unique-crisp-vietnamese-tofu-noodles",
-    "title": "Unique Crisp Vietnamese Tofu Noodles",
+    "title": "Vietnamese Tofu Noodle Soup",
     "tags": [
-      "coconut-cream-based",
-      "lazy-sunday",
-      "one-pan-meal",
-      "vegan-recipes",
-      "vietnamese-food"
+      "soup",
+      "lunch",
+      "noodles",
+      "tofu",
+      "vietnamese"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -9001,14 +9001,14 @@
   },
   {
     "slug": "uzurpified-turkish-lemon-grass-pilaf",
-    "title": "Uzurpified Turkish Lemon Grass Pilaf",
+    "title": "Lemon Pilaf with Herbs",
     "tags": [
-      "grassy",
-      "light",
-      "paleo-friendly"
+      "lemon pilaf",
+      "herbal pilaf",
+      "mediterranean cuisine"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
