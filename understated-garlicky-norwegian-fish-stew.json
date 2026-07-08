@@ -1,0 +1,91 @@
+{
+  "slug": "understated-garlicky-norwegian-fish-stew",
+  "title": "Norwegian Fish Stew",
+  "description": "A hearty and flavorful stew originating from Norway, made with fresh fish and a variety of vegetables.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, 6 oz each"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Medium-sized, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": "Medium-sized, peeled and chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "Medium-sized, peeled and chopped"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the cod fillets and cook for 2-3 minutes on each side, until browned.",
+    "Add the potatoes, carrots, thyme, salt, and pepper. Stir to combine.",
+    "Pour in the fish stock and white wine (if using). Bring to a boil, then reduce the heat to low and simmer for 10-12 minutes, until the fish is cooked through and the vegetables are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "norwegian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/understated-garlicky-norwegian-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:40:43.283Z"
+}
