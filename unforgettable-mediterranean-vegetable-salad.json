@@ -1,0 +1,78 @@
+{
+  "slug": "unforgettable-mediterranean-vegetable-salad",
+  "title": "Mediterranean Salad",
+  "description": "A fresh and flavorful salad inspired by the Mediterranean region, perfect for a light meal or as a side dish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "1 medium, sliced",
+      "notes": "preferably seedless"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, sliced",
+      "notes": "any color bell pepper works"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large, diced",
+      "notes": "preferably heirloom or cherry tomatoes"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 medium, thinly sliced",
+      "notes": "optional"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sliced cucumber, red bell pepper, and red onion (if using).",
+    "Top the vegetables with the diced tomato and crumbled feta cheese (if using).",
+    "In a small bowl, whisk together the olive oil and lemon juice.",
+    "Drizzle the dressing over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "salad",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unforgettable-mediterranean-vegetable-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:22:36.112Z"
+}
