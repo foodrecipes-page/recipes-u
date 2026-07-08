@@ -1,0 +1,71 @@
+{
+  "slug": "umbrous-and-tender-venezuelan-pandan-leaf-wrap",
+  "title": "Pan-Seared Venezuelan Wrap",
+  "description": "A flavorful and easy-to-make dish featuring umbrous, tender venezuelan meats wrapped in a delicate pandan leaf.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Umbrous meat",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Tender venezuelan meat",
+      "amount": "1/2 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Pandan leaf",
+      "amount": "2 leaves",
+      "notes": "Large, fresh leaves"
+    },
+    {
+      "name": "Andes seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Available at most Latin American markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Season the umbrous meat with Andes seasoning, salt, and pepper.",
+    "Add 1 tablespoon olive oil to the skillet and sear the umbrous meat until browned, about 3-4 minutes.",
+    "Add the tender venezuelan meat to the skillet and cook until browned, about 2-3 minutes.",
+    "Wrap the cooked meats in the pandan leaves, securing with toothpicks if necessary.",
+    "Heat the remaining 1 tablespoon olive oil in the skillet and sear the wrapped meats for an additional 2-3 minutes.",
+    "Serve hot, garnished with additional Andes seasoning if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "latin american",
+    " venezuelan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umbrous-and-tender-venezuelan-pandan-leaf-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T02:57:08.188Z"
+}
