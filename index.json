@@ -4744,17 +4744,15 @@
   },
   {
     "slug": "unique-bitter-jamaican-teque-nos-stew",
-    "title": "Unique Bitter Jamaican Teque Nos Stew",
+    "title": "Jamaican Beef Stew",
     "tags": [
-      "bitter-foods",
-      "diabetic-friendly",
-      "energizing-meals",
-      "jamaican-cuisine",
-      "low-carb",
-      "slow-cooked"
+      "beef",
+      "stew",
+      "jamaican",
+      "caribbean"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 110,
     "shard": "u"
   },
   {
@@ -6233,17 +6231,15 @@
   },
   {
     "slug": "unique-mustardy-jamaican-kidney-beans-tagine",
-    "title": "Unique Mustardy Jamaican Kidney Beans Tagine",
+    "title": "Jamaican Kidney Bean Stew",
     "tags": [
-      "high-protein",
-      "jamaican-cuisine",
-      "one-pot",
-      "post-workout",
-      "tagine",
+      "stew",
+      "caribbean",
+      "beans",
       "vegetarian"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
