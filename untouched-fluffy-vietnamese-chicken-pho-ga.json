@@ -1,0 +1,80 @@
+{
+  "slug": "untouched-fluffy-vietnamese-chicken-pho-ga",
+  "title": "Vietnamese Chicken Pho",
+  "description": "A classic Vietnamese noodle soup made with chicken, vegetables, and fragrant spices. This recipe serves 4 and can be prepared in under an hour.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "pho spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fluffy rice noodles",
+      "amount": "1 pound"
+    },
+    {
+      "name": "ga broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine chicken and pho spice mix in a bowl. Set aside.",
+    "Heat ga broth in a large pot over medium-high heat.",
+    "Add onion and ginger to the pot and cook for 5 minutes.",
+    "Add chicken to the pot and cook until browned, about 5-7 minutes.",
+    "Add rice noodles to the pot and cook for 2-3 minutes, or until tender.",
+    "Remove chicken from the pot and shred into bite-sized pieces.",
+    "Return chicken to the pot and stir in bean sprouts.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "noodle-soup"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/untouched-fluffy-vietnamese-chicken-pho-ga",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:45:39.335Z"
+}
