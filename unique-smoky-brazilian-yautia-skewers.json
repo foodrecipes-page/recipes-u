@@ -1,0 +1,78 @@
+{
+  "slug": "unique-smoky-brazilian-yautia-skewers",
+  "title": "Brazilian Smoked Yautia Skewers",
+  "description": "A delicious and unique recipe featuring yautia, a starchy root vegetable, smoked to perfection and served on skewers.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "1 large",
+      "notes": "peeled and cut into 1-inch pieces"
+    },
+    {
+      "name": "unique",
+      "amount": "2 tbsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tbsp",
+      "notes": "liquid smoke"
+    },
+    {
+      "name": "brazilian",
+      "amount": "2 tbsp",
+      "notes": "Brazilian-style seasoning"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread yautia pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together unique, smoky, and brazilian ingredients.",
+    "Brush olive oil onto the yautia pieces and sprinkle with salt and black pepper.",
+    "Brush the mixture from step 3 onto the yautia pieces.",
+    "Grill skewers for 5-7 minutes per side, or until yautia is tender and slightly charred.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "snack",
+    "yautia",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-smoky-brazilian-yautia-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:35:48.414Z"
+}
