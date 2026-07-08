@@ -1,0 +1,73 @@
+{
+  "slug": "uzurpified-turkish-lemon-grass-pilaf",
+  "title": "Lemon Pilaf with Herbs",
+  "description": "A flavorful and aromatic pilaf dish infused with the brightness of lemon and the freshness of herbs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Turkish Uzurpified Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "Fresh Grass",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the pilaf and Turkish uzurpified rice, stir to combine.",
+    "Add the lemon juice, salt, and black pepper, stir to combine.",
+    "Add the chopped grass (if using), stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 20 minutes, or until the liquid has been absorbed and the pilaf is tender.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Optional: Garnish with lemon wedges and chopped grass (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lemon pilaf",
+    "herbal pilaf",
+    "mediterranean cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uzurpified-turkish-lemon-grass-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:28:18.504Z"
+}
