@@ -859,17 +859,14 @@
   },
   {
     "slug": "ultra-spicy-canadian-tourtiere-poutine",
-    "title": "Ultra-spicy Canadian Tourtière Poutine",
+    "title": "Traditional Canadian Tourtière",
     "tags": [
       "canadian",
-      "diabetic-friendly",
-      "hangover-cure",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "meat",
+      "pie"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 180,
+    "cuisine": "French-Canadian",
+    "totalTimeMin": 55,
     "shard": "u"
   },
   {
@@ -1222,16 +1219,15 @@
   },
   {
     "slug": "umami-creamy-argentinian-tofu-stir-fry",
-    "title": "Umami Creamy Argentinian Tofu Stir-fry",
+    "title": "Umami Stir Fry with Tofu",
     "tags": [
-      "argentinian",
-      "umami",
-      "creamy",
       "stir-fry",
-      "vegan"
+      "umami",
+      "tofu",
+      "argentinian"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -3234,19 +3230,14 @@
   },
   {
     "slug": "umbrous-and-tender-venezuelan-pandan-leaf-wrap",
-    "title": "Umbrous and tender venezuelan pandan-leaf wrap",
+    "title": "Pan-Seared Venezuelan Wrap",
     "tags": [
-      "corn-husk-wraps",
-      "easy-to-make",
-      "high-protein",
-      "macrobiotic-friendly",
-      "monsoon-dish",
-      "one-pan",
-      "spicy",
-      "venezuelan-cuisine"
+      "latin american",
+      " venezuelan",
+      "wrap"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 27,
+    "cuisine": "Latin American",
+    "totalTimeMin": 22,
     "shard": "u"
   },
   {
