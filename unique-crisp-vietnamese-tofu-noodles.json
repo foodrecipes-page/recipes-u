@@ -1,0 +1,80 @@
+{
+  "slug": "unique-crisp-vietnamese-tofu-noodles",
+  "title": "Vietnamese Tofu Noodle Soup",
+  "description": "A light and refreshing Vietnamese-inspired noodle soup made with crispy tofu and unique noodles. Perfect for a quick and easy meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block, drained and cubed"
+    },
+    {
+      "name": "unique noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crisp vietnamese spring rolls",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions.",
+    "In a large pot, combine the vegetable broth, soy sauce, fish sauce, and sugar. Bring to a simmer.",
+    "Add the cubed tofu to the pot and cook for 5 minutes.",
+    "Add the chopped spring rolls to the pot and cook for an additional 2 minutes.",
+    "Stir in the lime juice and cook for 1 minute.",
+    "Serve the soup hot, garnished with chopped cilantro.",
+    "Serve the noodles on the side or add them to the soup.",
+    "Taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "lunch",
+    "noodles",
+    "tofu",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crisp-vietnamese-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T18:37:23.901Z"
+}
