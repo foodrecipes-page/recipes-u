@@ -1,0 +1,76 @@
+{
+  "slug": "umami-crunchy-chinese-sweet-potato-stir-fry",
+  "title": "Stir Fry with Crispy Sweet Potato",
+  "description": "A simple and delicious stir fry dish with crispy sweet potato, perfect for a quick weeknight dinner. This recipe combines Asian-inspired flavors with a crunchy twist.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "amount": "1 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Umami Sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Crunchy Stir Fry Mix (Chinese Broccoli & Carrots)",
+      "amount": "1 cup",
+      "notes": "frozen or fresh"
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "1 tsp",
+      "notes": "vegetable or peanut oil"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the cooking oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced sweet potato and cook for 3-4 minutes, or until tender and slightly browned.",
+    "Add the crunchy stir fry mix, umami sauce, soy sauce, ginger, and garlic to the skillet. Stir-fry for 2-3 minutes, or until the vegetables are tender-crisp.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with chopped green onions or sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "sweet-potato",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-crunchy-chinese-sweet-potato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T03:23:59.160Z"
+}
