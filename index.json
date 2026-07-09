@@ -251,17 +251,14 @@
   },
   {
     "slug": "ultimate-fatty-tender-greek-lamb-tagine",
-    "title": "Ultimate Fatty Tender Greek Lamb Tagine",
+    "title": "Braised Lamb Tagine with Fatty Olives",
     "tags": [
-      "gluten-free",
-      "greek",
-      "high-protein",
       "lamb",
-      "one-pan",
-      "weeknight"
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 140,
+    "cuisine": "North African",
+    "totalTimeMin": 200,
     "shard": "u"
   },
   {
@@ -1510,16 +1507,14 @@
   },
   {
     "slug": "umami-crunchy-chinese-sweet-potato-stir-fry",
-    "title": "Umami Crunchy Chinese Sweet Potato Stir-fry",
+    "title": "Stir Fry with Crispy Sweet Potato",
     "tags": [
-      "umami",
-      "crunchy",
-      "meal-prep",
-      "chinese",
-      "hunan",
-      "stir-fry"
+      "stir-fry",
+      "sweet-potato",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Chinese (Hunan)",
+    "cuisine": "Asian",
     "totalTimeMin": 25,
     "shard": "u"
   },
