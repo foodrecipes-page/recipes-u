@@ -1,0 +1,78 @@
+{
+  "slug": "unique-german-sweet-potato-dumplings",
+  "title": "German Sweet Potato Dumplings",
+  "description": "A traditional German dish featuring sweet potato dumplings in a light and fluffy texture.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter, softened",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unique spices (e.g., cinnamon, nutmeg)",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil the sweet potatoes until tender, then mash.",
+    "In a large bowl, combine mashed sweet potatoes, flour, butter, eggs, salt, nutmeg, and unique spices.",
+    "Knead the dough until smooth and elastic.",
+    "Roll out the dough to a thickness of about 1/4 inch.",
+    "Cut into desired shapes, such as circles or squares.",
+    "Bring a large pot of salted water to a boil.",
+    "Gently add the dumplings to the boiling water.",
+    "Cook for 10-15 minutes, or until the dumplings float to the surface.",
+    "Serve hot with your favorite sauce or dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "side-dish",
+    "sweet-potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-german-sweet-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:27:29.503Z"
+}
