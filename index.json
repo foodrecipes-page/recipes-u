@@ -507,16 +507,15 @@
   },
   {
     "slug": "ultra-crispy-ukrainian-eggplant-dumplings",
-    "title": "Ultra Crispy Ukrainian Eggplant Dumplings",
+    "title": "Ukrainian Eggplant Stir Fry",
     "tags": [
-      "crispy",
-      "deli",
-      "fried",
-      "ovo-vegetarian",
-      "ukrainian"
+      "ukrainian",
+      "stir-fry",
+      "eggplant",
+      "dumplings"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "cuisine": "UKRAINIAN",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -3252,18 +3251,16 @@
   },
   {
     "slug": "unapologetic-smoky-basque-french-tofu-eclair",
-    "title": "Unapologetic Smoky Basque French Tofu Eclair",
+    "title": "Smoky Basque Tofu",
     "tags": [
       "basque",
-      "dairy-free",
-      "eclair",
-      "quick",
-      "smoky",
-      "snack",
-      "vegan"
+      "french",
+      "tofu",
+      "veggie",
+      "smoky"
     ],
     "cuisine": "Basque-French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -5103,17 +5100,17 @@
   },
   {
     "slug": "unique-creamy-indian-foie-gras-biryani",
-    "title": "Unique Creamy Indian Foie Gras Biryani",
+    "title": "Creamy Foie Gras Biryani",
     "tags": [
-      "biryani",
-      "dairy-free",
       "foie-gras",
-      "gluten-free",
-      "indian-cuisine",
-      "special-occasion"
+      "biryani",
+      "indian",
+      "creamy",
+      "rich",
+      "dinner"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
@@ -7624,16 +7621,15 @@
   },
   {
     "slug": "unique-umami-vietnamese-tofu-canh-chua",
-    "title": "Unique Umami Vietnamese Tofu Canh Chua",
+    "title": "Vietnamese Tofu Canh",
     "tags": [
-      "date-night",
-      "simmered-dishes",
-      "umami-rich",
-      "vegan-friendly",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "soup",
+      "tofu",
+      "vegetarian"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
