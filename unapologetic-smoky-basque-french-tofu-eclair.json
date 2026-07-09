@@ -1,0 +1,84 @@
+{
+  "slug": "unapologetic-smoky-basque-french-tofu-eclair",
+  "title": "Smoky Basque Tofu",
+  "description": "A flavorful and smoky tofu dish inspired by the cuisine of Basque region, with a French twist.",
+  "cuisine": "Basque-French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "French Baguette",
+      "amount": "1 baguette",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "Unapologetic Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Eclair Cookies",
+      "amount": "4-6",
+      "notes": "crushed for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the French baguette into 1-inch slices.",
+    "Brush both sides of the baguette slices with olive oil.",
+    "Season the tofu with smoky paprika and salt.",
+    "Place the tofu on a baking sheet lined with parchment paper.",
+    "Bake the tofu for 20-25 minutes, or until golden brown.",
+    "In a small saucepan, heat the minced garlic over low heat.",
+    "Simmer the garlic for 5-7 minutes, or until fragrant.",
+    "To assemble the dish, place a toasted baguette slice on a plate.",
+    "Top with a slice of tofu, a spoonful of garlic sauce, and crushed eclair cookies.",
+    "Repeat the layers one more time, finishing with a baguette slice on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "basque",
+    "french",
+    "tofu",
+    "veggie",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unapologetic-smoky-basque-french-tofu-eclair",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:50:25.893Z"
+}
