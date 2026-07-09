@@ -3912,17 +3912,14 @@
   },
   {
     "slug": "unctuous-yeasty-chinese-pork-baozi",
-    "title": "Unctuous Yeasty Chinese Pork Baozi",
+    "title": "Pork Baozi",
     "tags": [
-      "chinese-food",
-      "dairy-free",
-      "homemade-baozi",
-      "pork-recipes",
-      "steamed-baozi",
-      "yeasty-dough"
+      "chinese",
+      "pork",
+      "baozi"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
@@ -5879,15 +5876,12 @@
     "slug": "unique-german-sweet-potato-dumplings",
     "title": "German Sweet Potato Dumplings",
     "tags": [
-      "deep-fried",
-      "german-cuisine",
-      "jain-friendly",
-      "romantic-dinner",
-      "sweet-potato-recipes",
-      "vegetarian-dishes"
+      "german",
+      "side-dish",
+      "sweet-potato"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
