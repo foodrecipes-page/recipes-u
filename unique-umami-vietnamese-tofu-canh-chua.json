@@ -1,0 +1,79 @@
+{
+  "slug": "unique-umami-vietnamese-tofu-canh-chua",
+  "title": "Vietnamese Tofu Canh",
+  "description": "A traditional Vietnamese tofu soup, made with a flavorful broth and topped with fresh herbs. This dish is a staple in Vietnamese cuisine and is often served as a light and comforting meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block, cut into small cubes",
+      "notes": "Extra-firm tofu works best for this recipe"
+    },
+    {
+      "name": "Unique mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": "Use a variety of mushrooms for added depth of flavor"
+    },
+    {
+      "name": "Umami broth",
+      "amount": "4 cups",
+      "notes": "You can also use a combination of chicken and beef broth for added richness"
+    },
+    {
+      "name": "Canh broth",
+      "amount": "2 cups",
+      "notes": "Use a store-bought or homemade canh broth for a rich and savory flavor"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral-tasting oil for frying the tofu"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, sliced",
+      "notes": "Use fresh ginger for added depth of flavor"
+    },
+    {
+      "name": "Chua sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a store-bought or homemade chua sauce for a tangy and sweet flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the sliced ginger and cook for 1-2 minutes, until fragrant.",
+    "Add the sliced mushrooms and cook for 2-3 minutes, until they release their liquid and start to brown.",
+    "Add the tofu and cook for 2-3 minutes, until it starts to brown.",
+    "Pour in the umami broth and canh broth, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10-15 minutes, until the flavors have melded together and the tofu is cooked through.",
+    "Stir in the chua sauce and cook for an additional 2-3 minutes, until the soup has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the soup hot, garnished with fresh herbs and a sprinkle of chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "soup",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-vietnamese-tofu-canh-chua",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:26:59.881Z"
+}
