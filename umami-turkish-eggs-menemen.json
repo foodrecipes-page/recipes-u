@@ -1,0 +1,78 @@
+{
+  "slug": "umami-turkish-eggs-menemen",
+  "title": "Menemen Scramble",
+  "description": "A twist on the traditional Turkish dish, this menemen scramble combines the flavors of spices and herbs with a breakfast favorite.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "beaten"
+    },
+    {
+      "name": "umami",
+      "amount": "1 tsp",
+      "notes": "soy sauce or mushroom extract"
+    },
+    {
+      "name": "turkish spice mix",
+      "amount": "1 tsp",
+      "notes": "or substitute with paprika and cumin"
+    },
+    {
+      "name": "menemen spice",
+      "amount": "1 tsp",
+      "notes": "or substitute with cayenne pepper and black pepper"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the menemen spice and cook for 1 minute, until fragrant.",
+    "Add the beaten eggs and scramble until almost set.",
+    "Add the umami, turkish spice mix, salt, and black pepper, and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the eggs are fully set.",
+    "Serve hot, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "menemen",
+    "turkish",
+    "breakfast",
+    "scramble",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-turkish-eggs-menemen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:29:15.173Z"
+}
