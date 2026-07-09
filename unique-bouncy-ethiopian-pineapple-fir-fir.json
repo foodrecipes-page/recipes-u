@@ -1,0 +1,61 @@
+{
+  "slug": "unique-bouncy-ethiopian-pineapple-fir-fir",
+  "title": "Crispy Fir Fritters with Pineapple Salsa",
+  "description": "A sweet and savory snack made with fir flour and topped with a tangy pineapple salsa.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unique fir flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "ethiopian spices",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oil to 350°F.",
+    "Mix fir flour, spices, and salt in a bowl.",
+    "Add pineapple and mix until combined.",
+    "Drop spoonfuls of mixture into hot oil.",
+    "Fry fritters until golden brown.",
+    "Drain on paper towels.",
+    "Serve with pineapple salsa."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "pineapple-salsa",
+    "sweet-savory"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-bouncy-ethiopian-pineapple-fir-fir",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:24:46.367Z"
+}
