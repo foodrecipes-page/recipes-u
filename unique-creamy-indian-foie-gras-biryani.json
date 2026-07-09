@@ -1,0 +1,97 @@
+{
+  "slug": "unique-creamy-indian-foie-gras-biryani",
+  "title": "Creamy Foie Gras Biryani",
+  "description": "An Indian-inspired dish featuring creamy foie gras in a flavorful biryani.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Foie gras",
+      "amount": "6 ounces",
+      "notes": "frozen"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the basmati rice and soak it in water for 30 minutes. Drain the water and set aside.",
+    "Heat ghee in a pan over medium heat. Add cumin seeds and let them sizzle for a few seconds.",
+    "Add coriander powder, turmeric powder, and salt. Mix well.",
+    "Add the soaked basmati rice to the pan and mix well with the spice mixture.",
+    "Add 2 cups of water to the pan and bring it to a boil.",
+    "Reduce the heat to low, cover the pan with a lid, and cook for 10-12 minutes.",
+    "While the rice is cooking, prepare the foie gras. Thaw it according to the package instructions.",
+    "Season the foie gras with salt and pepper. Heat butter in a pan over medium heat.",
+    "Sear the foie gras for 2-3 minutes on each side. Remove from heat and set aside.",
+    "Once the rice is cooked, fluff it with a fork. Stir in heavy cream.",
+    "To assemble the biryani, place a layer of cooked rice in a serving dish. Top it with a layer of seared foie gras.",
+    "Repeat the layering process until all the ingredients are used up. Garnish with chopped fresh herbs, if desired.",
+    "Serve the Creamy Foie Gras Biryani hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "foie-gras",
+    "biryani",
+    "indian",
+    "creamy",
+    "rich",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 60
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-creamy-indian-foie-gras-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:08:30.412Z"
+}
