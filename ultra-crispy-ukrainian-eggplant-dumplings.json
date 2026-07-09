@@ -1,0 +1,68 @@
+{
+  "slug": "ultra-crispy-ukrainian-eggplant-dumplings",
+  "title": "Ukrainian Eggplant Stir Fry",
+  "description": "A hearty and flavorful stir fry featuring eggplant and Ukrainian dumplings. This dish is perfect for a weeknight dinner.",
+  "cuisine": "UKRAINIAN",
+  "diet": [
+    "VEGETARIAN",
+    "GLUTEN-FREE"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Ukrainian dumplings",
+      "amount": "1 package"
+    },
+    {
+      "name": "Ultra-cooking oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crispy garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the ultra-cooking oil in a large skillet over medium-high heat.",
+    "Add the crispy garlic and cook for 1 minute, until fragrant.",
+    "Add the eggplant and cook for 3-4 minutes, until tender.",
+    "Add the Ukrainian dumplings and stir to combine.",
+    "Pour in the soy sauce and stir to coat.",
+    "Season with salt and pepper to taste.",
+    "Cook for an additional 2-3 minutes, until the dumplings are heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "stir-fry",
+    "eggplant",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-crispy-ukrainian-eggplant-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:36:00.258Z"
+}
