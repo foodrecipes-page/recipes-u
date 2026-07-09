@@ -3078,17 +3078,16 @@
   },
   {
     "slug": "umami-turkish-eggs-menemen",
-    "title": "Umami Turkish Eggs Menemen",
+    "title": "Menemen Scramble",
     "tags": [
-      "high-protein",
-      "macrobiotic",
-      "one-pan",
+      "menemen",
       "turkish",
-      "vegetarian",
-      "weeknight"
+      "breakfast",
+      "scramble",
+      "eggs"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "u"
   },
   {
