@@ -1,0 +1,87 @@
+{
+  "slug": "unique-ethiopian-white-beans-tibs",
+  "title": "Spicy Ethiopian Tibs Stew",
+  "description": "A flavorful and spicy Ethiopian-inspired stew made with tender beef and beans, served with a side of crusty bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin), cut into bite-sized pieces",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Unique Berbere spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White beans (cannellini or navy), drained and rinsed",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Tibs spice blend",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons of vegetable oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add Berbere spice blend and cook for 1 minute.",
+    "Add white beans, Tibs spice blend, salt, and pepper.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Serve hot with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "ethiopian",
+    "spicy",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-ethiopian-white-beans-tibs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T03:34:36.943Z"
+}
