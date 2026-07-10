@@ -1,0 +1,93 @@
+{
+  "slug": "ultra-spicy-spanish-shrimp-gambas-al-ajillo",
+  "title": "Spicy Shrimp in Garlic Sauce",
+  "description": "A flavorful and spicy Spanish-inspired dish featuring succulent shrimp in a rich garlic sauce.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "12 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ultra Al Ajillo Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Spanish Spicy Red Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "White Wine",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fish Stock",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of Ultra Al Ajillo Olive Oil in a large skillet over medium-high heat.",
+    "Add the Shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the Shrimp from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of Ultra Al Ajillo Olive Oil.",
+    "Add the minced Garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the Spanish Spicy Red Pepper Flakes and cook for an additional minute.",
+    "Add the White Wine and Fish Stock to the skillet, scraping up any browned bits from the bottom.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, until slightly reduced.",
+    "Stir in the Fresh Parsley and season with Salt and Fresh Black Pepper to taste.",
+    "Return the Shrimp to the skillet and toss to coat with the garlic sauce.",
+    "Serve the Spicy Shrimp in Garlic Sauce immediately, garnished with additional Fresh Parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "seafood",
+    "shrimp",
+    "garlic",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-spicy-spanish-shrimp-gambas-al-ajillo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T05:17:26.453Z"
+}
