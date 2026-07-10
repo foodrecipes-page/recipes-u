@@ -1,0 +1,58 @@
+{
+  "slug": "ultra-gooey-french-cheese-croquettes",
+  "title": "French Croquettes",
+  "description": "A delicious and easy-to-make snack using French croquettes. Perfect for a quick bite.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "French Croquettes",
+      "amount": "1 package (about 20 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "1 cup (shredded)",
+      "notes": ""
+    },
+    {
+      "name": "Ultra Creamy Sauce",
+      "amount": "1/2 cup (optional)",
+      "notes": "For dipping"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Place the French croquettes on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes or until golden brown.",
+    "While the croquettes are baking, melt the gooey cheese in a saucepan over low heat.",
+    "If desired, mix in the ultra creamy sauce to create a cheesy dip.",
+    "Serve the warm French croquettes with the gooey cheese dip.",
+    "Enjoy your delicious snack!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "snack",
+    "cheese",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-gooey-french-cheese-croquettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:25:12.097Z"
+}
