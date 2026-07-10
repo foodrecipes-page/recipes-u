@@ -1,0 +1,79 @@
+{
+  "slug": "unctuous-mediterranean-eggplant-bake",
+  "title": "Baked Eggplant Mediterranean",
+  "description": "A flavorful and delicious eggplant dish with a Mediterranean twist, perfect for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": "Cut into 1/2-inch thick slices"
+    },
+    {
+      "name": "Unctuous olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "1 tablespoon",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Arrange the eggplant slices on the baking sheet in a single layer.",
+    "Brush the eggplant with olive oil and sprinkle with salt and pepper.",
+    "Bake for 20 minutes.",
+    "Remove from oven and sprinkle with oregano, lemon juice, and red pepper flakes (if using).",
+    "Return to oven and bake for an additional 5-10 minutes, or until the eggplant is tender and lightly browned.",
+    "Remove from oven and sprinkle with Parmesan cheese (if using).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "mediterranean",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-mediterranean-eggplant-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:01:01.842Z"
+}
