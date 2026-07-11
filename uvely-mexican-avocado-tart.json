@@ -1,0 +1,78 @@
+{
+  "slug": "uvely-mexican-avocado-tart",
+  "title": "Crunchy Avocado and Uvely Tarts",
+  "description": "A flavorful and healthy dessert or snack recipe featuring the sweetness of avocados and the crunch of uvely pastry.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Uvely pastry sheets",
+      "amount": "2",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Ripe avocado",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": "To taste"
+    },
+    {
+      "name": "Tart cherries",
+      "amount": "1/4 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the uvely pastry sheets and cut into desired shapes.",
+    "Place the pastry shapes on a baking sheet lined with parchment paper.",
+    "Bake the pastry for 12-15 minutes or until golden brown.",
+    "In a medium bowl, combine diced avocado, lime juice, and honey (if using).",
+    "Spoon the avocado mixture onto the cooled pastry shapes.",
+    "Garnish with diced tart cherries and chopped cilantro (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "avocado",
+    "uvely"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uvely-mexican-avocado-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:20:11.966Z"
+}
