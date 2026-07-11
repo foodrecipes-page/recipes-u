@@ -1,0 +1,81 @@
+{
+  "slug": "unique-dry-saudi-arabian-lamb-kebabs",
+  "title": "Saudi Lamb Kebabs",
+  "description": "A traditional Saudi dish featuring marinated lamb kebabs grilled to perfection. Serve with a side of flatbread or rice.",
+  "cuisine": "Saudi",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "dry Arabian spices",
+      "amount": "2 tsp",
+      "notes": "mix of cumin, coriander, cinnamon, and cardamom"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "onion, thinly sliced",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine lamb cubes, dry Arabian spices, olive oil, lemon juice, garlic, onion, salt, and black pepper. Mix well to coat the lamb evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until they are cooked through and slightly charred.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "lamb",
+    "saudi",
+    "arabian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-dry-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T06:42:04.246Z"
+}
