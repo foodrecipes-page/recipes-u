@@ -1,0 +1,83 @@
+{
+  "slug": "umami-dense-jamaican-snapper-fish-stir-fry",
+  "title": "Pan-Seared Snapper with Jamaican Umami Glaze",
+  "description": "A flavorful and moist snapper dish with a rich Jamaican-inspired glaze. Perfect for a weeknight dinner.",
+  "cuisine": "caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Jamaican umami paste",
+      "amount": "2 tbsp",
+      "notes": "available at most health food stores"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Fish oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the snapper fillets with salt and set aside.",
+    "In a small bowl, mix together the Jamaican umami paste, brown sugar, soy sauce, fish oil, and lime juice.",
+    "Heat a skillet over medium-high heat and add the umami glaze.",
+    "Sear the snapper fillets for 2-3 minutes on each side, or until cooked through.",
+    "Transfer the skillet to the preheated oven and bake for an additional 5-7 minutes, or until the snapper is cooked through.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snapper",
+    "jamaican",
+    "umami",
+    "glaze"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-dense-jamaican-snapper-fish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:07:20.178Z"
+}
