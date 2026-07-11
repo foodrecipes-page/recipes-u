@@ -1,0 +1,67 @@
+{
+  "slug": "umami-flaky-adventurous-spanish-chia-seed-crumble",
+  "title": "Spanish Chia Seed Crumble",
+  "description": "A sweet and crunchy dessert combining the flavors of Spain with the nutritional benefits of chia seeds.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "umami chia seeds",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "crunchy seed toppings",
+      "amount": "1/2 cup",
+      "notes": "choose your favorite seeds"
+    },
+    {
+      "name": "flaky pastry crust",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "adventurous spices",
+      "amount": "1 tsp",
+      "notes": "cinnamon, nutmeg, or cardamom"
+    },
+    {
+      "name": "spanish honey",
+      "amount": "2 tbsp",
+      "notes": "or maple syrup for a vegan option"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry crust and place in a baking dish.",
+    "Mix the chia seeds with spices and honey in a bowl.",
+    "Spoon the chia mixture over the pastry crust.",
+    "Top with seed toppings and bake for 25-30 minutes.",
+    "Let cool and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chia",
+    "seed",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-flaky-adventurous-spanish-chia-seed-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T04:16:40.662Z"
+}
