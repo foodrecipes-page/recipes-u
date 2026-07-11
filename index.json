@@ -1667,14 +1667,15 @@
   },
   {
     "slug": "umami-dense-jamaican-snapper-fish-stir-fry",
-    "title": "Umami Dense Jamaican Snapper Fish Stir-fry",
+    "title": "Pan-Seared Snapper with Jamaican Umami Glaze",
     "tags": [
-      "umami-dense",
-      "jamaican-fish-stir-fry",
-      "hangover-cure-friendly"
+      "snapper",
+      "jamaican",
+      "umami",
+      "glaze"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "caribbean",
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
