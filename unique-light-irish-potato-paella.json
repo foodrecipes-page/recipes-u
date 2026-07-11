@@ -1,0 +1,63 @@
+{
+  "slug": "unique-light-irish-potato-paella",
+  "title": "Light and Easy Irish Paella",
+  "description": "A simplified, one-pot dish that combines the flavors of Ireland with the classic Spanish paella.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "unique potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Irish sausage",
+      "amount": "1 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "paella",
+      "amount": "1 cup",
+      "notes": "uncooked, Spanish-style"
+    }
+  ],
+  "instructions": [
+    "Heat the light olive oil in a large skillet or paella pan over medium heat.",
+    "Add the sliced Irish sausage and cook until browned, about 5 minutes.",
+    "Add the peeled and diced potatoes to the pan and cook for an additional 5 minutes.",
+    "Add the uncooked paella to the pan and stir to combine with the sausage and potatoes.",
+    "Cook the paella for 10-12 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Season with salt and pepper to taste, and serve hot.",
+    "Optional: Garnish with chopped fresh herbs, such as parsley or thyme."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "paella",
+    "one-pot",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-light-irish-potato-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:29:08.123Z"
+}
