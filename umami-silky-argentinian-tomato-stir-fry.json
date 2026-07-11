@@ -1,0 +1,72 @@
+{
+  "slug": "umami-silky-argentinian-tomato-stir-fry",
+  "title": "Argentinian Stir Fry",
+  "description": "A savory and flavorful stir fry dish combining the best of Argentinean ingredients with a dash of umami.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian Stir Fry Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Silky Soy Sauce (or substitute)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Umami Powder (or substitute)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat Argentinian Stir Fry Oil in a large skillet over medium-high heat.",
+    "Add sliced onions and bell peppers; stir-fry until tender.",
+    "Add chopped tomatoes; stir-fry for 2-3 minutes.",
+    "In a small bowl, whisk together silky soy sauce, umami powder, and salt.",
+    "Pour the soy sauce mixture over the vegetables; stir-fry for an additional 2 minutes.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "stir-fry",
+    "vegetarian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-silky-argentinian-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:18:47.697Z"
+}
