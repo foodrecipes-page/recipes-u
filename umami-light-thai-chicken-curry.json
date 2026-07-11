@@ -1,0 +1,83 @@
+{
+  "slug": "umami-light-thai-chicken-curry",
+  "title": "Thai Chicken Curry",
+  "description": "A flavorful and spicy Thai-inspired chicken curry made with a rich and creamy sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Thai curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "umami soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the curry paste to the pan and cook for 1-2 minutes, until fragrant.",
+    "Add the coconut milk, soy sauce, fish sauce, and sugar to the pan, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, until the sauce has thickened.",
+    "Add the chicken back to the pan and cook until heated through.",
+    "Stir in the chicken broth and basil.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "thaicuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-light-thai-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T18:36:35.303Z"
+}
