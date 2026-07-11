@@ -1771,14 +1771,15 @@
   },
   {
     "slug": "umami-flaky-adventurous-spanish-chia-seed-crumble",
-    "title": "Umami Flaky Adventurous Spanish Chia Seed Crumble",
+    "title": "Spanish Chia Seed Crumble",
     "tags": [
-      "umami-flaky",
-      "adventurous-spanish",
-      "chocolate-chia-seed-crumble"
+      "spanish",
+      "chia",
+      "seed",
+      "crumble"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -5646,17 +5647,15 @@
   },
   {
     "slug": "unique-dry-saudi-arabian-lamb-kebabs",
-    "title": "Unique Dry Saudi Arabian Lamb Kebabs",
+    "title": "Saudi Lamb Kebabs",
     "tags": [
-      "crowd-pleaser",
-      "gluten-free",
-      "grilled-meat",
-      "lamb-recipes",
-      "low-glycemic",
-      "middle-eastern"
+      "kebabs",
+      "lamb",
+      "saudi",
+      "arabian"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 40,
+    "cuisine": "Saudi",
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
