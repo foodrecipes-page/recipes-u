@@ -1,0 +1,79 @@
+{
+  "slug": "umami-french-mushroom-terrine",
+  "title": "French Mushroom Terrine",
+  "description": "A rich and earthy terrine made with sautéed mushrooms, perfect for a dinner party.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh mushrooms",
+      "amount": "250g"
+    },
+    {
+      "name": "Umami-rich soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "French bread",
+      "amount": "1 baguette",
+      "notes": "stale or day-old bread works best"
+    },
+    {
+      "name": "Terrine mold",
+      "amount": "1",
+      "notes": "approx. 1L capacity"
+    },
+    {
+      "name": "Parsley",
+      "amount": "fresh, chopped",
+      "notes": "garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C (350°F).",
+    "2. Slice the bread into 1cm thick rounds and toast until lightly browned.",
+    "3. In a pan, melt the butter over medium heat and sauté the mushrooms until they release their moisture and start to brown.",
+    "4. Add the soy sauce (if using) and stir to combine.",
+    "5. In a separate bowl, mix the toasted bread, sautéed mushrooms, and chopped parsley.",
+    "6. Butter the terrine mold and layer the bread mixture, finishing with a layer of bread on top.",
+    "7. Cover the mold with parchment paper and weight with a plate or heavy object.",
+    "8. Refrigerate for at least 2 hours or overnight.",
+    "9. Serve chilled, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-mushroom-terrine",
+    "vegetarian-recipe",
+    "dinner-party-ideas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-french-mushroom-terrine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T00:26:45.596Z"
+}
