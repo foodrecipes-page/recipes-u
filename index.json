@@ -2097,16 +2097,15 @@
   },
   {
     "slug": "umami-gooey-kenyan-lamb-stew",
-    "title": "Umami Gooey Kenyan Lamb Stew",
+    "title": "Kenyan Lamb Stew",
     "tags": [
-      "kenyan-cuisine",
-      "lamb-stew",
-      "fodmap-friendly",
-      "comfort-food",
-      "special-occasion"
+      "african",
+      "lamb",
+      "stew",
+      "kenyan"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 190,
+    "cuisine": "African",
+    "totalTimeMin": 135,
     "shard": "u"
   },
   {
