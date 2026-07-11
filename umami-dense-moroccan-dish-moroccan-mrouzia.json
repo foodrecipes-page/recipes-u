@@ -1,0 +1,96 @@
+{
+  "slug": "umami-dense-moroccan-dish-moroccan-mrouzia",
+  "title": "Moroccan Mrouzia Stew",
+  "description": "A traditional Moroccan stew made with lamb, dried fruits, and spices. Serve warm over couscous for a hearty meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "apricots",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb in batches until browned on all sides, about 5 minutes.",
+    "Add the onions and cook until they start to soften, about 5 minutes.",
+    "Add the carrots and cook until they start to soften, about 5 minutes.",
+    "Add the prunes, apricots, cinnamon, ginger, cumin, and salt. Stir to combine.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until the lamb is tender, about 1 1/2 hours.",
+    "Season with salt to taste.",
+    "Serve warm over couscous, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "lamb",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-dense-moroccan-dish-moroccan-mrouzia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:54:59.306Z"
+}
