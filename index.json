@@ -2763,15 +2763,15 @@
   },
   {
     "slug": "umami-silky-argentinian-tomato-stir-fry",
-    "title": "Umami Silky Argentinian Tomato Stir-fry",
+    "title": "Argentinian Stir Fry",
     "tags": [
-      "umami",
-      "silky",
       "argentinian",
-      "mediterranean-friendly"
+      "stir-fry",
+      "vegetarian",
+      "dinner"
     ],
-    "cuisine": "Argentine-Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
