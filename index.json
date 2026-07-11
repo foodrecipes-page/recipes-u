@@ -17,18 +17,16 @@
   },
   {
     "slug": "u-rich-slow-cooked-andalusi-chickpeas-tapas-platter",
-    "title": "u-rich slow-cooked andalusi chickpeas tapas-platter",
+    "title": "Andalusian Chickpea Tapas",
     "tags": [
-      "andalusian",
-      "chickpea",
-      "plant-based",
-      "spanish",
+      "andalusi",
+      "chickpeas",
       "tapas",
-      "vegan",
-      "weeknight"
+      "spanish",
+      "vegetarian"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 40,
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -2016,20 +2014,14 @@
   },
   {
     "slug": "umami-french-mushroom-terrine",
-    "title": "Umami French Mushroom Terrine",
+    "title": "French Mushroom Terrine",
     "tags": [
-      "umami",
-      "french",
-      "mushroom",
-      "terrine",
-      "jain-friendly",
-      "vegan",
-      "no-root-veg",
-      "blanch",
-      "poppy-seeds"
+      "french-mushroom-terrine",
+      "vegetarian-recipe",
+      "dinner-party-ideas"
     ],
     "cuisine": "French",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
