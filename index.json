@@ -2426,12 +2426,11 @@
   },
   {
     "slug": "umami-light-thai-chicken-curry",
-    "title": "Umami Light Thai Chicken Curry",
+    "title": "Thai Chicken Curry",
     "tags": [
-      "thai-curry",
-      "chicken-recipes",
-      "low-fat",
-      "umami"
+      "chicken",
+      "curry",
+      "thaicuisine"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
