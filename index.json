@@ -6100,17 +6100,15 @@
   },
   {
     "slug": "unique-light-irish-potato-paella",
-    "title": "Unique Light Irish Potato Paella",
+    "title": "Light and Easy Irish Paella",
     "tags": [
-      "irish-cuisine",
-      "jain-friendly",
-      "one-pan",
-      "potato-dish",
-      "spicy",
-      "vegetarian"
+      "irish",
+      "paella",
+      "one-pot",
+      "easy"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
