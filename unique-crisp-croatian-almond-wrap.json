@@ -1,0 +1,79 @@
+{
+  "slug": "unique-crisp-croatian-almond-wrap",
+  "title": "Croatian Wrap",
+  "description": "A delicious and easy-to-make wrap filled with the flavors of Croatia, featuring crispy cabbage and savory ham.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian Almond Flatbread",
+      "amount": "1 piece",
+      "notes": "found in most supermarkets or make your own"
+    },
+    {
+      "name": "Unique Lettuce",
+      "amount": "1 cup",
+      "notes": "crisp and fresh"
+    },
+    {
+      "name": "Crisp Red Cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Sliced Almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 piece",
+      "notes": "large flour tortilla or flatbread"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Add shredded red cabbage and cook until it's slightly caramelized.",
+    "Add sliced almonds and cook for another minute.",
+    "Warm the flatbread in the pan for a few seconds.",
+    "Assemble the wrap by spreading mayonnaise and Dijon mustard on the flatbread, if using.",
+    "Add shredded lettuce on top of the spread.",
+    "Add the cooked cabbage and almond mixture on top of the lettuce.",
+    "Fold the flatbread to enclose the filling.",
+    "Cut in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "almond",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crisp-croatian-almond-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:27:37.323Z"
+}
