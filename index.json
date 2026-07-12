@@ -5151,16 +5151,15 @@
   },
   {
     "slug": "unique-crisp-croatian-almond-wrap",
-    "title": "Unique Crisp Croatian Almond Wrap",
+    "title": "Croatian Wrap",
     "tags": [
-      "corn-husk-recipes",
-      "crunchy-snacks",
-      "mediterranean-diet",
-      "vegetarian-options",
-      "yeast-based"
+      "croatian",
+      "almond",
+      "wrap",
+      "lunch"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 30,
+    "cuisine": "croatian",
+    "totalTimeMin": 15,
     "shard": "u"
   },
   {
