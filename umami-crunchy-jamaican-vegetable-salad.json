@@ -1,0 +1,83 @@
+{
+  "slug": "umami-crunchy-jamaican-vegetable-salad",
+  "title": "Crunchy Jamaican Salad Bites",
+  "description": "A quick and easy snack that combines the flavors of Jamaica with the crunch of fresh vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "1 cup, peeled and grated"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Crunchy Corn Flakes",
+      "amount": "1/4 cup, crushed"
+    },
+    {
+      "name": "Salad Dressing",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Umami Soy Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together grated carrots, sliced cucumber, Jamaican Jerk Seasoning, and shredded Cheddar Cheese.",
+    "In a small bowl, mix together crushed Corn Flakes and Vegetable Oil.",
+    "Add the Corn Flake mixture to the carrot mixture and stir until well combined.",
+    "Transfer the mixture to a mini muffin tin.",
+    "Drizzle with Salad Dressing and Umami Soy Sauce.",
+    "Bake for 12-15 minutes or until the tops are lightly browned.",
+    "Remove from oven and sprinkle with Salt to taste.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 24,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "veggie",
+    "jamaican",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": "3g",
+    "carbs": "15g",
+    "fat": "5g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-crunchy-jamaican-vegetable-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:24:45.524Z"
+}
