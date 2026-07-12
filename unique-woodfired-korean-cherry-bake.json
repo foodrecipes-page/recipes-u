@@ -1,0 +1,93 @@
+{
+  "slug": "unique-woodfired-korean-cherry-bake",
+  "title": "Woodfired Korean Cherry BBQ Ribs",
+  "description": "Sweet and spicy Korean BBQ sauce pairs perfectly with tender woodfired ribs, served with a side of cherry chutney.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Ribs",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Woodfired BBQ Sauce",
+      "amount": "250ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cherry Jam",
+      "amount": "100g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2cm",
+      "notes": ""
+    },
+    {
+      "name": "Cherry Chutney",
+      "amount": "100g",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat woodfired grill to 120°C (250°F).",
+    "In a small bowl, mix together woodfired BBQ sauce, Korean chili flakes, brown sugar, soy sauce, rice vinegar, garlic, and ginger.",
+    "Place the beef ribs on the grill and brush the BBQ sauce mixture evenly over both sides of the ribs.",
+    "Close the grill lid and cook for 2 hours, or until the ribs are tender and caramelized.",
+    "During the last 10 minutes of cooking, brush the ribs with cherry jam and cook until caramelized.",
+    "Remove the ribs from the grill and let rest for 10 minutes before serving.",
+    "Serve with cherry chutney on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "woodfired",
+    "korean",
+    "bbq",
+    "ribs",
+    "cherry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-woodfired-korean-cherry-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:42:48.292Z"
+}
