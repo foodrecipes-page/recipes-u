@@ -446,17 +446,14 @@
   },
   {
     "slug": "ultra-crispy-german-pork-flatbread",
-    "title": "Ultra Crispy German Pork Flatbread",
+    "title": "Crispy Pork German Flatbread",
     "tags": [
-      "crispy",
-      "german-cuisine",
-      "long-fermentation",
-      "no-onion-no-garlic",
-      "pork-belly",
-      "weeknight"
+      "german",
+      "flatbread",
+      "pork"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 55,
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
@@ -1513,17 +1510,15 @@
   },
   {
     "slug": "umami-crunchy-jamaican-vegetable-salad",
-    "title": "Umami Crunchy Jamaican Vegetable Salad",
+    "title": "Crunchy Jamaican Salad Bites",
     "tags": [
-      "crunchy",
+      "snack",
+      "veggie",
       "jamaican",
-      "salad",
-      "umami",
-      "vegetarian",
-      "weeknight"
+      "crunchy"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 52,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "u"
   },
   {
@@ -6422,17 +6417,16 @@
   },
   {
     "slug": "unique-roasted-turkish-deodeok-root-revani",
-    "title": "Unique Roasted Turkish Deodeok Root Revani",
+    "title": "Roasted Root and Deodeok Revani",
     "tags": [
-      "desserts",
-      "gluten-free",
-      "low-carb",
+      "turkish",
+      "dessert",
       "revani",
-      "tagine-pot",
-      "turkish-dishes"
+      "sweet",
+      "savory"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 60,
     "shard": "u"
   },
   {
