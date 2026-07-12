@@ -1,0 +1,68 @@
+{
+  "slug": "umami-flaky-lazy-sunday-casabe-stir-fry",
+  "title": "Lazy Sunday Breakfast",
+  "description": "A simple and delicious breakfast recipe with a twist of umami flavor.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Casabe",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Umami",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Flaky",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sunday",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Cut the casabe into small pieces and place on a baking sheet.",
+    "Drizzle the umami over the casabe and toss to coat.",
+    "Bake in the preheated oven for 10 minutes.",
+    "While the casabe is baking, crack the eggs into a bowl and whisk until scrambled.",
+    "Remove the casabe from the oven and top with the scrambled eggs.",
+    "Sprinkle the flaky and Sunday ingredients over the eggs.",
+    "Return the baking sheet to the oven and bake for an additional 5 minutes.",
+    "Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lazy",
+    "sunday"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-flaky-lazy-sunday-casabe-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:54:42.817Z"
+}
