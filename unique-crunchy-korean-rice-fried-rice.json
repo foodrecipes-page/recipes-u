@@ -1,0 +1,78 @@
+{
+  "slug": "unique-crunchy-korean-rice-fried-rice",
+  "title": "Korean Fried Rice",
+  "description": "A classic Korean dish made with fried rice, vegetables, and spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "unique kimchi",
+      "amount": "1 cup",
+      "notes": "spicy Korean fermented cabbage"
+    },
+    {
+      "name": "crunchy chopped cucumber",
+      "amount": "1/2 cup",
+      "notes": "for added crunch"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for extra heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the remaining 1 tablespoon of vegetable oil, then add the unique kimchi and cook for 2-3 minutes.",
+    "Push the kimchi to one side of the pan. Crack an egg into the other side of the pan and scramble it until cooked through.",
+    "Mix the egg with the kimchi.",
+    "Add the uncooked rice to the pan, breaking up any clumps with a spatula.",
+    "Stir-fry the rice with the kimchi and egg mixture for 2-3 minutes.",
+    "Add the crunchy chopped cucumber, Korean chili flakes, salt, and pepper to the pan. Stir-fry for another minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the Korean fried rice to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fried",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crunchy-korean-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:07:52.502Z"
+}
