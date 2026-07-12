@@ -3832,16 +3832,15 @@
   },
   {
     "slug": "unctuous-thai-pork-curry",
-    "title": "Unctuous Thai Pork Curry",
+    "title": "Thai Pork Curry",
     "tags": [
-      "braised-meat",
-      "claypot-cooking",
-      "comfort-food",
-      "fermented-food",
-      "thai-cuisine"
+      "thai",
+      "curry",
+      "pork",
+      "easy-dinner"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 150,
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
