@@ -1,0 +1,85 @@
+{
+  "slug": "ultra-juicy-greek-lamb-kebabs",
+  "title": "Greek Lamb Kebabs",
+  "description": "Tender and flavorful lamb kebabs, marinated in classic Greek seasonings, perfect for a summer evening.",
+  "cuisine": "Greek",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion, thinly sliced",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives, pitted",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together yogurt, olive oil, lemon juice, garlic, and a pinch of salt and pepper.",
+    "Add the lamb cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Thread the lamb, onion, and olives onto skewers, leaving a little space between each piece.",
+    "Season the skewers with salt and pepper.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "Transfer the kebabs to a plate and garnish with parsley.",
+    "Serve immediately, with a side of your favorite Greek salad or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "kebabs",
+    "summer",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-juicy-greek-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:46:50.431Z"
+}
