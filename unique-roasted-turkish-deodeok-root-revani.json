@@ -1,0 +1,81 @@
+{
+  "slug": "unique-roasted-turkish-deodeok-root-revani",
+  "title": "Roasted Root and Deodeok Revani",
+  "description": "A sweet and savory dessert featuring roasted root and deodeok in a traditional Turkish revani.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unique root",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "deodeok",
+      "amount": "4 stalks",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "revani",
+      "amount": "1 cup",
+      "notes": "ground or finely chopped"
+    },
+    {
+      "name": "turkish spices",
+      "amount": "1 tsp",
+      "notes": "mix of cinnamon, cardamom, and cloves"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": "warm and runny"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for soaking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, mix together the chopped root, deodeok, and turkish spices.",
+    "Grease a 9x13 inch baking dish with ghee or oil.",
+    "Pour the honey over the root and deodeok mixture and stir until well combined.",
+    "Add the revani and stir until the mixture is evenly coated.",
+    "Transfer the mixture to the prepared baking dish and smooth the top.",
+    "Bake for 35-40 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Soak the cooled dessert in 1 cup of warm water for 10-15 minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "dessert",
+    "revani",
+    "sweet",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-roasted-turkish-deodeok-root-revani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:17:51.196Z"
+}
