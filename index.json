@@ -651,17 +651,16 @@
   },
   {
     "slug": "ultra-juicy-greek-lamb-kebabs",
-    "title": "Ultra Juicy Greek Lamb Kebabs",
+    "title": "Greek Lamb Kebabs",
     "tags": [
-      "greek-cuisine",
-      "grilled-meats",
-      "high-protein",
-      "lamb-recipes",
-      "one-pan",
-      "weeknight"
+      "greek",
+      "lamb",
+      "kebabs",
+      "summer",
+      "grill"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 38,
     "shard": "u"
   },
   {
@@ -1855,14 +1854,13 @@
   },
   {
     "slug": "umami-flaky-lazy-sunday-casabe-stir-fry",
-    "title": "Umami Flaky Lazy-Sunday Casabe Stir-fry",
+    "title": "Lazy Sunday Breakfast",
     "tags": [
-      "umami",
-      "lazy-sunday",
-      "casabe",
-      "stir-fry"
+      "breakfast",
+      "lazy",
+      "sunday"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "American",
     "totalTimeMin": 25,
     "shard": "u"
   },
@@ -3852,14 +3850,15 @@
   },
   {
     "slug": "unctuous-velvety-french-chicken-coq-au-vin",
-    "title": "Unctuous Velvety French Chicken Coq Au Vin",
+    "title": "Chicken au Vin",
     "tags": [
-      "clay-pot-cooking",
-      "comfort-food",
-      "french-cuisine",
-      "low-carb",
-      "one-pot-meal",
-      "special-occasion"
+      "chicken",
+      "french",
+      "red-wine",
+      "mushrooms",
+      "onions",
+      "garlic",
+      "thyme"
     ],
     "cuisine": "French",
     "totalTimeMin": 50,
