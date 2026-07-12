@@ -6161,17 +6161,15 @@
   },
   {
     "slug": "unique-midnight-jamaican-sardine-hash",
-    "title": "Unique Midnight Jamaican Sardine Hash",
+    "title": "Jamaican Sardine Hash",
     "tags": [
-      "high-protein",
+      "breakfast",
       "jamaican",
-      "one-pan",
-      "seafood",
-      "spicy",
-      "weeknight"
+      "sardine",
+      "hash"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 25,
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
