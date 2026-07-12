@@ -1,0 +1,97 @@
+{
+  "slug": "ultra-crispy-german-pork-flatbread",
+  "title": "Crispy Pork German Flatbread",
+  "description": "A hearty German-inspired flatbread topped with crispy pork and fresh herbs.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package",
+      "notes": "preferably German-style flatbread"
+    },
+    {
+      "name": "Pork Shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "German Mustard",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Bacon",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork shoulder with salt and black pepper.",
+    "Sear the pork in a skillet over medium-high heat until browned on all sides.",
+    "Transfer the pork to a baking sheet and roast for 20-25 minutes, or until cooked through.",
+    "While the pork is cooking, cook the bacon in a skillet over medium heat until crispy.",
+    "Transfer the cooked bacon to a paper towel-lined plate to drain excess grease.",
+    "In the same skillet, cook the sliced onion and minced garlic until softened.",
+    "Add the German mustard to the skillet and stir to combine.",
+    "Spread the onion and mustard mixture evenly over the flatbread.",
+    "Top the flatbread with the roasted pork, crispy bacon, and fresh parsley.",
+    "Return the flatbread to the oven and bake for an additional 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Remove the flatbread from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "flatbread",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-crispy-german-pork-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:15:33.770Z"
+}
