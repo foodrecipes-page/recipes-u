@@ -8486,18 +8486,15 @@
   },
   {
     "slug": "uplifting-dutch-rice-stew",
-    "title": "Uplifting Dutch Rice Stew",
+    "title": "Dutch Stew",
     "tags": [
-      "comfort-food",
       "dutch",
-      "fermented",
-      "lazy-sunday",
-      "mediterranean-friendly",
-      "pillowy",
-      "vegan"
+      "stew",
+      "beef",
+      "comfort-food"
     ],
-    "cuisine": "Dutch-Mediterranean fusion",
-    "totalTimeMin": 50,
+    "cuisine": "Dutch",
+    "totalTimeMin": 80,
     "shard": "u"
   },
   {
