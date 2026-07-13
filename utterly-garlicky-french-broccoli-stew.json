@@ -1,0 +1,78 @@
+{
+  "slug": "utterly-garlicky-french-broccoli-stew",
+  "title": "French Broccoli Stew",
+  "description": "A hearty and flavorful stew made with tender broccoli, richly flavored with utterly garlicky undertones.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "2 bunches",
+      "notes": "fresh, trimmed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "French Onion Soup Mix",
+      "amount": "1 packet",
+      "notes": "dried, 1 oz"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "filtered"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large saucepan over medium heat.",
+    "Add minced garlic and cook until fragrant, about 1 minute.",
+    "Add French onion soup mix and cook for 1 minute, until fragrant.",
+    "Add broccoli, chicken broth, and water to the saucepan.",
+    "Bring to a boil, then reduce heat to low and simmer for 15-20 minutes, or until broccoli is tender.",
+    "Stir in flour to thicken, cooking for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "broccoli",
+    "stew",
+    "french-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/utterly-garlicky-french-broccoli-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:18:37.181Z"
+}
