@@ -73,18 +73,15 @@
   },
   {
     "slug": "ubiquitous-light-chinese-pork-knuckle-bao",
-    "title": "ubiquitous light chinese pork knuckle bao",
+    "title": "Crispy Pork Bao",
     "tags": [
       "chinese",
-      "high-protein",
-      "knuckle",
-      "one-pan",
       "pork",
-      "weeknight",
-      "xinjiang"
+      "bao",
+      "crispy"
     ],
-    "cuisine": "xinjiang",
-    "totalTimeMin": 150,
+    "cuisine": "Chinese",
+    "totalTimeMin": 190,
     "shard": "u"
   },
   {
