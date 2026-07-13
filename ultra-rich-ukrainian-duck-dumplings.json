@@ -1,0 +1,86 @@
+{
+  "slug": "ultra-rich-ukrainian-duck-dumplings",
+  "title": "Ukrainian Duck Dumplings",
+  "description": "A hearty and flavorful Ukrainian-inspired dish featuring duck meat and rich, fluffy dumplings.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 pound",
+      "notes": "Boneless, skin-on"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For dumpling dough"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "For dumpling coating"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the duck breast with salt and black pepper.",
+    "In a pan over medium-high heat, sear the duck breast until browned on both sides.",
+    "Transfer the duck to a baking sheet and roast in the oven for 20-25 minutes, or until cooked through.",
+    "While the duck is cooking, make the dumpling dough by combining flour, egg, and a pinch of salt in a bowl.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of chopped onion and minced garlic in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the dumpling.",
+    "In a pan over medium heat, brown the dumplings on both sides until golden brown.",
+    "Serve the duck with the Ukrainian dumplings and your choice of sides."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "duck",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-rich-ukrainian-duck-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:15:36.311Z"
+}
