@@ -1,0 +1,62 @@
+{
+  "slug": "unique-umami-italian-sauerkraut-ravioli",
+  "title": "Creamy Sauerkraut Ravioli Bake",
+  "description": "A comforting Italian-inspired casserole featuring ravioli, sauerkraut, and a rich creamy sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ravioli",
+      "amount": "9 ounces"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "unique cheese blend",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook ravioli according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add sauerkraut and cook, stirring occasionally, until slightly caramelized.",
+    "Stir in unique cheese blend and italian seasoning.",
+    "Combine cooked ravioli and sauerkraut mixture in a baking dish.",
+    "Bake for 20-25 minutes, or until golden brown and heated through.",
+    "Serve hot, garnished with parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-italian-sauerkraut-ravioli",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T18:52:02.577Z"
+}
