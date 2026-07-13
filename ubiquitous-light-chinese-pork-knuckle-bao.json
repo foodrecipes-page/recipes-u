@@ -1,0 +1,93 @@
+{
+  "slug": "ubiquitous-light-chinese-pork-knuckle-bao",
+  "title": "Crispy Pork Bao",
+  "description": "A classic Chinese dish featuring crispy pork belly in a soft, fluffy bao. Perfect for a satisfying dinner or snack.",
+  "cuisine": "Chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "1, 1.5 kg",
+      "notes": "preferably with skin on"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp",
+      "notes": "for dusting"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for braising"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "1 tbsp",
+      "notes": "for color and depth"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "ginger",
+      "amount": "2-inch piece",
+      "notes": "for braising"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "for braising"
+    },
+    {
+      "name": "scallions",
+      "amount": "4",
+      "notes": "for garnish"
+    },
+    {
+      "name": "bao dough",
+      "amount": "4-6 pieces",
+      "notes": "available at most Asian markets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large Dutch oven or heavy pot, combine the pork knuckle, light soy sauce, dark soy sauce, brown sugar, ginger, and garlic. Cover the pot and transfer it to the preheated oven.",
+    "Braise the pork for 2.5 hours, or until the meat is tender and the skin is crispy.",
+    "Remove the pot from the oven and let it cool slightly. Remove the pork from the pot and let it rest for 10 minutes.",
+    "Meanwhile, prepare the bao dough according to the package instructions. Cut the dough into 4-6 equal pieces and roll each piece into a ball.",
+    "On a lightly floured surface, use a rolling pin to flatten each ball of dough into a thin circle. Place a tablespoon of braising liquid onto the center of each dough circle.",
+    "Place a piece of the braised pork onto the center of each dough circle, and then fold the dough over the pork to form a bun.",
+    "Serve the crispy pork bao hot, garnished with scallions and a side of your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": "4-6",
+  "difficulty": "hard",
+  "tags": [
+    "chinese",
+    "pork",
+    "bao",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 70
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ubiquitous-light-chinese-pork-knuckle-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T22:41:12.078Z"
+}
