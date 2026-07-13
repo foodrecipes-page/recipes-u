@@ -1,0 +1,73 @@
+{
+  "slug": "unique-pungent-norwegian-lamb-pilaf",
+  "title": "Pan-Seared Lamb Pilaf",
+  "description": "A flavorful and aromatic dish originating from Norway, combining lamb with unique spices and pungent herbs.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb leg steaks",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Unique spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf mix (Norwegian style)",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Pungent herbs (such as thyme and rosemary)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium-high heat.",
+    "Sear the lamb leg steaks for 2-3 minutes on each side, or until browned.",
+    "Remove the lamb from the pan and set aside to rest.",
+    "Add the pilaf mix to the pan and cook for 1-2 minutes, stirring constantly.",
+    "Add the unique spice blend and pungent herbs to the pan and cook for an additional minute.",
+    "Return the lamb to the pan and stir to combine with the pilaf mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "norwegian",
+    "pilaf",
+    "unique"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-pungent-norwegian-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:22:48.718Z"
+}
