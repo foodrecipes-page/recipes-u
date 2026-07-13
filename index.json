@@ -879,17 +879,15 @@
   },
   {
     "slug": "ultra-sweet-spanish-rice-paella",
-    "title": "Ultra Sweet Spanish Rice Paella",
+    "title": "Spanish Paella with Saffron Rice",
     "tags": [
-      "halal-friendly",
-      "meal-prep",
-      "pressure-cook",
-      "rice",
-      "spicy",
-      "sweet"
+      "spanish",
+      "paella",
+      "seafood",
+      "rice"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
@@ -2335,16 +2333,15 @@
   },
   {
     "slug": "umami-korean-noodle-soup-sujebi",
-    "title": "Umami Korean Noodle Soup Sujebi",
+    "title": "Spicy Sujebi Noodle Soup",
     "tags": [
-      "busan",
-      "comfort-food",
       "korean",
-      "noodle-soup",
-      "umami"
+      "noodle",
+      "soup",
+      "sujebi"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
