@@ -1,0 +1,85 @@
+{
+  "slug": "ultra-sweet-spanish-rice-paella",
+  "title": "Spanish Paella with Saffron Rice",
+  "description": "A classic Spanish dish made with flavorful saffron-infused rice and a variety of seafood. This paella is a perfect combination of flavors and textures.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ultra-extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sweet onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "spanish chorizo",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "mussels",
+      "amount": "1 pound"
+    },
+    {
+      "name": "uncooked spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chorizo and cook, breaking it up with a spoon, until it is browned and crispy.",
+    "Add the onion and cook, stirring occasionally, until it is softened.",
+    "Add the shrimp and mussels and cook, stirring occasionally, until they are pink and the mussels are open.",
+    "Add the rice, saffron, smoked paprika, and salt. Stir to combine.",
+    "Cook, stirring occasionally, for 2-3 minutes.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes.",
+    "Serve hot, garnished with parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "seafood",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-sweet-spanish-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:05:30.900Z"
+}
