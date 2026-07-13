@@ -1,0 +1,96 @@
+{
+  "slug": "unforgettable-juicy-argentinian-beef-empanadas",
+  "title": "Argentinian Beef Empanadas",
+  "description": "A classic Argentinian dish, these beef empanadas are filled with tender beef and spices, perfect for a snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Eggs",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, cook the ground beef over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the beef is browned, add the onion, garlic, cumin, paprika, salt, and pepper. Cook until the onion is translucent.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Place a spoonful of the beef mixture onto one half of each dough circle.",
+    "Brush the edges of the dough with the egg wash and fold the other half over the filling.",
+    "Crimp the edges of the empanada to seal the filling inside.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with the egg wash.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unforgettable-juicy-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:37:44.794Z"
+}
