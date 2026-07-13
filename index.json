@@ -775,16 +775,14 @@
   },
   {
     "slug": "ultra-rich-ukrainian-duck-dumplings",
-    "title": "Ultra Rich Ukrainian Duck Dumplings",
+    "title": "Ukrainian Duck Dumplings",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "homemade",
-      "one-pot",
-      "ukrainian"
+      "ukrainian",
+      "duck",
+      "dumplings"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 75,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 65,
     "shard": "u"
   },
   {
@@ -8757,17 +8755,15 @@
   },
   {
     "slug": "utterly-garlicky-french-broccoli-stew",
-    "title": "Utterly Garlicky French Broccoli Stew",
+    "title": "French Broccoli Stew",
     "tags": [
-      "broccoli-recipes",
-      "comfort-food",
+      "broccoli",
+      "stew",
       "french-cuisine",
-      "garlic-lovers",
-      "halal-friendly",
-      "one-pot"
+      "vegetarian"
     ],
     "cuisine": "French",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
