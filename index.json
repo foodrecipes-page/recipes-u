@@ -4318,18 +4318,15 @@
   },
   {
     "slug": "unforgettable-juicy-argentinian-beef-empanadas",
-    "title": "Unforgettable Juicy Argentinian Beef Empanadas",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "beef-recipes",
+      "argentinian",
+      "beef",
       "empanadas",
-      "latin-american-food",
-      "meat-pies",
-      "savory-pastries",
-      "snack-foods"
+      "snack"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -7299,16 +7296,12 @@
   },
   {
     "slug": "unique-umami-italian-sauerkraut-ravioli",
-    "title": "Unique Umami Italian Sauerkraut Ravioli",
+    "title": "Creamy Sauerkraut Ravioli Bake",
     "tags": [
-      "homemade-pasta",
-      "italian-food",
-      "shojin-friendly",
-      "umami-flavors",
-      "vegetarian"
+      "italian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -8638,16 +8631,18 @@
   },
   {
     "slug": "uplifting-silky-spanish-tomato-paella",
-    "title": "Uplifting Silky Spanish Tomato Paella",
+    "title": "Spanish Paella with Tomatoes",
     "tags": [
-      "gluten-free",
-      "mediterranean",
-      "one-pan",
-      "spanish-cuisine",
-      "vegetarian"
+      "spanish",
+      "paella",
+      "tomato",
+      "chicken",
+      "rice",
+      "meal",
+      "main"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
