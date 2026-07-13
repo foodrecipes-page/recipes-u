@@ -1,0 +1,88 @@
+{
+  "slug": "uplifting-silky-spanish-tomato-paella",
+  "title": "Spanish Paella with Tomatoes",
+  "description": "A classic Spanish dish made with saffron-infused rice, tender chicken, and fresh tomatoes. This paella recipe is perfect for a special occasion or a weekend dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "2 cups",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Paella seasoning",
+      "amount": "2 tsp",
+      "notes": "Spanish-style"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Fine"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes. Remove from pan and set aside.",
+    "Add the paella seasoning and cook for 1 minute.",
+    "Add the rice and stir to coat with oil and seasoning. Cook for 2 minutes.",
+    "Add the tomatoes, saffron, salt, and pepper. Stir to combine.",
+    "Add 4 cups of water to the pan and bring to a boil.",
+    "Add the cooked chicken back to the pan and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "tomato",
+    "chicken",
+    "rice",
+    "meal",
+    "main"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uplifting-silky-spanish-tomato-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T18:31:21.906Z"
+}
