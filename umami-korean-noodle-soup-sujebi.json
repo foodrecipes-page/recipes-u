@@ -1,0 +1,82 @@
+{
+  "slug": "umami-korean-noodle-soup-sujebi",
+  "title": "Spicy Sujebi Noodle Soup",
+  "description": "A traditional Korean noodle soup dish made with a spicy broth and sujebi (hand-pulled noodles). This recipe is a hearty and comforting meal for any time of the year.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sujebi (hand-pulled noodles)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili paste (gochujang)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Udon noodles",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the Korean chili flakes, soy sauce, and sesame oil to the pot.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the sujebi noodles to the pot and cook for 5-7 minutes, or until they are cooked through.",
+    "Stir in the Korean chili paste and green onions.",
+    "Serve the noodles in bowls and garnish with additional green onions if desired.",
+    "Serve with udon noodles on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "noodle",
+    "soup",
+    "sujebi"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-korean-noodle-soup-sujebi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:20:31.885Z"
+}
