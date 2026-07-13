@@ -1,0 +1,64 @@
+{
+  "slug": "unique-snappy-slovakian-rigatoni-pasta",
+  "title": "Slovakian Pasta Bake",
+  "description": "A hearty Slovakian-inspired pasta dish with a crispy, cheesy top. Perfect for a weeknight dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "1 pound"
+    },
+    {
+      "name": "unique",
+      "amount": "1 large",
+      "notes": "unique squash variety, peeled and chopped"
+    },
+    {
+      "name": "snappy",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "slovakian",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "pasta",
+      "amount": "1 cup, grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the rigatoni according to package instructions until al dente, then set aside.",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium-high heat. Add the chopped unique, snappy, and slovakian. Cook until the vegetables are tender, about 5-7 minutes.",
+    "In a large mixing bowl, combine the cooked rigatoni, vegetable mixture, and 1 cup of the grated pasta.",
+    "In a separate bowl, mix together 1 cup of the grated pasta, 1 cup of shredded mozzarella cheese, and 1/4 cup of chopped fresh parsley.",
+    "Transfer the pasta mixture to a 9x13 inch baking dish and top with the cheese mixture.",
+    "Bake for 25-30 minutes or until the top is golden brown and the pasta is heated through.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pasta",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-snappy-slovakian-rigatoni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:45:02.072Z"
+}
