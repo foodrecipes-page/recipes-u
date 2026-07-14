@@ -1,0 +1,95 @@
+{
+  "slug": "unique-snappy-peruvian-beef-lomo-saltado",
+  "title": "Peruvian Beef Lomo Saltado",
+  "description": "A classic Peruvian stir-fry dish made with beef strips, onions, tomatoes, and French fries. Serve with steamed rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "French fries",
+      "amount": "1 cup",
+      "notes": "thawed, cut into 1-inch pieces"
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Peruvian aji panca sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "Add the remaining 2 tablespoons of vegetable oil to the skillet. Add the minced garlic and cook for 1 minute.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the diced aji amarillo pepper and cook for an additional minute.",
+    "Add the French fries and cook until they start to brown, about 2-3 minutes.",
+    "Add the sliced tomato and cook until they start to soften, about 2 minutes.",
+    "Return the cooked beef strips to the skillet and stir in the soy sauce, Peruvian aji panca sauce, salt, and black pepper.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened and the beef is coated.",
+    "Serve hot, garnished with chopped cilantro or scallions if desired.",
+    "Serve with steamed rice to soak up the flavorful sauce.",
+    "Garnish with sliced aji amarillo peppers and chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "stir-fry",
+    "lomo-saltado"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-snappy-peruvian-beef-lomo-saltado",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:52:34.707Z"
+}
