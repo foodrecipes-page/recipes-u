@@ -1,0 +1,107 @@
+{
+  "slug": "unmistakably-sweet-vietnamese-adventurous-bun-rieu",
+  "title": "Vietnamese Bun Rieu Soup",
+  "description": "A hearty and flavorful Vietnamese soup made with a rich pork broth, tofu, and a variety of seafood and herbs. Serve with a side of fresh rice noodles and fresh herbs for a truly authentic experience.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork bones",
+      "amount": "2 lbs",
+      "notes": "Ask your butcher for pork neck or rib bones"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 package",
+      "notes": "Fresh or dried, preferably fresh"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 lb",
+      "notes": "Shelled and deveined"
+    },
+    {
+      "name": "Crab paste",
+      "amount": "2 tbsp",
+      "notes": "Found in most Asian grocery stores"
+    },
+    {
+      "name": "Fermented shrimp paste",
+      "amount": "1 tsp",
+      "notes": "Found in most Asian grocery stores"
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "Found in most Asian grocery stores"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "Found in most grocery stores"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Step 1: In a large pot, combine the pork bones, onions, and garlic. Pour in enough water to cover the bones and bring to a boil.",
+    "Step 2: Reduce the heat to a simmer and cook for 1 hour, or until the bones are tender and the broth is rich and flavorful.",
+    "Step 3: Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Step 4: Add the tofu, shrimp, crab paste, fermented shrimp paste, fish sauce, soy sauce, and sugar to the pot. Stir to combine.",
+    "Step 5: Bring the soup to a boil, then reduce the heat to a simmer and cook for 10-15 minutes, or until the shrimp are pink and cooked through.",
+    "Step 6: Taste and adjust the seasoning as needed.",
+    "Step 7: Cook the rice noodles according to the package instructions. Drain and set aside.",
+    "Step 8: To serve, place a portion of the noodles into a bowl, then ladle the hot soup over the top. Garnish with fresh herbs and serve immediately.",
+    "Step 9: Serve with a side of fresh rice noodles and fresh herbs for a truly authentic experience.",
+    "Step 10: Enjoy your delicious and flavorful Vietnamese Bun Rieu Soup!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "soup",
+    "seafood",
+    "noodles",
+    "herbs",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unmistakably-sweet-vietnamese-adventurous-bun-rieu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:49:02.396Z"
+}
