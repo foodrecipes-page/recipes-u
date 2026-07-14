@@ -1,0 +1,72 @@
+{
+  "slug": "ultra-garlicky-turkish-cheese-kisir",
+  "title": "Turkish-Style Kisir Salad with Cheese",
+  "description": "A refreshing and healthy salad made with kisir, cheese, and a hint of garlicky flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ultra fine bulgur",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlicky yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "turkish cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "kisir",
+      "amount": "1 cup",
+      "notes": "chopped dried parsley, garlic, and red pepper flakes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the bulgur, yogurt, cheese, and kisir.",
+    "2. In a small bowl, whisk together the olive oil and lemon juice.",
+    "3. Pour the dressing over the bulgur mixture and toss to combine.",
+    "4. Season with salt and pepper to taste.",
+    "5. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "6. Just before serving, sprinkle with parsley and serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "turkish-cuisine",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-garlicky-turkish-cheese-kisir",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:51:51.583Z"
+}
