@@ -1,0 +1,75 @@
+{
+  "slug": "umami-crispy-argentinian-flour-empanadas",
+  "title": "Argentinian Empanadas with Umami Crust",
+  "description": "A crispy empanada recipe with a savory umami twist, inspired by Argentinian flavors. Serve warm with your favorite dipping sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Umami",
+      "amount": "1 teaspoon",
+      "notes": "miso paste or umami seasoning"
+    },
+    {
+      "name": "Crispy",
+      "amount": "1/4 cup",
+      "notes": "crushed tortilla chips or crispy fried onions"
+    },
+    {
+      "name": "Argentinian",
+      "amount": "1/4 cup",
+      "notes": "diced chorizo or Argentine-style beef"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large bowl, combine flour, umami, and crispy. Mix well.",
+    "3. Gradually add water to the bowl, mixing until a dough forms.",
+    "4. Knead the dough for 5-7 minutes until smooth.",
+    "5. Divide the dough into 8 equal pieces.",
+    "6. Roll out each piece into a thin circle.",
+    "7. Place a tablespoon of argentinian filling in the center of each circle.",
+    "8. Fold the dough in half to form a half-moon shape, and press edges to seal.",
+    "9. Brush the tops with egg wash and sprinkle with salt and black pepper.",
+    "10. Bake for 20-22 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "snack",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-crispy-argentinian-flour-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:50:30.947Z"
+}
