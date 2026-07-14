@@ -1,0 +1,90 @@
+{
+  "slug": "umami-flaky-russian-stir-fry",
+  "title": "Pan-Seared Russian Dumplings",
+  "description": "A hearty Russian dish, these pan-seared dumplings are filled with a savory umami flavor and served with a side of flaky stir-fried vegetables.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "umami-flavored broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "stir-fry vegetables",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Combine flour, water, umami-flavored broth, milk, and eggs in a bowl to form the dumpling dough.",
+    "Knead the dough for 10 minutes until smooth.",
+    "Divide the dough into 12 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Place a spoonful of filling in the center of each disk and fold the dough over to form a half-moon shape.",
+    "Press the edges together to seal the dumpling.",
+    "Heat a large skillet over medium-high heat and add 1/4 cup of vegetable oil.",
+    "Add the onion and stir-fry vegetables to the skillet and cook until the onion is translucent.",
+    "Add the dumplings to the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "Serve the dumplings hot with the stir-fry vegetables on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "dumplings",
+    "pan-seared",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-flaky-russian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:21:32.960Z"
+}
