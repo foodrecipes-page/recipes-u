@@ -1,0 +1,78 @@
+{
+  "slug": "untamed-syrian-chicken-kebabs",
+  "title": "Syrian Chicken Kebabs",
+  "description": "A flavorful and spicy dish originating from Syria, this recipe combines the taste of chicken, garlic, and cumin with the convenience of a kebab.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Syrian kebab spice mix",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6",
+      "notes": "for serving"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together kebab spice mix, garlic, and olive oil.",
+    "2. Add chicken to the bowl and mix until well coated.",
+    "3. Thread chicken onto skewers, leaving a small space between each piece.",
+    "4. Brush the grill or grill pan with olive oil and preheat to medium-high heat.",
+    "5. Grill the kebabs for 8-10 minutes, turning occasionally, until chicken is cooked through.",
+    "6. While the kebabs are cooking, toast the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "7. Serve the kebabs hot with toasted pita bread, fresh parsley, and lemon wedges.",
+    "8. Garnish with additional kebab spice mix, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "kebabs",
+    "chicken",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/untamed-syrian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T17:46:20.677Z"
+}
