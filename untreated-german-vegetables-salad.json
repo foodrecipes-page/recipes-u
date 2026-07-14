@@ -1,0 +1,66 @@
+{
+  "slug": "untreated-german-vegetables-salad",
+  "title": "German Beet Salad",
+  "description": "A simple and delicious beet salad with a mix of German flavors.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 425°F (220°C).",
+    "2. Wrap beets in foil and roast for 45-50 minutes, or until tender.",
+    "3. Remove beets from oven and let cool. Peel and dice.",
+    "4. In a large bowl, combine diced beets, sliced onion, and apple cider vinegar.",
+    "5. In a small bowl, whisk together olive oil, salt, and black pepper.",
+    "6. Pour dressing over beet mixture and toss to coat.",
+    "7. Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "beets",
+    "salad",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/untreated-german-vegetables-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T12:48:51.129Z"
+}
