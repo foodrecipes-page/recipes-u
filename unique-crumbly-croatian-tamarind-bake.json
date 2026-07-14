@@ -1,0 +1,67 @@
+{
+  "slug": "unique-crumbly-croatian-tamarind-bake",
+  "title": "Croatian Tamarind Crumble",
+  "description": "A sweet and tangy dessert featuring a Croatian twist on a classic crumble.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unique flour",
+      "amount": "250g"
+    },
+    {
+      "name": "crumbly oats",
+      "amount": "150g"
+    },
+    {
+      "name": "croatian honey",
+      "amount": "100g"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tamarind fruit",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Mix together unique flour, crumbly oats, and a pinch of salt.",
+    "Add in croatian honey, tamarind paste, and mix until crumbly mixture forms.",
+    "In a separate bowl, mix together tamarind fruit and unsalted butter.",
+    "Transfer the fruit mixture to a baking dish and top with crumbly mixture.",
+    "Bake for 30-40 minutes or until the topping is golden brown.",
+    "Serve warm with a scoop of vanilla ice cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "tamarind",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "4g",
+    "carbs": "45g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crumbly-croatian-tamarind-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:43:33.134Z"
+}
