@@ -5315,17 +5315,15 @@
   },
   {
     "slug": "unique-crumbly-croatian-tamarind-bake",
-    "title": "Croatian Tamarind Bake",
+    "title": "Croatian Tamarind Crumble",
     "tags": [
       "croatian",
-      "crumbly",
-      "jain-friendly",
-      "lacto-vegetarian",
       "tamarind",
-      "weeknight"
+      "crumble",
+      "dessert"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
@@ -8126,18 +8124,15 @@
   },
   {
     "slug": "untreated-german-vegetables-salad",
-    "title": "Untreated German Vegetable Salad",
+    "title": "German Beet Salad",
     "tags": [
-      "fodmap-friendly",
       "german",
-      "gluten-free",
-      "lactose-free",
-      "pressure-cooker",
-      "raw",
-      "salad"
+      "beets",
+      "salad",
+      "vegetarian"
     ],
     "cuisine": "german",
-    "totalTimeMin": 40,
+    "totalTimeMin": 70,
     "shard": "u"
   },
   {
