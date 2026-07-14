@@ -3022,16 +3022,15 @@
   },
   {
     "slug": "umami-tender-russian-tomato-stir-fry",
-    "title": "Umami Tender Russian Tomato Stir-fry",
+    "title": "Russian Style Beef Stroganoff",
     "tags": [
-      "umami",
-      "tender",
-      "crowd-pleaser",
-      "russian",
-      "gluten-free"
+      "beef",
+      "noodles",
+      "sauce",
+      "russian-cuisine"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 13,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -5567,16 +5566,16 @@
   },
   {
     "slug": "unique-dense-italian-yoghurt-toast",
-    "title": "Unique Dense Italian Yoghurt Toast",
+    "title": "Italian Yogurt Toast",
     "tags": [
-      "double-rise-bread",
-      "italian-inspired",
-      "quick-snack",
-      "vegetarian-friendly",
-      "yoghurt-based"
+      "italian",
+      "breakfast",
+      "yogurt",
+      "toast",
+      "healthy"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 20,
+    "cuisine": "italian",
+    "totalTimeMin": 12,
     "shard": "u"
   },
   {
