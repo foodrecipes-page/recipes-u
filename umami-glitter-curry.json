@@ -1,0 +1,78 @@
+{
+  "slug": "umami-glitter-curry",
+  "title": "Curry Delight",
+  "description": "A delicious and flavorful curry dish, perfect for a satisfying meal. Enjoy the rich taste of this curry delight.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Curry",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add carrots and potatoes and cook for 5 minutes.",
+    "Add curry powder and cook for 1 minute.",
+    "Add coconut milk and water, and bring to a boil.",
+    "Reduce heat and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-glitter-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:45:09.502Z"
+}
