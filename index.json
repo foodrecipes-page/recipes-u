@@ -3079,15 +3079,14 @@
   },
   {
     "slug": "umami-velvety-light-filipino-shellfish-stir-fry",
-    "title": "Umami Velvety Light Filipino Shellfish Stir-fry",
+    "title": "Filipino-Style Stir Fry with Shellfish",
     "tags": [
-      "umami",
-      "velvety",
-      "light",
-      "filipino"
+      "filipino",
+      "shellfish",
+      "stir-fry"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -3263,17 +3262,15 @@
   },
   {
     "slug": "unbelievably-crispy-german-bananas-fritters",
-    "title": "Unbelievably Crispy German Bananas Fritters",
+    "title": "Crispy German Banana Fritters",
     "tags": [
-      "easy-to-make",
-      "fried-sweet-treats",
+      "banana",
+      "fritters",
       "german",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "sweet"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 23,
+    "cuisine": "German",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -6153,17 +6150,15 @@
   },
   {
     "slug": "unique-norwegian-mars-bar-stir-fry",
-    "title": "Unique Norwegian Mars Bar Stir Fry",
+    "title": "Mars Bar Stir Fry",
     "tags": [
-      "dessert",
-      "no-garlic",
-      "no-onion",
-      "norwegian",
+      "mars-bar",
       "stir-fry",
-      "vegetarian"
+      "dessert",
+      "quick"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 10,
     "shard": "u"
   },
   {
