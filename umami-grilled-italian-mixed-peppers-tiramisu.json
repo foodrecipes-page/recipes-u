@@ -1,0 +1,67 @@
+{
+  "slug": "umami-grilled-italian-mixed-peppers-tiramisu",
+  "title": "Grilled Italian Tiramisu",
+  "description": "A twist on the classic Italian dessert, adding a smoky flavor from grilled peperoncini.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "umami",
+      "amount": "1 cup",
+      "notes": "Mushroom-based umami paste"
+    },
+    {
+      "name": "grilled",
+      "amount": "8-10 peperoncini",
+      "notes": "Grilled to add smoky flavor"
+    },
+    {
+      "name": "italian",
+      "amount": "8-10 ladyfingers",
+      "notes": "Classic Italian ladyfingers"
+    },
+    {
+      "name": "mixed",
+      "amount": "1 cup mascarpone cheese",
+      "notes": "Combination of mascarpone and whipped cream"
+    },
+    {
+      "name": "peppers",
+      "amount": "1 cup chopped fresh parsley",
+      "notes": "Fresh parsley for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill peperoncini for 2-3 minutes on each side.",
+    "In a large mixing bowl, combine mascarpone, whipped cream, and umami paste.",
+    "Dip each ladyfinger into the coffee mixture for 3-5 seconds on each side.",
+    "In a large serving dish, create a layer of ladyfingers.",
+    "Top with a layer of mascarpone mixture and grilled peperoncini.",
+    "Repeat steps 5-6 two more times, ending with a layer of mascarpone mixture.",
+    "Refrigerate for at least 3 hours.",
+    "Garnish with chopped parsley and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "grilled",
+    "tiramisu",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-grilled-italian-mixed-peppers-tiramisu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:01:29.156Z"
+}
