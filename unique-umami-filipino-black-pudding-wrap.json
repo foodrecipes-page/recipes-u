@@ -1,0 +1,82 @@
+{
+  "slug": "unique-umami-filipino-black-pudding-wrap",
+  "title": "Black Pudding Wrap",
+  "description": "A savory and flavorful Filipino-inspired wrap featuring black pudding, umami sauce, and crispy fresh veggies.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "8 oz",
+      "notes": "chopped"
+    },
+    {
+      "name": "unique wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "umami sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Add the chopped black pudding and cook until crispy, about 3-4 minutes.",
+    "3. Warm the wrap in the microwave for 10-15 seconds.",
+    "4. Spread the umami sauce on the wrap.",
+    "5. Add the cooked black pudding, sliced cucumber, green onion, and chopped cilantro.",
+    "6. Season with salt and pepper to taste.",
+    "7. Roll up the wrap tightly.",
+    "8. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "black-pudding",
+    "wrap",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-filipino-black-pudding-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:09:51.119Z"
+}
