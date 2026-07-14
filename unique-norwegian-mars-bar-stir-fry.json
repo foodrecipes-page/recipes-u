@@ -1,0 +1,62 @@
+{
+  "slug": "unique-norwegian-mars-bar-stir-fry",
+  "title": "Mars Bar Stir Fry",
+  "description": "A unique and quick dessert stir fry featuring Mars bars, a fun twist on traditional desserts.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bar",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Stir",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Unique bar",
+      "amount": "1",
+      "notes": "crushed, for garnish"
+    },
+    {
+      "name": "Fry",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add 1 tsp of Stir, if using.",
+    "Add 1 Mars bar, sliced, and cook until melted.",
+    "Add 1 Unique bar, crushed, and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the mixture is heated through.",
+    "Serve immediately, garnished with additional crushed Unique bar if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mars-bar",
+    "stir-fry",
+    "dessert",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-norwegian-mars-bar-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:25:05.173Z"
+}
