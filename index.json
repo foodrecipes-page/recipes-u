@@ -1234,16 +1234,15 @@
   },
   {
     "slug": "umami-creamy-german-mushroom-terrine",
-    "title": "Umami Creamy German Mushroom Terrine",
+    "title": "German Mushroom Terrine",
     "tags": [
-      "german-cuisine",
-      "mushroom-recipes",
-      "jain-friendly",
-      "vegetarian",
-      "umami-flavors"
+      "german",
+      "mushroom",
+      "terrine",
+      "comfort-food"
     ],
     "cuisine": "German",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -5233,17 +5232,15 @@
   },
   {
     "slug": "unique-crispy-malaysian-corn-satay",
-    "title": "Unique Crispy Malaysian Corn Satay",
+    "title": "Crispy Satay Corn Fritters",
     "tags": [
-      "crispy-snacks",
-      "easy-recipes",
-      "gluten-free",
-      "malaysian-cuisine",
-      "snack-ideas",
-      "vegetarian"
+      "snack",
+      "corn",
+      "fritters",
+      "malaysian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 32,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
