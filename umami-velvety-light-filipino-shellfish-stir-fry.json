@@ -1,0 +1,83 @@
+{
+  "slug": "umami-velvety-light-filipino-shellfish-stir-fry",
+  "title": "Filipino-Style Stir Fry with Shellfish",
+  "description": "A flavorful and nutritious stir fry dish made with succulent shellfish and a blend of Filipino spices.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shellfish (shrimp and mussels)",
+      "amount": "1 pound",
+      "notes": "fresh and cleaned"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Velvety stir-fry sauce",
+      "amount": "1 tablespoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the grated ginger and minced garlic and cook for another minute, until fragrant.",
+    "Add the shellfish and cook until they start to turn pink, about 2-3 minutes.",
+    "Add the light soy sauce and velvety stir-fry sauce, and stir to combine.",
+    "Cook for another 2-3 minutes, until the shellfish are cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "shellfish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-velvety-light-filipino-shellfish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:25:00.844Z"
+}
