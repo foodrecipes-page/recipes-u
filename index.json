@@ -550,19 +550,15 @@
   },
   {
     "slug": "ultra-garlicky-turkish-cheese-kisir",
-    "title": "Ultra-Garlicky Turkish Cheese Kisir",
+    "title": "Turkish-Style Kisir Salad with Cheese",
     "tags": [
-      "cheese",
-      "date-night",
-      "garlic",
-      "kisir",
-      "mascarpone",
-      "ovo-vegetarian",
-      "snack",
-      "turkish"
+      "salad",
+      "turkish-cuisine",
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "u"
   },
   {
@@ -1890,16 +1886,15 @@
   },
   {
     "slug": "umami-flaky-russian-stir-fry",
-    "title": "Umami Flaky Russian Stir-fry",
+    "title": "Pan-Seared Russian Dumplings",
     "tags": [
-      "umami",
-      "flaky",
       "russian",
-      "stir-fry",
-      "paleo-friendly"
+      "dumplings",
+      "pan-seared",
+      "vegetarian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
@@ -2039,16 +2034,14 @@
   },
   {
     "slug": "umami-glitter-curry",
-    "title": "Umami Glitter Curry",
+    "title": "Curry Delight",
     "tags": [
-      "umami",
-      "glitter",
-      "chinese",
-      "flaky",
-      "nut-free"
+      "curry",
+      "indian",
+      "vegetarian"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -6784,18 +6777,15 @@
   },
   {
     "slug": "unique-snappy-peruvian-beef-lomo-saltado",
-    "title": "Unique Snappy Peruvian Beef Lomo Saltado",
+    "title": "Peruvian Beef Lomo Saltado",
     "tags": [
-      "beef-recipes",
-      "gluten-free",
-      "low-glycemic",
-      "one-pan",
-      "peruvian-cuisine",
-      "seed-based",
-      "weeknight"
+      "peruvian",
+      "beef",
+      "stir-fry",
+      "lomo-saltado"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
