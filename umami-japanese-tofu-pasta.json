@@ -1,0 +1,76 @@
+{
+  "slug": "umami-japanese-tofu-pasta",
+  "title": "Tofu Pasta Stir Fry",
+  "description": "A quick and easy Japanese-inspired stir fry made with tofu and umami flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Umami",
+      "amount": "2 tbsp",
+      "notes": "Soy sauce or dashi powder"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tbsp",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "Cut tofu into small cubes.",
+    "Heat vegetable oil in a pan over medium-high heat.",
+    "Add tofu and cook until golden brown.",
+    "Add green onions and ginger, cook for 1 minute.",
+    "Add umami and stir to combine.",
+    "Return cooked pasta to the pan and toss with the tofu mixture.",
+    "Serve immediately.",
+    "Optional: add other vegetables such as bell peppers or carrots."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "vegetarian",
+    "pasta",
+    "tofu",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-japanese-tofu-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:09:51.915Z"
+}
