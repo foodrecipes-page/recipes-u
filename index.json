@@ -1315,13 +1315,14 @@
   },
   {
     "slug": "umami-crispy-argentinian-flour-empanadas",
-    "title": "Umami Crispy Argentinian Flour Empanadas",
+    "title": "Argentinian Empanadas with Umami Crust",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "argentinian",
+      "empanadas",
+      "snack",
+      "umami"
     ],
-    "cuisine": "argentinian",
+    "cuisine": "Argentinian",
     "totalTimeMin": 35,
     "shard": "u"
   },
@@ -3242,18 +3243,15 @@
   },
   {
     "slug": "unapologetically-indulgent-thailand-kippers-satay",
-    "title": "unapologetically-indulgent-thailand-kippers-satay",
+    "title": "Kipper Satay",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-calorie-friendly",
-      "one-pan",
-      "seafood",
-      "thai-inspired",
-      "weeknight"
+      "kippers",
+      "satay",
+      "thai",
+      "fish"
     ],
-    "cuisine": "thai",
-    "totalTimeMin": 25,
+    "cuisine": "Thai",
+    "totalTimeMin": 18,
     "shard": "u"
   },
   {
@@ -8091,17 +8089,15 @@
   },
   {
     "slug": "untamed-syrian-chicken-kebabs",
-    "title": "Untamed Syrian Chicken Kebabs",
+    "title": "Syrian Chicken Kebabs",
     "tags": [
-      "diabetic-friendly",
-      "grilled",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "syrian",
+      "kebabs",
+      "chicken",
+      "grilled"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
