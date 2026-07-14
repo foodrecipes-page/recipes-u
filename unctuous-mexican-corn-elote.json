@@ -1,0 +1,79 @@
+{
+  "slug": "unctuous-mexican-corn-elote",
+  "title": "Grilled Corn Elote",
+  "description": "A classic Mexican dish smothered in a blend of spices, cheese, and herbs. This recipe adds a twist by grilling the corn, creating a smoky flavor that's perfect for any occasion.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "4 ears of corn"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cotija cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cilantro",
+      "amount": "chopped, for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "unctuous (butter)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Rinse the corn and remove the husks.",
+    "Grill the corn for 10-12 minutes, turning occasionally, until slightly charred.",
+    "In a small bowl, mix together the mayonnaise, lime juice, chili powder, cumin, and salt.",
+    "Slather the mayonnaise mixture onto each ear of corn.",
+    "Sprinkle the cotija cheese over the corn.",
+    "Drizzle the unctuous (butter) over the corn.",
+    "Garnish with cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled corn",
+    "elote",
+    "mexican street food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-mexican-corn-elote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T07:25:34.667Z"
+}
