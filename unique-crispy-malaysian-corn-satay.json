@@ -1,0 +1,78 @@
+{
+  "slug": "unique-crispy-malaysian-corn-satay",
+  "title": "Crispy Satay Corn Fritters",
+  "description": "A delicious twist on traditional satay, these crispy fritters are filled with sweet corn and served with a side of spicy peanut sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unique spice blend",
+      "amount": "1 teaspoon",
+      "notes": "mix of coriander, cumin, and chili powder"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "satay seasoning",
+      "amount": "1 teaspoon",
+      "notes": "see notes"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together flour, cornstarch, unique spice blend, and a pinch of salt.",
+    "2. In a separate bowl, whisk together eggs and corn kernels.",
+    "3. Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "4. Heat 1/2 cup of vegetable oil in a large frying pan over medium-high heat.",
+    "5. Using a 1/4 cup measuring cup, scoop the batter into the hot oil.",
+    "6. Flatten the batter slightly with a spatula and fry for 3-4 minutes on each side, or until golden brown.",
+    "7. Remove the fritters from the oil and drain on paper towels.",
+    "8. Serve hot with a side of spicy peanut sauce (see notes)"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "corn",
+    "fritters",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crispy-malaysian-corn-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T00:39:31.562Z"
+}
