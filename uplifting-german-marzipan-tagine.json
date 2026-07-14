@@ -1,0 +1,91 @@
+{
+  "slug": "uplifting-german-marzipan-tagine",
+  "title": "Traditional German Apple Marzipan Tagine",
+  "description": "A twist on traditional German apple strudel, this dessert combines the warmth of a tagine with the sweetness of marzipan and apples.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "2 large",
+      "notes": "any variety, peeled and sliced"
+    },
+    {
+      "name": "Marzipan",
+      "amount": "250g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sugar",
+      "amount": "200g",
+      "notes": "granulated"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground Ginger",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tagine spice mix",
+      "amount": "1 tsp",
+      "notes": "or substitute with a combination of cumin, coriander, and cinnamon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the sliced apples, granulated sugar, ground cinnamon, and ground ginger. Mix well to combine.",
+    "Roll out the marzipan to a thickness of about 1/4 inch. Cut into a rectangle slightly larger than the tagine.",
+    "Place the marzipan rectangle into the tagine, pressing it into the corners.",
+    "Fill the tagine with the apple mixture, leaving a 1-inch border around the edges.",
+    "Roll out the remaining marzipan to a thickness of about 1/4 inch. Cut into strips for the crust.",
+    "Place the strips on top of the apple mixture, weaving them into a lattice pattern.",
+    "Brush the egg wash over the lattice and sprinkle with granulated sugar.",
+    "Place the tagine on a baking sheet lined with parchment paper.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the apples are tender.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "german",
+    "marzipan",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uplifting-german-marzipan-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:11:58.386Z"
+}
