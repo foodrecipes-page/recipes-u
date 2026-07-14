@@ -1,0 +1,75 @@
+{
+  "slug": "unique-dense-italian-yoghurt-toast",
+  "title": "Italian Yogurt Toast",
+  "description": "A simple and healthy Italian-inspired toast recipe using yoghurt and fresh ingredients.",
+  "cuisine": "italian",
+  "diet": [
+    "healthy",
+    "low-calorie"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "plain or flavored as preferred"
+    },
+    {
+      "name": "Toast",
+      "amount": "2 slices",
+      "notes": "preferably Italian bread"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "for spreading on toast"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your toaster or toaster oven to 350°F (180°C).",
+    "Toast the bread until lightly browned.",
+    "In a small bowl, mix together the yoghurt and minced garlic.",
+    "Spread the yoghurt mixture evenly over the toasted bread.",
+    "Sprinkle the chopped basil over the top of the yoghurt.",
+    "Drizzle the olive oil over the basil.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 2,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "yogurt",
+    "toast",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-dense-italian-yoghurt-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:43:46.006Z"
+}
