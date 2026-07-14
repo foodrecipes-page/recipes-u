@@ -1,0 +1,78 @@
+{
+  "slug": "unapologetically-indulgent-thailand-kippers-satay",
+  "title": "Kipper Satay",
+  "description": "A fusion of traditional Thai satay with the rich flavor of smoked kippers.",
+  "cuisine": "Thai",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kippers",
+      "amount": "4"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pepper",
+      "amount": ""
+    },
+    {
+      "name": "Salt",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut kippers into bite-sized pieces.",
+    "In a small bowl, whisk together coconut milk, fish sauce, lime juice, and brown sugar.",
+    "Add coriander and cilantro to the bowl and mix well.",
+    "Brush the grill with vegetable oil.",
+    "Thread kippers onto skewers, leaving a small space between each piece.",
+    "Brush the kippers with the coconut milk mixture.",
+    "Grill the kippers for 2-3 minutes per side, or until cooked through.",
+    "Serve hot with additional coconut milk mixture for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kippers",
+    "satay",
+    "thai",
+    "fish"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unapologetically-indulgent-thailand-kippers-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T17:26:15.582Z"
+}
