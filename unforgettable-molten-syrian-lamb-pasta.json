@@ -1,0 +1,95 @@
+{
+  "slug": "unforgettable-molten-syrian-lamb-pasta",
+  "title": "Syrian Lamb Pasta",
+  "description": "A flavorful and aromatic pasta dish inspired by Syrian cuisine, featuring tender lamb and a rich tomato sauce.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "pasta",
+      "amount": "1 cup",
+      "notes": "penne or similar shape"
+    },
+    {
+      "name": "unforgettable",
+      "amount": "1 tsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "molten",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat unforgettable in a large skillet over medium-high heat.",
+    "Add molten and cook for 1-2 minutes, until fragrant.",
+    "Add lamb and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add onion and cook until translucent.",
+    "Stir in cumin, paprika, salt, and black pepper.",
+    "Add tomato sauce and bring to a simmer.",
+    "Reduce heat to low and let sauce simmer while cooking pasta.",
+    "Cook pasta according to package instructions until al dente.",
+    "Drain pasta and add to skillet with lamb sauce.",
+    "Toss to combine and serve hot.",
+    "Garnish with chopped fresh parsley or cilantro, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "lamb",
+    "pasta",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unforgettable-molten-syrian-lamb-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T14:22:04.107Z"
+}
