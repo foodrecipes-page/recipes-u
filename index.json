@@ -1414,18 +1414,14 @@
   },
   {
     "slug": "umami-crispy-norwegian-potato-roast",
-    "title": "Umami Crispy Norwegian Potato Roast",
+    "title": "Crispy Norwegian Potato Bites",
     "tags": [
-      "adventurous",
-      "norwegian",
-      "one-pan",
-      "potato-roast",
-      "umami",
-      "vegetable-dish",
-      "vegetarian"
+      "snack",
+      "scandinavian",
+      "easy"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 55,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
@@ -7941,17 +7937,17 @@
   },
   {
     "slug": "unmistakably-sweet-vietnamese-adventurous-bun-rieu",
-    "title": "Vietnamese Bun Rieu with Herbes de Provence",
+    "title": "Vietnamese Bun Rieu Soup",
     "tags": [
-      "adventurous",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "vietnamese",
+      "soup",
+      "seafood",
+      "noodles",
+      "herbs",
+      "adventurous"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 40,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 65,
     "shard": "u"
   },
   {
