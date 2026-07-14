@@ -2253,15 +2253,17 @@
   },
   {
     "slug": "umami-japanese-tofu-pasta",
-    "title": "Umami Japanese Tofu Pasta",
+    "title": "Tofu Pasta Stir Fry",
     "tags": [
-      "umami japanese dish",
-      "romantic japanese cuisine",
-      "vegan-friendly pasta recipe",
-      "jamaican curry powder twist"
+      "quick",
+      "easy",
+      "vegetarian",
+      "pasta",
+      "tofu",
+      "stir-fry"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -7211,17 +7213,15 @@
   },
   {
     "slug": "unique-umami-filipino-black-pudding-wrap",
-    "title": "Unique Umami Filipino Black Pudding Wrap",
+    "title": "Black Pudding Wrap",
     "tags": [
-      "dairy-free",
-      "filipino-cuisine",
-      "gluten-free",
-      "mason-jar-recipes",
-      "raw-friendly",
-      "snack-ideas"
+      "filipino",
+      "black-pudding",
+      "wrap",
+      "savory"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 30,
+    "totalTimeMin": 11,
     "shard": "u"
   },
   {
@@ -8472,17 +8472,15 @@
   },
   {
     "slug": "uplifting-german-marzipan-tagine",
-    "title": "Uplifting German Marzipan Tagine",
+    "title": "Traditional German Apple Marzipan Tagine",
     "tags": [
-      "comfort-food",
-      "fluffy",
-      "hangover-cure",
-      "sattvic",
-      "tagine",
-      "vegan"
+      "dessert",
+      "german",
+      "marzipan",
+      "tagine"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 50,
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "u"
   },
   {
