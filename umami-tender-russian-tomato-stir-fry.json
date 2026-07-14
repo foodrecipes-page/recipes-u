@@ -1,0 +1,98 @@
+{
+  "slug": "umami-tender-russian-tomato-stir-fry",
+  "title": "Russian Style Beef Stroganoff",
+  "description": "A classic Russian dish made with sautéed beef, mushrooms, and a creamy sauce, served over egg noodles.",
+  "cuisine": "Russian",
+  "diet": [
+    "beef",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "8 ounces",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "umami mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "tender egg noodles",
+      "amount": "8 ounces",
+      "notes": "wide or narrow"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "or half-and-half"
+    }
+  ],
+  "instructions": [
+    "Cook the egg noodles according to package instructions.",
+    "In a large skillet, heat the oil over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Gradually add the cream, whisking constantly.",
+    "Return the beef to the skillet and stir to coat with the sauce.",
+    "Season with mustard, salt, and pepper to taste.",
+    "Serve the beef and sauce over the cooked noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "noodles",
+    "sauce",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 35,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-tender-russian-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:16:51.509Z"
+}
