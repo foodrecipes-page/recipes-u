@@ -1,0 +1,84 @@
+{
+  "slug": "uniquely-chewy-french-french-wrap",
+  "title": "French Chicken Wrap",
+  "description": "A delicious and easy-to-make French-inspired chicken wrap recipe. This dish is perfect for a quick lunch or dinner.",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "French Brie Cheese",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Honey Mustard Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "+1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken breast with salt, pepper, and thyme.",
+    "Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "Slice the chicken into thin strips.",
+    "In a small bowl, mix together the honey mustard sauce and chopped thyme.",
+    "Place the wrap on a flat surface and spread the honey mustard sauce mixture evenly over the wrap.",
+    "Arrange the sliced chicken, lettuce, tomato, and red onion on the wrap.",
+    "Top with French Brie cheese.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "wrap",
+    "french",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uniquely-chewy-french-french-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:41:19.801Z"
+}
