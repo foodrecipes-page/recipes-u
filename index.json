@@ -9287,5 +9287,18 @@
     "cuisine": "Uruguayan",
     "totalTimeMin": 35,
     "shard": "u"
+  },
+  {
+    "slug": "umami-spicy-saudi-chicken-stew--thai",
+    "title": "Thai Chicken Stew",
+    "tags": [
+      "thai",
+      "chicken",
+      "stew",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "u"
   }
 ]
