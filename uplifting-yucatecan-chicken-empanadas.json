@@ -1,0 +1,81 @@
+{
+  "slug": "uplifting-yucatecan-chicken-empanadas",
+  "title": "Yucatecan Chicken Empanadas",
+  "description": "A fusion twist on traditional empanadas, filled with juicy chicken and spices from the Yucatan region of Mexico, wrapped in a crispy pastry crust.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Chicken",
+      "amount": "1 pound",
+      "notes": "Freshly ground chicken breast or tenderloins"
+    },
+    {
+      "name": "Lard or Vegetable Shortening",
+      "amount": "1/4 cup",
+      "notes": "For flaky pastry crust"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Yucatecan Seasonings",
+      "amount": "2 teaspoons",
+      "notes": "A blend of achiote, cumin, and oregano"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten for egg wash"
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine ground chicken, lard or shortening, onion, cilantro, and Yucatecan seasonings. Mix well.",
+    "Roll out empanada dough to a thickness of 1/8 inch. Cut into circles or squares.",
+    "Place a tablespoon of the chicken mixture onto one half of each dough circle, leaving a 1/2-inch border.",
+    "Brush edges with beaten egg for a golden glaze.",
+    "Fold dough over filling and press edges to seal. Use a fork to crimp.",
+    "Place empanadas on a baking sheet lined with parchment paper.",
+    "Brush tops with remaining egg wash and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "empanadas",
+    "chicken",
+    "yucatecan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uplifting-yucatecan-chicken-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:22:06.499Z"
+}
