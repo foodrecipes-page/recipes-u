@@ -1,0 +1,68 @@
+{
+  "slug": "unique-crispy-canadian-refried-beans-tacos",
+  "title": "Tacos with Refried Bean Filling",
+  "description": "A classic Mexican dish with a crispy twist, featuring refried beans as the main filling.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unique tortillas",
+      "amount": "6-8",
+      "notes": "preferably corn tortillas"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "6 slices",
+      "notes": "optional, for topping"
+    },
+    {
+      "name": "refried beans",
+      "amount": "1 cup",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "canadian cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "beans",
+      "amount": "1 can",
+      "notes": "black beans, drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Cook the crispy bacon slices until crispy, then set aside.",
+    "In the same skillet, warm the refried beans over low heat.",
+    "In a separate pan, warm the tortillas over medium heat for about 30 seconds on each side.",
+    "Assemble the tacos by spooning the refried beans onto a tortilla, followed by a slice of cheese and a sprinkle of crispy bacon.",
+    "Serve immediately and enjoy!",
+    "Optional: top with diced onions, cilantro, or salsa to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tacos",
+    "mexican",
+    "refried-beans",
+    "cheese",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 422,
+    "protein": 17,
+    "carbs": 43,
+    "fat": 23
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crispy-canadian-refried-beans-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T03:32:32.168Z"
+}
