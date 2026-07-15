@@ -1,0 +1,94 @@
+{
+  "slug": "unique-umami-ethiopian-fish-stew",
+  "title": "Ethiopian Fish Stew",
+  "description": "A hearty and flavorful stew originating from Ethiopia, made with fish and a blend of spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (cod or tilapia)",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Unique Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": "A mix of turmeric, coriander, cinnamon, and cumin"
+    },
+    {
+      "name": "Umami Broth",
+      "amount": "2 cups",
+      "notes": "You can use store-bought or homemade broth"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Stew Seasoning",
+      "amount": "1 teaspoon",
+      "notes": "A mix of paprika, salt, and black pepper"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium-high heat.",
+    "Add the onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add the carrots and potatoes and cook for another 5 minutes.",
+    "Add the fish and cook until browned on all sides, about 5 minutes.",
+    "Add the broth, spice blend, and stew seasoning. Bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 10-12 minutes, or until the fish is cooked through.",
+    "Stir in the lime juice and cook for an additional minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "fish",
+    "stew",
+    "lentil-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-ethiopian-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T03:39:31.139Z"
+}
