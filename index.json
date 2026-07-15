@@ -2715,16 +2715,15 @@
   },
   {
     "slug": "umami-silk-saudian-quinoa-stir-fry",
-    "title": "Umami Silk Saudian Quinoa Stir-fry",
+    "title": "Saudian Quinoa Bowl",
     "tags": [
-      "umami",
-      "saudi-arabian",
-      "stir-fry",
-      "silky",
-      "meal-prep"
+      "saudian",
+      "quinoa",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Saudia Arabian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
@@ -8631,16 +8630,16 @@
   },
   {
     "slug": "uplifting-yucatecan-chicken-empanadas",
-    "title": "Uplifting Yucatecan Chicken Empanadas",
+    "title": "Yucatecan Chicken Empanadas",
     "tags": [
-      "deep-fry",
-      "diabetic-friendly",
-      "family-friendly",
       "mexican",
-      "quick"
+      "empanadas",
+      "chicken",
+      "yucatecan",
+      "snack"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
