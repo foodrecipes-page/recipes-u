@@ -1,0 +1,93 @@
+{
+  "slug": "umami-silk-saudian-quinoa-stir-fry",
+  "title": "Saudian Quinoa Bowl",
+  "description": "A flavorful and nutritious bowl filled with saudian-spiced quinoa and umami-rich stir-fried vegetables",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "saudian",
+      "amount": "1 tsp",
+      "notes": "ground spices"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "silk",
+      "amount": "1/4 cup",
+      "notes": "silk tofu, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the quinoa in a fine mesh strainer and cook according to package instructions.",
+    "In a large pan, heat the fry over medium-high heat.",
+    "Add the diced onion and bell pepper and cook until tender.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced silk tofu and cook until lightly browned.",
+    "In a small bowl, mix together the umami and saudian spices.",
+    "Add the spice mixture to the pan and stir to combine.",
+    "Fluff the cooked quinoa with a fork and add to the pan.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "saudian",
+    "quinoa",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-silk-saudian-quinoa-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:54:36.218Z"
+}
