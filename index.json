@@ -5144,16 +5144,14 @@
   },
   {
     "slug": "unique-crisp-norwegian-black-bean-bowl",
-    "title": "Unique Crisp Norwegian Black Bean Bowl",
+    "title": "Crisp Black Bean Bowl",
     "tags": [
-      "crunchy-snacks",
-      "fermented-foods",
+      "black-beans",
+      "vegan",
       "gluten-free",
-      "low-carb",
-      "norwegian-cuisine",
-      "romantic-dinner"
+      "latin-american"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": "Latin American",
     "totalTimeMin": 40,
     "shard": "u"
   },
@@ -8743,17 +8741,15 @@
   },
   {
     "slug": "utterly-smoky-turkish-lentils-mercimek-corbasi",
-    "title": "Utterly Smoky Turkish Lentils Mercimek Corbasi",
+    "title": "Smoky Turkish Lentil Stew",
     "tags": [
-      "comfort-food",
-      "flexitarian-friendly",
-      "lentil-based",
-      "one-pot-meal",
-      "smoky-flavors",
-      "turkish-cuisine"
+      "lentil-stew",
+      "turkish-cuisine",
+      "smoky-spices",
+      "comfort-food"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
