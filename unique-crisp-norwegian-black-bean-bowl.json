@@ -1,0 +1,79 @@
+{
+  "slug": "unique-crisp-norwegian-black-bean-bowl",
+  "title": "Crisp Black Bean Bowl",
+  "description": "A simple, healthy bowl filled with crispy black beans, served with a variety of toppings.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "unique potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "crisp norwegian bacon",
+      "amount": "6 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the cubed potatoes on the baking sheet and roast for 20-25 minutes, or until crispy.",
+    "Meanwhile, cook the black beans according to package instructions.",
+    "In a small pan, cook the crumbled bacon over medium heat until crispy.",
+    "In a large bowl, combine the roasted potatoes, cooked black beans, and crispy bacon.",
+    "Top with fresh bean sprouts, diced avocado, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-beans",
+    "vegan",
+    "gluten-free",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crisp-norwegian-black-bean-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:24:20.597Z"
+}
