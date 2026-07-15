@@ -1,0 +1,55 @@
+{
+  "slug": "unbridled-russian-snap-peas-salad",
+  "title": "Russian Pea Salad",
+  "description": "A refreshing cold salad made with Russian dressing and fresh peas.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salad",
+      "amount": "2 cups"
+    },
+    {
+      "name": "russian dressing",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "snap peas",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the salad, peas, and snap peas.",
+    "In a separate container, whisk together the Russian dressing and a pinch of salt.",
+    "Pour the dressing over the salad mixture and toss to combine.",
+    "Chill in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "Serve cold and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cold-salad",
+    "vegetarian",
+    "summer-side-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unbridled-russian-snap-peas-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T03:36:22.708Z"
+}
