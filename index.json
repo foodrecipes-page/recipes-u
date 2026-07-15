@@ -3374,17 +3374,14 @@
   },
   {
     "slug": "unbridled-russian-snap-peas-salad",
-    "title": "Unbridled Russian Snap Peas Salad",
+    "title": "Russian Pea Salad",
     "tags": [
-      "low-fat",
-      "quick",
-      "russian",
-      "snap-peas",
-      "tandoori",
-      "vegetarian"
+      "cold-salad",
+      "vegetarian",
+      "summer-side-dish"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 18,
+    "cuisine": "american",
+    "totalTimeMin": 10,
     "shard": "u"
   },
   {
@@ -5176,17 +5173,16 @@
   },
   {
     "slug": "unique-crispy-canadian-refried-beans-tacos",
-    "title": "Unique Crispy Canadian Refried Beans Tacos",
+    "title": "Tacos with Refried Bean Filling",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "crispy",
-      "gluten-free",
-      "vegetarian-friendly",
-      "weeknight-meal"
+      "tacos",
+      "mexican",
+      "refried-beans",
+      "cheese",
+      "bacon"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -7188,16 +7184,15 @@
   },
   {
     "slug": "unique-umami-ethiopian-fish-stew",
-    "title": "Unique Umami Ethiopian Fish Stew",
+    "title": "Ethiopian Fish Stew",
     "tags": [
-      "cozy-dinner",
-      "fish-based",
-      "international-cuisine",
-      "one-pot",
-      "umami-rich"
+      "ethiopian",
+      "fish",
+      "stew",
+      "lentil-free"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -7814,16 +7809,16 @@
   },
   {
     "slug": "uniquely-chewy-french-french-wrap",
-    "title": "uniquely Chewy French French Wrap",
+    "title": "French Chicken Wrap",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "meal-prep",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "wrap",
+      "french",
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 35,
+    "cuisine": "French",
+    "totalTimeMin": 22,
     "shard": "u"
   },
   {
