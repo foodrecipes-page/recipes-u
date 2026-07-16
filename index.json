@@ -4944,17 +4944,15 @@
   },
   {
     "slug": "unique-citrusy-greek-pork-skewers",
-    "title": "Unique Citrusy Greek Pork Skewers",
+    "title": "Greek Pork Souvlaki",
     "tags": [
-      "citrusy",
-      "crowd-pleaser",
-      "greek-food",
-      "grilled-pork",
-      "light-meal",
-      "shojin-friendly"
+      "greek",
+      "pork",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
