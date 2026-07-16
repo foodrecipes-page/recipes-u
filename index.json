@@ -9334,5 +9334,17 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "u"
+  },
+  {
+    "slug": "ujuicy-mustard-croation-skillet--thai",
+    "title": "Thai-Style Stir-Fried Ujuicy with Croation",
+    "tags": [
+      "thaifood",
+      "stirfry",
+      "quickmeal"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "u"
   }
 ]
