@@ -1,0 +1,78 @@
+{
+  "slug": "umami-smoky-chinese-pork-xiaolongbao",
+  "title": "Pan-Seared Xiaolongbao with Smoky Dipping Sauce",
+  "description": "A classic Chinese Xiaolongbao recipe with a smoky twist. The smoky dipping sauce adds a rich and savory flavor to the delicate pork dumplings.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Xiaolongbao wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": "Make sure to handle the pork safely and cook it to an internal temperature of 160°F (71°C)"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 small",
+      "notes": "Finely chop the shallots before adding them to the pork mixture"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 small",
+      "notes": "Grate the ginger and add it to the pork mixture"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a gluten-free soy sauce if necessary"
+    },
+    {
+      "name": "Smoky dipping sauce (see below for recipe)",
+      "amount": "as needed"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine ground pork, shallots, ginger, and soy sauce in a bowl. Mix well until just combined.",
+    "Place a Xiaolongbao wrapper on a flat surface. Place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point. Press the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and pork mixture.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium heat.",
+    "Add the Xiaolongbao to the skillet and cook for 2-3 minutes on each side, or until the bottoms are golden brown.",
+    "Add 1/2 cup of water to the skillet and cover with a lid.",
+    "Steam the Xiaolongbao for 5-7 minutes, or until they are cooked through.",
+    "Serve the Xiaolongbao with the smoky dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "xiaolongbao",
+    "chinese",
+    "dinner",
+    "pork",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-smoky-chinese-pork-xiaolongbao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:34:47.106Z"
+}
