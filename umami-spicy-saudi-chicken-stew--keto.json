@@ -1,0 +1,89 @@
+{
+  "slug": "umami-spicy-saudi-chicken-stew--keto",
+  "title": "Saudi-Style Chicken Stew",
+  "description": "A hearty Saudi-inspired stew made with chicken, rich in umami flavor and spices, served keto.",
+  "cuisine": "Saudi",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "umami paste",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "spicy sauce",
+      "amount": "1 tsp",
+      "notes": "adjust to desired heat level"
+    },
+    {
+      "name": "saudi spices",
+      "amount": "1 tsp",
+      "notes": "such as cumin, coriander, and turmeric"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "stew meat",
+      "amount": "1 cup",
+      "notes": "or beef, cut into bite-sized pieces"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast and cook until browned on all sides, about 5-6 minutes.",
+    "Add the saudi spices, umami paste, spicy sauce, and stew meat. Stir to combine.",
+    "Add the diced tomatoes and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 25-30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "keto",
+    "chicken",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-spicy-saudi-chicken-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:32:00.445Z"
+}
