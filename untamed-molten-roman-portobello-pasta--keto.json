@@ -1,0 +1,77 @@
+{
+  "slug": "untamed-molten-roman-portobello-pasta--keto",
+  "title": "Pan-Seared Portobello Mushrooms with Roman Pasta",
+  "description": "A keto-friendly dish featuring pan-seared portobello mushrooms served with a side of roman pasta. This recipe combines the earthy flavor of mushrooms with the rich taste of pasta.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "4",
+      "notes": "Large portobello mushrooms"
+    },
+    {
+      "name": "roman pasta",
+      "amount": "8 oz",
+      "notes": "Choose a keto-friendly pasta option"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-searing the mushrooms"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced garlic for added flavor"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "Shredded parmesan cheese for topping"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "For seasoning the mushrooms and pasta"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Cook the roman pasta according to package instructions and set aside.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and sauté for 1 minute until fragrant.",
+    "Add the portobello mushrooms to the skillet and cook for 3-4 minutes per side until tender.",
+    "Season the mushrooms with salt and pepper to taste.",
+    "Combine the cooked pasta and mushrooms in a large serving dish.",
+    "Top the pasta with shredded parmesan cheese and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "mushrooms",
+    "pasta",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/untamed-molten-roman-portobello-pasta--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:26:08.382Z"
+}
