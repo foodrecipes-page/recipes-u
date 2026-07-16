@@ -1,0 +1,76 @@
+{
+  "slug": "understated-creamy-moroccan-brie-amlou--keto",
+  "title": "Keto Moroccan Brie Bites",
+  "description": "A rich and creamy keto appetizer or snack, inspired by the flavors of Morocco. Perfect for a quick indulgence.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Understated Cream Cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Brie Cheese, softened",
+      "amount": "4 ounces",
+      "notes": "Make sure to choose a high-quality, strong blue cheese"
+    },
+    {
+      "name": "Moroccan Amlou",
+      "amount": "2 tablespoons",
+      "notes": "A traditional Moroccan nut paste made from almonds, honey, and argan oil"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sweetener (e.g. Swerve or Erythritol)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the softened brie cheese, understated cream cheese, and granulated sweetener. Mix until smooth.",
+    "Add the Moroccan amlou and mix until well combined.",
+    "Stir in the chopped fresh thyme.",
+    "Gradually add the almond flour to the cheese mixture and mix until a dough forms.",
+    "Cover the dough with plastic wrap and refrigerate for at least 30 minutes.",
+    "Using a small cookie scoop or spoon, form the dough into small balls, about 1 inch in diameter.",
+    "Place the brie bites on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until the edges are lightly golden brown.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "moroccan",
+    "appetizer",
+    "snack",
+    "blue-cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/understated-creamy-moroccan-brie-amlou--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:39:49.959Z"
+}
