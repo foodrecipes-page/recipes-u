@@ -1,0 +1,68 @@
+{
+  "slug": "ujuicy-mustard-croation-skillet--italian",
+  "title": "Italian Pan-Seared Chicken with Mustard Sauce",
+  "description": "A classic Italian dish made with pan-seared chicken and a rich mustard sauce, served with a side of ujuicy vegetables.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1-2 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "ujuicy",
+      "amount": "1 cup",
+      "notes": "sliced into thin wedges"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tbsp",
+      "notes": "whole-grain Dijon"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large, oven-safe"
+    },
+    {
+      "name": "croatian olive oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-searing"
+    }
+  ],
+  "instructions": [
+    "1. Heat the croatian olive oil in the skillet over medium-high heat.",
+    "2. Season the chicken breast with salt and pepper.",
+    "3. Add the chicken to the skillet and sear for 5-6 minutes per side, or until cooked through.",
+    "4. Remove the chicken from the skillet and set aside.",
+    "5. Reduce the heat to medium and add the sliced ujuicy to the skillet.",
+    "6. Cook for 3-4 minutes, or until the ujuicy is tender and lightly browned.",
+    "7. In a small bowl, whisk together the mustard and 1 tbsp of water.",
+    "8. Pour the mustard sauce over the ujuicy and stir to combine.",
+    "9. Return the chicken to the skillet and spoon some of the mustard sauce over the top.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "mustard",
+    "ujuicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ujuicy-mustard-croation-skillet--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:41:01.553Z"
+}
