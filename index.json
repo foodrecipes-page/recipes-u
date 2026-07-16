@@ -9307,5 +9307,32 @@
     "cuisine": "Saudi",
     "totalTimeMin": 45,
     "shard": "u"
+  },
+  {
+    "slug": "understated-creamy-moroccan-brie-amlou--keto",
+    "title": "Keto Moroccan Brie Bites",
+    "tags": [
+      "keto",
+      "moroccan",
+      "appetizer",
+      "snack",
+      "blue-cheese"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 27,
+    "shard": "u"
+  },
+  {
+    "slug": "ujuicy-mustard-croation-skillet--italian",
+    "title": "Italian Pan-Seared Chicken with Mustard Sauce",
+    "tags": [
+      "italian",
+      "chicken",
+      "mustard",
+      "ujuicy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "u"
   }
 ]
