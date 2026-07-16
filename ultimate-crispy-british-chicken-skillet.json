@@ -1,0 +1,86 @@
+{
+  "slug": "ultimate-crispy-british-chicken-skillet",
+  "title": "Crispy Chicken Skillet",
+  "description": "A classic British-inspired skillet dish with crispy chicken, perfect for a quick dinner.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large cast-iron skillet"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/2 cup",
+      "notes": "crispy coating mix"
+    },
+    {
+      "name": "ultimate",
+      "amount": "2 tablespoons",
+      "notes": "ultimate seasoning blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juice of 1 lemon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with ultimate seasoning blend, salt, and pepper.",
+    "Heat olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook for 5-6 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for an additional 10-12 minutes, or until cooked through.",
+    "While the chicken is cooking, mix the crispy coating mix with a pinch of salt and pepper.",
+    "Once the chicken is done, remove it from the oven and sprinkle the crispy coating mix evenly over the top.",
+    "Return the skillet to the stovetop over medium heat and cook for an additional 2-3 minutes, or until the crispy coating is golden brown.",
+    "Remove the skillet from the heat and squeeze a sliver of lemon juice over the top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "chicken",
+    "skillet",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultimate-crispy-british-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:56:51.332Z"
+}
