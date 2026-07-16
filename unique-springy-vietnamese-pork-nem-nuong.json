@@ -1,0 +1,86 @@
+{
+  "slug": "unique-springy-vietnamese-pork-nem-nuong",
+  "title": "Grilled Pork Nem (Vietnamese Spring Rolls)",
+  "description": "A delicious and easy-to-make Vietnamese dish featuring grilled pork and crispy spring rolls. Serve with your favorite dipping sauce.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "spring roll wrappers",
+      "amount": "20-24 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. In a large bowl, combine the pork shoulder, fish sauce, lime juice, and black pepper. Mix well to combine.",
+    "3. Thread the pork mixture onto skewers, leaving a small space between each piece.",
+    "4. Grill the pork skewers for 8-10 minutes, turning occasionally, until cooked through.",
+    "5. Meanwhile, prepare the spring roll wrappers according to package instructions.",
+    "6. Fill each spring roll wrapper with a few pieces of the grilled pork, some shredded carrots, cabbage, and daikon.",
+    "7. Serve the grilled pork nem immediately, with your favorite dipping sauce.",
+    "8. To assemble the spring rolls, place a small amount of the filling in the center of a spring roll wrapper.",
+    "9. Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "10. Repeat with the remaining ingredients."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "spring-rolls",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-springy-vietnamese-pork-nem-nuong",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:47:43.091Z"
+}
