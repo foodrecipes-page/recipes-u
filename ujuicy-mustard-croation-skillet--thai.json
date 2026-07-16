@@ -1,0 +1,49 @@
+{
+  "slug": "ujuicy-mustard-croation-skillet--thai",
+  "title": "Thai-Style Stir-Fried Ujuicy with Croation",
+  "description": "A quick and flavorful Thai dish made with stir-fried ujuicy and croation, served with a tangy mustard sauce.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ujuicy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Croation",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat.",
+    "Add the ujuicy and croation to the skillet and stir-fry for 3-4 minutes.",
+    "Add the mustard to the skillet and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "stirfry",
+    "quickmeal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ujuicy-mustard-croation-skillet--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:27:08.948Z"
+}
