@@ -1,0 +1,93 @@
+{
+  "slug": "unique-citrusy-greek-pork-skewers",
+  "title": "Greek Pork Souvlaki",
+  "description": "A classic Greek recipe featuring marinated pork skewers grilled to perfection, served with a refreshing side of lemon and herbs.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Look for boneless pork shoulder for best results"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1/4 cup",
+      "notes": "Greek olive oil for authentic flavor"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed for maximum flavor"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "Don't skip the garlic for depth of flavor"
+    },
+    {
+      "name": "Oregano, dried",
+      "amount": "1 teaspoon",
+      "notes": "Classic Greek herb"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use kosher salt for best results"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground for best flavor"
+    },
+    {
+      "name": "Red onion, sliced",
+      "amount": "1 medium",
+      "notes": "Thinly sliced for easy grilling"
+    },
+    {
+      "name": "Bell pepper, sliced",
+      "amount": "1 medium",
+      "notes": "Colorful and flavorful"
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "1/4 cup",
+      "notes": "Use a zester for best results"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Thread pork, onion, bell pepper, and lemon zest onto skewers.",
+    "In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+    "Brush skewers with marinade, making sure all surfaces are coated.",
+    "Grill skewers for 8-10 minutes per side, or until pork is cooked through.",
+    "Let rest for 5 minutes before serving.",
+    "Serve with additional lemon wedges and a side of your favorite Greek salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "pork",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-citrusy-greek-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:06:02.307Z"
+}
