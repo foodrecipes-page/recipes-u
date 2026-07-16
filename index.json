@@ -9296,5 +9296,18 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "u"
+  },
+  {
+    "slug": "umami-spicy-saudi-chicken-stew--keto",
+    "title": "Saudi-Style Chicken Stew",
+    "tags": [
+      "saudi",
+      "keto",
+      "chicken",
+      "stew"
+    ],
+    "cuisine": "Saudi",
+    "totalTimeMin": 45,
+    "shard": "u"
   }
 ]
