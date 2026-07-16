@@ -2856,18 +2856,16 @@
   },
   {
     "slug": "umami-smoky-chinese-pork-xiaolongbao",
-    "title": "Umami Smoky Chinese Pork Xiaolongbao",
+    "title": "Pan-Seared Xiaolongbao with Smoky Dipping Sauce",
     "tags": [
-      "chinese-food",
-      "meal-prep",
-      "paleo",
-      "pressure-cooker",
-      "smoky",
-      "umami",
-      "whole30"
+      "xiaolongbao",
+      "chinese",
+      "dinner",
+      "pork",
+      "gluten-free"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -6973,17 +6971,15 @@
   },
   {
     "slug": "unique-springy-vietnamese-pork-nem-nuong",
-    "title": "Unique Springy Vietnamese Pork Nem Nuong",
+    "title": "Grilled Pork Nem (Vietnamese Spring Rolls)",
     "tags": [
-      "cardamom-spiced",
-      "dairy-free",
-      "gluten-free",
-      "hot-pot-recipes",
-      "pork-recipes",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "grilled",
+      "spring-rolls",
+      "pork"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
