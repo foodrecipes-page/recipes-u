@@ -1,0 +1,91 @@
+{
+  "slug": "umami-light-thai-chicken-curry--japanese",
+  "title": "Japanese Chicken Curry",
+  "description": "A classic Japanese dish made with chicken, curry paste, and vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Japanese curry paste",
+      "amount": "2 tablespoons",
+      "notes": "make sure to stir constantly while cooking"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "1 can",
+      "notes": "14.5 ounces"
+    },
+    {
+      "name": "umami-rich soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "thai red chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for extra heat"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional, for balancing flavors"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the Japanese curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add the coconut milk, soy sauce, chili flakes (if using), and brown sugar (if using) to the skillet.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the sauce has thickened.",
+    "Return the chicken to the skillet and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve over rice or noodles.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "curry",
+    "chicken",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-light-thai-chicken-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:43:40.226Z"
+}
