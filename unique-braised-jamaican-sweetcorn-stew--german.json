@@ -1,0 +1,91 @@
+{
+  "slug": "unique-braised-jamaican-sweetcorn-stew--german",
+  "title": "Sauerbraten Sauererlebnis",
+  "description": "A classic German pot roast recipe with a twist of unique spices.",
+  "cuisine": "german",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef pot roast",
+      "amount": "1.5 kg",
+      "notes": null
+    },
+    {
+      "name": "unique",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "braised",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "jamaican",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt, black pepper, and sugar.",
+    "In a large Dutch oven, heat 2 tbsp of oil over medium-high heat.",
+    "Sear the beef until browned on all sides, then remove and set aside.",
+    "Add the onions to the pot and cook until caramelized.",
+    "Add the braised, unique, jamaican, and bay leaves to the pot.",
+    "Return the beef to the pot and add enough liquid to cover.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise the beef in a preheated oven at 300°F (150°C) for 2 hours.",
+    "Remove the pot from the oven and let it rest for 10 minutes.",
+    "Slice the beef against the grain and serve with the braising liquid."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "pot-roast",
+    "sauerbraten"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-braised-jamaican-sweetcorn-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:26:22.097Z"
+}
