@@ -1,0 +1,87 @@
+{
+  "slug": "umami-velvety-light-filipino-shellfish-stir-fry--italian",
+  "title": "Italian Shellfish Risotto",
+  "description": "A creamy, flavorful risotto featuring succulent shellfish in a rich Italian-inspired broth.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Velvety Arborio Rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Shellfish Stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Shellfish",
+      "amount": "1 pound",
+      "notes": "such as mussels, clams, or shrimp"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Umami White Wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the garlic and sauté for 1 minute until fragrant.",
+    "Add the shellfish and cook until pink and just cooked through, about 2-3 minutes.",
+    "Remove the shellfish from the skillet and set aside.",
+    "Add the Arborio rice to the skillet and cook for 1-2 minutes until lightly toasted.",
+    "Add the white wine (if using) and cook until the liquid is almost completely absorbed.",
+    "Add 1/2 cup of the shellfish stock to the skillet and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process of adding the stock, 1/2 cup at a time, until the rice is cooked and creamy, about 20-25 minutes.",
+    "Stir in the Parmesan cheese until melted and well combined.",
+    "Return the shellfish to the skillet and cook for an additional 1-2 minutes until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "seafood",
+    "risotto"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-velvety-light-filipino-shellfish-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:54:27.909Z"
+}
