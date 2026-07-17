@@ -9383,5 +9383,18 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "u"
+  },
+  {
+    "slug": "umami-flaky-adventurous-spanish-chia-seed-crumble--italian",
+    "title": "Crumble Topped Chia Pudding",
+    "tags": [
+      "italian",
+      "dessert",
+      "chia-pudding",
+      "crumble-topping"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
