@@ -1506,18 +1506,15 @@
   },
   {
     "slug": "umami-crunchy-japanese-pecan-nuts-ramen",
-    "title": "Umami Crunchy Japanese Pecan Nuts Ramen",
+    "title": "Umami Ramen Noodle Soup",
     "tags": [
-      "crunchy",
-      "halal",
-      "high-protein",
-      "one-pan",
-      "slow-cooked",
-      "umami-rich",
-      "weeknight"
+      "soup",
+      "noodle",
+      "umami",
+      "japanese"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 260,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
