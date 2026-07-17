@@ -1,0 +1,68 @@
+{
+  "slug": "umami-juicy-malaysian-chestnut-mushroom-stew",
+  "title": "Malaysian Stew with Chestnut and Mushroom",
+  "description": "A hearty and flavorful stew originating from Malaysia, combining the earthy taste of chestnuts and mushrooms with a rich umami flavor.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnut",
+      "amount": "2 cups, peeled and sliced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tablespoons, soy sauce or mushroom broth",
+      "notes": "or to taste"
+    },
+    {
+      "name": "juicy",
+      "amount": "1 cup, diced tomatoes",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups, vegetable broth",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add sliced mushrooms and cook until browned, about 5 minutes.",
+    "Add sliced chestnuts and cook for another 2-3 minutes.",
+    "Add diced tomatoes, vegetable broth, and soy sauce or mushroom broth.",
+    "Bring to a boil, then reduce heat and simmer for 15-20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Serve with steamed rice or noodles for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "stew",
+    "chestnut",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-juicy-malaysian-chestnut-mushroom-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:03:54.357Z"
+}
