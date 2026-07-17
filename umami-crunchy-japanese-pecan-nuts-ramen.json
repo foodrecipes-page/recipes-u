@@ -1,0 +1,71 @@
+{
+  "slug": "umami-crunchy-japanese-pecan-nuts-ramen",
+  "title": "Umami Ramen Noodle Soup",
+  "description": "A savory Japanese-inspired noodle soup with a rich, umami flavor. Crunchy toppings add texture to this comforting dish.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Umami broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Sliced mushrooms",
+      "amount": "1 cup",
+      "notes": "Such as shiitake or cremini"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy tempura bits",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Grated pecan",
+      "amount": "1 tablespoon",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the ramen noodles according to package instructions.",
+    "In a separate pot, heat the umami broth over medium heat.",
+    "Add sliced mushrooms to the pot and simmer for 5 minutes.",
+    "To assemble the soup, place cooked noodles in a bowl, then ladle the hot broth over the top.",
+    "Garnish with green onions, sesame seeds, and crunchy tempura bits.",
+    "If desired, sprinkle grated pecan on top for added crunch.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "noodle",
+    "umami",
+    "japanese"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-crunchy-japanese-pecan-nuts-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:53:18.114Z"
+}
