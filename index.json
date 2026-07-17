@@ -6924,16 +6924,15 @@
   },
   {
     "slug": "unique-spicy-venezuelan-chicken-empanadas",
-    "title": "Venezuelan Chicken Empanadas",
+    "title": "Chicken Empanadas Venezolanas",
     "tags": [
-      "baked-goods",
-      "high-protein",
-      "latin-american",
-      "spicy-food",
-      "venezuelan-cuisine"
+      "venezuelan",
+      "empanadas",
+      "snack",
+      "chicken"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
@@ -9407,6 +9406,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 190,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-braised-jamaican-sweetcorn-stew--japanese",
+    "title": "Braised Sweetcorn with Jamaican Seasoning",
+    "tags": [
+      "sweetcorn",
+      "jamaican",
+      "soy-sauce",
+      "sesame-oil"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "u"
   }
 ]
