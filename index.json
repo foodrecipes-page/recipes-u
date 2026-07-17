@@ -454,16 +454,16 @@
   },
   {
     "slug": "ultra-crispy-japanese-chicken-skewers",
-    "title": "Ultra Crispy Japanese Chicken Skewers",
+    "title": "Japanese Chicken Skewers with Crispy Ultra Topping",
     "tags": [
-      "chicken",
-      "grilled",
       "japanese",
-      "skewers",
-      "weeknight"
+      "grilled",
+      "chicken",
+      "gluten-free",
+      "low-carb"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -2281,17 +2281,16 @@
   },
   {
     "slug": "umami-juicy-malaysian-chestnut-mushroom-stew",
-    "title": "Umami Juicy Malaysian Chestnut Mushroom Stew",
+    "title": "Malaysian Stew with Chestnut and Mushroom",
     "tags": [
-      "low-carb",
-      "umami",
-      "stews",
-      "chestnut-mushrooms",
-      "malaysian",
-      "comforting"
+      "vegetarian",
+      "gluten-free",
+      "stew",
+      "chestnut",
+      "mushroom"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
