@@ -6934,16 +6934,17 @@
   },
   {
     "slug": "unique-springy-moroccan-chicken-tagine",
-    "title": "Unique Springy Moroccan Chicken Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "macrobiotic-friendly",
-      "monsoon-meals",
-      "moroccan-cuisine",
-      "papillote-cooking",
-      "spring-recipes"
+      "moroccan",
+      "chicken",
+      "tagine",
+      "dinner",
+      "gluten-free",
+      "dairy-free"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "u"
   },
   {
@@ -9416,6 +9417,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
+    "slug": "umami-light-thai-chicken-curry--japanese",
+    "title": "Japanese Chicken Curry",
+    "tags": [
+      "japanese",
+      "curry",
+      "chicken",
+      "coconut-milk"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
     "shard": "u"
   }
 ]
