@@ -1,0 +1,66 @@
+{
+  "slug": "ultimate-bitter-turkish-rocket-su-boregi--french",
+  "title": "French Boregi with Rocket Salad",
+  "description": "A French twist on the classic boregi pastry, served with a peppery rocket salad.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boregi",
+      "amount": "2 packages",
+      "notes": "frozen, store-bought"
+    },
+    {
+      "name": "rocket",
+      "amount": "4 cups",
+      "notes": "fresh leaves"
+    },
+    {
+      "name": "su",
+      "amount": "1 cup",
+      "notes": "white wine vinegar"
+    },
+    {
+      "name": "ultimate",
+      "amount": "1/4 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 tsp",
+      "notes": "red pepper flakes"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw boregi packages according to package instructions.",
+    "In a large bowl, toss rocket leaves with su, ultimate, and turkish. Season with salt and pepper to taste.",
+    "Place boregi on a baking sheet lined with parchment paper.",
+    "Bake boregi for 10-12 minutes, or until golden brown.",
+    "Serve boregi hot with rocket salad on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegetarian",
+    "snack",
+    "pastries"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultimate-bitter-turkish-rocket-su-boregi--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:56:14.808Z"
+}
