@@ -1,0 +1,87 @@
+{
+  "slug": "unique-spicy-venezuelan-chicken-empanadas",
+  "title": "Chicken Empanadas Venezolanas",
+  "description": "A traditional Venezuelan dish, these empanadas are filled with spicy chicken and are a perfect snack for any occasion.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "unique spices (aji panca, cumin, smoked paprika)",
+      "amount": "2 teaspoons",
+      "notes": "mix of aji panca and smoked paprika for a unique flavor"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "4-6 pieces",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for brushing empanadas"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "optional for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare the empanada dough according to package instructions or make homemade empanada dough.",
+    "In a pan, heat 1/4 cup of vegetable oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast and cook until browned, about 5-7 minutes.",
+    "Add the unique spices and cook for an additional minute.",
+    "Let the chicken cool and then shred it.",
+    "Assemble the empanadas by placing a tablespoon of the chicken mixture onto one half of the empanada dough, brush the edges with water and fold the other half over.",
+    "Brush the tops of the empanadas with the remaining vegetable oil.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Garnish with chopped cilantro and serve with salsa, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "empanadas",
+    "snack",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-spicy-venezuelan-chicken-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:52:59.936Z"
+}
