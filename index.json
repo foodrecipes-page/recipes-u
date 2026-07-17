@@ -9358,5 +9358,18 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "ultimate-bitter-turkish-rocket-su-boregi--french",
+    "title": "French Boregi with Rocket Salad",
+    "tags": [
+      "french",
+      "vegetarian",
+      "snack",
+      "pastries"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
+    "shard": "u"
   }
 ]
