@@ -1,0 +1,67 @@
+{
+  "slug": "unique-braised-jamaican-sweetcorn-stew--japanese",
+  "title": "Braised Sweetcorn with Jamaican Seasoning",
+  "description": "A flavorful and tender Japanese-inspired sweetcorn dish with a twist of Jamaican heat.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweetcorn",
+      "amount": "4 ears"
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Husk the sweetcorn and remove the silk.",
+    "In a large bowl, whisk together soy sauce, sesame oil, Jamaican seasoning, and sugar.",
+    "Add the sweetcorn to the bowl and toss to coat.",
+    "Transfer the sweetcorn to a baking dish and add water.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the sweetcorn is tender.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweetcorn",
+    "jamaican",
+    "soy-sauce",
+    "sesame-oil"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-braised-jamaican-sweetcorn-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:29:24.204Z"
+}
