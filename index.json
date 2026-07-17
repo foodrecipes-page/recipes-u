@@ -9371,5 +9371,17 @@
     "cuisine": "french",
     "totalTimeMin": 22,
     "shard": "u"
+  },
+  {
+    "slug": "umami-velvety-light-filipino-shellfish-stir-fry--italian",
+    "title": "Italian Shellfish Risotto",
+    "tags": [
+      "italian",
+      "seafood",
+      "risotto"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "u"
   }
 ]
