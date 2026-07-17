@@ -1,0 +1,65 @@
+{
+  "slug": "umami-flaky-adventurous-spanish-chia-seed-crumble--italian",
+  "title": "Crumble Topped Chia Pudding",
+  "description": "A twist on traditional Italian desserts, this crumble topped chia pudding is a unique and delicious treat.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "chia seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "spanish almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "umami vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "adventurous cinnamon powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "crumble mixture",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together chia seeds and almond milk. Refrigerate for at least 2 hours.",
+    "Preheat oven to 375°F (190°C).",
+    "In a separate bowl, mix together crumble mixture and a pinch of flaky sea salt.",
+    "Top the chia pudding with the crumble mixture and bake for 20-25 minutes, or until golden brown.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "dessert",
+    "chia-pudding",
+    "crumble-topping"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-flaky-adventurous-spanish-chia-seed-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:05:05.272Z"
+}
