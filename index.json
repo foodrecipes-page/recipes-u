@@ -9396,5 +9396,18 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "u"
+  },
+  {
+    "slug": "unique-braised-jamaican-sweetcorn-stew--german",
+    "title": "Sauerbraten Sauererlebnis",
+    "tags": [
+      "german",
+      "beef",
+      "pot-roast",
+      "sauerbraten"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 190,
+    "shard": "u"
   }
 ]
