@@ -1,0 +1,97 @@
+{
+  "slug": "unforgettably-bitter-uruguayan-trout-paella",
+  "title": "Uruguayan Trout Paella",
+  "description": "A twist on the classic Spanish dish, this Uruguayan-inspired paella pairs the rich flavors of the country's cuisine with the delicate taste of trout.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Trout fillets",
+      "amount": "2 lbs",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Unforgettably bitter Uruguayan coffee",
+      "amount": "2 tbsp",
+      "notes": "Used for marinade"
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": "Specialty rice for paella"
+    },
+    {
+      "name": "Uruguayan sausage (Mortadela)",
+      "amount": "1 lb",
+      "notes": "Optional"
+    },
+    {
+      "name": "Olives",
+      "amount": "1 cup",
+      "notes": "Pitted and sliced"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 cup",
+      "notes": "Canned or marinated"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced red bell pepper and cook until tender, about 3-4 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the Uruguayan sausage (if using) and cook until browned, breaking up with a spoon as needed.",
+    "Add the trout fillets and cook until browned on both sides, about 2-3 minutes per side.",
+    "Add the Uruguayan coffee, paella rice, salt, and pepper. Stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the artichoke hearts and olives.",
+    "Serve immediately, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "trout",
+    "paella",
+    "fish",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unforgettably-bitter-uruguayan-trout-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:52:19.331Z"
+}
