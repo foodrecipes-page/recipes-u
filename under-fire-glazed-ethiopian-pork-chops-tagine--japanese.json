@@ -1,0 +1,76 @@
+{
+  "slug": "under-fire-glazed-ethiopian-pork-chops-tagine--japanese",
+  "title": "Pan-Seared Pork Chops with Ethiopian Spice",
+  "description": "A fusion of Japanese and Ethiopian flavors, this dish brings a unique twist to traditional pork chops.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "glazed under fire",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "ethiopian spice",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garnish",
+      "amount": "chopped green onions",
+      "notes": null
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork chops with Ethiopian spice and let it sit for 10 minutes.",
+    "Heat oil in a large skillet over medium-high heat. Sear the pork chops for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes or until cooked through.",
+    "In a small saucepan, combine sake and sugar. Bring to a boil over medium heat and reduce to a glaze.",
+    "Brush the glaze over the pork chops during the last 2 minutes of cooking.",
+    "Let the pork chops rest for 5 minutes before slicing and serving.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "ethiopian",
+    "pork-chops",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/under-fire-glazed-ethiopian-pork-chops-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:42:22.706Z"
+}
