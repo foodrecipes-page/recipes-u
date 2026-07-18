@@ -1,0 +1,82 @@
+{
+  "slug": "ultra-spicy-canadian-tourtiere-poutine--vegetarian",
+  "title": "Spicy Tourtiere Poutine",
+  "description": "A vegetarian twist on the classic Canadian dish, using tourtiere instead of ground meat and adding a spicy kick.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tourtiere",
+      "amount": "1 package (homemade or store-bought)",
+      "notes": "Make sure it's vegetarian"
+    },
+    {
+      "name": "Poutine cheese curds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Poutine gravy",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spicy sauce",
+      "amount": "1/4 cup",
+      "notes": "e.g. sriracha mayo"
+    },
+    {
+      "name": "Canadian fries",
+      "amount": "2 pounds",
+      "notes": "frozen or fresh"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake the Canadian fries in the oven for 20-25 minutes, or until crispy.",
+    "While the fries are baking, heat the poutine gravy in a saucepan over medium heat.",
+    "Cook the tourtiere according to the package instructions.",
+    "To assemble the poutine, place a portion of fries in a bowl, top with a spoonful of tourtiere, and drizzle with spicy sauce and poutine gravy.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "poutine",
+    "tourtiere",
+    "vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-spicy-canadian-tourtiere-poutine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:00:27.072Z"
+}
