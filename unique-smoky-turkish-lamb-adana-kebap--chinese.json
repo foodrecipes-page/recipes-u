@@ -1,0 +1,112 @@
+{
+  "slug": "unique-smoky-turkish-lamb-adana-kebap--chinese",
+  "title": "Kung Pao Lamb Kebap",
+  "description": "A unique fusion of Chinese and Turkish flavors, this spicy lamb kebap is cooked to perfection with crunchy vegetables and smoky spices.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Unique Smoky Turkish Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at middle eastern markets"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    {
+      "step": "1. In a large bowl, combine lamb, unique smoky turkish spice blend, and 2 tablespoons of vegetable oil. Mix well to coat lamb evenly.",
+      "notes": ""
+    },
+    {
+      "step": "2. Heat 2 tablespoons of vegetable oil in a wok or large skillet over medium-high heat.",
+      "notes": ""
+    },
+    {
+      "step": "3. Add lamb to the wok or skillet and cook until browned, about 5 minutes. Remove lamb from wok and set aside.",
+      "notes": ""
+    },
+    {
+      "step": "4. In the same wok or skillet, add garlic, ginger, soy sauce, rice vinegar, and brown sugar. Stir-fry until fragrant, about 1 minute.",
+      "notes": ""
+    },
+    {
+      "step": "5. Add scallions and red peppers to the wok or skillet and stir-fry until vegetables are tender, about 3 minutes.",
+      "notes": ""
+    },
+    {
+      "step": "6. Add cooked lamb back to the wok or skillet and stir-fry until combined with vegetables and sauce.",
+      "notes": ""
+    },
+    {
+      "step": "7. Serve lamb kebap hot, garnished with additional scallions if desired.",
+      "notes": ""
+    }
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "turkish",
+    "kebap",
+    "lamb",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-smoky-turkish-lamb-adana-kebap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:28:12.240Z"
+}
