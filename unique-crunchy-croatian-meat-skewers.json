@@ -1,0 +1,79 @@
+{
+  "slug": "unique-crunchy-croatian-meat-skewers",
+  "title": "Croatian Meat Skewers",
+  "description": "A delicious and easy-to-make dish that combines the flavors of the Mediterranean with the convenience of meat skewers. Perfect for a quick dinner or lunch.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Unique olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Crunchy onions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Croatian sausage",
+      "amount": "1 pound",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "Meat (pork and beef)",
+      "amount": "1 pound",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread the sausage, meat, onions, and olives onto skewers, leaving a little space between each piece.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the meat is cooked through and the onions are caramelized.",
+    "Serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "croatian",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crunchy-croatian-meat-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:50:04.788Z"
+}
