@@ -9480,5 +9480,20 @@
     "cuisine": "mexican",
     "totalTimeMin": 60,
     "shard": "u"
+  },
+  {
+    "slug": "unique-uruguayan-sushi-rice-bowl--indian",
+    "title": "Sushi Bowl with Indian Spices",
+    "tags": [
+      "indian",
+      "japanese",
+      "sushi",
+      "bowl",
+      "unique",
+      "spice-blend"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
