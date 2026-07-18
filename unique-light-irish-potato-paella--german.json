@@ -1,0 +1,101 @@
+{
+  "slug": "unique-light-irish-potato-paella--german",
+  "title": "German Potato and Irish Lamb Sausage Paella",
+  "description": "A hearty German-inspired paella dish featuring Irish lamb sausage, potatoes, and a medley of vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish lamb sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "light potatoes",
+      "amount": "2 large",
+      "notes": "cut into 1-inch wedges"
+    },
+    {
+      "name": "unique",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "paella",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the sausage and cook until browned, about 5 minutes. Remove from pan and set aside.",
+    "Add the onion and garlic to the pan and cook until the onion is translucent, about 5 minutes.",
+    "Add the potatoes, unique, and paella to the pan and cook for 5 minutes, stirring frequently.",
+    "Add the chicken broth, white wine, and tomato to the pan. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the cooked sausage back to the pan and stir to combine.",
+    "Cook for an additional 5 minutes, until the liquid has been absorbed and the paella is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "paella",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-light-irish-potato-paella--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:37:25.081Z"
+}
