@@ -9429,5 +9429,32 @@
     "cuisine": "japanese",
     "totalTimeMin": 45,
     "shard": "u"
+  },
+  {
+    "slug": "unusual-australian-coconut-mousse--keto",
+    "title": "Keto Coconut Mousse",
+    "tags": [
+      "keto",
+      "coconut",
+      "australian",
+      "dessert"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 120,
+    "shard": "u"
+  },
+  {
+    "slug": "umami-polish-tempeh-wrap--french",
+    "title": "Tempeh Crêpes",
+    "tags": [
+      "crêpes",
+      "french-cuisine",
+      "tempeh",
+      "polish-rye-flour",
+      "umami-seasoning"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "u"
   }
 ]
