@@ -1,0 +1,93 @@
+{
+  "slug": "unbelievably-crisp-russian-beef-muffins--thai",
+  "title": "Crisp Beef Satay with Spicy Peanut Sauce",
+  "description": "A Thai-inspired dish featuring marinated beef skewers served with a creamy spicy peanut sauce. Perfect for a quick and flavorful meal.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "muffins",
+      "amount": "6",
+      "notes": "for serving with peanut sauce"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup",
+      "notes": " creamy or crunchy"
+    },
+    {
+      "name": "sambal oelek",
+      "amount": "2 tablespoons",
+      "notes": "Thai chili paste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "full-fat for creaminess"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Thai seasoning"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/4 cup",
+      "notes": "crumbled for garnish"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef onto skewers, leaving space between pieces.",
+    "In a large bowl, whisk together peanut butter, sambal oelek, coconut milk, fish sauce, and lime juice.",
+    "Add brown sugar if using, and stir to combine.",
+    "Add tofu to the peanut sauce and stir to coat.",
+    "Grill beef skewers for 8-10 minutes, turning occasionally, or until cooked to desired level of doneness.",
+    "Transfer skewers to a serving plate and brush with peanut sauce.",
+    "Serve with additional peanut sauce for dipping.",
+    "Garnish with chopped cilantro and serve with muffins on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "thai",
+    "spicy",
+    "peanut-sauce",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unbelievably-crisp-russian-beef-muffins--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:19:48.551Z"
+}
