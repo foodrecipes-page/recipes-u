@@ -1,0 +1,80 @@
+{
+  "slug": "umami-fluffy-mexican-celeriac-tacos",
+  "title": "Taco Stuffed Celeriac",
+  "description": "A flavorful and unique twist on traditional tacos. Celeriac replaces the traditional taco shell, providing a crunchy and refreshing base for your favorite fillings.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Celeriac",
+      "amount": "1 large",
+      "notes": "Peel and dice the celeriac into 1-inch pieces"
+    },
+    {
+      "name": "Umami-rich Mushroom Broth",
+      "amount": "2 cups",
+      "notes": "You can use store-bought or homemade broth"
+    },
+    {
+      "name": "Fluffy Mexican Rice",
+      "amount": "2 cups",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Taco Seasoning",
+      "amount": "1 packet",
+      "notes": "Follow the instructions on the package"
+    },
+    {
+      "name": "Tacos",
+      "amount": "4-6",
+      "notes": "You can use store-bought or homemade tacos"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar work well"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh cilantro for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the celeriac pieces with a tablespoon of oil and season with salt and pepper. Spread on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "While the celeriac is roasting, cook the Mexican Rice according to the package instructions.",
+    "In a large skillet, heat the Umami-rich Mushroom Broth over medium-high heat.",
+    "Add the Taco Seasoning to the skillet and stir to combine. Bring the mixture to a simmer.",
+    "Add the shredded cheese to the skillet and stir until melted and well combined.",
+    "Warm the tacos according to the package instructions.",
+    "To assemble the Taco Stuffed Celeriac, place a spoonful of the Taco Filling into the roasted celeriac 'shell'. Top with a spoonful of Mexican Rice, a sprinkle of cilantro, and your favorite taco toppings.",
+    "Serve immediately and enjoy!",
+    "Let leftovers cool completely before refrigerating or freezing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celeriac",
+    "tacos",
+    "mexican",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-fluffy-mexican-celeriac-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:43:10.459Z"
+}
