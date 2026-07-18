@@ -1945,19 +1945,15 @@
   },
   {
     "slug": "umami-fluffy-mexican-celeriac-tacos",
-    "title": "Umami Fluffy Mexican Celeriac Tacos",
+    "title": "Taco Stuffed Celeriac",
     "tags": [
       "celeriac",
-      "fluffy",
-      "high-protein",
-      "mexican",
-      "one-pan",
       "tacos",
-      "umami",
-      "weeknight"
+      "mexican",
+      "vegetarian"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
@@ -5374,17 +5370,14 @@
   },
   {
     "slug": "unique-crunchy-croatian-meat-skewers",
-    "title": "Unique Crunchy Croatian Meat Skewers",
+    "title": "Croatian Meat Skewers",
     "tags": [
-      "croatian-cuisine",
-      "easy-to-make",
-      "gluten-free",
       "grilled",
-      "low-calorie",
-      "meat-skewers"
+      "croatian",
+      "meat"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "u"
   },
   {
@@ -9493,6 +9486,20 @@
       "spice-blend"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "unforgettably-bitter-uruguayan-trout-paella--mexican",
+    "title": "Uruguayan Trout with Mexican Flair",
+    "tags": [
+      "uruguayan",
+      "mexican",
+      "fish",
+      "paella",
+      "seafood"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "u"
   }
