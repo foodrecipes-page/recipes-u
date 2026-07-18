@@ -9502,5 +9502,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "u"
+  },
+  {
+    "slug": "unbelievably-crisp-russian-beef-muffins--thai",
+    "title": "Crisp Beef Satay with Spicy Peanut Sauce",
+    "tags": [
+      "beef",
+      "thai",
+      "spicy",
+      "peanut-sauce",
+      "grilled"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
