@@ -1,0 +1,85 @@
+{
+  "slug": "umami-polish-tempeh-wrap--french",
+  "title": "Tempeh Crêpes",
+  "description": "A French-inspired dish blending tempeh with Polish flavors. Wrap your taste buds in this umami-filled tempeh crêpe experience.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Polish rye flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Wrap (large flour tortilla)",
+      "amount": "1"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mushroom, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Umami seasoning",
+      "amount": "1 1/2 teaspoons"
+    },
+    {
+      "name": "Dried parsley",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together Polish rye flour, salt, and pepper.",
+    "In a separate bowl, whisk together melted butter, chopped onion, sliced mushroom, minced garlic, and umami seasoning.",
+    "Add the dry ingredients to the wet ingredients and mix until combined.",
+    "Add the tempeh and mix until well combined.",
+    "Heat a large non-stick skillet or crêpe pan over medium heat.",
+    "Pour a small amount of the batter into the skillet and tilt to evenly coat the bottom.",
+    "Cook for 2-3 minutes or until the edges start to curl and the surface is dry.",
+    "Loosen the crêpe with a spatula and flip it over.",
+    "Cook for another 1-2 minutes or until the other side is lightly browned.",
+    "Repeat with the remaining batter until all the ingredients are used up.",
+    "Serve the crêpes warm with a sprinkle of dried parsley and a dollop of your favorite topping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crêpes",
+    "french-cuisine",
+    "tempeh",
+    "polish-rye-flour",
+    "umami-seasoning"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-polish-tempeh-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:54:53.627Z"
+}
