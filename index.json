@@ -9542,5 +9542,46 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "u"
+  },
+  {
+    "slug": "unique-light-irish-potato-paella--german",
+    "title": "German Potato and Irish Lamb Sausage Paella",
+    "tags": [
+      "german",
+      "sausage",
+      "paella",
+      "lamb"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "u"
+  },
+  {
+    "slug": "ultra-spicy-canadian-tourtiere-poutine--vegetarian",
+    "title": "Spicy Tourtiere Poutine",
+    "tags": [
+      "canadian",
+      "poutine",
+      "tourtiere",
+      "vegetarian",
+      "spicy"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "ultra-garlicky-turkish-cheese-kisir--italian",
+    "title": "Turkish-Style Italian Kisir Wrap",
+    "tags": [
+      "italian",
+      "turkish",
+      "wrap",
+      "kisir",
+      "mozzarella"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 10,
+    "shard": "u"
   }
 ]
