@@ -1,0 +1,62 @@
+{
+  "slug": "unusual-crunchy-norwegian-dates-wrap",
+  "title": "Norwegian-Style Date Wrap",
+  "description": "A sweet and savory fusion of Norwegian and Middle Eastern flavors, wrapped in a crunchy tortilla.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "4",
+      "notes": "pitted"
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "tortilla"
+    },
+    {
+      "name": "unusual",
+      "amount": "2",
+      "notes": "beet hummus"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup",
+      "notes": "toasted almonds"
+    }
+  ],
+  "instructions": [
+    "1. Lay the tortilla flat on a clean surface.",
+    "2. Spread the beet hummus evenly over the center of the tortilla, leaving a 1-inch border on either side.",
+    "3. Arrange the dates on top of the hummus.",
+    "4. Sprinkle the toasted almonds over the dates.",
+    "5. Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "6. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "vegan",
+    "snack",
+    "dates"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unusual-crunchy-norwegian-dates-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:25:15.813Z"
+}
