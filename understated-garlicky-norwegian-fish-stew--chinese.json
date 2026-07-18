@@ -1,0 +1,84 @@
+{
+  "slug": "understated-garlicky-norwegian-fish-stew--chinese",
+  "title": "Garlicky Fish Stew",
+  "description": "A Chinese-inspired stew featuring garlicky flavors and Norwegian fish.",
+  "cuisine": "chinese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets (Norwegian salmon)",
+      "amount": "4",
+      "notes": "Skin removed, cut into bite-sized pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "understated mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "stew tomatoes",
+      "amount": "1 can",
+      "notes": "Diced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "For serving"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large pan over medium-high heat.",
+    "Add the fish pieces and cook until golden brown, about 3-4 minutes. Remove from pan and set aside.",
+    "In the same pan, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 3-4 minutes.",
+    "Add the diced stew tomatoes, soy sauce, and oyster sauce (if using). Stir to combine.",
+    "Return the cooked fish to the pan and stir to coat with the sauce.",
+    "Reduce heat to medium-low and simmer, uncovered, for 5-7 minutes or until the fish is cooked through.",
+    "Serve hot with a drizzle of rice vinegar, garnished with sliced green onions (optional).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fish",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/understated-garlicky-norwegian-fish-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:24:29.042Z"
+}
