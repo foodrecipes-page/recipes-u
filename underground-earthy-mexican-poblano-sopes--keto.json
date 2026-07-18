@@ -1,0 +1,87 @@
+{
+  "slug": "underground-earthy-mexican-poblano-sopes--keto",
+  "title": "Poblano Keto Sopes",
+  "description": "A keto twist on traditional Mexican sopes, featuring roasted poblano peppers and earthy flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": "for sopes crust"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for sopes crust"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1"
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast poblano peppers for 30 minutes, then peel and chop.",
+    "In a pan, cook ground beef over medium-high heat until browned, breaking into small pieces.",
+    "Add onion, garlic, cumin, chili powder, and dried oregano to the pan and cook for 2 minutes.",
+    "Stir in chopped poblano peppers.",
+    "In a separate bowl, mix almond flour and eggs to form a crumbly mixture.",
+    "Divide the mixture into 4-6 portions and shape into sopes.",
+    "Place sopes on a baking sheet and bake for 20-25 minutes, or until golden brown.",
+    "Assemble sopes by spooning the meat mixture onto each sope.",
+    "Garnish with chopped onion and cilantro (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "mexican",
+    "poblano",
+    "sopes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/underground-earthy-mexican-poblano-sopes--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:48:04.828Z"
+}
