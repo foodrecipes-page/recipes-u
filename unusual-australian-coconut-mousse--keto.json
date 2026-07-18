@@ -1,0 +1,74 @@
+{
+  "slug": "unusual-australian-coconut-mousse--keto",
+  "title": "Keto Coconut Mousse",
+  "description": "A rich and creamy keto dessert made with coconut cream, egg whites, and a touch of sweetness.",
+  "cuisine": "australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut cream",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "large egg whites",
+      "amount": "4",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "granulated sweetener (e.g. Swerve or Erythritol)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "xanthan gum (optional)",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Refrigerate the coconut cream overnight or for at least 2 hours.",
+    "Open the can and scoop out the solid coconut cream that has risen to the top.",
+    "In a large mixing bowl, whip the egg whites until stiff peaks form.",
+    "Add the granulated sweetener, unsweetened shredded coconut, and vanilla extract to the egg whites and mix until well combined.",
+    "Add the coconut cream to the egg mixture and mix until smooth.",
+    "If using xanthan gum, add it to the mixture and mix until well combined.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 2 hours or until set.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "coconut",
+    "australian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unusual-australian-coconut-mousse--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:36:00.144Z"
+}
