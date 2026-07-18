@@ -9583,5 +9583,18 @@
     "cuisine": "italian",
     "totalTimeMin": 10,
     "shard": "u"
+  },
+  {
+    "slug": "under-fire-glazed-ethiopian-pork-chops-tagine--japanese",
+    "title": "Pan-Seared Pork Chops with Ethiopian Spice",
+    "tags": [
+      "japanese",
+      "ethiopian",
+      "pork-chops",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "u"
   }
 ]
