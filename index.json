@@ -9530,5 +9530,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "u"
+  },
+  {
+    "slug": "understated-garlicky-norwegian-fish-stew--chinese",
+    "title": "Garlicky Fish Stew",
+    "tags": [
+      "chinese",
+      "fish",
+      "stew"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
