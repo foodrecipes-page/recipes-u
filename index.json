@@ -9454,5 +9454,31 @@
     "cuisine": "french",
     "totalTimeMin": 40,
     "shard": "u"
+  },
+  {
+    "slug": "unapologetically-indulgent-thailand-kippers-satay--thai",
+    "title": "Spicy Satay with Kippers",
+    "tags": [
+      "thai",
+      "satay",
+      "kipper",
+      "indulgent"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
+    "slug": "underground-earthy-mexican-poblano-sopes--keto",
+    "title": "Poblano Keto Sopes",
+    "tags": [
+      "keto",
+      "mexican",
+      "poblano",
+      "sopes"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 60,
+    "shard": "u"
   }
 ]
