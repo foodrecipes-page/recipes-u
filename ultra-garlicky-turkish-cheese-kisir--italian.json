@@ -1,0 +1,72 @@
+{
+  "slug": "ultra-garlicky-turkish-cheese-kisir--italian",
+  "title": "Turkish-Style Italian Kisir Wrap",
+  "description": "A twist on traditional Italian wraps, featuring the flavors of Turkish kisir. A crunchy, savory, and slightly spicy appetizer or snack.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ultra whole wheat tortilla",
+      "amount": "4-6 inches in diameter"
+    },
+    {
+      "name": "turkish kisir",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/2 cup crumbled mozzarella",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1-2 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "optional: sliced cherry tomatoes or cucumber",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a dry skillet over medium heat.",
+    "Warm the tortilla for about 30 seconds on each side.",
+    "Spread a layer of kisir on the center of the tortilla, leaving about 1 inch of space around the edges.",
+    "Add a sprinkle of crumbled mozzarella cheese on top of the kisir.",
+    "Drizzle a little olive oil over the cheese.",
+    "Season with salt and pepper to taste.",
+    "Garnish with sliced cherry tomatoes or cucumber, if desired.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining ingredients.",
+    "Cut each wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": "2-3",
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "turkish",
+    "wrap",
+    "kisir",
+    "mozzarella"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-garlicky-turkish-cheese-kisir--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:05:28.220Z"
+}
