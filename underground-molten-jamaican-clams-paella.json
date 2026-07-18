@@ -1,0 +1,79 @@
+{
+  "slug": "underground-molten-jamaican-clams-paella",
+  "title": "Jamaican Paella with Clams",
+  "description": "A twist on the classic Spanish dish, this Jamaican-inspired paella features fresh clams and a bold flavor profile. Perfect for a coastal dinner party.",
+  "cuisine": "jamaican",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Clams",
+      "amount": "1 pound",
+      "notes": "scrubbed and rinsed"
+    },
+    {
+      "name": "Underground vegetables (carrots, potatoes, onions)",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Molten cheese (Monterey Jack or Cheddar)",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Clam juice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced underground vegetables and cook until they start to brown, about 5 minutes.",
+    "Add the Jamaican jerk seasoning and cook for 1 minute, until fragrant.",
+    "Add the clams, clam juice, and paella rice to the pan. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the pan from the heat and stir in the shredded molten cheese. Cover the pan and let it sit for 5 minutes.",
+    "Serve the paella hot, garnished with chopped fresh herbs if desired.",
+    "Be sure to cook the clams until they are opaque and the shells have opened."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "jamaican",
+    "seafood",
+    "clams",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/underground-molten-jamaican-clams-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:44:27.076Z"
+}
