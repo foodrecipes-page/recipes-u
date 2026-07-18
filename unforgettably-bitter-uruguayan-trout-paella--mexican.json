@@ -1,0 +1,95 @@
+{
+  "slug": "unforgettably-bitter-uruguayan-trout-paella--mexican",
+  "title": "Uruguayan Trout with Mexican Flair",
+  "description": "A fusion of Uruguayan and Mexican flavors, featuring pan-seared trout with a bold paella-inspired sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets (4)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "unforgettably bitter uruguayan peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken sausage",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the trout fillets with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the trout fillets for 2-3 minutes on each side, then transfer to the oven and bake for 8-10 minutes, or until cooked through.",
+    "While the trout is cooking, heat a bit more oil in the skillet and sauté the onions and garlic until softened.",
+    "Add the chopped uruguayan peppers, chicken broth, paella rice, chicken sausage, cumin, and paprika to the skillet.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5-7 minutes, stirring occasionally.",
+    "Stir the sauce to combine and adjust seasoning as needed.",
+    "Serve the trout with the paella-inspired sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "mexican",
+    "fish",
+    "paella",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unforgettably-bitter-uruguayan-trout-paella--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:06:31.328Z"
+}
