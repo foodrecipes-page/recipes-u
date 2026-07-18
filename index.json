@@ -9516,5 +9516,19 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "unique-smoky-turkish-lamb-adana-kebap--chinese",
+    "title": "Kung Pao Lamb Kebap",
+    "tags": [
+      "chinese",
+      "turkish",
+      "kebap",
+      "lamb",
+      "spicy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "u"
   }
 ]
