@@ -1,0 +1,93 @@
+{
+  "slug": "unique-uruguayan-sushi-rice-bowl--indian",
+  "title": "Sushi Bowl with Indian Spices",
+  "description": "A fusion of Indian and Japanese flavors in a sushi bowl. The unique combination of spices and sushi rice will leave you wanting more.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sushi Rice",
+      "amount": "1 cup",
+      "notes": "Short-grain Japanese rice"
+    },
+    {
+      "name": "Unique Spice Blend",
+      "amount": "2 tsp",
+      "notes": "A mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Sliced into thin pieces"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Sushi Nori",
+      "amount": "1 sheet",
+      "notes": "Seaweed sheets"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tbsp",
+      "notes": "For sushi rice"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice thoroughly and cook according to the package instructions.",
+    "In a pan, heat the rice vinegar over low heat.",
+    "Add the grated ginger and sesame seeds to the rice vinegar and stir well.",
+    "Once the sushi rice is cooked, transfer it to a large bowl and pour the rice vinegar mixture over it.",
+    "Mix well and let it cool to room temperature.",
+    "Cut the cucumber and avocado into thin slices.",
+    "Cut the sushi nori into desired shapes.",
+    "Assemble the sushi bowl by placing a scoop of sushi rice at the bottom, followed by a slice of cucumber and avocado, and finishing with a piece of sushi nori.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Serve with a side of unique spice blend for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "japanese",
+    "sushi",
+    "bowl",
+    "unique",
+    "spice-blend"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-uruguayan-sushi-rice-bowl--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:42:28.785Z"
+}
