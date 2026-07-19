@@ -1,0 +1,88 @@
+{
+  "slug": "unique-snappy-thai-tofu-khanom-krok",
+  "title": "Khanom Krok with Tofu and Unique Thai Filling",
+  "description": "A creative twist on traditional Khanom Krok, filled with a unique Thai-inspired tofu mixture, crispy snappy vegetables, and served with a side of sweet chutney.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "250g",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "Unique Thai Filling (see note)",
+      "amount": "200g",
+      "notes": "see note"
+    },
+    {
+      "name": "Snappy",
+      "amount": "100g",
+      "notes": "diced"
+    },
+    {
+      "name": "Khanom Krok Batter",
+      "amount": "400g",
+      "notes": "see note"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "20ml",
+      "notes": "for frying"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "50g",
+      "notes": "for sweet chutney"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "10ml",
+      "notes": "for sweet chutney"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "20ml",
+      "notes": "for sweet chutney"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "10g",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a deep frying pan to 375°F (190°C).",
+    "Prepare the Unique Thai Filling by mixing together tofu, snappy, and a pinch of salt.",
+    "Prepare the Khanom Krok Batter by mixing together flour, water, and a pinch of salt.",
+    "Using a spoon, drop small balls of the batter into the hot oil and fry until golden brown.",
+    "Using a slotted spoon, remove the Khanom Krok and drain on paper towels.",
+    "Stuff each Khanom Krok with a tablespoon of the Unique Thai Filling.",
+    "Serve hot with a side of sweet chutney made by mixing together brown sugar, fish sauce, and lime juice.",
+    "Garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "khanom-krok",
+    "thai",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-snappy-thai-tofu-khanom-krok",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:02:25.245Z"
+}
