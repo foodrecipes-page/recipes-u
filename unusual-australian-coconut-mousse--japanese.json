@@ -1,0 +1,73 @@
+{
+  "slug": "unusual-australian-coconut-mousse--japanese",
+  "title": "Coconut Mousse Tarts",
+  "description": "A Japanese-inspired dessert featuring coconut mousse in pastry tarts. Easy to make and perfect for warm weather.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large egg whites",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pastry dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Cut out small squares of pastry and press into mini tart pans.",
+    "Bake the pastry for 12-15 minutes, or until lightly golden.",
+    "In a separate bowl, whip the coconut milk until it forms stiff peaks.",
+    "Add the granulated sugar and whip until combined.",
+    "Add the egg whites and whip until stiff and glossy.",
+    "Add the lemon zest and whip until combined.",
+    "Spoon the coconut mousse into the baked tart shells.",
+    "Chill in the refrigerator for at least 2 hours.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "japanese",
+    "coconut"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unusual-australian-coconut-mousse--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:40:58.234Z"
+}
