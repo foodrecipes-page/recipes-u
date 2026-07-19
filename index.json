@@ -9729,5 +9729,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 170,
     "shard": "u"
+  },
+  {
+    "slug": "umami-flaky-adventurous-spanish-chia-seed-crumble--chinese",
+    "title": "Crispy Chia Wontons",
+    "tags": [
+      "chinese",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
