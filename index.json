@@ -9596,5 +9596,31 @@
     "cuisine": "japanese",
     "totalTimeMin": 27,
     "shard": "u"
+  },
+  {
+    "slug": "unique-savory-american-chicken-tagine--vegan",
+    "title": "Vegan Tagine with Chicken Substitute",
+    "tags": [
+      "vegan",
+      "tagine",
+      "american",
+      "chicken-substitute"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
+    "slug": "unusually-bitter-russian-meat-tagine--indian",
+    "title": "Bitter Russian Tagine",
+    "tags": [
+      "indian",
+      "meat",
+      "stew",
+      "bitter"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 110,
+    "shard": "u"
   }
 ]
