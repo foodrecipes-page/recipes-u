@@ -9692,5 +9692,18 @@
     "cuisine": "thai",
     "totalTimeMin": 55,
     "shard": "u"
+  },
+  {
+    "slug": "ultra-juicy-greek-lamb-kebabs--vegetarian",
+    "title": "Greek Veggie Kebabs",
+    "tags": [
+      "greek",
+      "kebabs",
+      "vegetarian",
+      "grill"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 22,
+    "shard": "u"
   }
 ]
