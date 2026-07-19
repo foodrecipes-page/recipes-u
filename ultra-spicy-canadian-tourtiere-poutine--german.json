@@ -1,0 +1,88 @@
+{
+  "slug": "ultra-spicy-canadian-tourtiere-poutine--german",
+  "title": "Canadian Tourtiere Stew",
+  "description": "A hearty German-inspired stew featuring Canadian tourtiere meat, served with a side of crispy poutine. Perfect for cold winter nights.",
+  "cuisine": "german",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tourtiere meat",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Poutine fries",
+      "amount": "1 bag"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ultra cheese",
+      "amount": "1 cup, shredded"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the tourtiere meat and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion, caraway seeds, and allspice to the pot and cook until the onion is softened.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer the stew for 30 minutes.",
+    "While the stew is cooking, prepare the poutine fries according to package instructions.",
+    "To assemble the poutine, place a portion of fries in a bowl, top with a spoonful of the stew, and sprinkle with grated cheddar cheese and shredded ultra cheese.",
+    "Serve immediately and enjoy!",
+    "Note: You can also add some crispy bacon bits on top of the poutine for extra flavor.",
+    "Serve with a side of rye bread or German pretzels for a hearty meal.",
+    "You can also make this dish in a slow cooker: Brown the tourtiere meat and cook the onion in a skillet, then transfer everything to the slow cooker with the beef broth and cook on low for 6-8 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "german",
+    "beef",
+    "stew",
+    "poutine",
+    "tourtiere"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-spicy-canadian-tourtiere-poutine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:17:58.189Z"
+}
