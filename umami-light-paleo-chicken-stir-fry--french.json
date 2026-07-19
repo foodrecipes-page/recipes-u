@@ -1,0 +1,85 @@
+{
+  "slug": "umami-light-paleo-chicken-stir-fry--french",
+  "title": "French Chicken Stir Fry",
+  "description": "A classic French-inspired stir fry dish with a twist, using chicken and paleo-friendly ingredients.",
+  "cuisine": "french",
+  "diet": [
+    "paleo",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "umami powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "light oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "paleo stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook for 5-6 minutes, or until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of oil and the paleo stir-fry sauce.",
+    "Bring the sauce to a simmer and cook for 2-3 minutes, or until slightly thickened.",
+    "Return the chicken to the skillet and toss to coat with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve the chicken hot, garnished with scallions.",
+    "Serve with additional paleo stir-fry sauce on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "paleo",
+    "chicken",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-light-paleo-chicken-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:59:08.919Z"
+}
