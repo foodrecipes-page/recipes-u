@@ -1,0 +1,95 @@
+{
+  "slug": "unique-spicy-portuguese-pork-buns--mexican",
+  "title": "Pork Carnitas Tacos",
+  "description": "A Mexican-inspired recipe featuring slow-cooked pork in a spicy tomato-based sauce, served in crispy buns.",
+  "cuisine": "mexican",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into large cubes"
+    },
+    {
+      "name": "unique hot sauce",
+      "amount": "2 tablespoons",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "portuguese chouriço",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "buns",
+      "amount": "8-10",
+      "notes": "for serving"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the pork and sear until browned on all sides, about 5 minutes.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic, cumin, coriander, salt, and pepper. Cook for 1 minute.",
+    "Add the chouriço, hot sauce, and enough water to cover the pork.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the pork for 2 1/2 hours, or until tender and easily shredded.",
+    "Warm the buns on a baking sheet in the oven.",
+    "Shred the pork with two forks and serve in the buns.",
+    "Garnish with cilantro, onion, and a slice of lime."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pork",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-spicy-portuguese-pork-buns--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:34:47.952Z"
+}
