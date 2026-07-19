@@ -1,0 +1,58 @@
+{
+  "slug": "umami-flaky-indulgent-uruguayan-bread-crumble",
+  "title": "Uruguayan Bread Crumble",
+  "description": "A sweet and indulgent bread crumble dessert inspired by Uruguayan cuisine, featuring a crunchy topping and a soft bread base.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "uruguayan bread",
+      "amount": "1 loaf, cut into 1-inch cubes"
+    },
+    {
+      "name": "flaky pastry topping",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "indulgent brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, toss bread cubes with melted butter until evenly coated.",
+    "Transfer bread mixture to a 9x13-inch baking dish.",
+    "In a separate bowl, mix crumbled pastry topping with brown sugar until well combined.",
+    "Spread pastry mixture evenly over bread cubes.",
+    "Bake for 25-30 minutes or until topping is golden brown and bread is toasted.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-flaky-indulgent-uruguayan-bread-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:00:08.541Z"
+}
