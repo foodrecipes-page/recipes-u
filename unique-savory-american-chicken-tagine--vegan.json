@@ -1,0 +1,84 @@
+{
+  "slug": "unique-savory-american-chicken-tagine--vegan",
+  "title": "Vegan Tagine with Chicken Substitute",
+  "description": "A hearty and flavorful vegan tagine dish, using a chicken substitute for a meatless alternative.",
+  "cuisine": "american",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unique, savory, tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "chicken substitute (such as seitan)",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a large tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chicken substitute and cook until browned, about 5 minutes.",
+    "Add the chopped carrots, zucchini, and red bell pepper, and cook until the vegetables are tender, about 10 minutes.",
+    "Stir in the canned diced tomatoes, tagine spice blend, and apple cider vinegar.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "tagine",
+    "american",
+    "chicken-substitute"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-savory-american-chicken-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:29:35.152Z"
+}
