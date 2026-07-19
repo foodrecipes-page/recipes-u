@@ -9717,5 +9717,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "u"
+  },
+  {
+    "slug": "unique-spicy-portuguese-pork-buns--mexican",
+    "title": "Pork Carnitas Tacos",
+    "tags": [
+      "mexican",
+      "pork",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
+    "shard": "u"
   }
 ]
