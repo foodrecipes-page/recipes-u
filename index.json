@@ -9622,5 +9622,20 @@
     "cuisine": "indian",
     "totalTimeMin": 110,
     "shard": "u"
+  },
+  {
+    "slug": "ultra-spicy-canadian-tourtiere-poutine--german",
+    "title": "Canadian Tourtiere Stew",
+    "tags": [
+      "canadian",
+      "german",
+      "beef",
+      "stew",
+      "poutine",
+      "tourtiere"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "u"
   }
 ]
