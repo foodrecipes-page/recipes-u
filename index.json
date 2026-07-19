@@ -9637,5 +9637,32 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "u"
+  },
+  {
+    "slug": "umami-light-paleo-chicken-stir-fry--french",
+    "title": "French Chicken Stir Fry",
+    "tags": [
+      "french",
+      "paleo",
+      "chicken",
+      "stir-fry"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-umami-moroccan-eggplant-zaalouk--italian",
+    "title": "Eggplant Zaalouk Italian Skillet",
+    "tags": [
+      "italian",
+      "eggplant",
+      "vegetarian",
+      "skillet",
+      "easy dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "u"
   }
 ]
