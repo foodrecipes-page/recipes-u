@@ -1,0 +1,82 @@
+{
+  "slug": "unique-herbal-russian-buckwheat-pilaf",
+  "title": "Russian Buckwheat Pilaf with Fresh Herbs",
+  "description": "A hearty and flavorful Russian-inspired pilaf dish made with buckwheat groats, fresh herbs, and a touch of unique spices. Perfect for a comforting meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "unique spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the buckwheat groats and stir to coat with oil and mix with onion and garlic.",
+    "Add the chopped fresh herbs, unique spice blend, and salt. Stir well to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until the buckwheat is tender.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with additional fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "buckwheat",
+    "herbal",
+    "russian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-herbal-russian-buckwheat-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:35:21.539Z"
+}
