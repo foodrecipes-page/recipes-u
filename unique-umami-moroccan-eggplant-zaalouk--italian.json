@@ -1,0 +1,89 @@
+{
+  "slug": "unique-umami-moroccan-eggplant-zaalouk--italian",
+  "title": "Eggplant Zaalouk Italian Skillet",
+  "description": "A unique Italian twist on the traditional Moroccan eggplant zaalouk dish, featuring eggplant, eggplant puree, and Italian seasonings.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": "Extra virgin for best flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "unique",
+      "amount": "1 tsp",
+      "notes": "Umami powder for depth of flavor"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "moroccan",
+      "amount": "1 tsp",
+      "notes": "Ras el hanout spice blend"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the sliced eggplant and cook for 3-4 minutes until browned on both sides.",
+    "Add the unique, tomato paste, moroccan, salt, and black pepper. Stir to combine.",
+    "Reduce heat to medium-low and simmer for 10-15 minutes, stirring occasionally.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with chopped parsley and serve hot over pasta or rice.",
+    "Optional: top with grated Parmesan cheese for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "eggplant",
+    "vegetarian",
+    "skillet",
+    "easy dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-moroccan-eggplant-zaalouk--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:06:49.919Z"
+}
