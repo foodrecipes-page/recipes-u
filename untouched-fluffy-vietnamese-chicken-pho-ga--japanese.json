@@ -1,0 +1,90 @@
+{
+  "slug": "untouched-fluffy-vietnamese-chicken-pho-ga--japanese",
+  "title": "Grilled Chicken Yakitori",
+  "description": "Japanese-style grilled chicken skewers, perfect for a quick meal or appetizer.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "ga",
+      "amount": "1/4 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "pho",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 tablespoon",
+      "notes": "sesame oil"
+    },
+    {
+      "name": "untouched",
+      "amount": "1 sheet",
+      "notes": "norito wrappers"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cut the chicken into bite-sized pieces and thread onto skewers.",
+    "In a small bowl, whisk together ga, pho, and vinegar to make the marinade.",
+    "Add the chicken to the marinade and refrigerate for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Brush the skewers with sesame oil and grill for 5-7 minutes per side.",
+    "While the chicken is cooking, mix together soy sauce and sugar in a small bowl.",
+    "Brush the skewers with the soy sauce mixture during the last minute of cooking.",
+    "Serve the chicken hot with norito wrappers on the side.",
+    "To assemble, place a piece of chicken onto a norito wrapper, add some sliced scallions and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "japanese",
+    "grilled",
+    "skewers",
+    "yakitori"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/untouched-fluffy-vietnamese-chicken-pho-ga--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:44:15.931Z"
+}
