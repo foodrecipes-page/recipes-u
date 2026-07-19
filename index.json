@@ -9664,5 +9664,19 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "u"
+  },
+  {
+    "slug": "untouched-fluffy-vietnamese-chicken-pho-ga--japanese",
+    "title": "Grilled Chicken Yakitori",
+    "tags": [
+      "chicken",
+      "japanese",
+      "grilled",
+      "skewers",
+      "yakitori"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 32,
+    "shard": "u"
   }
 ]
