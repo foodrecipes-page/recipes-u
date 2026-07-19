@@ -1,0 +1,63 @@
+{
+  "slug": "uvely-mexican-avocado-tart--thai",
+  "title": "Thai-Style Avocado and Ube Tart",
+  "description": "A unique and refreshing dessert that combines the creaminess of avocado with the sweet flavor of ube and the crunch of a flaky tart crust.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ube",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2 ripe avocados"
+    },
+    {
+      "name": "Tart Pastry",
+      "amount": "1 sheet of frozen puff pastry, thawed"
+    },
+    {
+      "name": "Mexican",
+      "amount": "1/4 teaspoon of Tajin or similar chili-lime seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Transfer the pastry to a 9-inch tart pan with a removable bottom.",
+    "Prick the bottom of the pastry with a fork to prevent it from bubbling up during baking.",
+    "Line the pastry with parchment paper and fill with pie weights or dried beans.",
+    "Bake for 15 minutes, then remove the parchment paper and pie weights or beans.",
+    "Reduce oven temperature to 375°F (190°C).",
+    "Mash the avocados in a bowl until mostly smooth.",
+    "Add the ube to the bowl and mix until well combined.",
+    "Spoon the avocado-ube mixture into the baked tart shell.",
+    "Bake for an additional 20-25 minutes, or until the tart is lightly golden brown.",
+    "Remove from oven and sprinkle with Tajin or similar seasoning.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "dessert",
+    "ube",
+    "avocado",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uvely-mexican-avocado-tart--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:49:34.741Z"
+}
