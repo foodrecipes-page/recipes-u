@@ -1,0 +1,83 @@
+{
+  "slug": "unique-kenyan-sloe-berries-hash",
+  "title": "Kenyan Sloe Berry Hash",
+  "description": "A sweet and savory Kenyan-inspired dish featuring unique sloe berries and crispy hash. Perfect for a snack or light meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sloe berries",
+      "amount": "150g"
+    },
+    {
+      "name": "hash browns",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Add garlic and onion; cook until softened, about 3 minutes.",
+    "Add cumin and coriander; cook for 1 minute.",
+    "Add hash browns; cook until crispy, about 5 minutes.",
+    "Add sloe berries; cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "unique",
+    "breakfast",
+    "lunch",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-kenyan-sloe-berries-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:28:02.585Z"
+}
