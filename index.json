@@ -1802,18 +1802,14 @@
   },
   {
     "slug": "umami-flaky-indulgent-uruguayan-bread-crumble",
-    "title": "Umami Flaky Indulgent Uruguayan Bread Crumble",
+    "title": "Uruguayan Bread Crumble",
     "tags": [
-      "umami",
-      "flaky",
-      "indulgent",
-      "uruguayan",
       "bread",
       "crumble",
-      "keto-friendly"
+      "dessert"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 13,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -5867,17 +5863,16 @@
   },
   {
     "slug": "unique-herbal-russian-buckwheat-pilaf",
-    "title": "Unique Herbal Russian Buckwheat Pilaf",
+    "title": "Russian Buckwheat Pilaf with Fresh Herbs",
     "tags": [
+      "pilaf",
       "buckwheat",
-      "gluten-free",
       "herbal",
-      "one-pan",
       "russian",
-      "vegetarian"
+      "gluten-free"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
