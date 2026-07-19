@@ -1,0 +1,63 @@
+{
+  "slug": "umami-flaky-adventurous-spanish-chia-seed-crumble--chinese",
+  "title": "Crispy Chia Wontons",
+  "description": "A crispy Chinese-inspired snack with a crunchy wonton crust and a chia seed filling. Perfect as a snack or dessert.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chia seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Umami flaky pastry dough (homemade or store-bought)",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Seed salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Crumble sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "Cut out squares of dough, about 3 inches per side.",
+    "In a small bowl, mix together chia seeds and olive oil.",
+    "Place a small spoonful of the chia seed mixture onto the center of each dough square.",
+    "Fold the dough over the filling to form a triangle or a square shape, pressing the edges to seal.",
+    "Brush the tops of the wontons with a little bit of olive oil and sprinkle with crumble sugar.",
+    "Bake for 15-20 minutes, or until crispy and golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-flaky-adventurous-spanish-chia-seed-crumble--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:06:49.124Z"
+}
