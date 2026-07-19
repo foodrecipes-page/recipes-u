@@ -9678,5 +9678,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 32,
     "shard": "u"
+  },
+  {
+    "slug": "uvely-mexican-avocado-tart--thai",
+    "title": "Thai-Style Avocado and Ube Tart",
+    "tags": [
+      "thai",
+      "dessert",
+      "ube",
+      "avocado",
+      "tart"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 55,
+    "shard": "u"
   }
 ]
