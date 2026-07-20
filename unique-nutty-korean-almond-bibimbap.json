@@ -1,0 +1,76 @@
+{
+  "slug": "unique-nutty-korean-almond-bibimbap",
+  "title": "Bibimbap with Spicy Almond Crunch",
+  "description": "A Korean-inspired rice bowl dish with vegetables, fried egg, and a crunchy almond topping. This recipe can be customized with your choice of vegetables and spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "fried"
+    }
+  ],
+  "instructions": [
+    "Cook white rice according to package instructions.",
+    "In a large pan, heat 1 tablespoon of sesame oil over medium heat. Add grated carrots and cook for 3-4 minutes.",
+    "Add sliced zucchini to the pan and cook for an additional 2-3 minutes.",
+    "In a small bowl, mix together Korean chili flakes and chopped almonds.",
+    "Add the almond mixture to the pan and stir to combine.",
+    "Push the vegetable mixture to one side of the pan. Crack an egg into the other side of the pan and scramble it.",
+    "Mix the egg with the vegetable mixture.",
+    "Serve the egg and vegetable mixture over cooked white rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bibimbap",
+    "korean-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-nutty-korean-almond-bibimbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:46:10.015Z"
+}
