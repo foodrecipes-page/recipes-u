@@ -9810,5 +9810,17 @@
     "cuisine": "French",
     "totalTimeMin": 50,
     "shard": "u"
+  },
+  {
+    "slug": "upscale-under-salted-russian-lamb-tagine--vegan",
+    "title": "Tagine Stuffed Portobello Mushrooms",
+    "tags": [
+      "vegan",
+      "mushrooms",
+      "tagine"
+    ],
+    "cuisine": "russian, moroccan",
+    "totalTimeMin": 50,
+    "shard": "u"
   }
 ]
