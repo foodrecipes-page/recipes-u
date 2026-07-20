@@ -1,0 +1,67 @@
+{
+  "slug": "umami-springy-korean-zucchini-hwajeon",
+  "title": "Korean-Style Zucchini Stir Fry with Umami Springy Crust",
+  "description": "A flavorful and healthy Korean-inspired stir fry with a crunchy umami springy crust, perfect for a quick dinner. This dish combines the sweetness of zucchini with the savory taste of umami and the crunch of springy.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Umami Springy",
+      "amount": "1 cup",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "Hwajeon",
+      "amount": "1/4 cup",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced zucchini and stir-fry for 3-4 minutes, until tender.",
+    "In a small bowl, mix together the crushed umami springy, hwajeon, and soy sauce.",
+    "Add the umami springy mixture to the skillet and stir-fry for another 2-3 minutes, until the zucchini is well coated.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with additional umami springy if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-springy-korean-zucchini-hwajeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:56:57.200Z"
+}
