@@ -1,0 +1,78 @@
+{
+  "slug": "ultra-spicy-spanish-shrimp-gambas-al-ajillo--chinese",
+  "title": "Shrimp Stir Fry with Garlic and Chili Peppers",
+  "description": "A spicy and savory Chinese-inspired dish made with succulent shrimp, garlic, and chili peppers.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Spicy Spanish Al Ajillo Chili Peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ultra Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spanish Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Gambas Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Al Chili Flakes",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Marinate the shrimp in Gambas Soy Sauce for 15 minutes.",
+    "2. Heat Spanish Olive Oil in a wok or large skillet over medium-high heat.",
+    "3. Add the sliced chili peppers and cook for 2 minutes.",
+    "4. Add the minced garlic and cook for 1 minute.",
+    "5. Add the marinated shrimp and cook until pink, about 2-3 minutes per side.",
+    "6. Season with salt, black pepper, and Al Chili Flakes to taste.",
+    "7. Serve immediately and enjoy!",
+    "8. Garnish with sliced green onions and a sprinkle of Al Chili Flakes, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "shrimp",
+    "stir-fry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 8,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-spicy-spanish-shrimp-gambas-al-ajillo--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:30:05.957Z"
+}
