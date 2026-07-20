@@ -1,0 +1,69 @@
+{
+  "slug": "umami-velvety-brazilian-tofu-stir-fry",
+  "title": "Brazilian Stir Fry",
+  "description": "A simple and flavorful stir fry dish inspired by Brazilian cuisine. Quick to make and packed with protein.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Drain and cut into small cubes"
+    },
+    {
+      "name": "Velvety Brazilian Sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Umami Stir Fry Seasoning",
+      "amount": "1 tsp",
+      "notes": "Add to taste"
+    },
+    {
+      "name": "Vegetables of choice (e.g. bell peppers, carrots, broccoli)",
+      "amount": "1 cup",
+      "notes": "Sliced or chopped"
+    },
+    {
+      "name": "Rice or noodles",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "Add the sliced vegetables and cook until tender, about 4-5 minutes.",
+    "In a small bowl, whisk together the velvety Brazilian sauce and umami stir fry seasoning.",
+    "Pour the sauce over the tofu and vegetables, and stir to coat.",
+    "Serve over cooked rice or noodles, and enjoy!",
+    "Adjust seasoning as needed with additional umami stir fry seasoning."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "brazilian",
+    "stir-fry",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-velvety-brazilian-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:22:53.185Z"
+}
