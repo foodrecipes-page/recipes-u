@@ -9761,5 +9761,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "u"
+  },
+  {
+    "slug": "unique-umami-moroccan-eggplant-zaalouk--japanese",
+    "title": "Japanese Eggplant Zaalouk Stir Fry",
+    "tags": [
+      "japanese",
+      "moroccan",
+      "eggplant",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
