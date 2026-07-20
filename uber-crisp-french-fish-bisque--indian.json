@@ -1,0 +1,88 @@
+{
+  "slug": "uber-crisp-french-fish-bisque--indian",
+  "title": "Bengali Fish Curry",
+  "description": "A flavorful and aromatic curry made with fish, onions, ginger, and a blend of spices. It's a popular dish in the Indian state of Bengal, and is often served with steamed rice or roti.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish (500g)",
+      "amount": "1 piece",
+      "notes": "any firm white fish works well (e.g. cod, tilapia)"
+    },
+    {
+      "name": "French onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "French ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Uber mustard seeds",
+      "amount": "1 tsp",
+      "notes": "brown or black"
+    },
+    {
+      "name": "Crisp cumin seeds",
+      "amount": "1 tsp",
+      "notes": "whole"
+    },
+    {
+      "name": "Bisque tomato puree",
+      "amount": "2 tbsp",
+      "notes": "canned or fresh, blended"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add sliced onions and cook until they're translucent and starting to brown.",
+    "Add grated ginger and cook for another minute.",
+    "Add fish to the pan and cook until it's browned on all sides.",
+    "Add tomato puree, mustard seeds, salt, and pepper. Stir well.",
+    "Reduce heat to low and simmer the curry for 10-15 minutes or until the fish is cooked through.",
+    "Stir in lemon juice and serve hot over steamed rice or with roti."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish-curry",
+    "bengali"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uber-crisp-french-fish-bisque--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:18:15.352Z"
+}
