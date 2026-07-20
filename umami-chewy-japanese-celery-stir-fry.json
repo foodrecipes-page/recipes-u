@@ -1,0 +1,75 @@
+{
+  "slug": "umami-chewy-japanese-celery-stir-fry",
+  "title": "Stir-Fried Beef and Celery",
+  "description": "A quick and savory dish featuring thinly sliced beef and crunchy celery, all stir-fried to perfection.",
+  "cuisine": null,
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "Umami-rich soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Chewy ramen noodles",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Japanese chili flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large skillet over medium-high.",
+    "Add the sliced beef and cook for 3-4 minutes, until browned.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the remaining 1 tbsp olive oil to the skillet.",
+    "Add the sliced celery and cook for 3-4 minutes, until tender.",
+    "Add the cooked beef back into the skillet.",
+    "Add the umami-rich soy sauce, chewy ramen noodles, and Japanese chili flakes.",
+    "Stir-fry everything together for 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "beef",
+    "celery",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-chewy-japanese-celery-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:47:11.705Z"
+}
