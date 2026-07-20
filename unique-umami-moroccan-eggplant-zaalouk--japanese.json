@@ -1,0 +1,79 @@
+{
+  "slug": "unique-umami-moroccan-eggplant-zaalouk--japanese",
+  "title": "Japanese Eggplant Zaalouk Stir Fry",
+  "description": "A fusion of Japanese and Moroccan flavors, this eggplant zaalouk stir fry is a quick and easy dinner option.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Unique Eggplant",
+      "amount": "1 large",
+      "notes": "Slice into 1/4-inch thick rounds"
+    },
+    {
+      "name": "Umami Miso Paste",
+      "amount": "2 tbsp",
+      "notes": "Combine with soy sauce for marinade"
+    },
+    {
+      "name": "Moroccan Zaalouk Spice Blend",
+      "amount": "1 tsp",
+      "notes": "Use to add flavor to the eggplant"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Combine with miso paste for marinade"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": "Add a splash of acidity to the dish"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "Use for stir-frying the eggplant"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Marinate the eggplant slices in a mixture of miso paste, soy sauce, and rice vinegar for at least 15 minutes.",
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the eggplant slices to the skillet and stir-fry for 3-4 minutes, until tender and lightly browned.",
+    "Add the Moroccan zaalouk spice blend and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Serve the eggplant zaalouk hot, garnished with chopped green onions.",
+    "Optional: Serve over steamed rice or noodles for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "moroccan",
+    "eggplant",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-moroccan-eggplant-zaalouk--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:39:24.977Z"
+}
