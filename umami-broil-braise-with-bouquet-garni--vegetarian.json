@@ -1,0 +1,86 @@
+{
+  "slug": "umami-broil-braise-with-bouquet-garni--vegetarian",
+  "title": "Vegetarian Braised Eggplant with Umami Broth",
+  "description": "A flavorful and tender eggplant dish cooked in a rich umami broth, perfect for a comforting vegetarian meal.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Umami Broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Bouquet Garni",
+      "amount": "1 tied bundle",
+      "notes": "Thyme, bay leaves, and parsley"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 300°F (150°C).",
+    "2. In a large Dutch oven, heat the olive oil over medium heat.",
+    "3. Add the chopped onion and cook until softened, about 5 minutes.",
+    "4. Add the minced garlic and cook for 1 minute.",
+    "5. Add the eggplant cubes and cook until browned, about 5 minutes.",
+    "6. Add the umami broth, bouquet garni, salt, and black pepper.",
+    "7. Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "8. Braise the eggplant for 25-30 minutes, or until tender.",
+    "9. Remove the pot from the oven and let it cool slightly.",
+    "10. Serve the eggplant hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "eggplant",
+    "braised",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-broil-braise-with-bouquet-garni--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:14:25.538Z"
+}
