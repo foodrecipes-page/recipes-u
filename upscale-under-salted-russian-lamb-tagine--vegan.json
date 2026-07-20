@@ -1,0 +1,84 @@
+{
+  "slug": "upscale-under-salted-russian-lamb-tagine--vegan",
+  "title": "Tagine Stuffed Portobello Mushrooms",
+  "description": "A rich and flavorful vegan dish inspired by Russian and Moroccan cuisine. This recipe features earthy portobello mushrooms filled with a savory tagine spice blend and served with a side of upscale under-salted vegetables.",
+  "cuisine": "russian, moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4-6",
+      "notes": "stems removed and chopped"
+    },
+    {
+      "name": "Upscale under",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most specialty stores"
+    },
+    {
+      "name": "Lamb's liver",
+      "amount": "8 oz",
+      "notes": "optional (omit for vegan version)"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "Vegan broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "omit for under-salted version"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Sauté the upscale under and lamb's liver (if using) in a pan with a little water until the under is tender.",
+    "Add the tagine spice blend and cook for 1 minute.",
+    "Stuff each portobello mushroom cap with the under mixture and place them in a baking dish.",
+    "Drizzle the canned diced tomatoes and vegan broth over the mushrooms.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and bake for an additional 10-15 minutes, or until the mushrooms are tender.",
+    "Season with salt to taste (omit for under-salted version).",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Serve with a side of upscale under-salted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "mushrooms",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/upscale-under-salted-russian-lamb-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:33:57.181Z"
+}
