@@ -3050,16 +3050,16 @@
   },
   {
     "slug": "umami-velvety-brazilian-tofu-stir-fry",
-    "title": "Umami Velvety Brazilian Tofu Stir-fry",
+    "title": "Brazilian Stir Fry",
     "tags": [
-      "umami",
-      "velvety",
+      "vegan",
+      "vegetarian",
       "brazilian",
-      "tofu",
-      "smoked-paprika"
+      "stir-fry",
+      "tofu"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 20,
     "shard": "u"
   },
   {
@@ -6153,17 +6153,15 @@
   },
   {
     "slug": "unique-nutty-korean-almond-bibimbap",
-    "title": "Unique Nutty Korean Almond Bibimbap",
+    "title": "Bibimbap with Spicy Almond Crunch",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "korean-food",
-      "one-pan",
-      "post-workout",
-      "vegetarian"
+      "bibimbap",
+      "korean-cuisine",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "u"
   },
   {
