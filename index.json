@@ -9747,5 +9747,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 23,
     "shard": "u"
+  },
+  {
+    "slug": "unusual-australian-coconut-mousse--mexican",
+    "title": "Coconut Mousse Tres Leches Cake",
+    "tags": [
+      "mexican",
+      "dessert",
+      "cake",
+      "coconut",
+      "tres leches"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "u"
   }
 ]
