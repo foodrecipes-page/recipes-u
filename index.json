@@ -2939,17 +2939,15 @@
   },
   {
     "slug": "umami-springy-korean-zucchini-hwajeon",
-    "title": "Umami Springy Korean Zucchini Hwajeon",
+    "title": "Korean-Style Zucchini Stir Fry with Umami Springy Crust",
     "tags": [
-      "date-night",
-      "korean-food",
-      "low-fat",
-      "spring-recipes",
-      "umami",
-      "zucchini-recipes"
+      "korean",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -9774,6 +9772,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
+    "slug": "ultra-spicy-spanish-shrimp-gambas-al-ajillo--chinese",
+    "title": "Shrimp Stir Fry with Garlic and Chili Peppers",
+    "tags": [
+      "chinese",
+      "shrimp",
+      "stir-fry",
+      "spicy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
     "shard": "u"
   }
 ]
