@@ -1,0 +1,90 @@
+{
+  "slug": "ucitrusy-dense-irish-fernbrake-gosari-pilaf",
+  "title": "Spicy Irish Pilaf with Fernbrake and Gosari",
+  "description": "A hearty, spicy pilaf dish featuring Irish ingredients and exotic fernbrake.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dense rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fernbrake",
+      "amount": "2 cups",
+      "notes": "cleaned, chopped"
+    },
+    {
+      "name": "Gosari",
+      "amount": "1 cup",
+      "notes": "cleaned, chopped"
+    },
+    {
+      "name": "Pilaf spice",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Irish cheddar",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add fernbrake and gosari; sauté for 2-3 minutes.",
+    "Add pilaf spice and stir for 1 minute.",
+    "Add rice and stir for 1 minute.",
+    "Add 2 cups of water; bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Fluff with a fork and stir in Irish cheddar.",
+    "Season with salt and black pepper.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "vegetarian",
+    "pilaf",
+    "fernbrake"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ucitrusy-dense-irish-fernbrake-gosari-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:24:13.336Z"
+}
