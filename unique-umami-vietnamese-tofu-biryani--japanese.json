@@ -1,0 +1,90 @@
+{
+  "slug": "unique-umami-vietnamese-tofu-biryani--japanese",
+  "title": "Grilled Tofu Yakitori",
+  "description": "A Japanese-inspired grilled tofu skewer dish, flavored with umami and unique seasonings. Perfect for a quick and easy dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "200g",
+      "notes": "firm tofu"
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tbsp",
+      "notes": "Japanese rice wine"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "Japanese soy sauce"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "4",
+      "notes": "scallions"
+    },
+    {
+      "name": "Japanese biryani",
+      "amount": "1 tsp",
+      "notes": "Japanese curry powder"
+    },
+    {
+      "name": "Unique seasoning",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Cut tofu into 1-inch cubes and set aside.",
+    "2. In a small bowl, whisk together sake, mirin, soy sauce, gochujang, brown sugar, and Japanese biryani.",
+    "3. Place tofu cubes in a shallow dish and brush the sake mixture evenly over the tofu.",
+    "4. Let the tofu marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "5. Preheat a grill or grill pan to medium-high heat.",
+    "6. Thread the marinated tofu cubes onto skewers, leaving a little space between each piece.",
+    "7. Brush the grill or grill pan with oil to prevent sticking.",
+    "8. Grill the tofu skewers for 3-4 minutes per side, or until nicely charred.",
+    "9. Garnish with green onions and serve immediately.",
+    "10. Serve with steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "grilled",
+    "tofu",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-vietnamese-tofu-biryani--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:43:40.596Z"
+}
