@@ -9734,5 +9734,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "u"
+  },
+  {
+    "slug": "unique-umami-vietnamese-tofu-biryani--japanese",
+    "title": "Grilled Tofu Yakitori",
+    "tags": [
+      "japanese",
+      "grilled",
+      "tofu",
+      "skewers"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
+    "shard": "u"
   }
 ]
