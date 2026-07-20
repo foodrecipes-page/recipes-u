@@ -9797,5 +9797,18 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "umami-broil-braise-with-bouquet-garni--vegetarian",
+    "title": "Vegetarian Braised Eggplant with Umami Broth",
+    "tags": [
+      "vegetarian",
+      "eggplant",
+      "braised",
+      "umami"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "u"
   }
 ]
