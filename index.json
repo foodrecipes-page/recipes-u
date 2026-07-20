@@ -126,14 +126,15 @@
   },
   {
     "slug": "ucitrusy-dense-irish-fernbrake-gosari-pilaf",
-    "title": "Ucitrusy Dense Irish Fernbrake-gosari Pilaf",
+    "title": "Spicy Irish Pilaf with Fernbrake and Gosari",
     "tags": [
-      "date-night",
-      "irish-dinner",
-      "vegan-friendly"
+      "irish",
+      "vegetarian",
+      "pilaf",
+      "fernbrake"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -1113,14 +1114,14 @@
   },
   {
     "slug": "umami-chewy-japanese-celery-stir-fry",
-    "title": "Umami Chewy Japanese Celery Stir-fry",
+    "title": "Stir-Fried Beef and Celery",
     "tags": [
-      "umami",
+      "stir-fry",
+      "beef",
       "celery",
-      "japanese",
-      "dairy-free"
+      "easy"
     ],
-    "cuisine": "Japanese",
+    "cuisine": null,
     "totalTimeMin": 15,
     "shard": "u"
   },
@@ -8172,15 +8173,15 @@
   },
   {
     "slug": "unusually-chewy-tunisian-lamb-tagine",
-    "title": "Unusually Chewy Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "braise",
-      "comfort-food",
+      "north african",
       "lamb",
-      "one-pot",
-      "tunisian"
+      "tagine",
+      "stew",
+      "slow cooker"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 170,
     "shard": "u"
   },
@@ -9785,6 +9786,18 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 23,
+    "shard": "u"
+  },
+  {
+    "slug": "uber-crisp-french-fish-bisque--indian",
+    "title": "Bengali Fish Curry",
+    "tags": [
+      "indian",
+      "fish-curry",
+      "bengali"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "u"
   }
 ]
