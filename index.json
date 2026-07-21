@@ -9935,5 +9935,18 @@
     "cuisine": null,
     "totalTimeMin": 10,
     "shard": "u"
+  },
+  {
+    "slug": "unique-greek-sirloin-steak-skewers--french",
+    "title": "French-Style Grilled Steak Skewers",
+    "tags": [
+      "grilled",
+      "skewers",
+      "french",
+      "steak"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
