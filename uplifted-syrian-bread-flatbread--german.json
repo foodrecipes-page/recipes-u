@@ -1,0 +1,88 @@
+{
+  "slug": "uplifted-syrian-bread-flatbread--german",
+  "title": "German Flatbread with Syrian Meat",
+  "description": "A simple German-inspired flatbread topped with a flavorful Syrian-style meat mixture. Great as a snack or light lunch.",
+  "cuisine": "german",
+  "diet": [
+    "gluten",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian flatbread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Lean ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g",
+      "notes": "Unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Slice the flatbread into 1-inch thick pieces.",
+    "In a pan, cook the ground beef over medium heat until browned, breaking it into small pieces.",
+    "Add the chopped onion and minced garlic to the pan and cook until softened.",
+    "Stir in cumin, paprika, salt, and black pepper.",
+    "Add the butter to the pan and stir until melted.",
+    "Place the flatbread slices on a baking sheet and spoon the meat mixture on top of each.",
+    "Bake in the preheated oven for 10-12 minutes, or until the flatbread is crispy and the meat is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "syrian",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uplifted-syrian-bread-flatbread--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:32:26.588Z"
+}
