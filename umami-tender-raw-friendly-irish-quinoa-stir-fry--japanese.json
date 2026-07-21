@@ -1,0 +1,74 @@
+{
+  "slug": "umami-tender-raw-friendly-irish-quinoa-stir-fry--japanese",
+  "title": "Japanese Quinoa Stir Fry",
+  "description": "A quick and easy quinoa stir fry recipe with a Japanese twist, perfect for a weeknight dinner. This dish combines the nutty flavor of quinoa with the savory taste of stir-fried vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "irish",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "stir",
+      "amount": "1 tablespoon",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "fry",
+      "amount": "1 onion",
+      "notes": "sliced"
+    },
+    {
+      "name": "tender",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "raw",
+      "amount": "1 cup",
+      "notes": "broccoli florets"
+    }
+  ],
+  "instructions": [
+    "Cook quinoa according to package instructions.",
+    "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add broccoli florets and cook until tender, about 3-4 minutes.",
+    "Stir in soy sauce and cooked quinoa.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "stir-fry",
+    "vegetarian",
+    "japanese",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-tender-raw-friendly-irish-quinoa-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:14:17.672Z"
+}
