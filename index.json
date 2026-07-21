@@ -9909,5 +9909,19 @@
     "cuisine": "italian",
     "totalTimeMin": 45,
     "shard": "u"
+  },
+  {
+    "slug": "unique-creamy-indian-foie-gras-biryani--chinese",
+    "title": "Creamy Biryani Fried Rice",
+    "tags": [
+      "chinese",
+      "indian",
+      "biryani",
+      "creamy",
+      "foie-gras"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
