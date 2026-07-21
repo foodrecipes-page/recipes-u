@@ -1,0 +1,88 @@
+{
+  "slug": "unique-british-cod-shepherds-pie--italian",
+  "title": "British Cod and Shepherd's Pie Italian Fusion",
+  "description": "A creative Italian twist to the classic British Shepherd's Pie, featuring pan-seared cod and a rich tomato sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4"
+    },
+    {
+      "name": "Shepherd's pie mix (beef, lamb, and vegetables)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": ""
+    },
+    {
+      "name": "Mozzarella cheese, grated",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the cod fillets with salt and pepper. Heat 1 tablespoon of olive oil in a skillet over medium-high heat and sear the cod for 2-3 minutes per side. Transfer to a baking dish.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil and sauté the garlic for 1-2 minutes until fragrant.",
+    "Add the shepherd's pie mix and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the crushed tomatoes, white wine, and Italian seasoning. Stir to combine and bring to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10-15 minutes, stirring occasionally.",
+    "Transfer the sauce to the baking dish with the cod and top with mozzarella cheese and breadcrumbs.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-fusion",
+    "shepherds-pie",
+    "british-cod"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-british-cod-shepherds-pie--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:06:59.766Z"
+}
