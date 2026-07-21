@@ -1,0 +1,96 @@
+{
+  "slug": "unique-sour-crumbly-vietnamese-rest-meat-pho--german",
+  "title": "Savory German Meat Pho",
+  "description": "A twist on traditional pho, this German-inspired dish combines the flavors of a hearty beef stew with the comfort of a warm, Vietnamese-style noodle soup.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tbsp",
+      "notes": "for added richness"
+    },
+    {
+      "name": "crumbly rye bread",
+      "amount": "2 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "vietnamese beef broth",
+      "amount": "2L",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "rest of beef broth",
+      "amount": "2 cups",
+      "notes": "for added depth"
+    },
+    {
+      "name": "meat",
+      "amount": "2 tbsp",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "pho noodles",
+      "amount": "8 oz",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2-inch piece",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Bring the vietnamese beef broth and rest of beef broth to a boil in a large pot.",
+    "Reduce heat to a simmer and add the sliced onion and carrot to the pot.",
+    "Cook for 10 minutes or until the vegetables are tender.",
+    "Add the sliced ginger and beef brisket to the pot.",
+    "Cook for an additional 10 minutes or until the beef is tender.",
+    "Cook the pho noodles according to the package instructions.",
+    "To serve, place a portion of the noodles in a bowl and ladle the hot beef broth over the top.",
+    "Add a slice of crumbly rye bread and a dollop of sour cream on top.",
+    "Serve immediately and enjoy!",
+    "Optional: add thinly sliced meat to the bowl for added flavor and texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pho",
+    "beef",
+    "soup",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "40g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-sour-crumbly-vietnamese-rest-meat-pho--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:21:00.890Z"
+}
