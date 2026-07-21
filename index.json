@@ -9822,5 +9822,19 @@
     "cuisine": "russian, moroccan",
     "totalTimeMin": 50,
     "shard": "u"
+  },
+  {
+    "slug": "umami-tender-raw-friendly-irish-quinoa-stir-fry--japanese",
+    "title": "Japanese Quinoa Stir Fry",
+    "tags": [
+      "quinoa",
+      "stir-fry",
+      "vegetarian",
+      "japanese",
+      "easy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
