@@ -9849,5 +9849,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 23,
     "shard": "u"
+  },
+  {
+    "slug": "unique-crunchy-australian-chicken-skewers--italian",
+    "title": "Chicken Italian Skewers",
+    "tags": [
+      "italian",
+      "chicken",
+      "grilled",
+      "skewers"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
+    "slug": "uplifted-syrian-bread-flatbread--german",
+    "title": "German Flatbread with Syrian Meat",
+    "tags": [
+      "german",
+      "syrian",
+      "flatbread"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "u"
   }
 ]
