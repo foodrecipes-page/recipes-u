@@ -4831,17 +4831,15 @@
   },
   {
     "slug": "unique-buttery-thai-noodles-pad-see-ew",
-    "title": "Unique Buttery Thai Noodles Pad See Ew",
+    "title": "Thai Pad See Ew",
     "tags": [
-      "brunch-ideas",
-      "gluten-free",
-      "noodle-dishes",
-      "one-pan",
-      "thai-cuisine",
-      "vegetarian-friendly"
+      "thai",
+      "stir-fry",
+      "noodles",
+      "vegetarian"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -9873,6 +9871,34 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 30,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-light-irish-mung-bean-sprouts-pasta--thai",
+    "title": "Thai-Style Mung Bean Stir Fry",
+    "tags": [
+      "thai-food",
+      "mung-beans",
+      "vegan",
+      "irish-pasta",
+      "stir-fry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-sour-crumbly-vietnamese-rest-meat-pho--german",
+    "title": "Savory German Meat Pho",
+    "tags": [
+      "german",
+      "pho",
+      "beef",
+      "soup",
+      "lunch"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
     "shard": "u"
   }
 ]
