@@ -1,0 +1,85 @@
+{
+  "slug": "unique-greek-sirloin-steak-skewers--french",
+  "title": "French-Style Grilled Steak Skewers",
+  "description": "A classic French-inspired dish featuring marinated steak skewers grilled to perfection. Serve with your favorite sides or salads for a delicious and easy meal.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "poultry",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin",
+      "amount": "1 pound",
+      "notes": "preferably 1-1.5 inches thick"
+    },
+    {
+      "name": "unique",
+      "amount": "1/4 cup",
+      "notes": "olive oil for marinade"
+    },
+    {
+      "name": "greek",
+      "amount": "1/4 cup",
+      "notes": "yogurt for marinade"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "coarse or kosher"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, yogurt, salt, pepper, garlic, and thyme.",
+    "Add the sirloin to the marinade and mix well to coat.",
+    "Let the sirloin marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Thread the marinated sirloin onto the skewers.",
+    "Grill the skewers for 5-7 minutes per side, or until the steak reaches your desired level of doneness.",
+    "Transfer the skewers to a plate and let rest for 5 minutes before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "french",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-greek-sirloin-steak-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:05:46.638Z"
+}
