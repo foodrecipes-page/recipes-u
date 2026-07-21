@@ -1,0 +1,66 @@
+{
+  "slug": "unique-crunchy-australian-chicken-skewers--italian",
+  "title": "Chicken Italian Skewers",
+  "description": "A flavorful and easy-to-make Italian-inspired dish featuring chicken and vegetables on skewers.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Unique pepper",
+      "amount": "2",
+      "notes": "any variety"
+    },
+    {
+      "name": "Crunchy zucchini",
+      "amount": "1 medium",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "Australian bell pepper",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken and vegetables onto skewers, leaving a little space between each piece.",
+    "Brush with olive oil and season with salt, pepper, and Italian seasoning.",
+    "Grill for 8-10 minutes, turning occasionally, until the chicken is cooked through and the vegetables are tender.",
+    "Serve immediately, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "chicken",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crunchy-australian-chicken-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:58:49.297Z"
+}
