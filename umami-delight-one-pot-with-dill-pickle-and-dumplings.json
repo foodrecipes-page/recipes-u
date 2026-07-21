@@ -1,0 +1,66 @@
+{
+  "slug": "umami-delight-one-pot-with-dill-pickle-and-dumplings",
+  "title": "Dill and Pickle Dumplings",
+  "description": "A flavorful and easy-to-make dumpling dish that combines the freshness of dill with the tanginess of pickle, creating a delightful twist on traditional dumplings.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dumplings",
+      "amount": "200g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pickles",
+      "amount": "150g",
+      "notes": "sliced"
+    },
+    {
+      "name": "dill",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "one",
+      "amount": "2",
+      "notes": "large garlic cloves"
+    },
+    {
+      "name": "pot",
+      "amount": "2",
+      "notes": "tablespoons of oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a pan over medium heat.",
+    "Add the chopped dill and cook for 1 minute, until fragrant.",
+    "Add the sliced pickles and cook for 2-3 minutes, until they start to soften.",
+    "Add the dumplings to the pan and cook for 2-3 minutes on each side, until they are golden brown.",
+    "Add the remaining 1 tablespoon of oil, minced garlic, and cook for 1 minute.",
+    "Season with salt and pepper to taste, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dill",
+    "pickle",
+    "dumplings",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-delight-one-pot-with-dill-pickle-and-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:23:07.558Z"
+}
