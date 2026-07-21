@@ -9923,5 +9923,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "umami-fold-english-muffin-bowl--vegetarian",
+    "title": "English Muffin Bowl",
+    "tags": [
+      "english-muffin",
+      "vegetarian",
+      "breakfast"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
+    "shard": "u"
   }
 ]
