@@ -1576,16 +1576,15 @@
   },
   {
     "slug": "umami-delight-one-pot-with-dill-pickle-and-dumplings",
-    "title": "Umami Delight One-Pot with Dill Pickle and Dumplings",
+    "title": "Dill and Pickle Dumplings",
     "tags": [
-      "moroccan",
-      "one-pot",
+      "dill",
+      "pickle",
       "dumplings",
-      "low-fat",
-      "gluten-free"
+      "vegetarian"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -9835,6 +9834,20 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-spicy-portuguese-pork-buns--japanese",
+    "title": "Tonkatsu Bun",
+    "tags": [
+      "tonkatsu",
+      "japanesefood",
+      "porkcutlet",
+      "buns",
+      "lunch"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
     "shard": "u"
   }
 ]
