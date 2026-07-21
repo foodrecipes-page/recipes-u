@@ -2585,18 +2585,15 @@
   },
   {
     "slug": "umami-rich-molten-slovakian-beef-dumplings",
-    "title": "umami-rich molten slovakian beef dumplings",
+    "title": "Slovakian Beef and Dumplings",
     "tags": [
-      "beef-dumplings",
-      "comfort-food",
-      "high-protein",
-      "molten-cheese",
-      "one-pan",
-      "slovakian-cuisine",
-      "weeknight"
+      "beef",
+      "dumplings",
+      "slovakian",
+      "comfort-food"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 70,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
     "shard": "u"
   },
   {
@@ -9899,6 +9896,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 50,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-british-cod-shepherds-pie--italian",
+    "title": "British Cod and Shepherd's Pie Italian Fusion",
+    "tags": [
+      "italian-fusion",
+      "shepherds-pie",
+      "british-cod"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
     "shard": "u"
   }
 ]
