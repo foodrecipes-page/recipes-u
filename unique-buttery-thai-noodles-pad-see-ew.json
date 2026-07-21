@@ -1,0 +1,81 @@
+{
+  "slug": "unique-buttery-thai-noodles-pad-see-ew",
+  "title": "Thai Pad See Ew",
+  "description": "A classic Thai stir-fry dish made with flat rice noodles, vegetables, and a savory sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unique noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "buttery pork or tofu",
+      "amount": "250g"
+    },
+    {
+      "name": "pad thai sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "see ew sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions and set aside.",
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the pork or tofu and cook until browned, about 3-4 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 2-3 minutes.",
+    "Add the bell pepper and bean sprouts and cook for an additional 2 minutes.",
+    "Add the pad thai sauce and see ew sauce and stir to combine.",
+    "Add the cooked noodles and stir-fry for 2-3 minutes.",
+    "Transfer to a serving platter and garnish with chopped peanuts.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "noodles",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-buttery-thai-noodles-pad-see-ew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:59:16.428Z"
+}
