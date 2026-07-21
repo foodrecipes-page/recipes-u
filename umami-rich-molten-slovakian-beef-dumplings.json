@@ -1,0 +1,75 @@
+{
+  "slug": "umami-rich-molten-slovakian-beef-dumplings",
+  "title": "Slovakian Beef and Dumplings",
+  "description": "A hearty, comforting dish from Slovakia featuring tender beef and fluffy dumplings in a rich, savory broth.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "slovakian",
+      "amount": "2 tablespoons",
+      "notes": "dried paprika"
+    },
+    {
+      "name": "rich",
+      "amount": "2 tablespoons",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tablespoons",
+      "notes": "beef broth concentrate"
+    },
+    {
+      "name": "molten",
+      "amount": "1/4 cup",
+      "notes": "melted butter"
+    },
+    {
+      "name": "dumplings",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add flour to pot and cook for 1 minute.",
+    "Gradually add beef broth, whisking constantly.",
+    "Bring mixture to a boil, then reduce heat and simmer for 10 minutes.",
+    "Add beef back to pot and cook until tender, about 10-15 minutes.",
+    "Meanwhile, cook dumplings according to package instructions or make homemade.",
+    "Add cooked dumplings to pot and simmer for 2-3 minutes.",
+    "Season with paprika and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "dumplings",
+    "slovakian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-rich-molten-slovakian-beef-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:03:03.683Z"
+}
