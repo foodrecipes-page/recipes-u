@@ -1,0 +1,87 @@
+{
+  "slug": "unique-creamy-indian-foie-gras-biryani--chinese",
+  "title": "Creamy Biryani Fried Rice",
+  "description": "A Chinese twist on the Indian classic, this creamy fried rice dish is a perfect blend of cultures. With the addition of unique biryani spices and creamy foie gras, this dish is sure to impress.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Biryani Rice",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Creamy Foie Gras",
+      "amount": "4 ounces, crumbled"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Unique Spices (e.g. Saffron, Cardamom)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add diced onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add cooked biryani rice to the wok or skillet and stir-fry for 2-3 minutes.",
+    "Add crumbled foie gras, soy sauce, and unique spices to the rice mixture.",
+    "Stir-fry everything together for an additional 2-3 minutes, until the foie gras is fully incorporated.",
+    "Season with salt and pepper to taste.",
+    "Transfer the rice mixture to a serving platter.",
+    "Garnish with chopped scallions and serve immediately.",
+    "Optional: serve with a side of steamed vegetables or a simple green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "indian",
+    "biryani",
+    "creamy",
+    "foie-gras"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-creamy-indian-foie-gras-biryani--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:27:22.433Z"
+}
