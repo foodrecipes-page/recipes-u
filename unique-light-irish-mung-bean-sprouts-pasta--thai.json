@@ -1,0 +1,98 @@
+{
+  "slug": "unique-light-irish-mung-bean-sprouts-pasta--thai",
+  "title": "Thai-Style Mung Bean Stir Fry",
+  "description": "A quick and easy Thai-inspired stir fry made with mung beans, unique sprouts, and light Irish pasta. Perfect for a weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unique Irish pasta",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "mung beans",
+      "amount": "1 cup dried",
+      "notes": ""
+    },
+    {
+      "name": "light oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish-free sauce (or to taste)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the Irish pasta according to package instructions.",
+    "Rinse and drain the mung beans, then soak them in water for at least 4 hours.",
+    "Drain and rinse the mung beans again, then add them to the pot with 2 cups of water.",
+    "Bring to a boil, then reduce heat to a simmer and cook until the mung beans are tender.",
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and chili flakes and stir-fry for 1 minute.",
+    "Add the bean sprouts, soy sauce, and fish-free sauce, and stir-fry for another 2 minutes.",
+    "Add the cooked mung beans and stir-fry for 1 minute.",
+    "Add the cooked Irish pasta and stir-fry for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-food",
+    "mung-beans",
+    "vegan",
+    "irish-pasta",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-light-irish-mung-bean-sprouts-pasta--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:11:05.266Z"
+}
