@@ -1,0 +1,56 @@
+{
+  "slug": "umami-fold-english-muffin-bowl--vegetarian",
+  "title": "English Muffin Bowl",
+  "description": "A simple, savory vegetarian recipe using English muffins and umami flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "English muffin",
+      "amount": "1"
+    },
+    {
+      "name": "umami",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fold",
+      "amount": "4"
+    },
+    {
+      "name": "bowl",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the English muffin in half horizontally.",
+    "Melt 1 tsp of umami on the muffin halves for 5 minutes.",
+    "Fold 4 folds of cheese to melt with the umami.",
+    "Place the English muffin halves in a bowl and serve.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "english-muffin",
+    "vegetarian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-fold-english-muffin-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:50:16.632Z"
+}
