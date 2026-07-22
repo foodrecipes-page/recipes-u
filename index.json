@@ -8754,14 +8754,16 @@
   },
   {
     "slug": "uzu-garlic-pesto-mason-jar",
-    "title": "UZu Garlic Pesto Mason-Jar",
+    "title": "Garlic Pesto Uzu Pasta",
     "tags": [
-      "anti-inflammatory",
-      "mason-jar",
-      "snack"
+      "italian",
+      "pasta",
+      "pesto",
+      "vegetarian",
+      "quick"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 60,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
