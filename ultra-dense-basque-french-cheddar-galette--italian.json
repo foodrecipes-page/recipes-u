@@ -1,0 +1,64 @@
+{
+  "slug": "ultra-dense-basque-french-cheddar-galette--italian",
+  "title": "Italian Galette Stuffed with Cheddar and French Herbs",
+  "description": "A delicious Italian-inspired galette filled with cheddar cheese and French herbs, perfect for a cozy dinner or snack.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ultra-thin pizza dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "basque cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh french herbs",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "galette",
+      "amount": "1",
+      "notes": "optional, for crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the pizza dough to a thickness of about 1/8 inch.",
+    "In a small bowl, mix together the cheddar cheese and French herbs.",
+    "Spread the cheese mixture evenly over the center of the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "If using, place the galette on top of the filling for added crunch.",
+    "Brush the dough with a little bit of water and sprinkle with salt.",
+    "Bake for 15-20 minutes, or until the crust is golden brown and the cheese is melted.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "cheese",
+    "snack",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-dense-basque-french-cheddar-galette--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:38:39.748Z"
+}
