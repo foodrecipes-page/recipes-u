@@ -10013,5 +10013,19 @@
     "cuisine": "French",
     "totalTimeMin": 35,
     "shard": "u"
+  },
+  {
+    "slug": "unctuous-pillowy-korean-roast-jjigae--indian",
+    "title": "Spicy Korean Roast Chicken Jjigae",
+    "tags": [
+      "korean",
+      "indian",
+      "chicken",
+      "curry",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "u"
   }
 ]
