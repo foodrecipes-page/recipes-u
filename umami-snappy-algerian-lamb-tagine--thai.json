@@ -1,0 +1,63 @@
+{
+  "slug": "umami-snappy-algerian-lamb-tagine--thai",
+  "title": "Lamb Tagine with Thai Spices",
+  "description": "A flavorful and aromatic Thai-inspired lamb tagine made with the unique flavors of umami and algerian spices.",
+  "cuisine": "thai",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound boneless shoulder"
+    },
+    {
+      "name": "Umami",
+      "amount": "1 tablespoon soy sauce"
+    },
+    {
+      "name": "Algerian",
+      "amount": "1 tablespoon ras el hanout"
+    },
+    {
+      "name": "Snappy",
+      "amount": "1/4 cup chopped fresh cilantro"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, about 5 minutes.",
+    "Add the umami, algerian, and salt, and cook for 1 minute.",
+    "Add 1 cup of water to the pot, cover, and transfer to the oven.",
+    "Braise the lamb for 2 hours, or until tender.",
+    "Stir in chopped cilantro and serve over rice or with naan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "lamb",
+    "tagine",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-snappy-algerian-lamb-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:11:05.975Z"
+}
