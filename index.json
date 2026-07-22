@@ -7946,17 +7946,17 @@
   },
   {
     "slug": "unsmoked-crumbly-japanese-chicken-oyakodon",
-    "title": "Unsmoked Crumbly Japanese Chicken Oyakodon",
+    "title": "Japanese Oyakodon Chicken Bowl",
     "tags": [
-      "chicken-recipes",
-      "gluten-free",
-      "japanese-cuisine",
-      "low-carb",
-      "one-pot",
-      "smoky-flavors"
+      "Japanese",
+      "oyakodon",
+      "chicken",
+      "rice",
+      "egg",
+      "breakfast"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -9947,6 +9947,32 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "ultra-dense-basque-french-cheddar-galette--italian",
+    "title": "Italian Galette Stuffed with Cheddar and French Herbs",
+    "tags": [
+      "italian",
+      "cheese",
+      "snack",
+      "dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
+    "slug": "umami-indian-eggplant-kheer--keto",
+    "title": "Keto Eggplant Curry",
+    "tags": [
+      "keto",
+      "indian",
+      "eggplant",
+      "umami"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "u"
   }
 ]
