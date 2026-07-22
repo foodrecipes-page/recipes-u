@@ -10027,5 +10027,17 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "u"
+  },
+  {
+    "slug": "untreated-german-vegetables-salad--vegan",
+    "title": "German Vegan Salad",
+    "tags": [
+      "vegan",
+      "salad",
+      "german"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 20,
+    "shard": "u"
   }
 ]
