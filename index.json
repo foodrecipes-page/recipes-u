@@ -9974,5 +9974,44 @@
     "cuisine": "Indian",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "umami-rich-saudi-arabian-lamb-tagine--mexican",
+    "title": "Mexican Lamb Tagine",
+    "tags": [
+      "mexican",
+      "lamb",
+      "tagine"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
+    "shard": "u"
+  },
+  {
+    "slug": "umami-snappy-algerian-lamb-tagine--thai",
+    "title": "Lamb Tagine with Thai Spices",
+    "tags": [
+      "thai",
+      "lamb",
+      "tagine",
+      "umami"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 140,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-snappy-thai-tofu-khanom-krok--french",
+    "title": "French Tofu Krok Puffs",
+    "tags": [
+      "french",
+      "thai",
+      "snack",
+      "tofu",
+      "vegan"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
