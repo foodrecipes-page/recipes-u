@@ -1,0 +1,70 @@
+{
+  "slug": "uzu-garlic-pesto-mason-jar",
+  "title": "Garlic Pesto Uzu Pasta",
+  "description": "A simple yet flavorful pasta dish featuring uzu, garlic, and pesto sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uzu",
+      "amount": "8 oz",
+      "notes": "Cherry tomatoes"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Pesto",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Mason",
+      "amount": "1",
+      "notes": "Jarred cherry tomatoes (substitute for uzu)"
+    },
+    {
+      "name": "Pasta (penne or linguine)",
+      "amount": "1 lb",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook pasta according to package instructions until al dente.",
+    "In a large skillet, heat 1 tbsp of olive oil over medium heat.",
+    "Add minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add pesto sauce and stir to combine. Cook for 1-2 minutes.",
+    "Add cherry tomatoes (or uzu) and cook for an additional 2-3 minutes.",
+    "Combine cooked pasta and tomato mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "pesto",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uzu-garlic-pesto-mason-jar",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:34:32.729Z"
+}
