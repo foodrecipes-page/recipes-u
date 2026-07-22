@@ -1,0 +1,90 @@
+{
+  "slug": "unctuous-pillowy-korean-roast-jjigae--indian",
+  "title": "Spicy Korean Roast Chicken Jjigae",
+  "description": "A fusion of Indian spices and Korean flavors, this spicy roast chicken jjigae is a hearty and comforting meal. Serve with naan or rice for a complete experience.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "roast chicken",
+      "amount": "1 pound",
+      "notes": "boneless, skinless chicken breast or thighs"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "unctuous curry powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pillowy basmati rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "jjigae sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the curry powder and korean chili flakes and cook for 1 minute, stirring constantly.",
+    "Add the roast chicken and cook until browned on all sides, about 5-6 minutes.",
+    "Add the jjigae sauce and stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes, or until the chicken is cooked through.",
+    "Serve with basmati rice and garnish with chopped green onions, if desired.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "indian",
+    "chicken",
+    "curry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-pillowy-korean-roast-jjigae--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:08:51.108Z"
+}
