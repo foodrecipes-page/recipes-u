@@ -1,0 +1,70 @@
+{
+  "slug": "unique-crumbly-croatian-tamarind-bake--mexican",
+  "title": "Croatian Tamarind Empanadas",
+  "description": "A twist on traditional empanadas, these Mexican-inspired pastries are filled with a tangy Croatian tamarind mixture.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bake",
+      "amount": "2 1/4 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "unique",
+      "amount": "1/2 cup",
+      "notes": "grated cheddar cheese"
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/4 cup",
+      "notes": "cold unsalted butter, cut into small pieces"
+    },
+    {
+      "name": "croatian",
+      "amount": "2 tablespoons",
+      "notes": "sour cream"
+    },
+    {
+      "name": "tamarind",
+      "amount": "2 tablespoons",
+      "notes": "tamarind paste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the bake and unique.",
+    "2. Add the crumbly and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "3. Gradually add 1/4 cup of cold water, stirring with a fork until the dough comes together in a ball.",
+    "4. Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth.",
+    "5. Divide the dough into 8 equal pieces and roll each one out into a thin circle.",
+    "6. In a small bowl, mix together the croatian and tamarind.",
+    "7. Place a tablespoon of the filling in the center of each dough circle.",
+    "8. Fold the dough over the filling to form a triangle or a square shape, and press the edges together to seal.",
+    "9. Brush the tops of the empanadas with a little water and bake at 375°F (190°C) for 20-25 minutes, or until golden brown.",
+    "10. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "mexican",
+    "tamarind",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crumbly-croatian-tamarind-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:05:55.552Z"
+}
