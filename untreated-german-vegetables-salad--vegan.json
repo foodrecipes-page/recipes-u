@@ -1,0 +1,84 @@
+{
+  "slug": "untreated-german-vegetables-salad--vegan",
+  "title": "German Vegan Salad",
+  "description": "A hearty German-inspired salad made with a variety of vegetables and a tangy dressing. Perfect for a light and refreshing meal.",
+  "cuisine": "german",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Beets",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Apple",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Vegan dressing",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegan mayo",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegan cheddar (made from vegetables)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Chop the cabbage and carrots into bite-sized pieces.",
+    "Grate the beets and apple.",
+    "Chop the lettuce into a small head.",
+    "In a large bowl, combine the chopped cabbage, carrots, beets, and apple.",
+    "Add the chopped lettuce on top of the vegetables.",
+    "In a small bowl, whisk together the vegan dressing and vegan mayo.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Sprinkle the chopped walnuts and vegan cheddar over the top of the salad.",
+    "Garnish with fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "salad",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/untreated-german-vegetables-salad--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:04:19.966Z"
+}
