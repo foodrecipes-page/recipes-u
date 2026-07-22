@@ -1,0 +1,86 @@
+{
+  "slug": "umami-crispy-brazilian-pickle-bowl--thai",
+  "title": "Thai-Style Pickle Bowl",
+  "description": "A refreshing and crunchy Thai-inspired dish featuring a tangy pickle sauce and crispy toppings.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bowl",
+      "amount": "4-6",
+      "notes": "large, shallow bowls"
+    },
+    {
+      "name": "umami soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crispy rice noodles",
+      "amount": "1 cup",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "brazilian chili flakes",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "cucumber",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions.",
+    "In a small bowl, whisk together the umami soy sauce and chili flakes.",
+    "In a separate bowl, combine the pickled ginger, cucumber, carrot, bean sprouts, and green onions.",
+    "To assemble the bowls, place a scoop of the noodle mixture into each bowl.",
+    "Drizzle the umami sauce over the top of each bowl.",
+    "Sprinkle the crispy rice noodles over the top of each bowl.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "veggie",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-crispy-brazilian-pickle-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:40:10.677Z"
+}
