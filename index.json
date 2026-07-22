@@ -10041,5 +10041,17 @@
     "cuisine": "german",
     "totalTimeMin": 20,
     "shard": "u"
+  },
+  {
+    "slug": "umami-crispy-brazilian-pickle-bowl--thai",
+    "title": "Thai-Style Pickle Bowl",
+    "tags": [
+      "thai",
+      "veggie",
+      "bowls"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "u"
   }
 ]
