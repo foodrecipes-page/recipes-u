@@ -1,0 +1,92 @@
+{
+  "slug": "unique-snappy-thai-tofu-khanom-krok--french",
+  "title": "French Tofu Krok Puffs",
+  "description": "A French-inspired twist on traditional Thai krok puffs, filled with crispy tofu and served with a side of sweet chili sauce.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Krok (Thai crepe wrappers)",
+      "amount": "1 package (20-25 wrappers)",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Khanom (Thai mung bean flour)",
+      "amount": "2 cups",
+      "notes": "or substitute with almond flour"
+    },
+    {
+      "name": "Unique sugar",
+      "amount": "2 tbsp",
+      "notes": "or substitute with granulated sugar"
+    },
+    {
+      "name": "Snappy sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "for filling"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "In a blender, combine tofu, curry paste, coconut milk, salt, and pepper. Blend until smooth.",
+    "Wrap a krok wrapper around a small amount of the tofu mixture, forming a triangle. Repeat with remaining wrappers and filling.",
+    "Fry the krok puffs until golden brown, about 3-4 minutes per side.",
+    "Drain on paper towels and sprinkle with sesame seeds.",
+    "Serve warm with a side of sweet chili sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "thai",
+    "snack",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-snappy-thai-tofu-khanom-krok--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:13:18.771Z"
+}
