@@ -1,0 +1,100 @@
+{
+  "slug": "unsmoked-crumbly-japanese-chicken-oyakodon",
+  "title": "Japanese Oyakodon Chicken Bowl",
+  "description": "A classic Japanese chicken and egg rice bowl dish made with unsmoked chicken, fresh vegetables, and Japanese seasonings. Oyakodon, which literally means \"parent and child bowl\" in Japanese, is a popular Japanese comfort food.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "pescetarian",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Unsmoked chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Oyakodon seasoning mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Shredded daikon radish",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the oyakodon seasoning mix and cook for 1 minute.",
+    "Add the soy sauce, sake, mirin, and bamboo shoots. Stir-fry for 2 minutes.",
+    "Add the shredded daikon radish and green onions. Stir-fry for another 2 minutes.",
+    "Add cooked Japanese short-grain rice to the skillet and stir-fry for 2-3 minutes.",
+    "Transfer the rice mixture to a serving bowl.",
+    "Make 2-3 wells in the rice and crack 1 egg into each well.",
+    "Cover the skillet with a lid and cook for 2-3 minutes, until the eggs are cooked to your liking.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "Japanese",
+    "oyakodon",
+    "chicken",
+    "rice",
+    "egg",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unsmoked-crumbly-japanese-chicken-oyakodon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:16:32.836Z"
+}
