@@ -1,0 +1,83 @@
+{
+  "slug": "umami-indian-eggplant-kheer--keto",
+  "title": "Keto Eggplant Curry",
+  "description": "A low-carb eggplant curry perfect for keto dieters, made with umami flavors and a hint of Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "umami paste",
+      "amount": "2 tbsp",
+      "notes": "available in most Asian markets or online"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "kheer",
+      "amount": "1 cup",
+      "notes": "use as a thickening agent and to add creaminess"
+    }
+  ],
+  "instructions": [
+    "1. Heat the coconut oil in a large skillet over medium-high heat.",
+    "2. Add the eggplant and cook until browned, about 5 minutes.",
+    "3. Add the umami paste, garam masala, and curry powder. Cook for 1 minute, stirring constantly.",
+    "4. Add 1 cup of water and bring to a boil.",
+    "5. Reduce the heat to low and simmer for 10-15 minutes, or until the eggplant is tender.",
+    "6. Stir in the kheer and cook for an additional 2-3 minutes, or until the sauce has thickened.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Serve hot over cauliflower rice or with a side of roasted vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "indian",
+    "eggplant",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-indian-eggplant-kheer--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:46:25.341Z"
+}
