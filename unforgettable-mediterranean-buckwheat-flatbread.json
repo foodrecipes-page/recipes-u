@@ -1,0 +1,87 @@
+{
+  "slug": "unforgettable-mediterranean-buckwheat-flatbread",
+  "title": "Buckwheat Flatbread Pizza",
+  "description": "A delicious and easy-to-make flatbread pizza with a mediterranean twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 package"
+    },
+    {
+      "name": "unforgettable cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Crush the flatbread into crumbs and mix with buckwheat.",
+    "Add the shredded cheese, olive oil, garlic, salt, and black pepper to the buckwheat mixture and stir until well combined.",
+    "Transfer the mixture to a baking sheet and bake for 10-12 minutes, or until lightly toasted.",
+    "While the mixture is baking, heat the tomato sauce in a saucepan over medium heat.",
+    "Once the mixture is toasted, remove it from the oven and top with the heated tomato sauce and chopped fresh basil.",
+    "Return the baking sheet to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the baking sheet from the oven and sprinkle with oregano.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pizza",
+    "flatbread",
+    "mediterranean",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unforgettable-mediterranean-buckwheat-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:19:25.932Z"
+}
