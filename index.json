@@ -4304,13 +4304,15 @@
   },
   {
     "slug": "unforgettable-mediterranean-buckwheat-flatbread",
-    "title": "Unforgettable Mediterranean Buckwheat Flatbread",
+    "title": "Buckwheat Flatbread Pizza",
     "tags": [
+      "pizza",
+      "flatbread",
       "mediterranean",
-      "snack"
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -10052,6 +10054,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 15,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-crumbly-croatian-tamarind-bake--mexican",
+    "title": "Croatian Tamarind Empanadas",
+    "tags": [
+      "empanadas",
+      "mexican",
+      "tamarind",
+      "croatian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "u"
   }
 ]
