@@ -10078,5 +10078,17 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "unique-midnight-jamaican-sardine-hash--chinese",
+    "title": "Midnight Hash",
+    "tags": [
+      "chinese",
+      "breakfast",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
