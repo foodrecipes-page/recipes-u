@@ -8783,18 +8783,15 @@
   },
   {
     "slug": "uzumaki-argentinian-ancho-vinegar-wrap",
-    "title": "Uzumaki Argentinian Ancho Vinegar Wrap",
+    "title": "Spicy Ancho Chicken Wrap",
     "tags": [
-      "argentinian",
-      "grassy",
-      "hangover-cure",
-      "low-carb",
-      "springy",
-      "ssam-wrap",
-      "vegan"
+      "mexican",
+      "chicken",
+      "wrap",
+      "spicy"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 10,
+    "cuisine": "Mexican",
+    "totalTimeMin": 22,
     "shard": "u"
   },
   {
@@ -10067,6 +10064,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "umami-crumbly-norwegian-polish-sausage-crumble--italian",
+    "title": "Polish Sausage and Crumble Italian Hash",
+    "tags": [
+      "italian",
+      "breakfast",
+      "hash",
+      "sausage"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "u"
   }
 ]
