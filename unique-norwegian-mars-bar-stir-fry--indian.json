@@ -1,0 +1,71 @@
+{
+  "slug": "unique-norwegian-mars-bar-stir-fry--indian",
+  "title": "Mars Bar Stir Fry",
+  "description": "A sweet and savory Indian-inspired stir fry featuring Mars bars and a variety of spices.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mars Bar",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Bar stir fry (vegetables)",
+      "amount": "1 cup",
+      "notes": "Assorted stir-fry vegetables found in a typical bar"
+    },
+    {
+      "name": "Unique oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian spices (e.g., paprika, cumin)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fry spices (e.g., cayenne, black pepper)",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add bar stir fry and cook until tender.",
+    "Add Norwegian spices and stir to combine.",
+    "Add Mars bars and stir to coat with spices.",
+    "Cook for an additional 2-3 minutes.",
+    "Season with salt and fry spices.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "marsbar"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-norwegian-mars-bar-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:12:52.111Z"
+}
