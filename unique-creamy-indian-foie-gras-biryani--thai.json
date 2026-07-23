@@ -1,0 +1,91 @@
+{
+  "slug": "unique-creamy-indian-foie-gras-biryani--thai",
+  "title": "Creamy Thai Biryani with Seared Foie Gras",
+  "description": "A rich and creamy Thai biryani dish topped with seared foie gras, perfect for a luxurious dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Unique spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Indian biryani masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Foie gras",
+      "amount": "4 pieces",
+      "notes": "preferably seared"
+    },
+    {
+      "name": "Fresh lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat.",
+    "Add lemongrass and cook for 1 minute.",
+    "Add biryani masala and unique spice blend. Cook for 1 minute.",
+    "Add basmati rice and cook for 2 minutes.",
+    "Add heavy cream and stir to combine.",
+    "Bring to a boil, then reduce heat and cover.",
+    "Simmer for 18-20 minutes or until rice is cooked.",
+    "Season with salt to taste.",
+    "Heat a skillet over high heat.",
+    "Sear foie gras for 1-2 minutes on each side, or until cooked to desired temperature.",
+    "Slice foie gras into thin pieces.",
+    "Garnish with cilantro and serve over biryani."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "thaibiryani",
+    "foiegras",
+    "luxuriousdinner"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 100,
+    "fat": 80
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-creamy-indian-foie-gras-biryani--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:17:04.475Z"
+}
