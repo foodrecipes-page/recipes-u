@@ -1,0 +1,73 @@
+{
+  "slug": "utterly-garlicky-french-broccoli-stew--french",
+  "title": "French Broccoli Stew",
+  "description": "A hearty and flavorful French-inspired stew made with tender broccoli and a rich garlicky sauce.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "2 bunches",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "french stew",
+      "amount": "1 packet",
+      "notes": "follow package instructions for seasoning"
+    },
+    {
+      "name": "utterly salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the minced garlic and sauté for 1 minute until fragrant.",
+    "Add the broccoli florets and cook for 3-4 minutes until tender.",
+    "Add the French stew seasoning and water to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-12 minutes.",
+    "Season with utterly salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegetarian",
+    "stew",
+    "broccoli",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/utterly-garlicky-french-broccoli-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:53:38.978Z"
+}
