@@ -1,0 +1,84 @@
+{
+  "slug": "unique-umami-german-pork-skewers",
+  "title": "German Pork Skewers",
+  "description": "Delicious and savory pork skewers with a German twist. Perfect for a summer barbecue or outdoor gathering.",
+  "cuisine": "german",
+  "diet": [
+    "pork",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Make sure to pat dry the pork cubes before marinating."
+    },
+    {
+      "name": "Unique German beer mustard",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade, whichever you prefer."
+    },
+    {
+      "name": "German-style potato dumpling seasoning",
+      "amount": "1 tablespoon",
+      "notes": "Use a mixture of salt, pepper, and paprika for a flavorful seasoning."
+    },
+    {
+      "name": "Skewers",
+      "amount": "12-15",
+      "notes": "Soak the skewers in water for 30 minutes before use to prevent them from burning."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the pork and skewers during grilling."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning the pork cubes."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For added flavor and heat."
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "For an extra savory taste."
+    }
+  ],
+  "instructions": [
+    "1. Preheat your grill to medium-high heat (400°F/200°C).",
+    "2. In a large bowl, whisk together the beer mustard, potato dumpling seasoning, salt, black pepper, and garlic powder.",
+    "3. Add the pork cubes to the bowl and toss to coat evenly with the marinade.",
+    "4. Thread the marinated pork cubes onto the skewers, leaving a small space between each cube.",
+    "5. Brush the olive oil onto the pork and skewers to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes per side, or until the pork reaches an internal temperature of 145°F (63°C).",
+    "7. Remove the skewers from the grill and let them rest for 5 minutes.",
+    "8. Serve the German Pork Skewers hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "skewers",
+    "bbq"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-german-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:27:50.103Z"
+}
