@@ -1,0 +1,69 @@
+{
+  "slug": "umami-crumbly-norwegian-polish-sausage-crumble--italian",
+  "title": "Polish Sausage and Crumble Italian Hash",
+  "description": "A hearty Italian-inspired hash made with Polish sausage, crumble, and a hint of umami.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 cup",
+      "notes": "Breadcrumbs"
+    },
+    {
+      "name": "Norwegian crumble",
+      "amount": "1/2 cup",
+      "notes": "Crushed into small pieces"
+    },
+    {
+      "name": "Umami",
+      "amount": "1 teaspoon",
+      "notes": "Dried mushroom powder"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the Polish sausage into 1-inch pieces.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the crumble and Norwegian crumble to the skillet and stir to combine.",
+    "Cook for an additional 2 minutes, until the crumble is lightly toasted.",
+    "Transfer the skillet to the preheated oven and bake for 5-7 minutes, until the sausage is cooked through.",
+    "Remove from the oven and sprinkle with umami powder.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "breakfast",
+    "hash",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-crumbly-norwegian-polish-sausage-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:41:19.481Z"
+}
