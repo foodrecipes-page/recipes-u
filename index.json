@@ -10110,5 +10110,19 @@
     "cuisine": "indian",
     "totalTimeMin": 13,
     "shard": "u"
+  },
+  {
+    "slug": "unique-umami-vietnamese-tofu-biryani--italian",
+    "title": "Tofu Biryani Italian Fusion",
+    "tags": [
+      "italian",
+      "fusion",
+      "vietnamese",
+      "biryani",
+      "tofu"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "u"
   }
 ]
