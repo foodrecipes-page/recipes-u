@@ -7175,17 +7175,15 @@
   },
   {
     "slug": "unique-umami-german-pork-skewers",
-    "title": "Unique Umami German Pork Skewers",
+    "title": "German Pork Skewers",
     "tags": [
-      "diabetic-friendly",
-      "german-cuisine",
-      "grilled-meats",
-      "low-carb",
-      "pork-recipes",
-      "umami-flavors"
+      "german",
+      "pork",
+      "skewers",
+      "bbq"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 32,
+    "cuisine": "german",
+    "totalTimeMin": 38,
     "shard": "u"
   },
   {
@@ -10099,6 +10097,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 45,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-norwegian-mars-bar-stir-fry--indian",
+    "title": "Mars Bar Stir Fry",
+    "tags": [
+      "indian",
+      "snack",
+      "marsbar"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 13,
     "shard": "u"
   }
 ]
