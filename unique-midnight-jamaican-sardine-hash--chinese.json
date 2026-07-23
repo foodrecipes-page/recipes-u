@@ -1,0 +1,76 @@
+{
+  "slug": "unique-midnight-jamaican-sardine-hash--chinese",
+  "title": "Midnight Hash",
+  "description": "A traditional Chinese dish inspired by the flavors of midnight, with a twist of Jamaican spices.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Jamaican sweet potato",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Midnight hash",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sardine oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "for garnish",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the sardine oil in a large skillet over medium-high heat.",
+    "Add the diced sweet potatoes and cook for 5 minutes, or until tender.",
+    "Add the chopped hash and stir-fry for an additional 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a serving dish and garnish with chopped scallions.",
+    "Drizzle with sesame oil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "breakfast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-midnight-jamaican-sardine-hash--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:26:20.002Z"
+}
