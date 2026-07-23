@@ -10124,5 +10124,32 @@
     "cuisine": "italian",
     "totalTimeMin": 45,
     "shard": "u"
+  },
+  {
+    "slug": "umami-silky-argentinian-tomato-stir-fry--thai",
+    "title": "Thai Stir Fry",
+    "tags": [
+      "thai-cuisine",
+      "stir-fry",
+      "chicken",
+      "tofu"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "utterly-garlicky-french-broccoli-stew--french",
+    "title": "French Broccoli Stew",
+    "tags": [
+      "french",
+      "vegetarian",
+      "stew",
+      "broccoli",
+      "garlic"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
