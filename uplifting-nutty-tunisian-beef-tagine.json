@@ -1,0 +1,95 @@
+{
+  "slug": "uplifting-nutty-tunisian-beef-tagine",
+  "title": "Tunisian Beef Tagine",
+  "description": "A hearty, flavorful stew originating from Tunisia, made with tender beef and aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 1/2 pounds beef stew meat",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most spice shops or online"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a good quality olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion, chopped",
+      "notes": "about 2 1/2 cups"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves, minced",
+      "notes": "about 4 tablespoons"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large carrots, peeled and chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large potatoes, peeled and chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium broth"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional, for added depth of flavor"
+    },
+    {
+      "name": "uplifting herb mix",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added brightness"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large Dutch oven or tagine over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the carrots, potatoes, broth, tomato paste, and spice blend to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake the stew at 300°F (150°C) for 2 1/2 to 3 hours, or until the beef is tender.",
+    "Season the stew with salt and pepper to taste, then serve hot.",
+    "Garnish with chopped fresh herbs, such as parsley or cilantro, if desired.",
+    "Serve over couscous or rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uplifting-nutty-tunisian-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:39:20.808Z"
+}
