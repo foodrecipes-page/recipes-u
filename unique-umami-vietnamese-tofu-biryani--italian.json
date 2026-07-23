@@ -1,0 +1,95 @@
+{
+  "slug": "unique-umami-vietnamese-tofu-biryani--italian",
+  "title": "Tofu Biryani Italian Fusion",
+  "description": "A unique Italian-inspired dish combining the flavors of Vietnam with the spices of India, incorporating the umami taste of unique ingredients, and featuring pan-seared tofu. This fusion recipe results in a dish that is both familiar and exotic.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Unique Umami Spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Biryani Basmati Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Italian Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the block of tofu and cook until golden brown on all sides.",
+    "In a separate pan, heat 1 tbsp of olive oil over medium heat.",
+    "Add the Vietnamese Fish Sauce and stir to combine.",
+    "Add the Biryani Basmati Rice to the pan and stir-fry for 2-3 minutes.",
+    "Combine the cooked rice mixture with the tofu mixture and stir-fry for another 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fusion",
+    "vietnamese",
+    "biryani",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-vietnamese-tofu-biryani--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:35:13.303Z"
+}
