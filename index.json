@@ -8516,17 +8516,15 @@
   },
   {
     "slug": "uplifting-nutty-tunisian-beef-tagine",
-    "title": "Uplifting Nutty Tunisian Beef Tagine",
+    "title": "Tunisian Beef Tagine",
     "tags": [
-      "dairy-free",
-      "kosher-friendly",
-      "north-african",
-      "nutty",
-      "one-pot",
-      "spicy"
+      "beef",
+      "stew",
+      "tagine",
+      "north-african"
     ],
     "cuisine": "North African",
-    "totalTimeMin": 75,
+    "totalTimeMin": 170,
     "shard": "u"
   },
   {
@@ -10089,6 +10087,18 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-creamy-indian-foie-gras-biryani--thai",
+    "title": "Creamy Thai Biryani with Seared Foie Gras",
+    "tags": [
+      "thaibiryani",
+      "foiegras",
+      "luxuriousdinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
     "shard": "u"
   }
 ]
