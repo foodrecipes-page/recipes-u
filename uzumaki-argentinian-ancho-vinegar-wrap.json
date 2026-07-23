@@ -1,0 +1,83 @@
+{
+  "slug": "uzumaki-argentinian-ancho-vinegar-wrap",
+  "title": "Spicy Ancho Chicken Wrap",
+  "description": "A flavorful and spicy wrap filled with grilled chicken, ancho peppers, and tangy vinegar.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "2",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "ancho peppers",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "argentinian chimichurri sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "uzumaki vinegar",
+      "amount": "1 tbsp",
+      "notes": "substitute with apple cider vinegar if needed"
+    },
+    {
+      "name": "large flour tortilla",
+      "amount": "1",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together ancho peppers, argentinian chimichurri sauce, and uzumaki vinegar.",
+    "3. Brush the mixture onto the chicken breasts and grill for 5-6 minutes per side, or until cooked through.",
+    "4. Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "5. Assemble the wrap by placing the grilled chicken onto the tortilla, followed by lettuce, tomatoes, and cheese (if using).",
+    "6. Drizzle with additional argentinian chimichurri sauce (if desired).",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "wrap",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uzumaki-argentinian-ancho-vinegar-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:21:32.790Z"
+}
