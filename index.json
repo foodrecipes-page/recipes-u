@@ -10177,5 +10177,18 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "umami-grilled-italian-mixed-peppers-tiramisu--french",
+    "title": "French Pepper Tart",
+    "tags": [
+      "french",
+      "pepper",
+      "tart",
+      "italian-cheese"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "u"
   }
 ]
