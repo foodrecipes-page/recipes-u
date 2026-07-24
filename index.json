@@ -10214,5 +10214,17 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "u"
+  },
+  {
+    "slug": "ultra-juicy-saudi-arabian-king-prawns-ceviche--indian",
+    "title": "Saudi Arabian Prawn Ceviche Curry",
+    "tags": [
+      "prawns",
+      "ceviche",
+      "indian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 23,
+    "shard": "u"
   }
 ]
