@@ -10164,5 +10164,19 @@
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
     "shard": "u"
+  },
+  {
+    "slug": "unique-garlicky-argentinian-beef-wrap--german",
+    "title": "Argentinian Beef Wrap mit Garlicky Sauerkraut",
+    "tags": [
+      "argentinian",
+      "beef",
+      "german",
+      "wrap",
+      "sausage"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
