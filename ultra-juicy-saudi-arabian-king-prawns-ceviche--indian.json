@@ -1,0 +1,80 @@
+{
+  "slug": "ultra-juicy-saudi-arabian-king-prawns-ceviche--indian",
+  "title": "Saudi Arabian Prawn Ceviche Curry",
+  "description": "A twist on traditional Indian curries, combining the freshness of ceviche with the richness of saudi arabian spices and juicy prawns.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ultra king prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "saudi arabian lime",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "arabian cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "indian garam masala",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "saudi arabian cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "arabian garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "saudi arabian olive oil",
+      "amount": "2 tbsp",
+      "notes": "cold-pressed"
+    },
+    {
+      "name": "ceviche onions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Combine prawns, lime juice, cilantro, garam masala, cumin, and garlic in a bowl. Refrigerate for at least 30 minutes.",
+    "Heat oil in a pan over medium heat.",
+    "Add onions to the pan and cook until they start to soften.",
+    "Add the marinated prawns to the pan and cook for 2-3 minutes per side, until they are pink and cooked through.",
+    "Serve hot with basmati rice or naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "prawns",
+    "ceviche",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-juicy-saudi-arabian-king-prawns-ceviche--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:31:56.220Z"
+}
