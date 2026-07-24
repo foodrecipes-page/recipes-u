@@ -1,0 +1,93 @@
+{
+  "slug": "untamed-earthy-tunisian-almond-tagine",
+  "title": "Tunisian Chicken Tagine with Almonds",
+  "description": "A flavorful and aromatic stew originating from Tunisia, made with chicken, almonds, and a blend of spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "unpeeled almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at Middle Eastern markets or online"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "untamed honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine over medium heat.",
+    "Add onion and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add garlic, tagine spice blend, and cook for 1 minute.",
+    "Add chicken, cook until browned on all sides, about 5 minutes.",
+    "Add almonds, apricots, and honey. Stir to combine.",
+    "Cover and bring to a boil, then reduce heat to low and simmer, covered, until chicken is cooked through, about 30 minutes.",
+    "Stir in parsley.",
+    "Serve hot over couscous or rice.",
+    "Note: Traditionally, this dish is cooked in a clay tagine over an open flame.",
+    "If you don't have a tagine, use a large Dutch oven or saucepan with a heavy lid.",
+    "Adjust cooking time and liquid levels accordingly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "almonds",
+    "tunisian",
+    "stew",
+    "lamb-alternative"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 38,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/untamed-earthy-tunisian-almond-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:37:19.679Z"
+}
