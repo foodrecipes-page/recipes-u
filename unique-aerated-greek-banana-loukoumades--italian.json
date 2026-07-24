@@ -1,0 +1,85 @@
+{
+  "slug": "unique-aerated-greek-banana-loukoumades--italian",
+  "title": "Italian Banana Fritters",
+  "description": "A twist on traditional Italian dough fritters, these banana fritters are a delicious dessert inspired by Greek cuisine.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unique flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour works well too"
+    },
+    {
+      "name": "aerated yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "banana",
+      "amount": "2",
+      "notes": "ripe bananas work best"
+    },
+    {
+      "name": "greeek extra virgin olive oil",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "loukoumades syrup",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, whisk together flour, yeast, and salt.",
+    "2. In a separate bowl, mash bananas and mix with eggs, sugar, and oil.",
+    "3. Add wet ingredients to dry ingredients and mix until a smooth batter forms.",
+    "4. Cover the bowl with plastic wrap and let the dough rest in a warm place for 1 hour.",
+    "5. Heat oil in a deep frying pan to 350°F (175°C).",
+    "6. Using a spoon, drop small balls of dough into the oil.",
+    "7. Fry the fritters for 2-3 minutes on each side, until golden brown.",
+    "8. Remove the fritters from oil with a slotted spoon and place on a paper towel-lined plate.",
+    "9. Drizzle loukoumades syrup over the fritters while still warm.",
+    "10. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "fritters",
+    "banana"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-aerated-greek-banana-loukoumades--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:15:20.883Z"
+}
