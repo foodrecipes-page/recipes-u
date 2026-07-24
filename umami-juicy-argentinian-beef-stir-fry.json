@@ -1,0 +1,98 @@
+{
+  "slug": "umami-juicy-argentinian-beef-stir-fry",
+  "title": "Argentinian Beef Stir Fry",
+  "description": "A flavorful and spicy stir-fry dish featuring juicy beef and a hint of umami from soy sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (sirloin or flank steak)",
+      "amount": "1.5 pounds",
+      "notes": "Slice into thin strips."
+    },
+    {
+      "name": "umami soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "juicy red bell pepper",
+      "amount": "1 large",
+      "notes": "Slice into thin strips."
+    },
+    {
+      "name": "Argentinian chimichurri sauce",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade, to taste."
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying."
+    },
+    {
+      "name": "stir-fry onions",
+      "amount": "1 small",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "garlic (minced)",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for added flavor."
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the beef and cook for 3-4 minutes, or until browned and cooked through.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil to the skillet.",
+    "Add the sliced onions and cook for 2-3 minutes, or until translucent.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the sliced red bell pepper and cook for 2-3 minutes, or until tender.",
+    "Add the cooked beef back into the skillet and stir to combine.",
+    "Pour in the umami soy sauce and Argentinian chimichurri sauce, and stir to coat the beef and vegetables.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately, garnished with grated ginger if desired.",
+    "Optional: Serve with steamed rice or noodles for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "argentinian",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-juicy-argentinian-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:28:57.031Z"
+}
