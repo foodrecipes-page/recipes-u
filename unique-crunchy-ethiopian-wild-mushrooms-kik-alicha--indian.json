@@ -1,0 +1,83 @@
+{
+  "slug": "unique-crunchy-ethiopian-wild-mushrooms-kik-alicha--indian",
+  "title": "Spiced Wild Mushroom Tikka Masala",
+  "description": "A flavorful and aromatic Indian dish featuring wild mushrooms in a rich and creamy tikka masala sauce, served over basmati rice.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup wild mushrooms",
+      "amount": "sliced",
+      "notes": "such as button or cremini"
+    },
+    {
+      "name": "1/2 cup unique sauce",
+      "amount": "store-bought or homemade",
+      "notes": ""
+    },
+    {
+      "name": "2 medium alicha spice",
+      "amount": "ground",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup kik (Ethiopian split peas)",
+      "amount": "cooked",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "for frying",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon garam masala",
+      "amount": "ground",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and cook until lightly browned, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Stir in alicha spice and cook for 1 minute.",
+    "Add unique sauce and kik, stir to combine.",
+    "Bring to a simmer and cook for 5-7 minutes or until sauce has thickened.",
+    "Season with garam masala and serve over basmati rice.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "wild-mushrooms",
+    "tikka-masala"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crunchy-ethiopian-wild-mushrooms-kik-alicha--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:02:01.195Z"
+}
