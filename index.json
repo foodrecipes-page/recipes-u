@@ -10190,5 +10190,17 @@
     "cuisine": "french",
     "totalTimeMin": 55,
     "shard": "u"
+  },
+  {
+    "slug": "unique-crunchy-ethiopian-wild-mushrooms-kik-alicha--indian",
+    "title": "Spiced Wild Mushroom Tikka Masala",
+    "tags": [
+      "indian",
+      "wild-mushrooms",
+      "tikka-masala"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
