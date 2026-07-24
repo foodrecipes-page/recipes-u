@@ -2256,16 +2256,15 @@
   },
   {
     "slug": "umami-juicy-argentinian-beef-stir-fry",
-    "title": "Umami Juicy Argentinian Beef Stir-fry",
+    "title": "Argentinian Beef Stir Fry",
     "tags": [
-      "umami",
-      "juicy",
+      "beef",
+      "stir-fry",
       "argentinian",
-      "keto-friendly",
-      "stir-fry"
+      "umami"
     ],
-    "cuisine": "Argentine",
-    "totalTimeMin": 35,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -4445,16 +4444,16 @@
   },
   {
     "slug": "unglazed-sticky-tunisian-lamb-tagine",
-    "title": "Unglazed Sticky Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-based",
-      "middle-eastern",
-      "one-pan",
-      "slow-cooked"
+      "lamb",
+      "dinner",
+      "north-african",
+      "stew",
+      "tagine"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 170,
+    "cuisine": "North African",
+    "totalTimeMin": 200,
     "shard": "u"
   },
   {
@@ -10200,6 +10199,19 @@
       "tikka-masala"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-aerated-greek-banana-loukoumades--italian",
+    "title": "Italian Banana Fritters",
+    "tags": [
+      "italian",
+      "dessert",
+      "fritters",
+      "banana"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "u"
   }
