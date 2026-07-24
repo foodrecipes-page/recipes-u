@@ -1,0 +1,83 @@
+{
+  "slug": "unique-snappy-slovakian-rigatoni-pasta--gluten-free",
+  "title": "Slovakian-Style Gluten-Free Pasta",
+  "description": "A traditional Slovakian-inspired pasta dish made with unique gluten-free pasta, rigatoni, and a medley of vegetables.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rigatoni",
+      "amount": "8 oz",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Unique Pasta",
+      "amount": "8 oz",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Cook the rigatoni and unique pasta according to the package instructions.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chopped carrots and cook for 5 minutes, or until they begin to soften.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let it cook while the pasta is cooking.",
+    "Drain the cooked pasta and add it to the skillet with the vegetable mixture.",
+    "Toss the pasta to combine and serve hot.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "slovakian",
+    "pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-snappy-slovakian-rigatoni-pasta--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:10:10.629Z"
+}
