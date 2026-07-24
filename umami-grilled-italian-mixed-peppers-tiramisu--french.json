@@ -1,0 +1,71 @@
+{
+  "slug": "umami-grilled-italian-mixed-peppers-tiramisu--french",
+  "title": "French Pepper Tart",
+  "description": "A sweet and savory tart filled with sautéed peppers, perfect for a French-inspired dinner.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "umami",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grilled peppers",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "italian cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "mixed herbs",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tiramisu",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the dough to fit a 9-inch tart pan.",
+    "In a pan, sauté the peppers with umami and mixed herbs until tender.",
+    "In a separate pan, melt the butter and cook the flour until golden.",
+    "Add the shredded cheese and cook until melted.",
+    "Pour the pepper mixture into the tart shell.",
+    "Top with the cheese mixture.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pepper",
+    "tart",
+    "italian-cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-grilled-italian-mixed-peppers-tiramisu--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:18:30.097Z"
+}
