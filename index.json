@@ -10151,5 +10151,18 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "unique-snappy-slovakian-rigatoni-pasta--gluten-free",
+    "title": "Slovakian-Style Gluten-Free Pasta",
+    "tags": [
+      "gluten-free",
+      "slovakian",
+      "pasta",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
