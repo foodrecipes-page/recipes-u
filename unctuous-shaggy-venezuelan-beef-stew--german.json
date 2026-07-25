@@ -1,0 +1,65 @@
+{
+  "slug": "unctuous-shaggy-venezuelan-beef-stew--german",
+  "title": "German Beef Stew",
+  "description": "A hearty German-inspired beef stew made with tender beef and a rich broth. Serve with crusty bread for a comforting meal.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "unctuous",
+      "amount": "2 tablespoons",
+      "notes": "such as butter or oil"
+    },
+    {
+      "name": "shaggy",
+      "amount": "1 cup",
+      "notes": "such as carrots, peeled and chopped"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "1 cup",
+      "notes": "such as potatoes, peeled and chopped"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "such as beef broth"
+    }
+  ],
+  "instructions": [
+    "Heat the unctuous in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the shaggy and venezuelan and cook for 5 minutes.",
+    "Add the stew and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "german",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-shaggy-venezuelan-beef-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:19:22.548Z"
+}
