@@ -1,0 +1,80 @@
+{
+  "slug": "umami-juicy-argentinian-beef-stir-fry--thai",
+  "title": "Stir Fry with Argentinian Beef",
+  "description": "A Thai inspired stir fry with tender argentinian beef, juicy aromatics, and a savory umami sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian Beef (sirloin)",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Umami Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Stir Fry Seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "2. Add the sliced beef to the skillet and cook for 3-4 minutes, or until browned.",
+    "3. Remove the beef from the skillet and set aside.",
+    "4. In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "5. Add the sliced onion and bell pepper to the skillet, and cook for 2-3 minutes, or until tender.",
+    "6. Add the sliced mushrooms to the skillet, and cook for an additional 2-3 minutes.",
+    "7. Add the cooked beef back into the skillet, and stir in the umami sauce and stir fry seasoning.",
+    "8. Cook for an additional 1-2 minutes, or until the sauce has thickened.",
+    "9. Serve the stir fry hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "thai",
+    "stir-fry",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-juicy-argentinian-beef-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:00:13.881Z"
+}
