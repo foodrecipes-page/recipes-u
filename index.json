@@ -10252,5 +10252,31 @@
     "cuisine": "thai",
     "totalTimeMin": 20,
     "shard": "u"
+  },
+  {
+    "slug": "unctuous-shaggy-venezuelan-beef-stew--german",
+    "title": "German Beef Stew",
+    "tags": [
+      "beef",
+      "german",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 110,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-smoky-mediterranean-lamb-tagine--thai",
+    "title": "Thai Lamb Tagine",
+    "tags": [
+      "lamb",
+      "thai",
+      "tagine",
+      "stew",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 110,
+    "shard": "u"
   }
 ]
