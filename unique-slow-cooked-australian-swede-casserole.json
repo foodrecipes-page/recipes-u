@@ -1,0 +1,81 @@
+{
+  "slug": "unique-slow-cooked-australian-swede-casserole",
+  "title": "Aussie Slow Cooked Swede Casserole",
+  "description": "A hearty and comforting casserole made with tender swede, slow-cooked to perfection. This Australian-inspired dish is perfect for a cold winter's night.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Swede",
+      "amount": "2 medium, peeled and sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "200g, sliced"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "Australian bush tomato sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a large casserole dish, combine sliced swede, chopped onion, and minced garlic.",
+    "Add sliced mushrooms, canned diced tomatoes, and Australian bush tomato sauce to the casserole dish.",
+    "Pour in vegetable stock and bring the mixture to a simmer.",
+    "Transfer the casserole dish to the preheated oven and bake for 45 minutes.",
+    "Remove the casserole from the oven and top with grated cheddar cheese.",
+    "Return the casserole to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Sprinkle breadcrumbs on top of the casserole and bake for a further 2-3 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "slow-cooked",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-slow-cooked-australian-swede-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:17:36.755Z"
+}
