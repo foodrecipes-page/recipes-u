@@ -10278,5 +10278,17 @@
     "cuisine": "thai",
     "totalTimeMin": 110,
     "shard": "u"
+  },
+  {
+    "slug": "umami-polish-chicken-confit--german",
+    "title": "German Braised Chicken in Polish Confit",
+    "tags": [
+      "german",
+      "braised-chicken",
+      "polish-confit"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "u"
   }
 ]
