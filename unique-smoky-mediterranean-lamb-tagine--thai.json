@@ -1,0 +1,94 @@
+{
+  "slug": "unique-smoky-mediterranean-lamb-tagine--thai",
+  "title": "Thai Lamb Tagine",
+  "description": "A fusion of Thai and North African flavors, this lamb tagine is a hearty and aromatic stew perfect for a chilly evening.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "boneless shoulder or shanks"
+    },
+    {
+      "name": "unique",
+      "amount": "2 tablespoons",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 teaspoon",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "cilantro",
+      "amount": "handful",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven or clay pot over medium heat.",
+    "Add onion, ginger, and garlic; cook until onion is translucent, about 5 minutes.",
+    "Add lamb; cook until browned, about 5 minutes.",
+    "Stir in curry paste, smoked paprika, fish sauce, and honey.",
+    "Add 1 cup water; bring to a boil.",
+    "Reduce heat to low; cover and simmer for 1 1/2 hours, or until lamb is tender.",
+    "Stir in cilantro; serve over rice or with naan bread.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "thai",
+    "tagine",
+    "stew",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-smoky-mediterranean-lamb-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:28:16.631Z"
+}
