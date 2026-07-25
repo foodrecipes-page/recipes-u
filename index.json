@@ -6482,17 +6482,15 @@
   },
   {
     "slug": "unique-slow-cooked-australian-swede-casserole",
-    "title": "Unique Slow-Cooked Australian Swede Casserole",
+    "title": "Aussie Slow Cooked Swede Casserole",
     "tags": [
-      "australian-cuisine",
-      "comfort-food",
-      "fodmap-friendly",
-      "lamb-recipes",
-      "root-vegetables",
-      "slow-cooked"
+      "australian",
+      "vegetarian",
+      "slow-cooked",
+      "casserole"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 180,
+    "cuisine": "australian",
+    "totalTimeMin": 75,
     "shard": "u"
   },
   {
@@ -6781,16 +6779,14 @@
   },
   {
     "slug": "unique-spanish-papelon-onigiri",
-    "title": "Spanish Papelon Onigiri",
+    "title": "Spanish Papelon and Onigiri Stuffed Chicken",
     "tags": [
-      "ovo-vegetarian",
-      "papelon-recipes",
-      "snack-ideas",
-      "spanish-cuisine",
-      "terracotta-dish"
+      "chicken",
+      "spanish",
+      "fusion"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
