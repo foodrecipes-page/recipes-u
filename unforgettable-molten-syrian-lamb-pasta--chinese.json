@@ -1,0 +1,89 @@
+{
+  "slug": "unforgettable-molten-syrian-lamb-pasta--chinese",
+  "title": "Spicy Lamb Pasta Stir-Fry",
+  "description": "A spicy twist on traditional pasta dishes, blending Chinese flavors with Middle Eastern lamb.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat",
+    "pasta"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "preferably egg noodles"
+    },
+    {
+      "name": "lamb",
+      "amount": "1 lb",
+      "notes": "ground lamb"
+    },
+    {
+      "name": "molten",
+      "amount": "1/4 cup",
+      "notes": "hot sauce, such as sriracha"
+    },
+    {
+      "name": "unforgettable",
+      "amount": "2 tbsp",
+      "notes": "Sesame oil"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the ground lamb and cook until browned, breaking it up with a spoon.",
+    "Add the garlic and ginger to the skillet and cook for 1-2 minutes.",
+    "Add the hot sauce, cumin, and soy sauce to the skillet and stir to combine.",
+    "Add the cooked pasta to the skillet and toss to combine with the lamb and sauce.",
+    "Cook for an additional 2-3 minutes to allow the flavors to meld.",
+    "Serve hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "lamb",
+    "spicy",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unforgettable-molten-syrian-lamb-pasta--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:59:49.204Z"
+}
