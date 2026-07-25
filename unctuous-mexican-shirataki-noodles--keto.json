@@ -1,0 +1,73 @@
+{
+  "slug": "unctuous-mexican-shirataki-noodles--keto",
+  "title": "Keto Low-Carb Shirataki Noodles Stir Fry",
+  "description": "A quick and easy keto stir fry made with shirataki noodles, unctuous chicken, and a dash of mexican spices.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Shirataki noodles",
+      "amount": "1 package",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Mexican unctuous sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the shirataki noodles according to the package instructions.",
+    "In a large skillet, heat 1 tbsp of oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Add the mexican unctuous sauce to the skillet and stir to combine.",
+    "Add the cooked shirataki noodles to the skillet and stir to combine.",
+    "Squeeze the lime juice over the top of the noodles and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Sprinkle the chopped cilantro over the top of the noodles and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "stir-fry",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-mexican-shirataki-noodles--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:54:50.559Z"
+}
