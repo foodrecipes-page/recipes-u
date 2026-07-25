@@ -1,0 +1,97 @@
+{
+  "slug": "unique-umami-ethiopian-fish-stew--indian",
+  "title": "Fish in Indian-Style Stew",
+  "description": "A flavorful and aromatic stew originating from India, made with fish and a blend of spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "Vegetarian",
+    "Pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (Cod or Tilapia)",
+      "amount": "2",
+      "notes": "Fresh or frozen, 6 oz each"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp",
+      "notes": "Whole"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for 1 minute.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add grated ginger and minced garlic, cook for 1 minute.",
+    "Add cumin, coriander, and turmeric, cook for 1 minute.",
+    "Add fish fillets and cook until browned on both sides, about 3-4 minutes.",
+    "Add uncooked rice and stir to combine.",
+    "Add coconut milk and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 15-20 minutes or until the rice is cooked and the fish is cooked through.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish",
+    "stew",
+    "lunch",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-ethiopian-fish-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:30:33.826Z"
+}
