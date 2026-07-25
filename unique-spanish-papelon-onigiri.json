@@ -1,0 +1,85 @@
+{
+  "slug": "unique-spanish-papelon-onigiri",
+  "title": "Spanish Papelon and Onigiri Stuffed Chicken",
+  "description": "A fusion dish with Spanish flair, where chicken is stuffed with a mix of papelon, onigiri, and Spanish ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Papelon",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onigiri",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "Spanish chorizo",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken breasts with salt and black pepper.",
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Sear the chicken breasts until browned on both sides.",
+    "Transfer the chicken to a baking dish and set aside.",
+    "In the same skillet, cook the Spanish chorizo until crispy.",
+    "Add the chopped papelon and cook until softened.",
+    "Add the diced onigiri and cook for 2-3 minutes.",
+    "Stuff each chicken breast with the papelon and onigiri mixture.",
+    "Bake the chicken in the preheated oven for 25-30 minutes, or until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "spanish",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-spanish-papelon-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:58:23.008Z"
+}
