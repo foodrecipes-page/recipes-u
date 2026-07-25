@@ -1260,17 +1260,16 @@
   },
   {
     "slug": "umami-creamy-italian-mushroom-lasagna",
-    "title": "Umami Creamy Italian Mushroom Lasagna",
+    "title": "Creamy Mushroom Lasagna",
     "tags": [
-      "comfort-food",
-      "indulgent",
-      "italian-food",
-      "jain-friendly",
-      "mushroom-lovers",
-      "umami-rich"
+      "italian",
+      "lasagna",
+      "mushroom",
+      "creamy",
+      "bechamel"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
