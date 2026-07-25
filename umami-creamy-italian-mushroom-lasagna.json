@@ -1,0 +1,88 @@
+{
+  "slug": "umami-creamy-italian-mushroom-lasagna",
+  "title": "Creamy Mushroom Lasagna",
+  "description": "A rich and savory Italian-inspired lasagna filled with sautéed mushrooms in a creamy bechamel sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced",
+      "notes": ""
+    },
+    {
+      "name": "creamy bechamel sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup grated",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "Sauté sliced mushrooms, chopped onion, and minced garlic in a pan until softened.",
+    "In a separate saucepan, heat the creamy bechamel sauce over low heat.",
+    "Combine sautéed mushrooms, Italian seasoning, and cooked lasagna noodles in a large mixing bowl.",
+    "In a 9x13-inch baking dish, create a thin layer of creamy bechamel sauce.",
+    "Layer cooked lasagna noodles, sautéed mushroom mixture, and shredded mozzarella cheese.",
+    "Repeat the layering process two more times, ending with a layer of mozzarella cheese.",
+    "Bake for 25-30 minutes or until golden brown and bubbly.",
+    "Let it rest for 10-15 minutes before serving.",
+    "Sprinkle with grated parmesan cheese and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "mushroom",
+    "creamy",
+    "bechamel"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-creamy-italian-mushroom-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:40:27.557Z"
+}
