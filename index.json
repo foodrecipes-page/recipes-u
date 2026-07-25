@@ -10323,5 +10323,19 @@
     "cuisine": "Mexican",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "umami-juicy-argentinian-beef-stir-fry--thai",
+    "title": "Stir Fry with Argentinian Beef",
+    "tags": [
+      "argentinian",
+      "beef",
+      "thai",
+      "stir-fry",
+      "umami"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
