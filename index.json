@@ -10226,5 +10226,31 @@
     "cuisine": "Indian",
     "totalTimeMin": 23,
     "shard": "u"
+  },
+  {
+    "slug": "unforgettable-molten-syrian-lamb-pasta--chinese",
+    "title": "Spicy Lamb Pasta Stir-Fry",
+    "tags": [
+      "chinese",
+      "lamb",
+      "spicy",
+      "pasta"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-crisp-norwegian-black-bean-bowl--thai",
+    "title": "Thai Black Bean Bowl",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "gluten-free",
+      "lunch"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "u"
   }
 ]
