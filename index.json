@@ -10290,5 +10290,43 @@
     "cuisine": "german",
     "totalTimeMin": 60,
     "shard": "u"
+  },
+  {
+    "slug": "ultra-rich-indian-beef-curry--thai",
+    "title": "Thai Beef Curry",
+    "tags": [
+      "thai",
+      "beef",
+      "curry",
+      "coconut-milk"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "u"
+  },
+  {
+    "slug": "ultimate-roasted-turkish-eggplant-imam-bayildi--chinese",
+    "title": "Eggplant in Chinese Sauce",
+    "tags": [
+      "chinese",
+      "eggplant",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
+    "slug": "unctuous-mexican-shirataki-noodles--keto",
+    "title": "Keto Low-Carb Shirataki Noodles Stir Fry",
+    "tags": [
+      "keto",
+      "low-carb",
+      "stir-fry",
+      "mexican"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
