@@ -10337,5 +10337,19 @@
     "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "u"
+  },
+  {
+    "slug": "unique-umami-ethiopian-fish-stew--indian",
+    "title": "Fish in Indian-Style Stew",
+    "tags": [
+      "indian",
+      "fish",
+      "stew",
+      "lunch",
+      "easy-to-make"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "u"
   }
 ]
