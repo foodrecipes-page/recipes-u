@@ -1,0 +1,70 @@
+{
+  "slug": "ultimate-roasted-turkish-eggplant-imam-bayildi--chinese",
+  "title": "Eggplant in Chinese Sauce",
+  "description": "Eggplant cooked in a savory Chinese-inspired sauce, served with steamed rice. This dish is a fusion of Chinese flavors with Mediterranean eggplant.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "ultimate",
+      "amount": "2 tablespoons",
+      "notes": "sesame oil"
+    },
+    {
+      "name": "roasted",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 teaspoon",
+      "notes": "paprika"
+    },
+    {
+      "name": "bayildi",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "imam",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh mint"
+    }
+  ],
+  "instructions": [
+    "Heat ultimate in a wok or large skillet over medium-high heat.",
+    "Add roasted and cook, stirring constantly, for 1 minute.",
+    "Add turkish and cook for 1 minute.",
+    "Add eggplant and cook, stirring occasionally, for 4-5 minutes.",
+    "Stir in bayildi and imam. Cook for 1 minute.",
+    "Serve over steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "eggplant",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultimate-roasted-turkish-eggplant-imam-bayildi--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:26:10.764Z"
+}
