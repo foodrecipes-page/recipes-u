@@ -1,0 +1,88 @@
+{
+  "slug": "umami-polish-chicken-confit--german",
+  "title": "German Braised Chicken in Polish Confit",
+  "description": "A hearty German-inspired dish featuring tender chicken in a rich, umami-rich polish confit sauce.",
+  "cuisine": "german",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken thighs",
+      "notes": ""
+    },
+    {
+      "name": "polish confit",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "umami",
+      "amount": "2 teaspoons soy sauce",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook until browned, about 5 minutes.",
+    "Add the caraway seeds and cook for 1 minute.",
+    "Add the chicken and cook until browned on all sides, about 5 minutes.",
+    "Add the polish confit, umami, bay leaves, salt, and black pepper.",
+    "Transfer the pot to the oven and braise for 30-40 minutes, or until the chicken is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the chicken with the sauce spooned over the top.",
+    "Garnish with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "braised-chicken",
+    "polish-confit"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-polish-chicken-confit--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:27:23.101Z"
+}
