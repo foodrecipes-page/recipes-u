@@ -1,0 +1,96 @@
+{
+  "slug": "ultra-rich-indian-beef-curry--thai",
+  "title": "Thai Beef Curry",
+  "description": "A flavorful and spicy Thai curry made with tender beef and rich coconut milk. This dish is a staple of Thai cuisine.",
+  "cuisine": "thai",
+  "diet": [
+    "pork-free",
+    "beef-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion and garlic and cook until softened.",
+    "Add the beef and cook until browned.",
+    "Add the curry powder and cook for 1 minute.",
+    "Add the curry paste and cook for another minute.",
+    "Add the coconut milk, fish sauce, and sugar. Stir well.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Stir in the peanut butter until well combined.",
+    "Season with salt to taste.",
+    "Serve hot over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "curry",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-rich-indian-beef-curry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:05:38.405Z"
+}
