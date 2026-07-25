@@ -1,0 +1,84 @@
+{
+  "slug": "unique-crisp-norwegian-black-bean-bowl--thai",
+  "title": "Thai Black Bean Bowl",
+  "description": "A flavorful and nutritious Thai-inspired bowl filled with crispy black beans, crunchy vegetables, and a tangy sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "unique rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "crisp norwegian cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "black bean",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "norwegian bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "bean paste",
+      "amount": "2 tablespoons",
+      "notes": "from the can"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the black beans and drain well.",
+    "In a medium pan, heat 1 tablespoon of oil over medium heat.",
+    "Add the shredded cabbage and cook until crispy, about 5 minutes.",
+    "In a small bowl, whisk together the bean paste, fish sauce, lime juice, and chili flakes.",
+    "Add the sauce to the pan and stir to combine.",
+    "Add the cooked black beans to the pan and stir to combine.",
+    "Serve the mixture over the unique rice in the norwegian bowl.",
+    "Garnish with additional cabbage and chili flakes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "gluten-free",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crisp-norwegian-black-bean-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:05:18.445Z"
+}
