@@ -1,0 +1,94 @@
+{
+  "slug": "unique-umami-british-fish-full-english-breakfast--mexican",
+  "title": "British Breakfast Quesadillas",
+  "description": "A twist on traditional breakfast quesadillas, featuring British breakfast ingredients in a Mexican-inspired dish. This recipe combines the savory flavors of the UK with the vibrant spices of Mexico.",
+  "cuisine": "mexican",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "sausages",
+      "amount": "4",
+      "notes": "British-style sausages, such as bangers"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "4",
+      "notes": "large flour tortillas"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1/4 cup",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "mild or hot, depending on taste"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the cooking oil and swirl to coat.",
+    "Add the sausages and cook until browned, about 5 minutes.",
+    "Remove the sausages from the skillet and set aside.",
+    "Add the mushrooms to the skillet and cook until tender, about 3-4 minutes.",
+    "Add the cumin and chili powder to the skillet and stir to combine.",
+    "In a large bowl, whisk together the eggs and a pinch of salt and pepper.",
+    "Add the cooked mushrooms and sausages to the bowl and stir to combine.",
+    "Heat a large skillet over medium heat.",
+    "Place a tortilla in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "Add the egg mixture on top of the cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes, until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes, until the other side is also crispy and the cheese is melted."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "british",
+    "breakfast",
+    "quesadillas"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-british-fish-full-english-breakfast--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:02:58.454Z"
+}
