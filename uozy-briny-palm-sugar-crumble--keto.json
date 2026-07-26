@@ -1,0 +1,69 @@
+{
+  "slug": "uozy-briny-palm-sugar-crumble--keto",
+  "title": "Low-Carb Keto Crumble Bites",
+  "description": "Delicious and easy-to-make keto crumble bites perfect for snacking or dessert.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": "Make sure to use a sugar substitute for keto diet"
+    },
+    {
+      "name": "Crumble",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Uozy",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Briny",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Palm",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, combine sugar substitute, crumble, uozy, briny, and palm.",
+    "Mix well until all ingredients are fully incorporated.",
+    "Use a cookie scoop or spoon to portion out the mixture into small balls.",
+    "Place the balls onto a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until the edges are lightly golden brown.",
+    "Remove from oven and let cool completely.",
+    "Store in an airtight container for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "dessert",
+    "snack",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uozy-briny-palm-sugar-crumble--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:45:03.654Z"
+}
