@@ -1,0 +1,79 @@
+{
+  "slug": "unique-umami-chinese-pepper-chow-fun--thai",
+  "title": "Thai Pepper Chow Fun",
+  "description": "A spicy and savory stir-fry dish featuring Chinese chow fun noodles, served with a side of steamed vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fun noodles",
+      "amount": "1 package",
+      "notes": "Chinese chow fun noodles"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Unique eggs",
+      "amount": "2",
+      "notes": "Beaten for the omelette"
+    },
+    {
+      "name": "Sliced pepper",
+      "amount": "1 cup",
+      "notes": "Any color"
+    },
+    {
+      "name": "Chow chow",
+      "amount": "1 cup",
+      "notes": "A mix of shredded cabbage and carrots"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "For umami flavor"
+    }
+  ],
+  "instructions": [
+    "Cook the fun noodles according to package instructions, then set aside.",
+    "In a separate pan, heat the vegetable oil over medium-high heat.",
+    "Add the sliced pepper and stir-fry for 3-4 minutes, until tender.",
+    "Add the chow chow and stir-fry for another 2-3 minutes.",
+    "Push the vegetables to one side of the pan, and add a little more oil if needed.",
+    "Pour the beaten eggs onto the other side of the pan, and scramble them until cooked through.",
+    "Mix the eggs with the vegetables, and add the cooked fun noodles.",
+    "Season with soy sauce and fish sauce, and stir-fry for another minute.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "stirfry",
+    "noodles",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-chinese-pepper-chow-fun--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:09:35.677Z"
+}
