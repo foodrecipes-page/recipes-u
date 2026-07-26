@@ -10376,5 +10376,17 @@
     "cuisine": "indian",
     "totalTimeMin": 70,
     "shard": "u"
+  },
+  {
+    "slug": "uncharted-arabian-chicken-roast--vegetarian",
+    "title": "Roast Vegetable Shawarma",
+    "tags": [
+      "vegetarian",
+      "arabian",
+      "snack"
+    ],
+    "cuisine": "Arabian",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
