@@ -1,0 +1,90 @@
+{
+  "slug": "unusually-chewy-tunisian-lamb-tagine--german",
+  "title": "Tunisian Lamb Tagine with German Twist",
+  "description": "A slow-cooked lamb dish with a blend of Tunisian and German flavors. This tagine is hearty, aromatic, and perfect for a cold winter night.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "plus more for serving"
+    },
+    {
+      "name": "unusually chewy couscous",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and cook for 1 minute.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add couscous, spice blend, salt, and pepper. Stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until lamb is tender.",
+    "Fluff with a fork and serve hot, garnished with parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "tunisian",
+    "lamb",
+    "tagine",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unusually-chewy-tunisian-lamb-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:24:14.047Z"
+}
