@@ -1,0 +1,85 @@
+{
+  "slug": "unctuous-german-white-bread-stew",
+  "title": "German Stew Bread",
+  "description": "A hearty German-inspired stew served with crusty bread.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unctuous bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "german stew meat",
+      "amount": "1 lb",
+      "notes": "such as beef or pork"
+    },
+    {
+      "name": "white onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Brown the stew meat in a large Dutch oven over medium-high heat.",
+    "Remove the browned meat from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened.",
+    "Add the carrots and potatoes to the pot and cook for an additional 5 minutes.",
+    "Add the beef broth, tomato paste, salt, and pepper to the pot.",
+    "Return the browned meat to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 1 1/2 hours, or until the meat is tender.",
+    "Serve hot with crusty bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "bread",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-german-white-bread-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:09:19.559Z"
+}
