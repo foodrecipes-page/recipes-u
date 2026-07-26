@@ -1,0 +1,87 @@
+{
+  "slug": "unctuous-moroccan-pork-knuckle-tagine",
+  "title": "Braised Moroccan Pork Knuckle",
+  "description": "A rich, slow-cooked Moroccan dish that will fall off the bone. A perfect comfort food for a cold evening.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "1 whole"
+    },
+    {
+      "name": "unctuous olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the pork knuckle with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork knuckle until browned on all sides, about 5 minutes.",
+    "Remove the pork and set aside.",
+    "Add the onion, ginger, and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the Moroccan spice blend and cook for 1 minute.",
+    "Add the chicken broth, honey, and lemon juice to the pot.",
+    "Return the pork knuckle to the pot and bring to a boil.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Braise the pork for 2 1/2 hours, or until tender and falling off the bone.",
+    "Garnish with parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "braised",
+    "pork",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-moroccan-pork-knuckle-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:57:16.359Z"
+}
