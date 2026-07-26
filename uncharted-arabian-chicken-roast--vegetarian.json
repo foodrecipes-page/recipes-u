@@ -1,0 +1,80 @@
+{
+  "slug": "uncharted-arabian-chicken-roast--vegetarian",
+  "title": "Roast Vegetable Shawarma",
+  "description": "A flavorful and healthy vegetarian version of the popular Middle Eastern street food. Roasted vegetables are served in a warm pita with creamy tahini sauce.",
+  "cuisine": "Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uncharted Roast Vegetables",
+      "amount": "1 cup",
+      "notes": "such as eggplant, zucchini, and red bell pepper"
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4",
+      "notes": "warm and toasted"
+    },
+    {
+      "name": "Tahini Sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Arabic Spice Blend",
+      "amount": "1 tsp",
+      "notes": "such as cumin, coriander, and paprika"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss the uncharted roast vegetables with olive oil, Arabic spice blend, and lemon juice.",
+    "Spread the vegetables on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the shawarma by spreading tahini sauce on the pita bread, followed by roasted vegetables, cucumber, tomato, and a sprinkle of Arabic spice blend.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "arabian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uncharted-arabian-chicken-roast--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:01:05.964Z"
+}
