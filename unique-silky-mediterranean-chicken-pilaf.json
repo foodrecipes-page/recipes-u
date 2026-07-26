@@ -1,0 +1,81 @@
+{
+  "slug": "unique-silky-mediterranean-chicken-pilaf",
+  "title": "Mediterranean Chicken Pilaf",
+  "description": "A flavorful and aromatic one-pot dish combining the rich flavors of the Mediterranean region with the simplicity of a chicken pilaf.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "unique rice blend",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "silky eggplant",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "pilaf seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or Dutch oven over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides and cooked through, about 5-6 minutes per side.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the eggplant to the skillet and cook until tender, about 3-4 minutes.",
+    "Add the pilaf seasoning and stir to combine.",
+    "Add the unique rice blend to the skillet and stir to combine with the eggplant mixture.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Return the chicken to the skillet and stir to combine with the rice mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "chicken",
+    "pilaf",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-silky-mediterranean-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:25:19.562Z"
+}
