@@ -1,0 +1,80 @@
+{
+  "slug": "umami-turkish-eggs-menemen--indian",
+  "title": "Indian-Style Menemen",
+  "description": "A fusion of Indian and Turkish flavors, this menemen recipe adds an umami twist to the classic Turkish dish.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "menemen",
+      "amount": "200g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 tsp",
+      "notes": "spice blend"
+    },
+    {
+      "name": "umami",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Crack the eggs into a bowl and whisk them together.",
+    "2. Heat the ghee in a large skillet over medium heat.",
+    "3. Add the menemen to the skillet and cook, stirring occasionally, until it is lightly browned.",
+    "4. Add the turkish spice blend to the skillet and stir to combine.",
+    "5. Add the umami (if using) to the skillet and stir to combine.",
+    "6. Pour the whisked eggs over the menemen mixture in the skillet.",
+    "7. Cook, stirring occasionally, until the eggs are almost set.",
+    "8. Use a spatula to gently scramble the eggs, breaking them up into small curds.",
+    "9. Cook for an additional 1-2 minutes, until the eggs are fully cooked.",
+    "10. Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "turkish",
+    "breakfast",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-turkish-eggs-menemen--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:42:59.873Z"
+}
