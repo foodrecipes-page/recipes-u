@@ -1,0 +1,99 @@
+{
+  "slug": "umami-creamy-italian-mushroom-lasagna--indian",
+  "title": "Indian Mushroom Lasagna",
+  "description": "A vegetarian twist on the classic Italian dish, using Indian spices and flavors.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "umami mushroom sauce",
+      "amount": "1 cup",
+      "notes": "see below for sauce recipe"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 noodles",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "creamy ricotta substitute",
+      "amount": "1 cup",
+      "notes": "use a mixture of yogurt and milk or a non-dairy alternative"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "or use garam masala for an Indian twist"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "such as cremini or shiitake"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably Himalayan pink salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, heat some oil over medium heat. Add the onions and cook until soft.",
+    "Add the mushrooms and cook until they release their moisture and start to brown.",
+    "Add the garlic and cook for 1 minute.",
+    "Stir in the umami mushroom sauce and cook for 2-3 minutes.",
+    "In a large bowl, combine the creamy ricotta substitute, italian seasoning, and a pinch of salt and pepper.",
+    "Spread a layer of the sauce in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta mixture over the noodles.",
+    "Repeat the layers: sauce, noodles, ricotta mixture.",
+    "Top the final layer of noodles with the remaining sauce and sprinkle with salt and pepper.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and bake for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "lasagna",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-creamy-italian-mushroom-lasagna--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:01:27.491Z"
+}
