@@ -1,0 +1,87 @@
+{
+  "slug": "unique-savory-portuguese-fish-stir-fry--chinese",
+  "title": "Stir Fried Fish with Portuguese Spices",
+  "description": "A fusion dish that combines the bold flavors of Portugal with the quick stir-fry techniques of China. This recipe is a great way to add some excitement to your meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish (cut into bite-sized pieces)",
+      "amount": "1 pound",
+      "notes": "Any white fish works well, such as cod or tilapia"
+    },
+    {
+      "name": "unique portuguese chili peppers",
+      "amount": "2",
+      "notes": "Also known as piri piri peppers"
+    },
+    {
+      "name": "savory soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "You can adjust the amount to taste"
+    },
+    {
+      "name": "portuguese olive oil",
+      "amount": "1 tablespoon",
+      "notes": "Use a good quality oil for the best flavor"
+    },
+    {
+      "name": "chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "You can use regular broccoli as a substitute if needed"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Use kosher or sea salt for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or large skillet over medium-high heat.",
+    "Add the fish to the wok and cook for 2-3 minutes on each side, until it's cooked through.",
+    "Remove the fish from the wok and set it aside.",
+    "Add the chili peppers to the wok and cook for 1 minute, until they start to soften.",
+    "Add the broccoli to the wok and cook for 2-3 minutes, until it's tender.",
+    "Add the garlic and ginger to the wok and cook for 1 minute, until fragrant.",
+    "Add the soy sauce to the wok and stir to combine.",
+    "Return the fish to the wok and stir to combine with the sauce.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!",
+    "Optional: Serve with steamed rice or noodles for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fish",
+    "portuguese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-savory-portuguese-fish-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:14:39.537Z"
+}
