@@ -726,16 +726,15 @@
   },
   {
     "slug": "ultra-rich-american-green-chilli-casserole",
-    "title": "Ultra Rich American Green Chilli Casserole",
+    "title": "American Green Casserole",
     "tags": [
-      "comfort-food",
-      "lazy-sunday",
-      "one-pan",
-      "plant-based",
-      "weeknight"
+      "american",
+      "casserole",
+      "green",
+      "vegetarian"
     ],
     "cuisine": "American",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "u"
   },
   {
