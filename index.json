@@ -6466,17 +6466,15 @@
   },
   {
     "slug": "unique-silky-mediterranean-chicken-pilaf",
-    "title": "Unique Silky Mediterranean Chicken Pilaf",
+    "title": "Mediterranean Chicken Pilaf",
     "tags": [
-      "crowd-pleaser",
-      "flexitarian",
-      "healthy",
-      "mediterranean-inspired",
-      "one-pot",
-      "weeknight"
+      "mediterranean",
+      "chicken",
+      "pilaf",
+      "one-pot"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "u"
   },
   {
@@ -10399,6 +10397,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 22,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-umami-chinese-pepper-chow-fun--thai",
+    "title": "Thai Pepper Chow Fun",
+    "tags": [
+      "thaifood",
+      "stirfry",
+      "noodles",
+      "vegetables"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "u"
   }
 ]
