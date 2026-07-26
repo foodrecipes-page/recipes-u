@@ -10411,5 +10411,19 @@
     "cuisine": "Thai",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "unusually-chewy-tunisian-lamb-tagine--german",
+    "title": "Tunisian Lamb Tagine with German Twist",
+    "tags": [
+      "german",
+      "tunisian",
+      "lamb",
+      "tagine",
+      "couscous"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 140,
+    "shard": "u"
   }
 ]
