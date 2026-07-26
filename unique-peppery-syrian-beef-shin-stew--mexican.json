@@ -1,0 +1,93 @@
+{
+  "slug": "unique-peppery-syrian-beef-shin-stew--mexican",
+  "title": "Mexican Beef Stew",
+  "description": "A hearty and flavorful stew made with tender beef and a blend of Mexican spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unique",
+      "amount": "1",
+      "notes": "any type of unique pepper, such as jalapeno or serrano"
+    },
+    {
+      "name": "beef",
+      "amount": "1.5 pounds",
+      "notes": "beef shin or beef stew meat"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth or stock"
+    },
+    {
+      "name": "syrian",
+      "amount": "1/4 cup",
+      "notes": "olive oil, used for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use as needed"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "use as needed"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "use as needed"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "use as needed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced, use as needed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped, use as needed"
+    }
+  ],
+  "instructions": [
+    "Heat the Syrian olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the garlic and onion to the pot and cook until softened, about 5 minutes.",
+    "Add the stew, cumin, chili powder, salt, and black pepper to the pot.",
+    "Stir to combine and bring to a boil.",
+    "Return the beef to the pot and reduce heat to low.",
+    "Simmer, covered, for 2 1/2 to 3 hours, or until the beef is tender.",
+    "Serve hot, garnished with unique pepper slices if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef-stew",
+    "hearty-stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-peppery-syrian-beef-shin-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:25:41.682Z"
+}
