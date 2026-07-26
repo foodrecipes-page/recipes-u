@@ -10351,5 +10351,30 @@
     "cuisine": "Indian",
     "totalTimeMin": 40,
     "shard": "u"
+  },
+  {
+    "slug": "unique-peppery-syrian-beef-shin-stew--mexican",
+    "title": "Mexican Beef Stew",
+    "tags": [
+      "mexican",
+      "beef-stew",
+      "hearty-stew"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
+    "shard": "u"
+  },
+  {
+    "slug": "umami-creamy-italian-mushroom-lasagna--indian",
+    "title": "Indian Mushroom Lasagna",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "lasagna",
+      "mushroom"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 70,
+    "shard": "u"
   }
 ]
