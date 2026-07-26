@@ -3502,17 +3502,15 @@
   },
   {
     "slug": "unctuous-german-white-bread-stew",
-    "title": "Unctuous German White Bread Stew",
+    "title": "German Stew Bread",
     "tags": [
-      "bread-stew",
       "german",
-      "jain-friendly",
-      "romantic",
-      "slow-cook",
-      "vegan"
+      "stew",
+      "bread",
+      "comfort food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 135,
+    "cuisine": "german",
+    "totalTimeMin": 110,
     "shard": "u"
   },
   {
