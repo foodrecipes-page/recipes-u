@@ -10387,5 +10387,18 @@
     "cuisine": "Arabian",
     "totalTimeMin": 35,
     "shard": "u"
+  },
+  {
+    "slug": "umami-turkish-eggs-menemen--indian",
+    "title": "Indian-Style Menemen",
+    "tags": [
+      "indian",
+      "turkish",
+      "breakfast",
+      "eggs"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
+    "shard": "u"
   }
 ]
