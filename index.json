@@ -10486,5 +10486,31 @@
     "cuisine": "german",
     "totalTimeMin": 65,
     "shard": "u"
+  },
+  {
+    "slug": "unique-velvety-indian-chickpeas-curry--thai",
+    "title": "Thai Chickpea Curry",
+    "tags": [
+      "thaicurry",
+      "chickpeas",
+      "coconutmilk"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
+    "slug": "ultra-sweet-greek-yogurt-horiatiki-salad--italian",
+    "title": "Italian Horiatiki Salad",
+    "tags": [
+      "italian",
+      "salad",
+      "yogurt",
+      "horiatiki",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 10,
+    "shard": "u"
   }
 ]
