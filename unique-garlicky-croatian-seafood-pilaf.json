@@ -1,0 +1,78 @@
+{
+  "slug": "unique-garlicky-croatian-seafood-pilaf",
+  "title": "Seafood Pilaf with Croatian Flair",
+  "description": "A flavorful and aromatic seafood pilaf infused with the essence of Croatia, perfect for a light and satisfying meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "preferably Croatian"
+    },
+    {
+      "name": "seafood (shrimp, mussels, clams)",
+      "amount": "1 pound",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "unique cheese",
+      "amount": "1/2 cup",
+      "notes": "Croatian sheep's milk cheese recommended"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "high-quality"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon olive oil in a large skillet over medium heat.",
+    "Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the seafood and cook until pink and cooked through, about 3-4 minutes.",
+    "Add the pilaf, cheese, and lemon juice to the skillet. Stir-fry for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "pilaf",
+    "croatian",
+    "garlic",
+    "lemon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-garlicky-croatian-seafood-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:15:57.791Z"
+}
