@@ -1,0 +1,91 @@
+{
+  "slug": "unique-slow-cooked-australian-swede-casserole--german",
+  "title": "German Braised Swede Casserole",
+  "description": "A hearty, comforting German-inspired casserole featuring slow-cooked swede, perfect for a chilly evening.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "1 large, peeled and sliced",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "mushrooms",
+      "amount": "250g, sliced",
+      "notes": null
+    },
+    {
+      "name": "casserole",
+      "amount": "1 400g can",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "250ml",
+      "notes": null
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "nutmeg",
+      "amount": "a pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 150°C (300°F).",
+    "In a large pan, heat some oil over medium heat. Add chopped onion and cook until softened.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add sliced swede, beef broth, mustard, bay leaves, and a pinch of nutmeg. Stir to combine.",
+    "Bring the mixture to a simmer, then cover with a lid and transfer to the preheated oven.",
+    "Bake for 45-50 minutes, or until the swede is tender and the liquid has thickened.",
+    "Remove the casserole from the oven and let it cool slightly.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "casserole",
+    "swede",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-slow-cooked-australian-swede-casserole--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:14:58.394Z"
+}
