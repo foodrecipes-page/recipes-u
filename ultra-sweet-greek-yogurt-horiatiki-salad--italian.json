@@ -1,0 +1,76 @@
+{
+  "slug": "ultra-sweet-greek-yogurt-horiatiki-salad--italian",
+  "title": "Italian Horiatiki Salad",
+  "description": "A twist on traditional Greek salad, with an Italian twist using horiatiki and served with a side of yogurt sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Horiatiki salad",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ultra sweet tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "for yogurt sauce"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut horiatiki salad into small pieces and place in a bowl.",
+    "Cut ultra sweet tomatoes into small pieces and add to the bowl.",
+    "In a separate bowl, mix together Greek yogurt, olive oil, red wine vinegar, salt, and black pepper.",
+    "Drizzle the yogurt sauce over the salad and toss to combine.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "salad",
+    "yogurt",
+    "horiatiki",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-sweet-greek-yogurt-horiatiki-salad--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:00:28.095Z"
+}
