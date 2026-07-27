@@ -10512,5 +10512,31 @@
     "cuisine": "italian",
     "totalTimeMin": 10,
     "shard": "u"
+  },
+  {
+    "slug": "unctuous-thai-pork-curry--thai",
+    "title": "Thai Pork Curry",
+    "tags": [
+      "thai",
+      "curry",
+      "pork"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "u"
+  },
+  {
+    "slug": "ultimate-crispy-british-chicken-skillet--mexican",
+    "title": "Crispy British Chicken Tacos",
+    "tags": [
+      "chicken",
+      "tacos",
+      "mexican",
+      "cuisine",
+      "british"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
