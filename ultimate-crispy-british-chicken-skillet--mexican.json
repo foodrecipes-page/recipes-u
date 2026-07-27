@@ -1,0 +1,83 @@
+{
+  "slug": "ultimate-crispy-british-chicken-skillet--mexican",
+  "title": "Crispy British Chicken Tacos",
+  "description": "A twist on traditional Mexican tacos, featuring crispy fried chicken and served with a side of salsa and avocado.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dredging chicken"
+    },
+    {
+      "name": "ultimate seasoning",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": "for marinating chicken"
+    },
+    {
+      "name": "british skillet seasoning",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "for tacos"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together flour, ultimate seasoning, and british skillet seasoning.",
+    "Pour buttermilk into a separate shallow dish.",
+    "Dredge chicken breasts in flour mixture, then dip in buttermilk, and finally coat in flour mixture again.",
+    "Heat canola oil in a large skillet over medium-high heat.",
+    "Fry chicken breasts until golden brown and cooked through, about 5-6 minutes per side.",
+    "Meanwhile, warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing fried chicken onto a tortilla, topping with shredded cheese, and serving with salsa and avocado on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tacos",
+    "mexican",
+    "cuisine",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultimate-crispy-british-chicken-skillet--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:58:28.597Z"
+}
