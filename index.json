@@ -6358,17 +6358,15 @@
   },
   {
     "slug": "unique-savory-australian-narutomaki-noodles",
-    "title": "Unique Savory Australian Narutomaki Noodles",
+    "title": "Australian Noodle Stir Fry",
     "tags": [
-      "asian-fusion",
-      "australian-cuisine",
-      "high-protein",
-      "one-pan",
-      "ovo-vegetarian",
-      "weeknight"
+      "australian",
+      "noodle-stir-fry",
+      "savory",
+      "quick-lunch"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -10551,6 +10549,19 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 140,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-pillowy-italian-apple-lasagna--japanese",
+    "title": "Pillowy Lasagna Apple Fritters",
+    "tags": [
+      "japanese",
+      "dessert",
+      "fritters",
+      "apples"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
     "shard": "u"
   }
 ]
