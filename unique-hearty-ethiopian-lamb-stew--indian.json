@@ -1,0 +1,105 @@
+{
+  "slug": "unique-hearty-ethiopian-lamb-stew--indian",
+  "title": "Hearty Lamb Stew with Ethiopian Twist",
+  "description": "A rich and flavorful Indian-inspired stew made with lamb and traditional Ethiopian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch pieces",
+      "amount": "1 1/2 pounds",
+      "notes": "Bone-in lamb shoulder works best for this recipe."
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped onion adds depth to the stew"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic enhances the Indian flavor"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated ginger adds a warm, aromatic flavor"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1 cup",
+      "notes": "Canned tomato puree adds a rich, intense flavor"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/2 cup",
+      "notes": "A dry red wine enhances the overall flavor"
+    },
+    {
+      "name": "Ethiopian berbere spice blend",
+      "amount": "2 tablespoons",
+      "notes": "This spice blend gives the stew its unique Ethiopian flavor"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": "Ground garam masala adds warmth and depth to the stew"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground cumin adds a warm, earthy flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Salt enhances the overall flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground black pepper adds a sharp, peppery flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Used for browning the lamb and sautéing the aromatics"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to caramelize, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the tomato puree, red wine, berbere spice blend, garam masala, cumin, salt, and black pepper.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 2 hours, or until the lamb is tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lamb",
+    "stew",
+    "hearty",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-hearty-ethiopian-lamb-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:28:52.995Z"
+}
