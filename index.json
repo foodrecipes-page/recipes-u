@@ -5716,17 +5716,16 @@
   },
   {
     "slug": "unique-garlicky-croatian-seafood-pilaf",
-    "title": "Unique Garlicky Croatian Seafood Pilaf",
+    "title": "Seafood Pilaf with Croatian Flair",
     "tags": [
-      "croatian",
-      "garlic-lovers",
-      "one-pan",
-      "pescatarian",
       "seafood",
-      "shojin"
+      "pilaf",
+      "croatian",
+      "garlic",
+      "lemon"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -10472,6 +10471,20 @@
     ],
     "cuisine": "Latin American",
     "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-slow-cooked-australian-swede-casserole--german",
+    "title": "German Braised Swede Casserole",
+    "tags": [
+      "german",
+      "casserole",
+      "swede",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 65,
     "shard": "u"
   }
 ]
