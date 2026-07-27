@@ -1,0 +1,89 @@
+{
+  "slug": "unique-pillowy-italian-apple-lasagna--japanese",
+  "title": "Pillowy Lasagna Apple Fritters",
+  "description": "A crispy Japanese-inspired dessert with a sweet apple and pillowy lasagna twist.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "lasagna",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "apple",
+      "amount": "1 medium"
+    },
+    {
+      "name": "unique",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pillowy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "italian",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "dairy"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "oil",
+      "amount": "1/4 cup",
+      "notes": "vegetable"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil to 350°F (180°C).",
+    "Cut the apple into small pieces.",
+    "Mix the unique, pillowy, italian, flour, eggs, milk, sugar, and oil in a bowl.",
+    "Add the apple pieces to the bowl and mix well.",
+    "Place a sheet of lasagna on a flat surface.",
+    "Spread the apple mixture onto the lasagna sheet.",
+    "Fold the lasagna sheet into a square and press the edges to seal.",
+    "Heat the oil in a deep frying pan to 350°F (180°C).",
+    "Fry the lasagna fritters in batches until golden brown.",
+    "Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dessert",
+    "fritters",
+    "apples"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-pillowy-italian-apple-lasagna--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:01:17.880Z"
+}
