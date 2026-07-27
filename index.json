@@ -10538,5 +10538,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "unique-hearty-ethiopian-lamb-stew--indian",
+    "title": "Hearty Lamb Stew with Ethiopian Twist",
+    "tags": [
+      "indian",
+      "lamb",
+      "stew",
+      "hearty",
+      "ethiopian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 140,
+    "shard": "u"
   }
 ]
