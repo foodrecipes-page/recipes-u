@@ -1,0 +1,92 @@
+{
+  "slug": "unique-velvety-indian-chickpeas-curry--thai",
+  "title": "Thai Chickpea Curry",
+  "description": "A creamy and flavorful Thai-inspired dish made with chickpeas, curry paste, and coconut milk. Serve over steamed rice for a delicious and satisfying meal.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add curry paste and cook for 1 minute, stirring constantly.",
+    "Add coconut milk, fish sauce, soy sauce, and sugar. Stir to combine.",
+    "Bring to a simmer and cook for 5-7 minutes or until the sauce has thickened.",
+    "Stir in chickpeas and cook for an additional 2-3 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over steamed rice.",
+    "Garnish with Thai basil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicurry",
+    "chickpeas",
+    "coconutmilk"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-velvety-indian-chickpeas-curry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:21:34.337Z"
+}
