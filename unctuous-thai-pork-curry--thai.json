@@ -1,0 +1,82 @@
+{
+  "slug": "unctuous-thai-pork-curry--thai",
+  "title": "Thai Pork Curry",
+  "description": "A classic Thai dish with tender pork in a flavorful and aromatic curry sauce. Serve with steamed rice or noodles for a delicious and satisfying meal.",
+  "cuisine": "thai",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder or butt",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the garlic and cook until fragrant, about 1 minute.",
+    "Add the curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the coconut milk, fish sauce, and sugar. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to medium-low and cook, covered, until the pork is tender, about 20-25 minutes.",
+    "Stir in the Thai basil. Season with salt to taste.",
+    "Serve the curry over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-thai-pork-curry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:39:45.059Z"
+}
