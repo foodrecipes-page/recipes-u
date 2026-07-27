@@ -10459,5 +10459,19 @@
     "cuisine": null,
     "totalTimeMin": 22,
     "shard": "u"
+  },
+  {
+    "slug": "ultra-gooey-brazilian-cherry-bake--vegetarian",
+    "title": "Brazilian Cherry Bake",
+    "tags": [
+      "brazilian",
+      "cherries",
+      "dessert",
+      "healthy",
+      "vegetarian"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
