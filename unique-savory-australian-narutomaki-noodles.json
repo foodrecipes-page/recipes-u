@@ -1,0 +1,90 @@
+{
+  "slug": "unique-savory-australian-narutomaki-noodles",
+  "title": "Australian Noodle Stir Fry",
+  "description": "A flavorful and savory stir fry dish made with australian ingredients, perfect for a quick lunch or dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Unique noodles",
+      "amount": "250g",
+      "notes": "preferably rice noodles or egg noodles"
+    },
+    {
+      "name": "Savory vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "such as canola or peanut oil"
+    },
+    {
+      "name": "Australian beef strips",
+      "amount": "200g",
+      "notes": "or substitute with tofu for a vegetarian option"
+    },
+    {
+      "name": "Narutomaki",
+      "amount": "2",
+      "notes": "Japanese-style fish cakes"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "or tamari for a gluten-free option"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "or maple syrup for a different flavor"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the savory vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the australian beef strips and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the narutomaki to the skillet and cook until lightly browned, about 2-3 minutes.",
+    "Add the soy sauce, honey, ginger, and garlic to the skillet and stir to combine.",
+    "Return the beef to the skillet and stir to combine with the sauce.",
+    "Add the noodles to the skillet and stir to combine with the beef and sauce.",
+    "Cook for an additional 2-3 minutes, until the noodles are heated through.",
+    "Stir in the chopped green onions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "noodle-stir-fry",
+    "savory",
+    "quick-lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-savory-australian-narutomaki-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:57:59.792Z"
+}
