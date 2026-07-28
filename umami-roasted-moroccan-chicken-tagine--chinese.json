@@ -1,0 +1,83 @@
+{
+  "slug": "umami-roasted-moroccan-chicken-tagine--chinese",
+  "title": "Chicken Tagine Stir Fry",
+  "description": "A Chinese-inspired twist on the traditional Moroccan tagine, this dish features marinated chicken cooked in a savory sauce with umami flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "umami sauce",
+      "amount": "2 tbsp",
+      "notes": "or substitute with soy sauce"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "1 tsp",
+      "notes": "or use a mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "or substitute with apple cider vinegar"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the moroccan spice blend and cook for 1 minute.",
+    "Add the roasted red peppers, garlic, and ginger. Cook for 2 minutes.",
+    "Add the umami sauce and rice vinegar. Stir to combine.",
+    "Reduce heat to medium-low and simmer for 5 minutes.",
+    "Stir in the green onions. Serve hot over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "chicken",
+    "moroccan",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-roasted-moroccan-chicken-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:17:34.480Z"
+}
