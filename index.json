@@ -1704,15 +1704,14 @@
   },
   {
     "slug": "umami-enchilada-delight",
-    "title": "Umami Enchilada Delight",
+    "title": "Enchilada Delight Casserole",
     "tags": [
-      "umami",
-      "enchilada",
-      "thai",
-      "nut-free"
+      "mexican",
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "cuisine": "Mexican",
+    "totalTimeMin": 60,
     "shard": "u"
   },
   {
@@ -10611,6 +10610,18 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-crunchy-croatian-meat-skewers--thai",
+    "title": "Thai Chicken Satay",
+    "tags": [
+      "thai",
+      "chicken",
+      "satay"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "u"
   }
 ]
