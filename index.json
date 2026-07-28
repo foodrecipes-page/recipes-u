@@ -10623,5 +10623,19 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "u"
+  },
+  {
+    "slug": "umami-roasted-moroccan-chicken-tagine--chinese",
+    "title": "Chicken Tagine Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "chicken",
+      "moroccan",
+      "umami"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
