@@ -6458,10 +6458,11 @@
       "mediterranean",
       "chicken",
       "pilaf",
-      "one-pot"
+      "easy",
+      "dinner"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
