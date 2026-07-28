@@ -10573,5 +10573,44 @@
     "cuisine": "french",
     "totalTimeMin": 30,
     "shard": "u"
+  },
+  {
+    "slug": "umbrellapointed-mexican-atole-crumble--indian",
+    "title": "Crumble Tres Leches Cake with Atole Ice Cream",
+    "tags": [
+      "tres leches cake",
+      "mexican desserts",
+      "indian desserts",
+      "crumble topping"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-hearty-venezuelan-beef-stew--chinese",
+    "title": "Beef Stew with Venezuelan Twist",
+    "tags": [
+      "beef",
+      "stew",
+      "venezuelan",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 140,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-umami-german-pork-skewers--japanese",
+    "title": "Japanese Pork Skewers with Umami Glaze",
+    "tags": [
+      "japanese",
+      "umami",
+      "pork",
+      "skewers"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "u"
   }
 ]
