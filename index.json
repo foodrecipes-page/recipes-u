@@ -10638,5 +10638,17 @@
     "cuisine": "Chinese",
     "totalTimeMin": 35,
     "shard": "u"
+  },
+  {
+    "slug": "understandingly-steamed-slovakian-spaghetti-pasta--thai",
+    "title": "Thai Spaghetti Stir Fry",
+    "tags": [
+      "thai",
+      "fusion",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
