@@ -2668,17 +2668,15 @@
   },
   {
     "slug": "umami-roasted-moroccan-chicken-tagine",
-    "title": "Umami Roasted Moroccan Chicken Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
       "chicken",
-      "gluten-free",
-      "low-carb",
       "moroccan",
-      "one-pot",
-      "roasted"
+      "tagine",
+      "stew"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 70,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "u"
   },
   {
@@ -10562,6 +10560,20 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 18,
+    "shard": "u"
+  },
+  {
+    "slug": "ucitrusy-dense-irish-fernbrake-gosari-pilaf--french",
+    "title": "French Pilaf with Fernbrake and Gosari",
+    "tags": [
+      "pilaf",
+      "fernbrake",
+      "gosari",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
     "shard": "u"
   }
 ]
