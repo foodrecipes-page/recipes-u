@@ -1,0 +1,95 @@
+{
+  "slug": "unique-hearty-venezuelan-beef-stew",
+  "title": "Beef Stew Venezolano",
+  "description": "A hearty, comforting beef stew inspired by the flavors of Venezuela. This rich and flavorful dish is perfect for a cold winter's night.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "beef",
+    "stew"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "red wine vinegar as substitute"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons",
+      "notes": "dried"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown beef in batches until browned on all sides, about 5 minutes per batch.",
+    "Remove browned beef from pot; set aside.",
+    "Reduce heat to medium; add onion to pot and cook until softened, about 5 minutes.",
+    "Add garlic, tomato paste, cumin, cayenne pepper, salt, and black pepper to pot; cook for 1 minute.",
+    "Add red wine, chicken broth, and browned beef to pot; bring to a boil.",
+    "Return browned beef to pot; cover and transfer to oven.",
+    "Bake at 300  for 2 1/2 hours or until beef is tender.",
+    "Serve hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "venezuelan",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-hearty-venezuelan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:49:52.180Z"
+}
