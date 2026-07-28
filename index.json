@@ -10663,5 +10663,19 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "unique-velvety-saudi-arabian-fish-curry--japanese",
+    "title": "Japanese Curry Fish Balls",
+    "tags": [
+      "japanese",
+      "curry",
+      "fish",
+      "arabian",
+      "vegan"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
