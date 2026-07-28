@@ -1,0 +1,77 @@
+{
+  "slug": "unique-velvety-saudi-arabian-fish-curry--japanese",
+  "title": "Japanese Curry Fish Balls",
+  "description": "A delicious and easy-to-make dish that combines the flavors of Japan with the spices of Saudi Arabia. This recipe is a unique take on traditional Japanese curry.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Balls (made from fish and saudi arabian spices)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Japanese Curry Powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Velvety Coconut Milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Arabian Spices",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the Japanese Curry Powder by mixing it with Arabian Spices and a pinch of sugar.",
+    "Heat the curry mixture with Coconut Milk and Soy Sauce in a saucepan over medium heat.",
+    "Cut the Fish Balls into bite-sized pieces and add them to the curry sauce.",
+    "Simmer the curry sauce for 5-7 minutes or until the fish balls are cooked through.",
+    "Serve the curry sauce over a bed of steamed Rice.",
+    "Garnish with sliced Green Onions and a sprinkle of curry powder."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "curry",
+    "fish",
+    "arabian",
+    "vegan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-velvety-saudi-arabian-fish-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:53:43.569Z"
+}
