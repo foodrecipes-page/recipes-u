@@ -1,0 +1,90 @@
+{
+  "slug": "unique-hearty-venezuelan-beef-stew--chinese",
+  "title": "Beef Stew with Venezuelan Twist",
+  "description": "A hearty beef stew with a unique Venezuelan flavor, inspired by Chinese cuisine.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning beef"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Venezuelan-style"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "Diced"
+    },
+    {
+      "name": "Venezuelan cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large Dutch oven over medium-high heat.",
+    "2. Add beef cubes and brown on all sides, about 5 minutes. Remove beef from pot and set aside.",
+    "3. Add remaining 1 tablespoon of vegetable oil to pot and sauté diced onion and minced garlic until softened, about 5 minutes.",
+    "4. Add diced red bell pepper and cook for an additional 2 minutes.",
+    "5. Add tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "6. Add beef broth and bring to a boil.",
+    "7. Return beef cubes to pot and bring to a simmer.",
+    "8. Reduce heat to low and cook, covered, until beef is tender, about 2 hours.",
+    "9. Stir in diced tomatoes and chopped Venezuelan cilantro.",
+    "10. Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "venezuelan",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-hearty-venezuelan-beef-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:58:17.645Z"
+}
