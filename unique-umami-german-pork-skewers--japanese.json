@@ -1,0 +1,93 @@
+{
+  "slug": "unique-umami-german-pork-skewers--japanese",
+  "title": "Japanese Pork Skewers with Umami Glaze",
+  "description": "Delicious Japanese-inspired pork skewers with a rich umami glaze, perfect for a quick and easy dinner. This recipe combines the flavors of Japan with the convenience of a simple marinade.",
+  "cuisine": "japanese",
+  "diet": [
+    "null"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Japanese rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Umami seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Skewers, bamboo",
+      "amount": "10-12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together Japanese rice vinegar, soy sauce, sesame oil, ginger, garlic, umami seasoning, and sugar.",
+    "2. Add the pork cubes to the marinade and toss to coat. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "3. Preheat grill to medium-high heat. Thread the marinated pork onto the bamboo skewers.",
+    "4. Grill the pork skewers for 8-10 minutes per side, or until they reach an internal temperature of 145°F.",
+    "5. While the pork is cooking, prepare the glaze by whisking together 2 tablespoons of soy sauce and 2 tablespoons of water in a small bowl.",
+    "6. Brush the glaze onto the pork skewers during the last 2 minutes of cooking.",
+    "7. Remove the pork skewers from the grill and garnish with chopped green onions.",
+    "8. Serve the pork skewers hot with additional glaze on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "umami",
+    "pork",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-german-pork-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:02:40.956Z"
+}
