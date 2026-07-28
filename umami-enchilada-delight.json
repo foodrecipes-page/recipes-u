@@ -1,0 +1,78 @@
+{
+  "slug": "umami-enchilada-delight",
+  "title": "Enchilada Delight Casserole",
+  "description": "A flavorful casserole combining enchilada sauce and umami cheese, perfect for a comforting dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Enchilada Delight",
+      "amount": "1 package"
+    },
+    {
+      "name": "Umami Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "6-8"
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "1 can, 14.5 oz"
+    },
+    {
+      "name": "Black Beans, drained and rinsed",
+      "amount": "1 can, 15 oz"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Shredded Cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook tortillas according to package instructions.",
+    "In a large skillet, heat enchilada sauce over medium heat.",
+    "In a separate skillet, heat black beans, diced tomatoes, and chopped cilantro over medium heat.",
+    "In a 9x13 inch baking dish, spread a thin layer of enchilada sauce on the bottom.",
+    "Arrange 2-3 tortillas on the bottom of the dish, overlapping them slightly.",
+    "Spoon half of the bean and tomato mixture over the tortillas.",
+    "Sprinkle with half of the shredded cheese.",
+    "Repeat the layers, ending with a layer of cheese on top.",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove foil and bake for an additional 10-15 minutes, or until cheese is melted and bubbly.",
+    "Let it rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-enchilada-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:19:15.177Z"
+}
