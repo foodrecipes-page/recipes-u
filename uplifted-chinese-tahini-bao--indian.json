@@ -1,0 +1,66 @@
+{
+  "slug": "uplifted-chinese-tahini-bao--indian",
+  "title": "Tahini Bao Bites",
+  "description": "A fusion of Indian and Chinese flavors in these crispy bao bites filled with a creamy tahini filling. Perfect as a snack or appetizer.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chinese Five-Spice Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a bowl, mix together tahini, Chinese Five-Spice Powder, and Garam Masala.",
+    "3. Add lemon juice to the bowl and mix until smooth.",
+    "4. Cut the bao into small squares and place them on a baking sheet.",
+    "5. Drizzle vegetable oil over the bao and sprinkle with a pinch of salt.",
+    "6. Bake for 10-12 minutes or until crispy.",
+    "7. Fill each bao square with the tahini mixture and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "chinese",
+    "snack",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/uplifted-chinese-tahini-bao--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:12:29.181Z"
+}
