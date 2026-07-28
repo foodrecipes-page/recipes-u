@@ -10650,5 +10650,18 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "uplifted-chinese-tahini-bao--indian",
+    "title": "Tahini Bao Bites",
+    "tags": [
+      "indian",
+      "chinese",
+      "snack",
+      "fusion"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
