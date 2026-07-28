@@ -1,0 +1,84 @@
+{
+  "slug": "umbrellapointed-mexican-atole-crumble--indian",
+  "title": "Crumble Tres Leches Cake with Atole Ice Cream",
+  "description": "A unique twist on the traditional tres leches cake, featuring a crumble topping and served with atole ice cream. This dessert is inspired by Mexican flavors.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3"
+    },
+    {
+      "name": "atole",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mexican crumble",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease a 9x13-inch baking dish.",
+    "In a medium bowl, whisk together flour, baking powder, and salt.",
+    "In a large bowl, use an electric mixer to beat the butter and sugar until light and fluffy.",
+    "Beat in the eggs one at a time.",
+    "With the mixer on low speed, gradually add the flour mixture to the wet ingredients and mix until just combined.",
+    "Pour the batter into the prepared baking dish.",
+    "Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean.",
+    "While the cake is baking, prepare the crumble topping by mixing together the mexican crumble and atole.",
+    "Once the cake is done, remove it from the oven and let it cool for 10 minutes.",
+    "Sprinkle the crumble topping evenly over the warm cake.",
+    "Return the cake to the oven and bake for an additional 5-7 minutes or until the topping is golden brown.",
+    "Remove the cake from the oven and let it cool completely in the pan.",
+    "Once the cake is cool, poke holes all over the top with a skewer or fork.",
+    "In a large measuring cup, whisk together the atole and 1 cup of heavy cream.",
+    "Pour the atole mixture evenly over the top of the cake.",
+    "Cover the cake with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Just before serving, sprinkle a layer of mexican crumble on top of the cake.",
+    "Serve the cake with scoops of atole ice cream and additional crumble topping if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "tres leches cake",
+    "mexican desserts",
+    "indian desserts",
+    "crumble topping"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umbrellapointed-mexican-atole-crumble--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:48:17.490Z"
+}
