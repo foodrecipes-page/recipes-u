@@ -3742,16 +3742,15 @@
   },
   {
     "slug": "unctuous-thai-chicken-grill",
-    "title": "unctuous thai chicken grill",
+    "title": "Thai Chicken Skewers",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "quick-dinner",
-      "thaifood",
-      "weeknight"
+      "thai",
+      "grill",
+      "chicken",
+      "skewers"
     ],
-    "cuisine": "thai",
-    "totalTimeMin": 27,
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "u"
   },
   {
@@ -5833,13 +5832,12 @@
   },
   {
     "slug": "unique-hearty-venezuelan-beef-stew",
-    "title": "Unique Hearty Venezuelan Beef Stew",
+    "title": "Beef Stew Venezolano",
     "tags": [
-      "beef-recipe",
-      "comfort-food",
-      "hearty-stew",
-      "macrobiotic-friendly",
-      "venezuelan-cuisine"
+      "beef",
+      "stew",
+      "venezuelan",
+      "hearty"
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 180,
