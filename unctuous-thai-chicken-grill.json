@@ -1,0 +1,81 @@
+{
+  "slug": "unctuous-thai-chicken-grill",
+  "title": "Thai Chicken Skewers",
+  "description": "Grilled chicken skewers with Thai-inspired flavors, served with a side of sticky rice.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together curry paste, honey, soy sauce, fish sauce, and grated ginger. Add chicken and mix until coated.",
+    "3. Thread chicken onto bamboo skewers, leaving a small space between each piece.",
+    "4. Brush grill grates with unsalted butter to prevent sticking.",
+    "5. Grill chicken for 8-10 minutes, or until cooked through.",
+    "6. Brush with additional butter during last 2 minutes of grilling.",
+    "7. Garnish with chopped cilantro and serve with sticky rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "grill",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-thai-chicken-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:14:28.036Z"
+}
