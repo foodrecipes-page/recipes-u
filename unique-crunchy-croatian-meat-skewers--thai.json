@@ -1,0 +1,100 @@
+{
+  "slug": "unique-crunchy-croatian-meat-skewers--thai",
+  "title": "Thai Chicken Satay",
+  "description": "A classic Thai street food dish featuring marinated chicken skewers grilled to perfection. Serve with peanut sauce for an authentic experience.",
+  "cuisine": "thai",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "unique chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crunchy peanut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "croatian sea salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "meat skewers",
+      "amount": "8-10",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the bamboo skewers in water for at least 30 minutes.",
+    "In a blender or food processor, combine coconut milk, fish sauce, brown sugar, grated ginger, garlic, lemongrass, and chili flakes. Blend until smooth.",
+    "Add the blended mixture to a large bowl and whisk in the peanut oil.",
+    "Add the chicken to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated chicken onto the bamboo skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through and slightly charred.",
+    "Transfer the skewers to a plate and sprinkle with Croatian sea salt.",
+    "Serve with peanut sauce for dipping, if desired.",
+    "Note: To make peanut sauce, combine peanut butter, coconut milk, fish sauce, lime juice, and honey in a blender. Blend until smooth and creamy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-crunchy-croatian-meat-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:57:00.816Z"
+}
