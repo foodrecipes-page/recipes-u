@@ -1,0 +1,88 @@
+{
+  "slug": "understandingly-steamed-slovakian-spaghetti-pasta--thai",
+  "title": "Thai Spaghetti Stir Fry",
+  "description": "A fusion of Thai flavors with a twist on traditional spaghetti. The steamed vegetables add a nice crunch to the dish.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "8 oz",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Slovakian mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Cook spaghetti according to package instructions.",
+    "In a small bowl, whisk together soy sauce, curry paste, and 2 tbsp of water. Add sliced mushrooms and bell pepper to the marinade and let sit for 10 minutes.",
+    "In a large skillet or wok, heat 1 tbsp of vegetable oil over medium-high heat. Add the marinated vegetables and cook for 2-3 minutes.",
+    "Add the snow peas and cook for an additional 2 minutes.",
+    "In a separate pan, heat the remaining 1 tbsp of vegetable oil over medium heat. Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the cooked spaghetti to the pan and stir to combine with the garlic and ginger mixture.",
+    "Add the cooked vegetables to the pan and stir to combine with the spaghetti.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fusion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/understandingly-steamed-slovakian-spaghetti-pasta--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:36:44.441Z"
+}
