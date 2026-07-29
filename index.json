@@ -10689,5 +10689,44 @@
     "cuisine": "russian",
     "totalTimeMin": 20,
     "shard": "u"
+  },
+  {
+    "slug": "unique-pungent-norwegian-lamb-pilaf--chinese",
+    "title": "Lamb Pilaf Stir Fry",
+    "tags": [
+      "lamb",
+      "pilaf",
+      "stir-fry",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-umami-mediterranean-walnut-wrap--vegan",
+    "title": "Walnut Wrap",
+    "tags": [
+      "vegan",
+      "mediterranean",
+      "walnut",
+      "wrap"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
+    "shard": "u"
+  },
+  {
+    "slug": "ultra-silky-ukrainian-mushroom-stew--german",
+    "title": "Traditional German Beef Stew",
+    "tags": [
+      "german",
+      "beef",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 110,
+    "shard": "u"
   }
 ]
