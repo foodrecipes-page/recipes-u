@@ -1,0 +1,94 @@
+{
+  "slug": "unique-umami-mediterranean-walnut-wrap--vegan",
+  "title": "Walnut Wrap",
+  "description": "A flavorful and filling vegan wrap filled with roasted vegetables and crunchy walnut. Perfect for a quick and easy snack or lunch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat wrap",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Roasted eggplant",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Roasted red bell pepper",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vegan hummus",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Unique seasoning blend",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the eggplant and red bell pepper with olive oil, salt, and pepper on a baking sheet. Roast for 20-25 minutes, or until tender.",
+    "In a separate bowl, mix together the chopped parsley, mint, walnuts, hummus, lemon juice, salt, and pepper.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Spread a layer of the parsley-mint-walnut mixture on the wrap, leaving a small border around the edges.",
+    "Add the roasted eggplant and red bell pepper on top of the mixture.",
+    "Season with unique seasoning blend to taste.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "mediterranean",
+    "walnut",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-umami-mediterranean-walnut-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:51:13.947Z"
+}
