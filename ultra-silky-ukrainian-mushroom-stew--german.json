@@ -1,0 +1,95 @@
+{
+  "slug": "ultra-silky-ukrainian-mushroom-stew--german",
+  "title": "Traditional German Beef Stew",
+  "description": "A hearty, comforting beef stew made with tender chunks of beef and a variety of vegetables, perfect for a cold winter's night.",
+  "cuisine": "german",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian stew",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium chopped",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium chopped",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned on all sides, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add carrots and potatoes and cook for 5 minutes.",
+    "Add Ukrainian stew, mushroom, salt, and pepper. Stir to combine.",
+    "Return beef to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until beef is tender.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ultra-silky-ukrainian-mushroom-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:57:56.630Z"
+}
