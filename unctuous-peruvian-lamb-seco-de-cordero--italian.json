@@ -1,0 +1,86 @@
+{
+  "slug": "unctuous-peruvian-lamb-seco-de-cordero--italian",
+  "title": "Peruvian-Style Braised Lamb Shanks",
+  "description": "A rich and flavorful Italian-inspired dish featuring tender lamb shanks slow-cooked in a Peruvian-inspired sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4"
+    },
+    {
+      "name": "unctuous olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "peruvian seco spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cordero broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "de arbol chili",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Season the lamb shanks with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shanks until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce heat to medium and add the onion to the pot.",
+    "Cook until the onion is softened, about 5 minutes.",
+    "Add the garlic, seco spice blend, and de arbol chili to the pot.",
+    "Cook for 1 minute, until fragrant.",
+    "Add the white wine to the pot and cook until the liquid is almost completely reduced.",
+    "Add the cordero broth and tomato paste to the pot.",
+    "Return the lamb shanks to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the lamb for 2 1/2 to 3 hours, or until tender.",
+    "Serve the lamb shanks with the braising liquid spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "brazilian",
+    "cordero",
+    "lamb",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 22,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unctuous-peruvian-lamb-seco-de-cordero--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:24:29.741Z"
+}
