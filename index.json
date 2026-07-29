@@ -10677,5 +10677,17 @@
     "cuisine": "Japanese",
     "totalTimeMin": 25,
     "shard": "u"
+  },
+  {
+    "slug": "umami-tender-russian-tomato-stir-fry--vegetarian",
+    "title": "Russian Vegetable Stir-Fry",
+    "tags": [
+      "vegetarian",
+      "russian",
+      "stir-fry"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 20,
+    "shard": "u"
   }
 ]
