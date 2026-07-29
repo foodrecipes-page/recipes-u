@@ -10755,5 +10755,33 @@
     "cuisine": null,
     "totalTimeMin": 30,
     "shard": "u"
+  },
+  {
+    "slug": "umami-indian-eggplant-kheer--vegan",
+    "title": "Vegan Eggplant Kheer Curry",
+    "tags": [
+      "vegan",
+      "indian",
+      "curry",
+      "eggplant",
+      "kheer"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "u"
+  },
+  {
+    "slug": "unique-garlicky-croatian-seafood-pilaf--italian",
+    "title": "Seafood Italian Pilaf",
+    "tags": [
+      "italian",
+      "seafood",
+      "pilaf",
+      "garlicky",
+      "croatian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "u"
   }
 ]
