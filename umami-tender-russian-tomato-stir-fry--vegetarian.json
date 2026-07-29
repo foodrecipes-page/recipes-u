@@ -1,0 +1,60 @@
+{
+  "slug": "umami-tender-russian-tomato-stir-fry--vegetarian",
+  "title": "Russian Vegetable Stir-Fry",
+  "description": "A flavorful and colorful stir-fry dish made with a variety of vegetables, perfect for a quick and easy vegetarian meal.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "tender",
+      "amount": "1 cup",
+      "notes": "such as bell peppers or zucchini"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "umami",
+      "amount": "2 teaspoons",
+      "notes": "such as soy sauce or miso paste"
+    }
+  ],
+  "instructions": [
+    "Heat the stir in a large skillet or wok over medium-high heat.",
+    "Add the tender and cook for 3-4 minutes, until tender.",
+    "Add the tomato and cook for an additional 2-3 minutes, until tender.",
+    "Stir in the umami and cook for 1 minute, until the flavors are combined.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "russian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/umami-tender-russian-tomato-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:05:34.532Z"
+}
