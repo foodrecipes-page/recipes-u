@@ -10728,5 +10728,32 @@
     "cuisine": "german",
     "totalTimeMin": 110,
     "shard": "u"
+  },
+  {
+    "slug": "unctuous-peruvian-lamb-seco-de-cordero--italian",
+    "title": "Peruvian-Style Braised Lamb Shanks",
+    "tags": [
+      "italian",
+      "brazilian",
+      "cordero",
+      "lamb",
+      "braised"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 180,
+    "shard": "u"
+  },
+  {
+    "slug": "umami-delight-one-pot-with-dill-pickle-and-dumplings--vegan",
+    "title": "Dill Pickle Vegan Dumplings",
+    "tags": [
+      "vegan",
+      "dumplings",
+      "dill",
+      "pickle"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "u"
   }
 ]
