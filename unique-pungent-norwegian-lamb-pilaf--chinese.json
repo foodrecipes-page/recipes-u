@@ -1,0 +1,67 @@
+{
+  "slug": "unique-pungent-norwegian-lamb-pilaf--chinese",
+  "title": "Lamb Pilaf Stir Fry",
+  "description": "A Chinese-inspired stir fry made with lamb, pilaf, and unique spices.",
+  "cuisine": "chinese",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unique",
+      "amount": "2 teaspoons",
+      "notes": "Sesame oil or any other unique oil"
+    },
+    {
+      "name": "pungent",
+      "amount": "1 medium",
+      "notes": "Garlic, finely chopped"
+    },
+    {
+      "name": "norwegian",
+      "amount": "1/2 cup",
+      "notes": "Capers, chopped"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of unique oil in a large skillet or wok over medium-high heat.",
+    "2. Add the chopped pungent and cook for 1-2 minutes until fragrant.",
+    "3. Add the lamb and cook until browned, about 3-4 minutes.",
+    "4. Add the pilaf and cook for 2-3 minutes, stirring constantly.",
+    "5. Stir in the chopped norwegian and cook for an additional 1 minute.",
+    "6. Season with salt and pepper to taste.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "pilaf",
+    "stir-fry",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/unique-pungent-norwegian-lamb-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:12:51.118Z"
+}
